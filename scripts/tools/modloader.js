@@ -2,7 +2,7 @@
  *
  * Cargado desde game.html despues de mod-switch.js. No usa mods.js.
  * Each entry in MODS is { id, name, icon, src, desc, deps? }; `deps` load before `src`.
- * Paths are relative to unsorted/. To add a mod, add an entry: game.html needs no change.
+ * The mod files live in mod/verified-mods/. Paths are relative to unsorted/ (the <base>). To add a mod, add an entry: game.html needs no change.
  * Choices are saved in localStorage["modloader-enabled"] (mods are on by default).
  */
 (() => {
@@ -15,14 +15,14 @@
       id: "cheat",
       name: "Cheat Menu",
       icon: "emoji/1f4b0.png",
-      src: "cheat.js?v=1",
+      src: "../mod/verified-mods/cheat.js?v=1",
       desc: "Adds a small draggable button floating on screen. Tap it to open a panel of cheats: add money, set cash to $0, max or min all four stats, full heal, and age up on demand.",
     },
     {
       id: "displayfix",
       name: "Display Fix (Scale + Safe Area)",
       icon: "emoji/1f4cf.png",
-      src: "displayfix.js?v=1",
+      src: "../mod/verified-mods/displayfix.js?v=1",
       desc: "Shrinks the whole phone screen down (default 85%, edit --ui-scale in game.html's style block to adjust). Turning this off takes effect the next time NaBlooLife loads. The notch / status-bar safe-area bar is always on now, built into the page itself.",
     },
   ];

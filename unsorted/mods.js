@@ -48,21 +48,21 @@
         name: "Gang Bang",
         icon: "special/gangbang.png",
         desc: "A new special career: join a street gang, rise from Prospect to Boss, hustle, fight for turf and keep the police heat down. Find it in Occupation, Special Careers.",
-        src: "gang.js?v=11",
+        src: "../mod/content-packs/gang.js?v=11",
       },
       // [mod] carrera política (politician.js)
       17760704: {
         name: "Political Career",
         icon: "special/politician.png",
         desc: "Run for office from School Board to President: ranks, powers, campaigns, elections, scandals and the full political ladder. Find it in Occupation, Special Careers.",
-        src: "politician.js?v=4",
+        src: "../mod/content-packs/politician.js?v=4",
       },
       // [mod] femboy journey (femboy.js)
       14141414: {
         name: "Femboy Journey",
         icon: "emoji/1f485.png",
         desc: "Help an adult male friend explore his feminine side: clothes, a new name, coming out, transition, and a few very direct attempts to seduce you. Find it on an adult male friend in Relationships.",
-        src: "femboy.js?v=2",
+        src: "../mod/content-packs/femboy.js?v=2",
       },
     },
     t = "bitlifepp-ported",
