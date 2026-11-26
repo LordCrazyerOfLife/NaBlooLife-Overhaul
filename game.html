@@ -8,9 +8,11 @@
     <base href="unsorted/" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>NaBlooLife</title>
-    <link rel="icon" type="image/png" sizes="64x64" href="freelife/favicon-64.png?v=1" />
-    <link rel="icon" type="image/png" sizes="256x256" href="freelife/favicon-256.png?v=1" />
-    <link rel="apple-touch-icon" href="freelife/favicon-256.png?v=1" />
+    <link rel="manifest" href="../manifest.webmanifest" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="../icons/apple-touch-icon.png" />
     <script>
       // [fix] boot watchdog: if the game has not finished loading after 20 s the screen would stay empty forever
       (() => {
@@ -661,5 +663,6 @@
 })();
 </script>
   <script src="../scripts/core/fullscreen.js"></script>
+  <script src="../scripts/core/install-app.js"></script>
   </body>
 </html>
