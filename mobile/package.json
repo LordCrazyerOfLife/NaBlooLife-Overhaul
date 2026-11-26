@@ -1,0 +1,12 @@
+{
+  "name": "nabloolife-mobile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Capacitor wrapper that packs NaBlooLife into an Android APK (built by .github/workflows/build-apk.yml)",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "sharp": "^0.33.5"
+  }
+}

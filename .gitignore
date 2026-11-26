@@ -1,0 +1,6 @@
+mobile/www/
+mobile/node_modules/
+mobile/android/
+mobile/package-lock.json
+dist/
+node_modules/
