@@ -2924,7 +2924,7 @@
       if (mods.modLoader && !window.__modLoaderInjected) {
         window.__modLoaderInjected = !0;
         const _ml = document.createElement("script");
-        (_ml.src = "modloader.js?v=30"), document.body.appendChild(_ml);
+        (_ml.src = "modloader.js?v=31"), document.body.appendChild(_ml);
       }
       const saveMods = () => {
         try {
