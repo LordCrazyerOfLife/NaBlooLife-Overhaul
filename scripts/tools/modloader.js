@@ -12,6 +12,13 @@
 
   const MODS = [
     {
+      id: "mod-menu",
+      name: "Mod Menu",
+      icon: "emoji/1f9e9.png",
+      src: "../mod/verified-mods/mod-menu.js?v=1",
+      desc: "Edit career and job stats, change success and acceptance odds, skip hiring checks, and search or edit anything in your saved life.",
+    },
+    {
       id: "cheat",
       name: "Cheat Menu",
       icon: "emoji/1f4b0.png",

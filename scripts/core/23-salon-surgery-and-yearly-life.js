@@ -1563,7 +1563,8 @@
             : (state.stats[t] = clamp(state.stats[t] + e[t]));
         return renderStats(), t;
       }
-      const chance = (e) => Math.random() < e,
+      // [mod] window.rollHook lets the Mod Menu change how rolls come out; without it this is unchanged
+      const chance = (e) => (window.rollHook ? window.rollHook(e) : Math.random() < e),
         personCard = (e) => ({
           who: e.full,
           av: e.av,
