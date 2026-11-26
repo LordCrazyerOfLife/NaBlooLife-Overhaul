@@ -73,18 +73,23 @@
     if (ML && typeof ML.setOn === "function") ML.setOn({ id }, !0); // clear any stored off-state for the removed id
   }
 
+  // One blob: URL per source for as long as the page is open. The loader skips a src it has
+  // already injected, so reusing the URL stops a mod from running twice.
+  const blobUrls = new Map();
+
   // Builds the list of {id,name,icon,src,desc} the core loader understands.
-  // For file-kind entries, src is a brand-new blob: URL made from the saved
-  // text — these can't be reused across app restarts, so this has to be
-  // called fresh every boot rather than cached.
+  // For file-kind entries, src is a blob: URL made from the saved text. These
+  // don't survive a reload, so they are rebuilt on every boot.
   function asModList() {
     return readCustom().map((c) => {
       if (c.kind === "file") {
-        let src = "";
-        try {
+        let src = blobUrls.get(c.id) || "";
+        if (!src)
+          try {
           const bytes = Uint8Array.from(atob(c.code64 || ""), (ch) => ch.charCodeAt(0));
           const text = new TextDecoder("utf-8").decode(bytes);
           src = URL.createObjectURL(new Blob([text], { type: "text/javascript" }));
+          blobUrls.set(c.id, src);
         } catch (e) {
           console.warn("[modsources] couldn't rebuild file source", c.name, e);
         }
@@ -132,6 +137,13 @@
       reader.readAsDataURL(file);
     });
 
+  // Start a source now, the way mods.js and modloader.js do: by adding a <script> tag.
+  // Returns true if it was handed to the loader.
+  function activate(ML, id) {
+    const m = asModList().find((x) => x.id === id);
+    return !!(m && m.src && ML.load(m));
+  }
+
   function init(ML) {
     // Load every enabled custom source right away, through the core loader's
     // own loadOne(), so it's gated by the same on/off store and injected the
@@ -172,13 +184,16 @@
           const m = list.find((x) => x.id === el.dataset.ms),
             nowOn = !ML.isOn(m);
           ML.setOn(m, nowOn);
+          if (nowOn) activate(ML, m.id);
           el.querySelector(".ck").src = modBox(nowOn);
           const sub = el.querySelector(".t span");
           if (sub) sub.textContent = `${nowOn ? "Enabled" : "Disabled"} · ${m.desc}`;
           typeof notice === "function" &&
             notice(
               nowOn ? "Source Enabled" : "Source Disabled",
-              `${escapeHtml(m.name)} will be ${nowOn ? "loaded" : "skipped"} the next time NaBlooLife loads.`,
+              nowOn
+                ? `${escapeHtml(m.name)} has been started.`
+                : `${escapeHtml(m.name)} will be off after you reload the game.`,
               null,
               !0,
             );
@@ -249,10 +264,19 @@
         return;
       }
       const name = ((typeof prompt === "function" ? prompt("Name this source:", defaultName) : "") || defaultName).trim();
-      if (addFileSource(name, code64)) {
-        typeof notice === "function" &&
-          notice("Source Added", `"${escapeHtml(name)}" will load the next time NaBlooLife loads.`, null, !0);
+      const id = addFileSource(name, code64);
+      if (id) {
+        const started = activate(ML, id);
         openSources();
+        typeof notice === "function" &&
+          notice(
+            "Source Added",
+            started
+              ? `"${escapeHtml(name)}" has been started. If nothing changes, the file may have an error or need a reload.`
+              : `"${escapeHtml(name)}" was saved. Reload the game to try running it.`,
+            null,
+            !0,
+          );
       }
     }
 

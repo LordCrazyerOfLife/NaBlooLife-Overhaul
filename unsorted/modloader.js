@@ -23,7 +23,7 @@
       id: "mod-sources",
       name: "Custom Mod Sources",
       icon: "ui/gear.png",
-      src: "../scripts/tools/modsources.js?v=2",
+      src: "../scripts/tools/modsources.js?v=3",
       desc: "Add your own mods by picking .js files from this device.",
     },
     {
