@@ -20,6 +20,13 @@
 
   const MODS = [
     {
+      id: "mod-sources",
+      name: "Custom Mod Sources",
+      icon: "ui/gear.png",
+      src: "../scripts/tools/modsources.js?v=2",
+      desc: "Add your own mods by picking .js files from this device.",
+    },
+    {
       id: "black-market",
       name: "Black Market",
       icon: "blackmarket/bm-07-oni-mask.png",
