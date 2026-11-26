@@ -2921,11 +2921,6 @@
         window.BL_MODS?.reapply?.();
       };
       lockMods(), (btShow = !!mods.birthTraits);
-      if (mods.modLoader && !window.__modLoaderInjected) {
-        window.__modLoaderInjected = !0;
-        const _ml = document.createElement("script");
-        (_ml.src = "modloader.js?v=31"), document.body.appendChild(_ml);
-      }
       const saveMods = () => {
         try {
           localStorage.setItem(MODS_KEY, JSON.stringify(mods));

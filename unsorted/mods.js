@@ -64,13 +64,6 @@
         desc: "Help an adult male friend explore his feminine side: clothes, a new name, coming out, transition, and a few very direct attempts to seduce you. Find it on an adult male friend in Relationships.",
         src: "femboy.js?v=2",
       },
-      // [mod] loader simple sin codigos de 8 digitos (modloader.js)
-      11111111: {
-        name: "Mod Loader",
-        icon: "ui/gear.png",
-        desc: "Loads extra mod scripts from a simple list in modloader.js, no 8-digit code needed per mod. Also on by default via Settings -> Mod Workshop -> Mods.",
-        src: "modloader.js?v=22",
-      },
     },
     t = "bitlifepp-ported",
     o = () => {
@@ -178,7 +171,7 @@
         f = p ? p.settings : {},
         u = (e) => ("bitlife" === e ? "BitLife" : "freelife" === e ? "NaBlooLife" : "Match the theme");
       (t.outerHTML =
-        `<div class="sec">Mods</div><div class="row" id="setWorkshop"><img src="ui/gear.png"><div class="t"><b>Mod Loader</b><span>Browse and enable every mod</span></div>${CHEV}</div><div class="row" id="setRedeem"><img src="emoji/2b50.png"><div class="t"><b>Redeem Code</b><span>Redeem a mod with an 8-digit code</span></div>${DOTS}</div>` +
+        `<div class="sec">Mods</div><div class="row" id="setWorkshop"><img src="ui/gear.png"><div class="t"><b>Mod Workshop</b><span>Built-in game extras and options</span></div>${CHEV}</div><div class="row" id="setRedeem"><img src="emoji/2b50.png"><div class="t"><b>Redeem Code</b><span>Redeem a mod with an 8-digit code</span></div>${DOTS}</div>` +
         c
           .map((t) => {
             const o = e[t.code];

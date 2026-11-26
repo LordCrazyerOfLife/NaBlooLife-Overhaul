@@ -539,8 +539,8 @@
           e(
             "modLoader",
             "ui/gear.png",
-            "Mod Loader",
-            "Adds a Mods section to the Main Menu to enable/disable extra mod scripts without a code",
+            "Verified Mods &amp; Content Packs",
+            "Loads them and adds their screens to the Main Menu. Changing this takes effect after a reload",
           ) +
           '<div class="sec">Heirlooms</div>' +
           e(

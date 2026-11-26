@@ -1,22 +1,14 @@
-/* NaBlooLife Mod Loader — adaptado para los mods de NaBlooLife.
+/* NaBlooLife Content Packs (content-packs.js)
  *
- * Instalación: copiar este archivo a la raíz del juego (junto a game.html). NaBlooLife
- * lo inyecta solo desde game.html cuando el Mod Loader está activo; en builds viejos
- * también se puede agregar <script src="modloader.js?v=17"></script> después de mods.js.
- * No hace falta ningún código de 8 dígitos: los mods se cargan solos y se pueden apagar
- * desde Settings → Mod Loader.
- *
- * Cada entrada de MODS es { id, name, icon, src, desc, deps? }. `deps` se inyecta
- * antes que `src` (el ajedrez necesita motor, puzzles y eventos). Para sumar un mod
- * nuevo basta con agregar otra entrada: no hay que tocar game.html.
- *
- * Compatible con el mods.js de NaBlooLife: si ese loader ya cargó este archivo, la
- * segunda ejecución sale por el guard de window.MOD_LOADER y no duplica nada.
+ * Cargado desde game.html despues de mod-switch.js. No usa mods.js.
+ * Each entry in MODS is { id, name, icon, src, desc, deps? }; `deps` load before `src`.
+ * Paths are relative to unsorted/. To add a mod, add an entry: game.html needs no change.
+ * Choices are saved in localStorage["modloader-enabled"] (mods are on by default).
  */
 (() => {
   "use strict";
 
-  if (window.MOD_LOADER) return;
+  if (window.CONTENT_PACKS) return;
 
   const MODS = [
     {
@@ -83,20 +75,6 @@
       icon: "special/politician.png",
       src: "politician.js?v=5",
       desc: "Run for office from School Board to President: ranks, powers, campaigns, elections and scandals. Find it in Occupation, Special Careers.",
-    },
-    {
-      id: "cheat",
-      name: "Cheat Menu",
-      icon: "emoji/1f4b0.png",
-      src: "cheat.js?v=1",
-      desc: "Adds a small draggable button floating on screen. Tap it to open a panel of cheats: add money, set cash to $0, max or min all four stats, full heal, and age up on demand.",
-    },
-    {
-      id: "displayfix",
-      name: "Display Fix (Scale + Safe Area)",
-      icon: "emoji/1f4cf.png",
-      src: "displayfix.js?v=1",
-      desc: "Shrinks the whole phone screen down (default 85%, edit --ui-scale in game.html's style block to adjust). Turning this off takes effect the next time NaBlooLife loads. The notch / status-bar safe-area bar is always on now, built into the page itself.",
     },
     {
       id: "nk",
@@ -180,25 +158,39 @@
   // ---------------------------------------------------------------- carga de scripts
   const loaded = new Set();
   const order = [];
-  function inject(src) {
+  const addScript = (src, done) => {
+    const s = document.createElement("script");
+    (s.src = src), (s.async = !1); // async=false keeps the order the tags were added in
+    if (done) s.onload = s.onerror = done;
+    document.head.append(s);
+  };
+  function inject(src, id) {
     if (!src || loaded.has(src)) return;
     loaded.add(src);
     order.push(src);
     try {
-      const s = document.createElement("script");
-      (s.src = src), (s.async = !1), document.head.append(s);
-      console.log(`[modloader] loaded "${src}"`);
+      MOD_SWITCH.watch(new URL(src, document.baseURI).href, id);
+      // runs just before the mod's file, to note the game's functions as they are
+      const marker = URL.createObjectURL(new Blob([`MOD_SWITCH.begin(${JSON.stringify(id)})`], { type: "text/javascript" }));
+      addScript(marker, () => URL.revokeObjectURL(marker));
+      addScript(src, () => MOD_SWITCH.end(id));
+      console.log(`[content-packs] loaded "${src}"`);
     } catch (e) {
-      console.warn("[modloader] failed to load", src, e);
+      console.warn("[content-packs] failed to load", src, e);
     }
   }
   function loadOne(m) {
     if (!m || !m.src || !isOn(m)) return false;
-    (m.deps || []).forEach(inject);
-    inject(m.src);
+    [...(m.deps || []), m.src].forEach((s) => inject(s, m.id));
     return true;
   }
   const loadAll = () => MODS.forEach(loadOne);
+  // switch a mod on or off now, without a reload
+  function toggle(m, on) {
+    setOn(m, on);
+    MOD_SWITCH.set(m.id, on);
+    if (on) loadOne(m);
+  }
 
   // ---------------------------------------------------------------- filas con alto flexible
   (() => {
@@ -211,91 +203,41 @@
   })();
 
   // ---------------------------------------------------------------- pantalla del loader (standalone, no toca el Workshop)
-  const scriptName = (src) => String(src || "").split("?")[0].split("/").pop();
-  const PORTED = "bitlifepp-ported";
-  const portedList = () => {
-    try {
-      return window.BL_MODS && BL_MODS.read ? BL_MODS.read() : [];
-    } catch {
-      return [];
-    }
-  };
-  const savePorted = (list) => {
-    try {
-      localStorage.setItem(PORTED, JSON.stringify(list));
-    } catch {}
-  };
-  const registryMods = () => {
-    const reg = (window.BL_MODS && BL_MODS.REGISTRY) || {};
-    const mine = new Set(MODS.flatMap((m) => [scriptName(m.src), ...(m.deps || []).map(scriptName)]));
-    return Object.entries(reg)
-      .filter(([code, d]) => d && d.src && code !== "11111111" && !mine.has(scriptName(d.src)))
-      .map(([code, d]) => ({ code, ...d }));
-  };
-
   function openModLoader() {
     typeof play === "function" && play("choice");
     sList.innerHTML = "";
-    (sTitle.textContent = "MOD LOADER"), (sSub.style.display = "none");
+    (sTitle.textContent = "CONTENT PACKS"), (sSub.style.display = "none");
     (sBack.innerHTML = typeof BACK_ICON !== "undefined" ? BACK_ICON : "&larr;"),
       (sBack.onclick = () => (typeof openMainMenu === "function" ? openMainMenu() : screen.classList.remove("open")));
 
-    const ported = portedList();
     const row = (attr, m, on) =>
       `<div class="row" ${attr}><img src="${m.icon || "ui/gear.png"}" style="object-fit:contain"><div class="t"><b>${m.name || m.src}</b>` +
       `<span>${on ? "Enabled" : "Disabled"}${m.desc ? ` · ${m.desc}` : ""}</span></div>` +
       `<img class="ck" src="${modBox(on)}"></div>`;
-    const reg = registryMods();
     sList.innerHTML =
-      '<div class="mm-foot" style="padding:8px 14px; text-align:left">Toggle mods on or off. Script mods apply the next time NaBlooLife loads.</div>' +
-      (MODS.length ? '<div class="sec">Mod Loader</div>' + MODS.map((m) => row(`data-ml="${m.id}" data-mlr="1"`, m, isOn(m))).join("") : "") +
-      (reg.length
-        ? '<div class="sec">Special careers &amp; extras</div>' +
-          reg.map((m) => row(`data-rc="${m.code}" data-mlr="1"`, m, !!ported.find((x) => x.code === m.code && x.on))).join("")
-        : "");
+      '<div class="mm-foot" style="padding:8px 14px; text-align:left">Switch mods on or off. It takes effect straight away.</div>' +
+      '<div class="sec">Content Packs</div>' +
+      MODS.map((m) => row(`data-cp="${m.id}" data-mlr="1"`, m, isOn(m))).join("");
     const click = (el, fn) =>
       (el.onclick = () => {
         typeof play === "function" && play("choice");
         fn();
       });
 
-    sList.querySelectorAll("[data-ml]").forEach((el) => {
+    sList.querySelectorAll("[data-cp]").forEach((el) => {
       click(el, () => {
-        const m = MODS.find((x) => x.id === el.dataset.ml),
+        const m = MODS.find((x) => x.id === el.getAttribute("data-cp")),
           nowOn = !isOn(m);
-        setOn(m, nowOn);
+        toggle(m, nowOn);
         el.querySelector(".ck").src = modBox(nowOn);
         const sub = el.querySelector(".t span");
         if (sub) sub.textContent = `${nowOn ? "Enabled" : "Disabled"}${m.desc ? ` · ${m.desc}` : ""}`;
-        if (nowOn) loadOne(m); // load it right now
         typeof notice === "function" &&
           notice(
             nowOn ? "Mod Enabled" : "Mod Disabled",
-            `${m.name || m.src} ${nowOn ? "is loaded now" : "will be skipped the next time NaBlooLife loads"}.`,
-            null,
-            !0,
-          );
-      });
-    });
-    sList.querySelectorAll("[data-rc]").forEach((el) => {
-      click(el, () => {
-        const code = el.dataset.rc,
-          list = portedList(),
-          m = reg.find((x) => x.code === code);
-        let it = list.find((x) => x.code === code);
-        if (!it) {
-          it = { code, on: true };
-          list.push(it);
-        } else it.on = !it.on;
-        savePorted(list);
-        if (it.on && window.BL_MODS && BL_MODS.load) BL_MODS.load(code);
-        el.querySelector(".ck").src = modBox(it.on);
-        const sub = el.querySelector(".t span");
-        if (sub) sub.textContent = `${it.on ? "Enabled" : "Disabled"}${m && m.desc ? ` · ${m.desc}` : ""}`;
-        typeof notice === "function" &&
-          notice(
-            it.on ? "Mod Enabled" : "Mod Disabled",
-            `${(m && m.name) || code} ${it.on ? "is loaded now" : "will be off the next time NaBlooLife loads"}.`,
+            nowOn
+              ? `${m.name || m.src} is on.`
+              : `${m.name || m.src} is off. Changes it already made to your life, save or things on screen may stay until you reload.`,
             null,
             !0,
           );
@@ -313,17 +255,9 @@
     openMainMenu = function () {
       const r = orig.apply(this, arguments);
       try {
-        if (document.getElementById("mlRow")) return r;
-        sList.insertAdjacentHTML(
-          "afterbegin",
-          '<div class="sec">Mods</div><div class="row" id="mlRow"><img src="ui/gear.png">' +
-            '<div class="t"><b>Mod Loader</b><span>Enable or disable installed mods</span></div>' +
-            (typeof CHEV !== "undefined" ? CHEV : "") +
-            "</div>",
-        );
-        document.getElementById("mlRow").onclick = openModLoader;
+        MOD_SWITCH.menuRow("cpRow", 2, "Content Packs", "Careers, events and extra content", openModLoader);
       } catch (e) {
-        console.warn("[modloader] menu", e);
+        console.warn("[content-packs] menu", e);
       }
       return r;
     };
@@ -331,6 +265,7 @@
 
   function ready() {
     return (
+      !!window.MOD_SWITCH &&
       typeof openMainMenu === "function" &&
       typeof sList !== "undefined" &&
       !!sList &&
@@ -340,13 +275,13 @@
   }
   function boot() {
     if (!ready()) return setTimeout(boot, 60);
-    // the Workshop's own switch still decides whether the Mods row shows up in the Main Menu
-    const allowed = typeof mods === "undefined" || !mods || mods.modLoader !== false;
-    if (allowed) hookMenu();
+    // the game's "Mods" setting (Mod Workshop) turns this whole screen off
+    if (typeof mods !== "undefined" && mods && mods.modLoader === false) return;
+    hookMenu();
     loadAll();
   }
 
-  window.MOD_LOADER = {
+  window.CONTENT_PACKS = {
     MODS,
     load: loadOne,
     reload: loadAll,
@@ -354,6 +289,9 @@
     loaded: () => order.slice(),
     isOn,
     setOn,
+    toggle,
   };
-  boot();
+  // loaded from game.html: wait for the rest of the page's scripts first
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);
+  else boot();
 })();
