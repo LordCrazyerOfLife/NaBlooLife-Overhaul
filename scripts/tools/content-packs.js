@@ -196,9 +196,9 @@
   (() => {
     const css = document.createElement("style");
     css.textContent =
-      "[data-ml]{height:auto;min-height:76px;padding:10px 14px;align-items:flex-start}" +
-      "[data-ml] img{margin-top:2px}" +
-      "[data-ml] .ck{margin-top:2px}";
+      "[data-cp]{height:auto;min-height:76px;padding:10px 14px;align-items:flex-start}" +
+      "[data-cp] img{margin-top:2px}" +
+      "[data-cp] .ck{margin-top:2px}";
     document.head.append(css);
   })();
 
