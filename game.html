@@ -1,0 +1,665 @@
+<!doctype html>
+<!-- Copyright (c) 2026 Free Life. All rights reserved. Unauthorized copying, re-hosting or redistribution of this code is prohibited. -->
+<html lang="en" translate="no" class="notranslate">
+  <head>
+    <meta name="google" content="notranslate" />
+    <meta charset="utf-8" />
+    <!-- game files live in unsorted/ for now: every relative path starts there -->
+    <base href="unsorted/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>NaBlooLife</title>
+    <link rel="icon" type="image/png" sizes="64x64" href="freelife/favicon-64.png?v=1" />
+    <link rel="icon" type="image/png" sizes="256x256" href="freelife/favicon-256.png?v=1" />
+    <link rel="apple-touch-icon" href="freelife/favicon-256.png?v=1" />
+    <script>
+      // [fix] boot watchdog: if the game has not finished loading after 20 s the screen would stay empty forever
+      (() => {
+        let done = false;
+        const hide = () => {
+          const d = document.getElementById("flBootHelp");
+          if (d) d.remove();
+        };
+        document.addEventListener("DOMContentLoaded", () => (done = true));
+        window.addEventListener("load", () => {
+          done = true;
+          hide();
+        });
+        setTimeout(() => {
+          if (done || document.getElementById("flBootHelp")) return;
+          const d = document.createElement("div");
+          d.id = "flBootHelp";
+          d.style.cssText = "position:fixed;inset:0;z-index:2147483647;background:#0b1226;color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:24px;text-align:center;font:800 17px/1.4 system-ui,sans-serif";
+          const mk = (t, f, bg) => {
+            const b = document.createElement("button");
+            b.textContent = t;
+            b.style.cssText = "padding:12px 22px;border:0;border-radius:12px;color:#fff;font:800 16px system-ui,sans-serif;cursor:pointer;background:" + bg;
+            b.onclick = f;
+            return b;
+          };
+          d.innerHTML = "<div style='font-size:22px'>NaBlooLife is taking too long to load</div><div style='opacity:.8;max-width:420px'>Your connection may be slow, or something blocked a file. Try again; if it keeps happening, repair the local data.</div>";
+          d.appendChild(mk("Reload", () => location.reload(), "#33b249"));
+          d.appendChild(
+            mk(
+              "Repair and reload",
+              () => {
+                if (!confirm("This deletes the saved lives and settings stored in this browser. Continue?")) return;
+                try {
+                  Object.keys(localStorage).filter((k) => k.indexOf("bitlifepp") === 0 || k.indexOf("fl-") === 0).forEach((k) => localStorage.removeItem(k));
+                } catch (e) {}
+                try {
+                  indexedDB.deleteDatabase("bitlifepp");
+                } catch (e) {}
+                try {
+                  navigator.serviceWorker && navigator.serviceWorker.getRegistrations().then((r) => r.forEach((x) => x.unregister()));
+                  window.caches && caches.keys().then((k) => k.forEach((x) => caches.delete(x)));
+                } catch (e) {}
+                setTimeout(() => location.reload(), 600);
+              },
+              "#c0392b",
+            ),
+          );
+          (document.body || document.documentElement).appendChild(d);
+        }, 20000);
+      })();
+    </script>
+    <!-- [mod] languages -->
+    <script src="i18n.js"></script>
+    <script src="i18n/es.js"></script>
+    <script src="i18n/pt.js"></script>
+    <script>
+      // bulk event text: only load the file for the active language
+      FL_I18N.lang !== "en" && document.write('<script src="i18n/' + FL_I18N.lang + '.events.js"><\/script>');
+    </script>
+    <script>
+      /* [mod] no more key/menu lockdown on desktop: F12, Ctrl+Shift+I/J/C/K/S, Ctrl+U, Ctrl+S and the right-click menu
+         work again. Only touch screens still block the long-press menu (it pops up over images and buttons). */
+      const FL_COARSE = !!(window.matchMedia && matchMedia("(pointer: coarse)").matches);
+      FL_COARSE && window.addEventListener("contextmenu", (e) => e.preventDefault(), !0),
+        window.addEventListener(
+          "dragstart",
+          (e) => {
+            e.target instanceof HTMLImageElement && e.preventDefault();
+          },
+          !0,
+        );
+      try {
+        if (JSON.parse(localStorage.getItem("bitlifepp-settings") || "{}").pcMode) {
+          const e = document.documentElement;
+          e.classList.add("pc"), (window.PCZ = 1);
+          const t = () => {
+            (window.PCZ = +Math.max(1, Math.min(1.6, innerHeight / 760)).toFixed(3)),
+              e.style.setProperty("--pcz", PCZ);
+          };
+          t(), addEventListener("resize", t);
+          const n = Element.prototype.getBoundingClientRect;
+          Element.prototype.getBoundingClientRect = function () {
+            const e = n.call(this),
+              t = PCZ;
+            return 1 === t ? e : new DOMRect(e.x / t, e.y / t, e.width / t, e.height / t);
+          };
+          for (const e of [MouseEvent.prototype, window.Touch && Touch.prototype])
+            if (e)
+              for (const t of ["clientX", "clientY"]) {
+                const n = Object.getOwnPropertyDescriptor(e, t);
+                n &&
+                  n.get &&
+                  Object.defineProperty(e, t, {
+                    ...n,
+                    get() {
+                      return n.get.call(this) / PCZ;
+                    },
+                  });
+              }
+        }
+      } catch {}
+    </script>
+    <!-- [fix] the fonts load without blocking: if fonts.googleapis.com is slow or blocked the game still starts (system fonts until they arrive) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&family=Mulish:wght@400;500;600;700;800;900&family=Bungee&family=Kaushan+Script&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&family=Mulish:wght@400;500;600;700;800;900&family=Bungee&family=Kaushan+Script&display=swap" rel="stylesheet" /></noscript>
+    <link rel="stylesheet" href="../style/game.css" />
+  </head>
+  <body>
+    <div id="topSafeBar"></div>
+    <div class="phone bl-locked">
+      <div id="splash">
+        <img class="sp-a sp-sperm" src="splash/sperm0.png" alt="" />
+        <img class="sp-a sp-logo" src="splash/logo-pp.png" alt="NaBlooLife" />
+        <img class="sp-a sp-company" src="splash/company.png" alt="" />
+        <div class="sp-text">
+          All characters and events in this game are fictional and are randomly generated. Any resemblance to
+          real people or real events is coincidental.<br /><br />All entities (with some exceptions) are also
+          fictional and are randomly generated. All trademarks are the property of their respective owners.
+          <div class="sp-note">
+            This is a full BitLife remake, recoded from scratch. None of the code is stolen: it was all
+            rewritten by hand, outside of Unity.
+          </div>
+        </div>
+      </div>
+      <script src="freelife.js?v=11"></script>
+
+      <header class="topbar">
+        <button class="menu-btn" aria-label="Menu"><i></i></button>
+        <div class="logo">
+          <img class="bitizen bitizen-light" src="ui/navbarNabloo.png" alt="" />
+          <img class="bitizen bitizen-dark" src="ui/navbarNabloo-dm.png" alt="" />
+          <span class="logo-text">NaBlooLife</span>
+        </div>
+        <div class="pill stars">
+          <svg width="22" height="26" viewBox="0 0 22 26">
+            <path d="M5 14 L2 25 L7 22 L10 26 L11 16 Z" fill="#e8611c" stroke="#fff" stroke-width="1" />
+            <path d="M17 14 L20 25 L15 22 L12 26 L11 16 Z" fill="#e8611c" stroke="#fff" stroke-width="1" />
+            <circle cx="11" cy="10" r="9" fill="#f08a1c" stroke="#fff" stroke-width="1.2" />
+            <path d="M11 4.2l1.8 3.7 4 .6-2.9 2.8.7 4-3.6-1.9-3.6 1.9.7-4L5.2 8.5l4-.6z" fill="#ffe14a" />
+          </svg>
+          <span id="ribbons">1</span>
+        </div>
+        <button type="button" class="pill tt fs" id="fsBtn">
+          <b>FULL SCREEN</b>
+        </button>
+      </header>
+
+      <section class="profile">
+        <svg class="avatar" viewBox="0 0 44 44">
+          <ellipse cx="9.5" cy="24" rx="3" ry="4" fill="#f2c193" />
+          <ellipse cx="34.5" cy="24" rx="3" ry="4" fill="#f2c193" />
+          <path d="M10 20 Q10 38 22 39 Q34 38 34 20 Q34 12 22 12 Q10 12 10 20Z" fill="#f8cfa3" />
+          <path
+            d="M9 22 Q7 8 20 6 Q30 4 34 11 Q37 16 35 22 Q33 15 28 14 Q24 17 15 15 Q11 17 9 22Z"
+            fill="#e9b35a"
+          />
+          <path d="M15 15 Q22 11 28 14" stroke="#d29a3e" stroke-width="1" fill="none" />
+          <path
+            d="M14.5 23.5 Q17 22 19.5 23.5"
+            stroke="#333"
+            stroke-width="1.4"
+            fill="none"
+            stroke-linecap="round"
+          />
+          <path
+            d="M24.5 23.5 Q27 22 29.5 23.5"
+            stroke="#333"
+            stroke-width="1.4"
+            fill="none"
+            stroke-linecap="round"
+          />
+          <circle cx="17" cy="25.3" r="1.3" fill="#2c4a7a" />
+          <circle cx="27" cy="25.3" r="1.3" fill="#2c4a7a" />
+          <path d="M14 20.3h5.5M24.5 20.3H30" stroke="#c99545" stroke-width="1.4" stroke-linecap="round" />
+          <path
+            d="M22 26 Q21 29.5 23 30"
+            stroke="#d99b6c"
+            stroke-width="1.1"
+            fill="none"
+            stroke-linecap="round"
+          />
+          <path
+            d="M18.5 33 Q22 35 25.5 33"
+            stroke="#b56a4a"
+            stroke-width="1.4"
+            fill="none"
+            stroke-linecap="round"
+          />
+        </svg>
+        <div class="who">
+          <div class="name">
+            <img class="pflag" src="flags/co.png" alt="" width="18" height="18" />
+            <u id="pname">Matias Dias</u>
+          </div>
+          <div class="sub">
+            <img
+              id="pjobIco"
+              src="kid/baby-bottle.png"
+              alt=""
+              style="width: 16px; height: 16px; object-fit: contain"
+            />
+            <span id="pjob">Infant</span>
+          </div>
+        </div>
+        <div class="money">
+          <div class="mcol">
+            <div class="amt bank" id="money">€2,707,641</div>
+            <div class="lbl">Bank Balance</div>
+          </div>
+          <div class="mcol">
+            <div class="amt" id="cash">€0</div>
+            <div class="lbl">Cash</div>
+          </div>
+        </div>
+      </section>
+
+      <main class="log" id="log">
+        <div class="year">
+          <h3>Age: 80 years</h3>
+          <p>My son, Nicolas, has been diagnosed with flatulence.</p>
+          <p>A mall cop called me an abomination to mankind! I forgave him.</p>
+          <p>I worked out at the gym.</p>
+          <p>I gave my son, Nicolas, €10,000.</p>
+        </div>
+        <div class="year">
+          <h3>Age: 81 years</h3>
+          <p>My son, Bruno, married Katarina Kuznetsov, a 33-year old librarian.</p>
+          <p>
+            My son, Nicolas, graduated from university with an undergraduate degree in physics. He started
+            dental school. He moved out. He is no longer suffering from flatulence.
+          </p>
+          <p>Tunisia has enforced a dealings ban on Singapore.</p>
+          <p>I took my son, Bruno, to have a bonfire at the beach.</p>
+          <p>I took my son, Nicolas, to a Muslim mosque.</p>
+        </div>
+        <div class="year">
+          <h3>Age: 82 years</h3>
+          <p>My nephew, Juan Sebastian, drowned in a rip current.</p>
+          <p>I attended his funeral in Bogotá, Colombia.</p>
+          <p>
+            My nephew, Luis, and I had a long distance phone chat about who would win in a fight between
+            Taylor Swift and Adele.
+          </p>
+          <p>I told my nephew, Luis, that he's courageous.</p>
+        </div>
+        <div class="year">
+          <h3>Age: 83 years</h3>
+          <p>My nephew, Luis, died while sleeping peacefully.</p>
+          <p>I attended his funeral in Bogotá, Colombia.</p>
+        </div>
+      </main>
+
+      <div class="dock">
+        <div class="strip">
+          <div class="comm-col">
+            <div class="community" id="heirBtn">
+              <img src="heirloom/ui-multiPurposeHeirloomIcon.png" alt="" style="width: 17px; height: 19px" />
+              <span>New Heirloom!</span>
+            </div>
+            <a
+              class="community"
+              id="discordLink"
+              href="https://discord.gg/DbZNtgjxvW"
+              target="_blank"
+              rel="noopener"
+            >
+              <svg width="26" height="12" viewBox="0 0 26 12">
+                <ellipse cx="20.5" cy="6" rx="4.6" ry="3.6" fill="#fff" />
+                <path
+                  d="M16 6 Q12 2 8.5 6 T1 6"
+                  stroke="#fff"
+                  stroke-width="1.8"
+                  fill="none"
+                  stroke-linecap="round"
+                />
+              </svg>
+              <span>JOIN OUR DISCORD</span>
+            </a>
+          </div>
+          <div class="pray hide" id="pray">
+            <span style="font-size: 20px; line-height: 1">🙏</span>
+            <span>Pray</span>
+          </div>
+        </div>
+
+        <nav class="nav">
+          <div class="tab" data-tab="Occupation">
+            <div class="ic">
+              <svg viewBox="0 0 24 24">
+                <path
+                  d="M9 6V4.5A1.5 1.5 0 0 1 10.5 3h3A1.5 1.5 0 0 1 15 4.5V6"
+                  stroke="#fff"
+                  stroke-width="2"
+                  fill="none"
+                />
+                <rect x="3" y="6.5" width="18" height="13" rx="2.2" fill="#fff" />
+                <path d="M3 12.5h18" stroke="#25c3dd" stroke-width="1.4" />
+                <rect x="10.5" y="11" width="3" height="3" rx=".6" fill="#25c3dd" />
+              </svg>
+            </div>
+            <span>Occupation</span>
+          </div>
+          <div class="tab" data-tab="Assets">
+            <div class="ic">
+              <svg viewBox="0 0 24 24">
+                <path d="M9 3.5h6l-1.6 3h-2.8z" fill="#fff" />
+                <path d="M9.5 6.5h5" stroke="#fff" stroke-width="1.6" stroke-linecap="round" />
+                <path
+                  d="M10 7.5 Q3.5 11 4 16.5 Q4.5 21 12 21 Q19.5 21 20 16.5 Q20.5 11 14 7.5Z"
+                  fill="#fff"
+                />
+                <text
+                  x="12"
+                  y="18.3"
+                  text-anchor="middle"
+                  font-family="Nunito,sans-serif"
+                  font-weight="900"
+                  font-size="9"
+                  fill="#25c3dd"
+                >
+                  $
+                </text>
+              </svg>
+            </div>
+            <span>Assets</span>
+          </div>
+          <div class="tab center"></div>
+          <div class="tab" data-tab="Relationships">
+            <div class="ic">
+              <svg viewBox="0 0 24 24">
+                <path
+                  d="M12 20.5 C4 15 2.5 11.5 3.5 8.2 4.5 5 8.7 4 12 7.6 15.3 4 19.5 5 20.5 8.2 21.5 11.5 20 15 12 20.5Z"
+                  fill="#fff"
+                />
+              </svg>
+            </div>
+            <span>Relationships</span>
+          </div>
+          <div class="tab" data-tab="Activities">
+            <div class="ic">
+              <svg viewBox="0 0 24 24">
+                <circle cx="6" cy="12" r="2.1" fill="#fff" />
+                <circle cx="12" cy="12" r="2.1" fill="#fff" />
+                <circle cx="18" cy="12" r="2.1" fill="#fff" />
+              </svg>
+            </div>
+            <span>Activities</span>
+          </div>
+        </nav>
+
+        <div class="age-btn" id="ageBtn" role="button" aria-label="Age">
+          <svg viewBox="0 0 36 36">
+            <path d="M18 3v30M3 18h30" stroke="#fff" stroke-width="5" stroke-linecap="round" />
+          </svg>
+          <span>Age</span>
+        </div>
+        <div class="minus" title="Reverse age"><i></i><small>Age</small></div>
+
+        <section class="stats" id="stats"></section>
+      </div>
+
+      <div class="home"></div>
+
+      <div class="screen" id="screen">
+        <div id="sProfile"></div>
+        <div class="s-head">
+          <div class="circ" id="sBack"></div>
+          <h2 id="sTitle">OCCUPATION</h2>
+          <span class="ver">v0.2</span>
+          <div class="circ s-help" id="sHelp">?</div>
+        </div>
+        <div class="s-sub" id="sSub">All</div>
+        <div class="s-list" id="sList"></div>
+      </div>
+
+      <div class="ft" id="ftWrap">
+        <div class="ft-head">
+          <div class="circ" id="ftBack"></div>
+          <h2>FAMILY TREE</h2>
+          <button class="ft-globe-btn" id="ftGlobeBtn" title="Where your family came from">
+            <img src="emoji/1f30e.png" alt="World map" />
+          </button>
+        </div>
+        <div class="ft-sub" id="ftSub"></div>
+        <div class="ft-traits" id="ftTraits"></div>
+        <div class="ft-key" id="ftKey"></div>
+        <div class="ft-scroll" id="ftScroll"><div class="ft-tree" id="ftTree"></div></div>
+        <div class="ft-legend">
+          <span><i style="background: #22b03e"></i>Alive</span
+          ><span><i style="background: #6b7079"></i>Deceased</span>
+          <span><img src="emoji/2b50.png" alt="" style="width: 13px; height: 13px" />Famous</span
+          ><span id="ftLegRoyal" style="display: none"
+            ><img src="royal/crown.png" alt="" style="width: 14px; height: 14px" />Royal</span
+          ><span><i style="background: #3e8ee8"></i>Male</span
+          ><span><i style="background: #f06aa6"></i>Female</span>
+        </div>
+        <div class="ft-pop" id="ftPop"><div class="ft-dlg" id="ftDlg"></div></div>
+        <div class="gl-wrap" id="glWrap">
+          <div class="gl-head">
+            <button class="gl-x" id="glX" aria-label="Close"></button>
+            <h3>WORLD MAP</h3>
+          </div>
+          <div class="gl-tabs">
+            <button data-gm="anc" class="on">Ancestors</button><button data-gm="traits">Traits</button>
+          </div>
+          <div class="gl-chips" id="glChips"></div>
+          <div class="gl-stage">
+            <canvas id="glCanvas"></canvas>
+            <div class="gl-hint">Drag to spin · tap a country</div>
+          </div>
+          <div class="gl-info" id="glInfo"></div>
+        </div>
+      </div>
+
+      <div class="jm-wrap" id="jmWrap">
+        <div class="jm">
+          <div class="jm-x" id="jmX">
+            <svg viewBox="0 0 12 12">
+              <path d="M2 2l8 8M10 2l-8 8" stroke="#e2401f" stroke-width="2.6" stroke-linecap="round" />
+            </svg>
+          </div>
+          <div class="jm-tag">Job</div>
+          <h4><img id="jmIc" /><span id="jmTitle"></span></h4>
+          <div class="lead">Apply for this open position today!</div>
+          <table>
+            <tbody id="jmTable"></tbody>
+          </table>
+          <button class="jm-apply" id="jmApply">Apply for this position</button>
+        </div>
+      </div>
+
+      <div class="ach" id="ach">
+        <img src="ui/achievementsBannerTrophy.png" alt="" />
+        <div><b id="achTitle"></b><span id="achText"></span></div>
+      </div>
+
+      <div class="blood" id="blood"></div>
+      <div class="death-wrap" id="deathWrap"><div class="death" id="death"></div></div>
+
+      <div class="ev-wrap" id="evWrap"><div class="jm ev" id="ev"></div></div>
+
+      <div class="jm-wrap" id="hlWrap"><div class="jm" id="hl"></div></div>
+      <div class="toast" id="toast">
+        <h4 id="tTitle"></h4>
+        <p id="tBody"></p>
+        <button onclick="toast.classList.remove('show')">OK</button>
+      </div>
+    </div>
+
+    <script src="faces/manifest.js"></script>
+    <script src="faces/manifest-female.js"></script>
+    <script src="names.js"></script>
+    <script src="country-names.js"></script>
+    <script src="hairfit.js?v=1"></script>
+    <script src="devtools.js?v=1"></script>
+    <script src="countries.js"></script>
+    <script src="cities.js"></script>
+    <script src="jobs.js?v=10"></script>
+    <script src="milev-general.js?v=1"></script>
+    <script src="milev-greenberets.js?v=1"></script>
+    <script src="milev-rangers.js?v=1"></script>
+    <script src="milev-delta.js?v=1"></script>
+    <script src="milev-seals.js?v=1"></script>
+    <script src="milev-raiders.js?v=1"></script>
+    <script src="milev-pararescue.js?v=1"></script>
+    <script src="milev-rescueswimmers.js?v=1"></script>
+    <script src="pets.js?v=2"></script>
+    <script src="kid-events.js?v=r4"></script>
+    <script src="kid-social-events.js?v=r1"></script>
+    <script src="family-events.js?v=3"></script>
+    <script src="spend-events.js?v=r1"></script>
+    <script src="world-events.js"></script>
+    <script src="danger-events.js?v=r1"></script>
+    <script src="arson-events.js?v=1"></script>
+    <script src="prison-events.js?v=1"></script>
+    <script src="fight-events.js?v=r1"></script>
+    <script src="parent-events.js?v=r1"></script>
+    <script src="houses.js?v=3"></script>
+    <script src="restaurants.js"></script>
+    <script src="employers.js?v=2"></script>
+    <script src="social-names.js?v=2"></script>
+    <script src="wiki-words.js?v=1"></script>
+    <script src="name-family-events.js?v=1"></script>
+    <script src="email-pool.js?v=9"></script>
+    <script src="gamertags.js?v=1"></script>
+    <script src="random-names.js?v=1"></script>
+    <script src="artists.js?v=1"></script>
+    <script src="work-events.js?v=r1"></script>
+    <script src="walmart-role-events.js?v=r1"></script>
+    <script src="coworker-events.js?v=r1"></script>
+    <script src="acc/manifest.js"></script>
+    <script src="heirlooms.js"></script>
+    <script src="tax-engine.js?v=2"></script>
+    <script src="life-events.js?v=1"></script>
+    <script src="cars.js?v=18"></script>
+    <script src="school-events.js?v=r2"></script>
+    <script src="emoji2018.js?v=8"></script>
+    <script src="blscroll.js?v=1"></script>
+    <script src="../scripts/core/01-setup-and-stats.js"></script>
+    <script src="../scripts/core/02-avatar-and-faces.js"></script>
+    <script src="../scripts/core/03-jobs-and-hiring.js"></script>
+    <script src="../scripts/core/04-my-job-and-military.js"></script>
+    <script src="../scripts/core/05-war-and-coworkers.js"></script>
+    <script src="../scripts/core/06-relationships.js"></script>
+    <script src="../scripts/core/07-housing-cars-and-assets.js"></script>
+    <script src="../scripts/core/08-money-and-banking.js"></script>
+    <script src="../scripts/core/09-banking-and-email.js"></script>
+    <script src="../scripts/core/10-social-accounts.js"></script>
+    <script src="../scripts/core/11-web-and-gaming-signups.js"></script>
+    <script src="../scripts/core/12-account-security.js"></script>
+    <script src="../scripts/core/13-account-market-and-socials.js"></script>
+    <script src="../scripts/core/14-market-horses-and-outlaws.js"></script>
+    <script src="../scripts/core/15-era-activities-and-hunting.js"></script>
+    <script src="../scripts/core/16-mining-and-farming.js"></script>
+    <script src="../scripts/core/17-businesses-and-inventing.js"></script>
+    <script src="../scripts/core/18-timber-metals-and-activities.js"></script>
+    <script src="../scripts/core/19-fertility-art-and-crime.js"></script>
+    <script src="../scripts/core/20-prison.js"></script>
+    <script src="../scripts/core/21-hacking-and-crimes.js"></script>
+    <script src="../scripts/core/22-love-and-pets.js"></script>
+    <script src="../scripts/core/23-salon-surgery-and-yearly-life.js"></script>
+    <script src="../scripts/core/24-life-and-family-events.js"></script>
+    <script src="../scripts/core/25-health-and-event-picker.js"></script>
+    <script src="../scripts/core/26-menus-and-saves.js"></script>
+    <script src="../scripts/core/27-family-tree-data.js"></script>
+    <script src="../scripts/core/28-family-tree-view.js"></script>
+    <script src="../scripts/core/29-death-and-school.js"></script>
+    <script src="../scripts/core/30-school-and-college.js"></script>
+    <script src="../scripts/core/31-royalty-and-property.js"></script>
+    <script src="../scripts/core/32-spirits-and-mind-body.js"></script>
+    <script src="church.js?v=12"></script>
+    <script src="mafia.js?v=11"></script>
+    <script src="cliques.js?v=2"></script>
+    <script src="jewelry.js?v=19"></script>
+    <script src="jewel-robbery.js?v=1"></script>
+    <script src="family-drama.js?v=6"></script>
+    <script src="first-date.js?v=4"></script>
+    <script src="love-life.js?v=2"></script>
+    <script src="life-stages.js?v=3"></script>
+    <script src="crime-family.js?v=2"></script>
+    <script src="mail-scams.js?v=5"></script>
+    <script src="mail-reply.js?v=27"></script>
+    <script src="marriage-nag.js?v=1"></script>
+    <script src="syndromes.js?v=1"></script>
+    <script src="drug-use.js?v=4"></script>
+    <script src="poor-family.js?v=1"></script>
+    <script src="instruments.js?v=3"></script>
+    <script src="bikes.js?v=4"></script>
+    <script src="zxcvbn.js"></script>
+    <script src="cemetery.js?v=7"></script>
+    <script src="settings.js?v=85"></script>
+    <script src="musician.js?v=10"></script>
+    <script src="invest.js?v=56"></script>
+    <script src="stocks1900.js?v=5"></script>
+    <script src="ww.js?v=11"></script>
+    <script src="life1900.js?v=3"></script>
+    <script src="invest-brag.js?v=4"></script>
+    <script src="crypto-rich.js?v=3"></script>
+    <script src="week.js?v=2"></script>
+    <script src="ward.js?v=5"></script>
+    <script src="bootcamp.js?v=1"></script>
+    <script src="wars.js?v=1"></script>
+    <script src="sof.js?v=1"></script>
+    <script src="war-events.js?v=1"></script>
+    <script src="kids-media.js?v=1"></script>
+    <script src="acting.js?v=24"></script>
+    <script src="police-events.js?v=1"></script>
+    <script src="marriage.js?v=6"></script>
+    <script src="rentals.js?v=15"></script>
+    <script src="arttheft.js?v=73"></script>
+    <script src="counterfeit.js?v=8"></script>
+    <script src="smuggling.js?v=9"></script>
+    <script src="cartel.js?v=13"></script>
+    <script src="drugs.js?v=9"></script>
+    <script src="mods.js?v=18"></script>
+    <script src="elite-life.js?v=9"></script>
+    <script src="vip.js?v=6"></script>
+    <script src="basketball.js?v=29"></script>
+    <script src="fighter.js?v=8"></script>
+    <script src="vampire.js?v=8"></script>
+    <script src="serial-clues.js?v=2"></script>
+    <script src="serial-killer.js?v=41"></script>
+    <script src="special-crime.js?v=2"></script>
+    <script src="sim-swapping.js?v=16"></script>
+    <script src="family-divorce.js?v=6"></script>
+    <script src="pet-dialogs.js?v=1"></script>
+    <script src="pets-plus.js?v=17"></script>
+    <script src="careers.js?v=4"></script>
+    <script src="event-rules.js?v=3"></script>
+    <script src="auth.js?v=31"></script>
+    <script src="tab-lock.js?v=1"></script>
+    <!-- [base] fixes and extensions that used to be separate mods (always on, not in the Mod Loader) -->
+    <script src="ui-bars.js?v=3"></script>
+    <script src="barbershop.js?v=1"></script>
+    <script src="social-nan-fix.js?v=1"></script>
+    <script src="event-juice.js?v=2"></script>
+    <script src="casino-games.js?v=2"></script>
+    <script src="adoption.js?v=1"></script>
+    <script src="crime-extra.js?v=2"></script>
+    <script src="genetics.js?v=1"></script>
+    <script src="sound-fix.js?v=1"></script>
+    <script src="fame-bar.js?v=1"></script>
+    <script src="mobile-fix.js?v=3"></script>
+    <script src="juice-plus.js?v=3"></script>
+    <script src="easy-stats.js?v=1"></script>
+    <script src="jewelry-wear.js?v=6"></script>
+    <script src="family-gifts.js?v=1"></script>
+    <script src="landlord.js?v=2"></script>
+    <script src="bizempire.js?v=6"></script>
+    <script src="penalty.js?v=2"></script>
+    <script src="garage.js?v=4"></script>
+    <script src="accessories-plus.js?v=2"></script>
+    <script src="barber-all.js?v=1"></script>
+  <script>
+/* [mod] tall popups: the base CSS forces overflow:visible on any popup with an X button (so the X is not clipped),
+   which makes long popups (Adoption, etc.) impossible to scroll. Turn scrolling on only when the content does not fit. */
+(() => {
+  const ev = document.getElementById("ev");
+  if (!ev) return;
+  let busy = false;
+  const fit = () => {
+    if (busy) return;
+    busy = true;
+    try {
+      ev.style.removeProperty("overflow");
+      const x = ev.querySelector(".jm-x");
+      if (x) {
+        x.style.removeProperty("left");
+        x.style.removeProperty("top");
+      }
+      if (ev.scrollHeight > ev.clientHeight + 4 && ev.clientHeight > 0) {
+        ev.style.setProperty("overflow-y", "auto", "important");
+        ev.style.setProperty("overflow-x", "hidden", "important");
+        ev.style.setProperty("scrollbar-width", "none");
+        if (x) {
+          x.style.setProperty("left", "6px", "important");
+          x.style.setProperty("top", "6px", "important");
+        }
+      }
+    } finally {
+      busy = false;
+    }
+  };
+  new MutationObserver(() => requestAnimationFrame(() => setTimeout(fit, 60))).observe(ev, { childList: true });
+  new MutationObserver(() => setTimeout(fit, 60)).observe(document.getElementById("evWrap") || ev, { attributes: true, attributeFilter: ["class"] });
+})();
+</script>
+  <script src="../scripts/core/fullscreen.js"></script>
+  </body>
+</html>

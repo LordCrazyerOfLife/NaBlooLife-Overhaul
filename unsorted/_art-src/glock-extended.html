@@ -1,0 +1,83 @@
+﻿<!doctype html>
+<html><head><meta charset="utf-8"><title>pistol</title>
+<style>html,body{margin:0;background:transparent}svg{display:block;width:600px;height:600px}</style></head>
+<body>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="slide" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5b5f68"/><stop offset=".45" stop-color="#3a3d44"/><stop offset="1" stop-color="#24262b"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d4047"/><stop offset="1" stop-color="#1f2125"/>
+    </linearGradient>
+    <linearGradient id="grip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1c1e22"/><stop offset=".5" stop-color="#34373e"/><stop offset="1" stop-color="#1c1e22"/>
+    </linearGradient>
+    <linearGradient id="mag" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#17181b"/><stop offset=".45" stop-color="#2e3036"/><stop offset="1" stop-color="#141518"/>
+    </linearGradient>
+    <radialGradient id="gloss" cx=".3" cy=".15" r=".7">
+      <stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="stip" width="4" height="4" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".6" fill="#000" opacity=".35"/><circle cx="3" cy="3" r=".6" fill="#fff" opacity=".06"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+
+  <!-- sombra -->
+  <ellipse cx="96" cy="192" rx="62" ry="4" fill="#000" opacity=".3" filter="url(#blur)"/>
+
+  <!-- cargador extendido (sigue el ángulo del grip y sale muy abajo) -->
+  <!-- inclinado más hacia atrás: la base se corre a la izquierda más que la boca -->
+  <g transform="translate(-2 0) translate(58 120) skewX(4) translate(-58 -120)">
+  <path d="M44 120 L72 120 L58 182 Q57 186 53 186 L28 186 Q24 186 25 182 Z" fill="url(#mag)" stroke="#0b0c0e" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M23 182 L60 182 Q63 182 62 185 L61 190 Q60 193 57 193 L24 193 Q20 193 21 190 L22 185 Q22 182 23 182 Z" fill="#26282d" stroke="#0b0c0e" stroke-width="1.6"/>
+  <g fill="#0b0c0e">
+    <circle cx="63" cy="132" r="1.6"/><circle cx="61" cy="141" r="1.6"/><circle cx="59" cy="150" r="1.6"/>
+    <circle cx="57" cy="159" r="1.6"/><circle cx="55" cy="168" r="1.6"/>
+  </g>
+  <path d="M47 124 L36 176" stroke="#fff" stroke-width="1.2" opacity=".12" stroke-linecap="round"/>
+  </g>
+
+  <!-- grip (inclinado hacia atrás) -->
+  <path d="M38 56 L84 56 L72 122 Q71 126 67 126 L40 126 Q35 126 36 121 Z" fill="url(#grip)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M45 74 L78 74 L70 116 L40 116 Z" fill="url(#stip)"/>
+  <!-- ranuras para los dedos -->
+  <path d="M80 82 Q76 86 79 90 Q75 95 78 99 Q74 104 77 108" fill="none" stroke="#0b0c0e" stroke-width="1.4" opacity=".7"/>
+  <!-- beavertail -->
+  <path d="M39 58 Q30 60 29 67 Q35 65 42 65 Z" fill="#2a2c31" stroke="#0b0c0e" stroke-width="1.4" stroke-linejoin="round"/>
+
+  <!-- armazón / dust cover con riel -->
+  <path d="M40 56 L174 56 L174 70 L120 70 L112 76 L84 76 L84 66 L40 66 Z" fill="url(#frame)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M132 64 L170 64" stroke="#0b0c0e" stroke-width="1.2" stroke-dasharray="3 2.5"/>
+
+  <!-- guardamonte y gatillo -->
+  <path d="M86 72 L86 90 Q86 98 96 98 L116 98 Q124 98 122 90 L118 74" fill="none" stroke="#24262b" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M86 72 L86 90 Q86 98 96 98 L116 98 Q124 98 122 90 L118 74" fill="none" stroke="#0b0c0e" stroke-width="1.2" stroke-linejoin="round" opacity=".8"/>
+  <path d="M101 74 Q106 80 104 90" fill="none" stroke="#14151a" stroke-width="3.6" stroke-linecap="round"/>
+
+  <!-- slide -->
+  <path d="M38 30 L176 30 Q182 30 182 36 L182 54 Q182 60 176 60 L44 60 Q38 60 38 54 Z" fill="url(#slide)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <!-- estrías atrás y adelante -->
+  <g stroke="#15161a" stroke-width="1.6" stroke-linecap="round">
+    <path d="M46 36 L46 54"/><path d="M50 36 L50 54"/><path d="M54 36 L54 54"/><path d="M58 36 L58 54"/><path d="M62 36 L62 54"/>
+    <path d="M160 38 L160 52"/><path d="M164 38 L164 52"/><path d="M168 38 L168 52"/>
+  </g>
+  <!-- ventana de expulsión -->
+  <rect x="102" y="33" width="34" height="10" rx="1.5" fill="#1a1b1f" stroke="#0b0c0e" stroke-width="1"/>
+  <rect x="106" y="35" width="26" height="5" rx="1" fill="#6b6f78" opacity=".55"/>
+  <!-- miras -->
+  <rect x="40" y="25" width="10" height="6" rx="1" fill="#2a2c31" stroke="#0b0c0e" stroke-width="1.2"/>
+  <rect x="170" y="25" width="5" height="6" rx="1" fill="#2a2c31" stroke="#0b0c0e" stroke-width="1.2"/>
+  <circle cx="172.5" cy="27.5" r="1" fill="#fff" opacity=".8"/>
+  <!-- boca del cañón -->
+  <rect x="180" y="40" width="4" height="10" rx="1" fill="#101114" stroke="#0b0c0e" stroke-width="1"/>
+  <!-- palanca de desarme -->
+  <rect x="96" y="62" width="10" height="3" rx="1" fill="#55585f"/>
+
+  <!-- brillo general -->
+  <path d="M38 30 L176 30 Q182 30 182 36 L182 54 Q182 60 176 60 L44 60 Q38 60 38 54 Z" fill="url(#gloss)"/>
+  <path d="M44 33 L174 33" stroke="#fff" stroke-width="1.4" opacity=".25" stroke-linecap="round"/>
+</svg>
+</body></html>

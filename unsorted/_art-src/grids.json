@@ -1,0 +1,821 @@
+{
+ "_doc": "Grid manifest for split_grid.py. src lives in _art-src/grids/. names go left-to-right, top-to-bottom. cut = cutout() params; keep_all = names whose cutout keeps every blob; mode 'hair' = 500x500 layer; suffix is appended to the file name.",
+ "grids": [
+  {
+   "src": "TROPHIES UEFA.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "trophies",
+   "names": [
+    "uefa-01-champions-league",
+    "uefa-02-europa-league",
+    "uefa-03-conference-league",
+    "uefa-04-super-cup",
+    "uefa-05-nations-league",
+    "uefa-06-euro",
+    "uefa-07-womens-champions-league",
+    "uefa-08-womens-euro",
+    "uefa-09-futsal-cup",
+    "uefa-10-youth-cup",
+    "uefa-11-goalkeeper-statue",
+    "uefa-12-gold-ball"
+   ],
+   "box": [
+    104,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   }
+  },
+  {
+   "src": "trofeos individuales.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "trophies",
+   "names": [
+    "award-01-ballon-dor",
+    "award-02-the-best",
+    "award-03-uefa-mens-player",
+    "award-04-golden-boot",
+    "award-05-golden-glove",
+    "award-06-kopa-trophy",
+    "award-07-yashin-trophy",
+    "award-08-uefa-womens-player",
+    "award-09-club-world-cup",
+    "award-10-uefa-young-player",
+    "award-11-laureus",
+    "award-12-fair-play"
+   ],
+   "box": [
+    104,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   }
+  },
+  {
+   "src": "trofeos internacionales.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "trophies",
+   "names": [
+    "intl-01-world-cup",
+    "intl-02-euro",
+    "intl-03-copa-america",
+    "intl-04-africa-cup",
+    "intl-05-libertadores",
+    "intl-06-club-world-cup",
+    "intl-07-confederations-cup",
+    "intl-08-olympic",
+    "intl-09-nations-league",
+    "intl-10-u20-world-cup",
+    "intl-11-u17-world-cup",
+    "intl-12-womens-world-cup"
+   ],
+   "box": [
+    104,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   }
+  },
+  {
+   "src": "NBA.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "trophies",
+   "names": [
+    "nba-01-larry-obrien",
+    "nba-02-finals-mvp",
+    "nba-03-mvp",
+    "nba-04-defensive-player",
+    "nba-05-rookie-of-the-year",
+    "nba-06-sixth-man",
+    "nba-07-coach-of-the-year",
+    "nba-08-all-star-mvp",
+    "nba-09-all-defensive-team",
+    "nba-10-scoring-champion",
+    "nba-11-steals-leader",
+    "nba-12-blocks-leader"
+   ],
+   "box": [
+    104,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   }
+  },
+  {
+   "src": "Pagani.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "cars",
+   "names": [
+    "pagani-01-zonda-silver",
+    "pagani-02-huayra-blue",
+    "pagani-03-huayra-bc-black",
+    "pagani-04-huayra-black-gold",
+    "pagani-05-zonda-gray",
+    "pagani-06-huayra-purple",
+    "pagani-07-huayra-r-green",
+    "pagani-08-zonda-black-red",
+    "pagani-09-huayra-navy",
+    "pagani-10-zonda-r-silver",
+    "pagani-11-huayra-r-blue",
+    "pagani-12-imola-black-purple"
+   ],
+   "box": [
+    120,
+    76
+   ],
+   "cut": {
+    "it": 6,
+    "size": 5
+   }
+  },
+  {
+   "src": "Rams.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "cars",
+   "names": [
+    "ram-01-1500-limited-black",
+    "ram-02-1500-trx-red",
+    "ram-03-1500-big-horn-gray",
+    "ram-04-1500-rho-white",
+    "ram-05-1500-rebel-blue",
+    "ram-06-3500-dually-black",
+    "ram-07-1500-laramie-red",
+    "ram-08-1500-night-gray",
+    "ram-09-1500-tradesman-white",
+    "ram-10-power-wagon-tan",
+    "ram-11-1500-sport-black",
+    "ram-12-1500-longhorn-blue"
+   ],
+   "box": [
+    120,
+    76
+   ],
+   "cut": {
+    "it": 6,
+    "size": 5
+   }
+  },
+  {
+   "src": "joyas.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "jewelry",
+   "names": [
+    "gem-01-solitaire-ring",
+    "gem-02-emerald-pendant",
+    "gem-03-tennis-bracelet",
+    "gem-04-sapphire-studs",
+    "gem-05-lion-signet",
+    "gem-06-ruby-halo-ring",
+    "gem-07-pearl-bracelet",
+    "gem-08-heart-pendant",
+    "gem-09-diamond-watch",
+    "gem-10-sapphire-gold-ring",
+    "gem-11-drop-earrings",
+    "gem-12-gold-bangle"
+   ],
+   "box": [
+    120,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   },
+   "keep_all": [
+    "gem-04-sapphire-studs",
+    "gem-11-drop-earrings"
+   ]
+  },
+  {
+   "src": "joyas ancestrales.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "jewelry",
+   "names": [
+    "anc-01-falcon-collar",
+    "anc-02-royal-crown",
+    "anc-03-lapis-seal-ring",
+    "anc-04-jade-mask-pendant",
+    "anc-05-lion-cuff",
+    "anc-06-ruby-pearl-brooch",
+    "anc-07-coin-necklace",
+    "anc-08-emerald-ring",
+    "anc-09-pearl-collar",
+    "anc-10-lion-bangle",
+    "anc-11-ruby-brooch",
+    "anc-12-dragon-cuff"
+   ],
+   "box": [
+    120,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   },
+   "keep_all": [
+    "gem-04-sapphire-studs",
+    "gem-11-drop-earrings"
+   ]
+  },
+  {
+   "src": "MAS PELOS.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "hair",
+   "names": [
+    "nh01",
+    "nh02",
+    "nh03",
+    "nh04",
+    "nh05",
+    "nh06",
+    "nh07",
+    "nh08",
+    "nh09",
+    "nh10",
+    "nh11",
+    "nh12"
+   ],
+   "box": null,
+   "cut": {
+    "it": 3,
+    "thr": 9,
+    "size": 5
+   },
+   "mode": "hair",
+   "suffix": "-hair-base"
+  },
+  {
+   "src": "Nuevoa cabellos.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "hair",
+   "names": [
+    "nh13",
+    "nh14",
+    "nh15",
+    "nh16",
+    "nh17",
+    "nh18",
+    "nh19",
+    "nh20",
+    "nh21",
+    "nh22",
+    "nh23",
+    "nh24"
+   ],
+   "box": null,
+   "cut": {
+    "it": 3,
+    "thr": 9,
+    "size": 5
+   },
+   "mode": "hair",
+   "suffix": "-hair-base"
+  },
+  {
+   "src": "MEDICAMENTOS ANTIDEPRE.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "meds",
+   "names": [
+    "zoloft",
+    "lexapro",
+    "prozac",
+    "cymbalta",
+    "effexor",
+    "wellbutrin",
+    "remeron",
+    "desyrel",
+    "paxil",
+    "celexa",
+    "elavil",
+    "trintellix"
+   ],
+   "box": [
+    160,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "thr": 18,
+    "size": 5,
+    "hole_max": 2500
+   }
+  },
+  {
+   "src": "DIFERENTES ANIMALES.png",
+   "mode": "segment",
+   "layout": [
+    4,
+    6
+   ],
+   "out": "zoo",
+   "box": [
+    128,
+    96
+   ],
+   "thr": 12,
+   "grow": 6,
+   "names": [
+    "lion",
+    "elephant",
+    "giraffe",
+    "zebra",
+    "rhino",
+    "hippo",
+    "cheetah",
+    "hyena",
+    "gorilla",
+    "tiger"
+   ]
+  },
+  {
+   "src": "INVIERNO.png",
+   "mode": "segment",
+   "layout": [
+    4,
+    4
+   ],
+   "out": "zoo",
+   "box": [
+    128,
+    96
+   ],
+   "thr": 12,
+   "grow": 6,
+   "names": [
+    "polarbear",
+    "penguin",
+    "seal",
+    "walrus",
+    "arcticwolf",
+    "arcticfox",
+    "reindeer",
+    "snowleopard"
+   ]
+  },
+  {
+   "src": "BEARS.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "zoo",
+   "box": [
+    128,
+    96
+   ],
+   "cut": {
+    "it": 4,
+    "thr": 10,
+    "size": 5
+   },
+   "names": [
+    "brownbear",
+    "bear-polar",
+    "blackbear",
+    "panda",
+    "bear-kodiak",
+    "sunbear",
+    "bear-russet",
+    "slothbear",
+    "bear-american",
+    "spectacledbear",
+    "bear-cinnamon",
+    "bear-grey"
+   ]
+  },
+  {
+   "src": "SNAKES.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "zoo",
+   "box": [
+    128,
+    96
+   ],
+   "cut": {
+    "it": 4,
+    "thr": 10,
+    "size": 5
+   },
+   "names": [
+    "snake-green",
+    "cobra",
+    "snake",
+    "coralsnake",
+    "rattlesnake",
+    "snake-banana",
+    "snake-black",
+    "greenpython",
+    "snake-blue-krait",
+    "snake-milk",
+    "hornedviper",
+    "snake-forest-cobra"
+   ]
+  },
+  {
+   "src": "PARA QUE NO USES EMOJIS.png",
+   "mode": "segment",
+   "layout": [
+    4,
+    4
+   ],
+   "out": "zoo",
+   "box": [
+    128,
+    96
+   ],
+   "thr": 12,
+   "grow": 6,
+   "names": [
+    "dolphin",
+    "shark",
+    "parrot",
+    "flamingo",
+    "monkey",
+    "kangaroo",
+    "owl",
+    "lizard"
+   ]
+  },
+  {
+   "src": "BLACK MARKET.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "blackmarket",
+   "names": [
+    "bm-01-katana-black",
+    "bm-02-rolex-submariner",
+    "bm-03-jesus-piece-chain",
+    "bm-04-royal-crown",
+    "bm-05-dragon-pistol",
+    "bm-06-ap-diamond-watch",
+    "bm-07-oni-mask",
+    "bm-08-lv-duffel-brown",
+    "bm-09-roman-bust",
+    "bm-10-scorpion-ring",
+    "bm-11-dragon-nunchucks",
+    "bm-12-knight-helmet"
+   ],
+   "box": [
+    120,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   },
+   "keep_all": [
+    "bm-01-katana-black",
+    "bm-11-dragon-nunchucks"
+   ]
+  },
+  {
+   "src": "BLACK MARKET2.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "blackmarket",
+   "names": [
+    "bm-13-katana-gold-dragon",
+    "bm-14-rolex-submariner-steel",
+    "bm-15-panther-chain",
+    "bm-16-pharaoh-mask",
+    "bm-17-ap-royal-oak",
+    "bm-18-diamond-cross-chain",
+    "bm-19-karambit",
+    "bm-20-patek-nautilus-gold",
+    "bm-21-lv-duffel-black",
+    "bm-22-dragon-statue",
+    "bm-23-diamond-crown",
+    "bm-24-diamond-glock"
+   ],
+   "box": [
+    120,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   },
+   "keep_all": [
+    "bm-13-katana-gold-dragon",
+    "bm-21-lv-duffel-black",
+    "bm-19-karambit"
+   ]
+  },
+  {
+   "src": "CASAS6.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "houses",
+   "names": [
+    "realhome-01",
+    "realhome-02",
+    "realhome-03",
+    "realhome-04",
+    "realhome-05",
+    "realhome-06",
+    "realhome-07",
+    "realhome-08",
+    "realhome-09",
+    "realhome-10",
+    "realhome-11",
+    "realhome-12"
+   ],
+   "box": [
+    120,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   }
+  },
+  {
+   "src": "CASAS5.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "houses",
+   "names": [
+    "realhome-13",
+    "realhome-14",
+    "realhome-15",
+    "realhome-16",
+    "realhome-17",
+    "realhome-18",
+    "realhome-19",
+    "realhome-20",
+    "realhome-21",
+    "realhome-22",
+    "realhome-23",
+    "realhome-24"
+   ],
+   "box": [
+    120,
+    120
+   ],
+   "cut": {
+    "it": 4,
+    "size": 5,
+    "hole_max": 2500
+   }
+  },
+  {
+   "src": "ISLAS2.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "islands",
+   "box": [
+    380,
+    310
+   ],
+   "cut": {
+    "it": 3,
+    "thr": 10,
+    "size": 5
+   },
+   "names": [
+    "island-01-modern-villa",
+    "island-02-spanish-villa",
+    "island-03-tiki-huts",
+    "island-04-manor-house",
+    "island-05-farm-water-tower",
+    "island-06-jungle-cabin",
+    "island-07-lighthouse",
+    "island-08-pool-house",
+    "island-09-windmill-farm",
+    "island-10-cliff-house",
+    "island-11-village-shop",
+    "island-12-golf-course"
+   ]
+  },
+  {
+   "src": "ISlas1.webp",
+   "cols": 4,
+   "rows": 3,
+   "out": "islands",
+   "box": [
+    190,
+    160
+   ],
+   "cut": {
+    "it": 3,
+    "thr": 10,
+    "size": 5
+   },
+   "names": [
+    "wild-01-lagoon-hill",
+    "wild-02-rocky-peak",
+    "wild-03-meadow",
+    "wild-04-yacht-villa",
+    "wild-05-cave-island",
+    "wild-06-flat-meadow",
+    "wild-07-lighthouse",
+    "wild-08-lagoon-cave",
+    "wild-09-stilt-hut",
+    "wild-10-white-villa",
+    "wild-11-palm-meadow",
+    "wild-12-arch-cave"
+   ]
+  },
+  {
+   "src": "Mas motos.png",
+   "cols": 3,
+   "rows": 4,
+   "out": "bikes",
+   "box": [
+    300,
+    200
+   ],
+   "cut": {
+    "it": 3,
+    "thr": 8,
+    "size": 5
+   },
+   "names": [
+    "moto-01-yamaha-r6-blue",
+    "moto-02-honda-crf-red",
+    "moto-03-kawasaki-ninja-black",
+    "moto-04-harley-black",
+    "moto-05-honda-scooter-white",
+    "moto-06-bmw-gs-black",
+    "moto-07-ducati-panigale-red",
+    "moto-08-suzuki-gsxr-blue",
+    "moto-09-chopper-black",
+    "moto-10-ktm-enduro-white",
+    "moto-11-kawasaki-z-green",
+    "moto-12-honda-goldwing-red"
+   ]
+  },
+  {
+   "src": "dirtbikes.png",
+   "cols": 3,
+   "rows": 4,
+   "out": "bikes",
+   "box": [
+    300,
+    200
+   ],
+   "cut": {
+    "it": 3,
+    "thr": 8,
+    "size": 5
+   },
+   "names": [
+    "dirt-01-honda-crf-red",
+    "dirt-02-yamaha-yz-blue",
+    "dirt-03-kawasaki-kx-green",
+    "dirt-04-ktm-sx-orange",
+    "dirt-05-husqvarna-white",
+    "dirt-06-suzuki-rm-yellow",
+    "dirt-07-gasgas-red",
+    "dirt-08-beta-white",
+    "dirt-09-sherco-blue",
+    "dirt-10-tm-racing-blue",
+    "dirt-11-monster-black-green",
+    "dirt-12-honda-crf-red-2"
+   ]
+  },
+  {
+   "src": "pasolas.png",
+   "cols": 3,
+   "rows": 4,
+   "out": "bikes",
+   "box": [
+    300,
+    200
+   ],
+   "cut": {
+    "it": 3,
+    "thr": 8,
+    "size": 5
+   },
+   "names": [
+    "scooter-01-honda-dio-black",
+    "scooter-02-yamaha-zuma-blue",
+    "scooter-03-honda-dio-pink",
+    "scooter-04-yamaha-purple",
+    "scooter-05-honda-dio-white",
+    "scooter-06-yamaha-zuma-red",
+    "scooter-07-yamaha-jog-white",
+    "scooter-08-honda-zx-black",
+    "scooter-09-suzuki-blue",
+    "scooter-10-honda-dio-red",
+    "scooter-11-yamaha-yellow",
+    "scooter-12-honda-dio-green"
+   ]
+  },
+  {
+   "src": "grills2.png",
+   "cols": 3,
+   "rows": 4,
+   "out": "jewelry",
+   "box": [
+    200,
+    100
+   ],
+   "cut": {
+    "it": 3,
+    "thr": 10,
+    "size": 5
+   },
+   "names": [
+    "grill34",
+    "grill35",
+    "grill36",
+    "grill37",
+    "grill38",
+    "grill39",
+    "grill40",
+    "grill41",
+    "grill42",
+    "grill43",
+    "grill44",
+    "grill45"
+   ]
+  },
+  {
+   "src": "1 DIENTE.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "jewelry",
+   "box": [
+    120,
+    120
+   ],
+   "cut": {
+    "it": 3,
+    "thr": 10,
+    "size": 5
+   },
+   "names": [
+    "tooth-01-gold-pave",
+    "tooth-02-gold-cross",
+    "tooth-03-silver-pave",
+    "tooth-04-gold-flames",
+    "tooth-05-silver-star",
+    "tooth-06-gold-dollar",
+    "tooth-07-silver-bunny",
+    "tooth-08-gold-drip",
+    "tooth-09-gold-smiley",
+    "tooth-10-silver-pave-grid",
+    "tooth-11-gold-crown",
+    "tooth-12-silver-diamond"
+   ]
+  },
+  {
+   "src": "relojes2.png",
+   "cols": 4,
+   "rows": 3,
+   "out": "jewelry",
+   "box": [
+    128,
+    128
+   ],
+   "cut": {
+    "it": 3,
+    "thr": 10,
+    "size": 5
+   },
+   "names": [
+    "watch-13-submariner-black",
+    "watch-14-royaloak-blue",
+    "watch-15-nautilus-grey",
+    "watch-16-speedmaster-black",
+    "watch-17-santos-square",
+    "watch-18-carrera-chrono",
+    "watch-19-rm-skeleton",
+    "watch-20-hublot-black",
+    "watch-21-datejust-silver",
+    "watch-22-tank-roman",
+    "watch-23-navitimer-pilot",
+    "watch-24-seiko-dark"
+   ]
+  }
+ ]
+}

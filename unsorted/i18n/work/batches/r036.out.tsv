@@ -1,0 +1,700 @@
+28455	Tiré un paquete sospechoso.	Joguei fora um pacote suspeito.
+28456	Recibí una carta de amenaza de {1}.	Recebi uma carta de ameaça de {1}.
+28457	Encontraste una nota metida debajo de tu puerta: "Las ratas no duran mucho."	Você encontrou um bilhete deslizado debaixo da porta: "Ratos não vivem muito."
+28458	Está firmada por {1}.	Está assinada por {1}.
+28459	Mi acuerdo de informante fue revocado después de que me arrestaran por {1}.	Meu acordo de informante foi revogado depois que fui preso por {1}.
+28460	Tu cargo original de {1} se está reinstaurando, y se han presentado cargos adicionales.	Sua acusação original de {1} está sendo reintegrada, e outras acusações foram feitas.
+28461	¡Te arrestaron por {1} mientras actuabas como informante confidencial!	Você foi preso por {1} enquanto agia como informante confidencial!
+28462	Las autoridades revocaron tu acuerdo porque violaste sus términos.{1}	As autoridades revogaram seu acordo porque você violou os termos.{1}
+28463	se enfrentan a hasta {1} año{2} de prisión	enfrentam até {1} ano{2} de prisão
+28464	¡Te acusaron de {1} y {2}!	Você foi acusado de {1} e {2}!
+28465	La fiscalía te ha ofrecido la oportunidad de quedar libre si aceptas ser informante confidencial y aportar pruebas contra {1}.	A acusação te ofereceu a chance de ficar livre se aceitar ser informante confidencial e fornecer provas contra {1}.
+28466	Tendrás {1} años para reunir suficientes pruebas. Si lo logras, se retirarán todos los cargos. Si fallas, enfrentarás el juicio.	Você terá {1} anos para reunir provas suficientes. Se conseguir, todas as acusações serão retiradas. Se falhar, enfrentará a acusação.
+28467	Aceptar ser informante	Aceitar ser informante
+28468	Negarse a ser un soplón	Se recusar a ser dedo-duro
+28469	Me negué a ser informante.	Me recusei a ser informante.
+28470	un seminario de capacitación en diversidad	um seminário de treinamento em diversidade
+28471	un torneo de paintball	um torneio de paintball
+28472	un escape room	uma sala de escape
+28473	una noche de bolos	uma noite de boliche
+28474	una clase de pastas	uma aula de massas
+28475	una retirada de confianza	um retiro de confiança
+28476	un circuito de cuerdas	um circuito de cordas
+28477	La cocina de la Nonna	A cozinha da Nonna
+28478	Una rebanada de vida	Uma fatia de vida
+28479	correr en el parque	correr no parque
+28480	pasear a mi perro	passear com meu cachorro
+28481	cortarme el pelo	cortar o cabelo
+28482	un tintorero	um tintureiro
+28483	un dueño de restaurante	um dono de restaurante
+28484	un delegado sindical	um representante sindical
+28485	un inspector municipal	um fiscal municipal
+28486	un soldado rival	um soldado rival
+28487	un prestamista	um agiota
+28488	un policía corrupto	um policial corrupto
+28489	un dueño de discoteca	um dono de boate
+28490	un capitán rival	um capitão rival
+28491	un concejal	um vereador
+28492	un presunto soplón	um suspeito de ser dedo-duro
+28493	te ha ordenado asustar a {1}, que trabajaba para la familia {2}.	te ordenou assustar {1}, que trabalhava para a família {2}.
+28494	te ha ordenado eliminar a {1}, que ha estado causando problemas a la Familia.	te ordenou eliminar {1}, que tem causado problemas para a Família.
+28495	te ha ordenado vigilar a {1}.	te ordenou ficar de olho em {1}.
+28496	Negarse a hacerlo	Se recusar a fazer isso
+28497	{1} no está contento de que te negaras.	{1} não ficou feliz com sua recusa.
+28498	Rechacé una orden de {1}.	Recusei uma ordem de {1}.
+28499	{1} lo pasó por alto esta vez.	{1} deixou passar desta vez.
+28500	Inventé una excusa para librarme de una orden.	Inventei uma desculpa para me livrar de uma ordem.
+28501	No me lo creo	Não estou comprando isso
+28502	{1} no se tragó tu excusa.	{1} não comprou sua desculpa.
+28503	{1} no se tragó mi excusa.	{1} não comprou minha desculpa.
+28504	Delegarlo	Delegar isso
+28505	{1} se encargó de eso por ti.	{1} cuidou disso por você.
+28506	Hice que {1} cumpliera una orden por mí.	Fiz {1} cumprir uma ordem por mim.
+28507	Tu subordinado arruinó el trabajo.	Seu subordinado estragou o trabalho.
+28508	Mi subordinado arruinó una orden.	Meu subordinado estragou uma ordem.
+28509	Hazlo, sin preguntas	Faça, sem perguntas
+28510	Te encargaste de {1}.	Você cuidou de {1}.
+28511	Asustaste a {1} para que se portara bien.	Você assustou {1} pra ficar quieto.
+28512	Vigilaste a {1} e informaste de vuelta.	Você ficou de olho em {1} e relatou de volta.
+28513	asustar	assustar
+28514	Cumplí una orden de {1} de {2} {3}.	Cumpri uma ordem de {1} de {2} {3}.
+28515	{1} te descubrió siguiéndolo.	{1} te pegou seguindo ele.
+28516	Me descubrieron espiando a {1}.	Fui descoberto espionando {1}.
+28518	ser eliminado por la familia {1}	ser eliminado pela família {1}
+28519	¡Un asociado de la familia {1} te atacó!	Um associado da família {1} te atacou!
+28520	Mientras estás {1}, un asociado de la familia {2} te encara!	Enquanto você está {1}, um associado da família {2} te encara!
+28521	Huí de un asociado de la familia {1}.	Fugi de um associado da família {1}.
+28522	Un asociado de la familia {1} me atrapó.	Um associado da família {1} me pegou.
+28523	Intentar razonar con {1}	Tentar conversar com {1}
+28524	Razoné con un asociado de la familia {1}.	Tentei conversar com um associado da família {1}.
+28525	Razonar con un asociado de la familia {1} no sirvió.	Conversar com um associado da família {1} não funcionou.
+28526	Rechazaste al asociado de la familia {1}.	Você afastou o associado da família {1}.
+28527	Rechacé a un asociado de la familia {1}.	Afastei um associado da família {1}.
+28528	Un asociado de la familia {1} me ganó en una pelea.	Um associado da família {1} me venceu numa briga.
+28529	Te dejaron ir con una advertencia.	Deixaram você ir com um aviso.
+28530	Un asociado de la familia {1} me perdonó la vida.	Um associado da família {1} me poupou.
+28531	Suplicar no sirvió con el asociado de la familia {1}.	Implorar não funcionou com o associado da família {1}.
+28532	{1} me puso el apodo "{2}".	{1} me deu o apelido "{2}".
+28533	{1} te ha puesto un apodo.	{1} te deu um apelido.
+28534	El {1} de la Familia, {2}, está organizando una actividad de trabajo en equipo llevando a la Familia a {3}.	O {1} da Família, {2}, está organizando uma atividade de integração levando a Família a {3}.
+28535	¿Vas a ir?	Você vai?
+28536	Claro, iré	Claro, vou
+28537	Fuiste a {1} con la Familia.	Você foi a {1} com a Família.
+28538	Fui a {1} con {2}.	Fui a {1} com {2}.
+28539	No, suena aburrido	Não, parece chato
+28540	Te saltaste la actividad de trabajo en equipo.	Você pulou a atividade de integração.
+28541	Me salté la actividad de trabajo en equipo de {1}.	Pulei a atividade de integração de {1}.
+28542	{1} está impresionado con el {2} que trajiste este año y te elogió frente a toda la Familia.	{1} ficou impressionado com o {2} que você trouxe este ano e te elogiou na frente de toda a Família.
+28543	El contador de la Familia notó que tus cobros han bajado. {1} quiere una explicación.	O contador da Família notou que suas cobranças andaram fracas. {1} quer uma explicação.
+28544	Entrega el dinero que falta	Entregue o dinheiro que falta
+28545	Entregaste {1}.	Você entregou {1}.
+28546	Le pagué al {1} el {2} que me quedé.	Paguei ao {1} o {2} que desviei.
+28547	Di que fue un error	Diga que foi um engano
+28548	{1} lo dejó pasar. Esta vez.	{1} deixou passar. Desta vez.
+28549	Convencí a {1} de que el dinero faltante era un error.	Convimci {1} de que o dinheiro faltante era um engano.
+28550	La Familia te golpeó para mandar un mensaje.	A Família te agrediu para dar um recado.
+28551	La familia me golpeó por el dinero faltante.	A família me agrediu por causa do dinheiro faltante.
+28552	ser eliminado por {1} por desviar dinero	ser eliminado por {1} por desviar dinheiro
+28553	La Familia te enseñó una lección dolorosa sobre el respeto.	A Família te ensinou uma lição dolorosa sobre respeito.
+28554	{1} me golpeó por desviar dinero.	{1} me agrediu por desviar dinheiro.
+28555	Una conversación tranquila	Uma conversa tranquila
+28556	{1} cree que alguien de la banda ha estado hablando con la policía y te pregunta si sabes algo.	{1} acha que alguém da equipe tem falado com a polícia e pergunta se você sabe alguma coisa.
+28557	Buenos instintos	Bons instintos
+28558	Tenías razón sobre {1}. La Familia se encargó de {2}.	Você tinha razão sobre {1}. A Família cuidou de {2}.
+28559	Yo señalé a {1} como el soplón. Tenía razón.	Eu indiquei {1} como o dedo-duro. Eu tinha razão.
+28560	El tipo equivocado	O cara errado
+28561	{1} salió limpio, y ahora {2} te odia.	{1} ficou limpo, e agora {2} te odeia.
+28562	Yo señalé a {1} como soplón por error.	Eu indiquei {1} como dedo-duro por engano.
+28563	Di que no sé nada	Diga que não sei nada
+28564	Le dijiste a {1} que no sabes nada.	Você disse para {1} que não sabe nada.
+28565	Le dije a {1} que no sé nada de ningún soplón.	Eu disse para {1} que não sei nada sobre nenhum dedo-duro.
+28566	{1} se enteró de que avisaste a {2}.	{1} ficou sabendo que você avisou {2}.
+28567	Me atraparon avisando a {1}.	Fui pego avisando {1}.
+28568	Avisaste a {1} en silencio.	Você avisou {1} discretamente.
+28569	Avisé a {1} de que la familia sospecha de un soplón.	Avisei {1} que a família desconfia de um dedo-duro.
+28570	cena en un restaurante familiar	jantar num restaurante da família
+28571	un lounge de puros	um lounge de charutos
+28572	un combate de boxeo	uma luta de boxe
+28573	una partida de póker	um jogo de pôquer
+28574	{1} te invitó a {2}.	{1} te convidou para {2}.
+28575	La pasaste genial con {1}.	Você se divertiu muito com {1}.
+28576	Salí con {1} de {2}.	Saí com {1} da {2}.
+28577	Rechacé una invitación de {1}.	Recusei um convite de {1}.
+28578	{1} te faltó el respeto frente a toda la banda.	{1} te desrespeitou na frente de toda a equipe.
+28579	Lo dejaste pasar.	Você deixou passar.
+28580	Lo dejé pasar cuando {1} me faltó el respeto.	Deixei passar quando {1} me desrespeitou.
+28581	{1} se echó atrás.	{1} recuou.
+28582	Enfrenté a {1} y {2} se echó atrás.	Enfrentei {1} e {2} recuou.
+28583	{1} está abriendo un {2} para lavar dinero y quiere tu opinión sobre el nombre.	{1} está abrindo um {2} para lavar dinheiro e quer sua opinião sobre o nome.
+28584	¿Cómo debería llamarse?	Como deve se chamar?
+28585	La Familia abrió {1} {2}.	A Família abriu {1} {2}.
+28586	Ayudé a nombrar el nuevo negocio fachada de {1}, {2} {3}.	Ajudei a nomear o novo negócio de fachada de {1}, {2} {3}.
+28587	El peso de la corona	O peso da coroa
+28588	{1} te confiesa que {2} ha estado sintiéndose culpable por esta vida últimamente.	{1} te confessa que {2} andar se sentindo culpado por essa vida ultimamente.
+28589	Diles que viene con el trabajo	Diga que vem com o trabalho
+28590	{1} apreció tu honestidad.	{1} apreciou sua honestidade.
+28591	Sugiere que se confiese	Sugira que se confesse
+28592	{1} dijo que {2} lo pensaría.	{1} disse que {2} pensaria nisso.
+28593	Sugerí que {1} se confesara.	Sugeri que {1} se confessasse.
+28594	Sugiere que se retire	Sugira que se aposente
+28595	{1} cree que vas por el puesto de {2}.	{1} acha que você está de olho no cargo de {2}.
+28596	Sugerí que {1} se retirara. {2} no lo tomó bien.	Sugeri que {1} se aposentasse. {2} não levou bem.
+28597	{1} se rió de eso.	{1} riu disso.
+28598	Sugerí que {1} se retirara.	Sugeri que {1} se aposentasse.
+28599	el club social	o clube social
+28600	una mesa en la trastienda del restaurante	uma mesa nos fundos do restaurante
+28601	un estacionamiento	uma garagem
+28602	{1} te ha citado a una reunión en {2}.	{1} te convocou para uma reunião em {2}.
+28603	Presentarse ante la Familia	Comparecer perante a Família
+28604	La Familia tenía dudas sobre tu lealtad. Te lo hicieron entender a puñetazos.	A Família tinha dúvidas sobre sua lealdade. Eles deixaram o recado com os punhos.
+28605	Me disciplinó {1}.	Fui disciplinado por {1}.
+28606	{1} solo quería asegurarse de que sigues ocupado.	{1} só queria garantir que você continua ocupado.
+28607	Ignorar la citación	Ignorar a convocação
+28608	Ignoraste la citación de {1}. Eso no se olvidará.	Você ignorou a convocação de {1}. Isso não será esquecido.
+28609	Ignoré una citación de {1}.	Ignorei uma convocação de {1}.
+28610	fue asesinado por una familia rival	foi morto por uma família rival
+28611	arrestado	preso
+28612	Una redada del FBI detuvo a {1} miembros de {2}. Alguien ha estado hablando.	Uma operação do FBI prendeu {1} membros da {2}. Alguém andou falando.
+28613	{1} es ahora el {2} de {3}.	{1} é agora o {2} da {3}.
+28614	{1} me dejó ir.	{1} me dispensou.
+28615	{1} ya no te necesita y te dejó ir.	{1} não tem mais utilidade para você e te dispensou.
+28616	el {1} del jugador	o {1} do jogador
+28617	el padre del jugador	o pai do jogador
+28618	del jugador	do jogador
+28619	el amigo del jugador	o amigo do jogador
+28620	cercano	próximo
+28621	bien, no especialmente cercano	ok, não especialmente próximo
+28622	tenso	tenso
+28623	terrible	terrível
+28624	A los {1} años: {2}	Aos {1} anos: {2}
+28625	Este año: {1}	Este ano: {1}
+28626	A los {1} años, "{2}"{3}: {4} El jugador eligió: "{5}".	Aos {1} anos, "{2}"{3}: {4} O jogador escolheu: "{5}".
+28627	, {1} {2}% durante el último año	, {1} {2}% no último ano
+28628	Estás casado con el jugador y comparten una cuenta bancaria conjunta, así que puedes ver su saldo cuando quieras.	Você é casado com o jogador e divide uma conta bancária conjunta, então pode ver o saldo a qualquer hora.
+28629	Bloqueaste la cuenta bancaria del jugador, así que puedes ver exactamente lo que hay en ella.	Você bloqueou a conta bancária do jogador, então pode ver exatamente o que tem nela.
+28630	El jugador es menor de edad, así que su cuenta bancaria está vinculada a la tuya y puedes ver el saldo.	O jogador é menor de idade, então a conta dele está vinculada à sua e você pode ver o saldo.
+28631	Saldo bancario ahora mismo: {1}.	Saldo bancário agora: {1}.
+28632	Inversiones por valor de {1} en total. Ganancia total por inversiones: {2}. Por cripto: {3}. Por acciones y fondos: {4}.	Investimentos valendo {1} no total. Lucro total com investimentos: {2}. Com cripto: {3}. Com ações e fundos: {4}.
+28633	, y se ha desplomado	, e desabou
+28634	- {1} {2}{3}{4}: vale {5} ahora, pagaron {6} ({7}){8}.	- {1} {2}{3}{4}: vale {5} agora, pagaram {6} ({7}){8}.
+28635	No tienen ninguna inversión: ni acciones ni cripto.	Não têm nenhum investimento: nem ações nem cripto.
+28636	ojos rojos e inyectados en sangre	olhos vermelhos e injetados
+28637	pesados, oscuros	pesados, escuros
+28638	bolsas bajo los ojos	olheiras abaixo dos olhos
+28639	mejillas huecas y hundidas	bochechas ocas e afundadas
+28640	llagas en la cara	feridas no rosto
+28641	El consumo de drogas ha cambiado visiblemente su aspecto: {1}. Cualquiera que los vea nota que algo va mal.	O uso de drogas mudou visivelmente a aparência deles: {1}. Qualquer pessoa que os vê percebe que algo está errado.
+28642	@{1} en {2} ({3} seguidores)	@{1} na {2} ({3} seguidores)
+28643	"{1}" tatuado en la frente	"{1}" tatuado na testa
+28644	un tatuaje "{1}" en la mejilla izquierda	uma tatuagem "{1}" na bochecha esquerda
+28645	un tatuaje "{1}" en la mejilla derecha	uma tatuagem "{1}" na bochecha direita
+28646	s bajo ambos ojos	s abaixo de ambos os olhos
+28647	bajo un ojo	abaixo de um olho
+28648	impactante	deslumbrante
+28649	Su aspecto: {1}.	A aparência deles: {1}.
+28650	Tienen tatuajes en la cara: {1}.	Eles têm tatuagens no rosto: {1}.
+28651	Tienen un gran tatuaje "{1}" en la cara.	Eles têm uma tatuagem grande "{1}" no rosto.
+28652	Tienen barba.	Eles têm barba.
+28653	Se tiñeron el pelo de un color poco común.	Eles tingiram o cabelo de uma cor incomum.
+28654	enfermizo	doentio
+28655	bien	bem
+28656	infeliz	infeliz
+28657	miserable	miserável
+28658	brillante	brilhante
+28659	promedio	médio
+28660	no es muy listo	não é muito esperto
+28661	le cuesta mucho	tem muita dificuldade
+28662	Salud: {1}. Ánimo últimamente: {2}. Inteligencia: {3}.	Saúde: {1}. Humor ultimamente: {2}. Inteligência: {3}.
+28663	en la ruina	quebrado
+28664	acomodado	confortável
+28665	Dinero: {1} (patrimonio neto unos {2}).	Dinheiro: {1} (patrimônio líquido cerca de {2}).
+28666	Están en {1} ahora mismo por {2}.	Estão em {1} agora por {2}.
+28667	({1} año{2} ahí)	({1} ano{2} lá)
+28668	(recién empezaron)	(acabaram de começar)
+28669	Trabajan como {1} {2}{3}{4}.	Trabalham como {1} {2}{3}{4}.
+28670	Van a {1}.	Vão para {1}.
+28671	Están desempleados.	Estão desempregados.
+28672	Tienen antecedentes penales (condenados por {1} a los {2} años).	Têm ficha criminal (condenados por {1} aos {2} anos).
+28673	Han tenido problemas con la policía.	Tiveram problemas com a polícia.
+28674	desconocido	desconhecido
+28675	Dónde viven: {1}.	Onde moram: {1}.
+28676	Tienen unos {1} invertidos	Têm cerca de {1} investido
+28677	y han ganado	e ganharam
+28678	y han perdido	e perderam
+28679	{1} unos {2} de inversiones en total	{1} cerca de {2} com investimentos no total
+28680	de ganancias con cripto	de lucro com cripto
+28681	y perdieron unos	e perderam cerca de
+28682	aspecto	aparência
+28683	La noticia se ha difundido por toda la familia.	A notícia se espalhou por toda a família.
+28684	CÓMO SE VEN AHORA: {1} Reacciona como lo haría tu personaje: un padre está asustado, con el corazón roto o furioso y puede suplicarles que busquen ayuda, un hermano puede ser directo o estar preocupado, una pareja puede sentir que le mintieron, un amigo cercano puede hacer una intervención o alejarse poco a poco. Esto cambia lo cálido que eres con ellos.	COMO ESTÃO AGORA: {1} Reaja como o seu personagem reagiria: um pai está assustado, de coração partido ou furioso e pode implorar que procurem ajuda, um irmão pode ser direto ou preocupado, um parceiro pode se sentir enganado, um amigo próximo pode fazer uma intervenção ou aos poucos se afastar. Isso muda o quanto você é caloroso com eles.
+28685	Están adictos a {1}.	Estão viciados em {1}.
+28686	y tomaron el dinero que había en ella	e pegaram o dinheiro que estava lá
+28687	El {1} del jugador les bloqueó la cuenta bancaria por su consumo de drogas{2}.	O {1} do jogador bloqueou a conta bancária deles por causa do uso de drogas{2}.
+28688	Son famosos (fama {1}/100).	São famosos (fama {1}/100).
+28689	Sus redes sociales: {1}.	Redes sociais deles: {1}.
+28690	Tienen un título en {1}.	Têm um diploma em {1}.
+28691	Son {1}.	São {1}.
+28692	ESTE ERES TÚ. Tu relación con el jugador es {1}.	ESTE É VOCÊ. Sua relação com o jogador é {1}.
+28693	la relación del jugador con ellos es {1}.	a relação do jogador com eles é {1}.
+28694	Ej: {1} {2} (terminaron a los {3} años).	Ex: {1} {2} (terminaram aos {3} anos).
+28695	Amigos más cercanos: {1}.	Amigos mais próximos: {1}.
+28696	TU PROPIA HISTORIA CON EL JUGADOR (de la historia de vida del jugador, escrita por el jugador en primera persona ("yo"); "{1}" eres tú): {2}	SUA PRÓPRIA HISTÓRIA COM O JOGADOR (da história de vida do jogador, escrita por ele na primeira pessoa ("eu"); "{1}" é você): {2}
+28697	, escribió el jugador	, escreveu o jogador
+28698	, escribiste	, você escreveu
+28699	NO has visto ningún correo que el jugador haya enviado a otra persona. Solo este hilo y tus propios correos anteriores con ellos te pertenecen, además de todo lo que aparece bajo COSAS QUE SUPISTE DE SEGUNDA MANO.	Você NÃO viu nenhum e-mail que o jogador enviou para outra pessoa. Só esta conversa e seus próprios e-mails anteriores com eles são seus, além de tudo que está em COISAS QUE VOCÊ OUVIU DE TERCEIROS.
+28700	COSAS QUE SUPISTE DE SEGUNDA MANO (otras personas te contaron qué les envió el jugador por correo. Solo lo sabes porque te lo dijeron. Reacciona como lo haría tu personaje: sorprendido, orgulloso, preocupado, enfadado, divertido o chismoso):	COISAS QUE VOCÊ OUVIU DE TERCEIROS (outras pessoas te contaram o que o jogador lhes enviou por e-mail. Você só sabe disso porque elas te disseram. Reaja como o seu personagem reagiria: chocado, orgulhoso, preocupado, irritado, divertido ou fofoqueiro):
+28701	recientemente	recentemente
+28702	cuando el jugador tenía {1}	quando o jogador tinha {1}
+28703	{1} te dijo que {2} el jugador le envió un correo a {3} diciendo: "{4}"{5}	{1} te disse que {2} o jogador mandou um e-mail para {3} dizendo: "{4}"{5}
+28704	[ya mencionaste esto antes con el jugador]	[você já mencionou isso antes com o jogador]
+28705	[NUEVO: aún no le has dicho nada al jugador sobre esto. Menciónalo en este correo.]	[NOVO: você ainda não disse nada ao jogador sobre isso. Mencione neste e-mail.]
+28706	[ya hablado]	[já falado sobre isso]
+28707	[NUEVO: aún no has mencionado esto al jugador. Reacciona en este correo.]	[NOVO: você ainda não mencionou isso ao jogador. Reaja neste e-mail.]
+28708	GRANDES NOTICIAS QUE CORRIERON LA VOZ (seguro que te enteraste): {1}	GRANDES NOTÍCIAS QUE CIRCULARAM (você com certeza ficou sabendo): {1}
+28709	Mascotas que tienen ahora: {1}.	Pets que têm agora: {1}.
+28710	No tienen mascotas ahora mismo.	Não têm pets agora.
+28711	a los {1} años	aos {1} anos
+28712	Mascotas que tenían antes: {1}.	Pets que tinham antes: {1}.
+28713	Las mascotas que murieron se mencionan en su historia de vida.	Os pets que morreram são mencionados na história de vida deles.
+28714	VECES QUE EL JUGADOR SE REUNIÓ O PASÓ TIEMPO CON TU FAMILIA (estuviste allí o tu familia te contó cómo fue. Estas descripciones fueron escritas para el jugador: "tú" significa el jugador, y la familia, mamá, papá o abuela de "{1}" o "su" significa TU familia, mamá, papá o abuela): {2}	VEZES QUE O JOGADOR SE ENCONTROU OU PASSOU TEMPO COM SUA FAMÍLIA (você estava lá ou sua família te contou como foi. Essas descrições foram escritas para o jogador: "você" significa o jogador, e a família, mãe, pai ou vó de "{1}" ou "dele/dela" significa SUA família, mãe, pai ou vó): {2}
+28715	El jugador nunca ha conocido a tu familia. Si sale el tema, sabes que aún no los ha conocido.	O jogador nunca conheceu sua família. Se o assunto surgir, você sabe que ainda não os conheceu.
+28716	Como familia, sabes todo esto.	Como família, você sabe tudo isso.
+28717	Como amigo, sabes casi todo de los últimos años y las cosas importantes de antes.	Como amigo, você sabe quase tudo dos últimos anos e as coisas importantes de antes.
+28718	TODA LA HISTORIA DE VIDA DEL JUGADOR, AÑO POR AÑO (su propio diario, escrito en primera persona. {1} Léelo con atención para entender su vida: trabajos que consiguió o dejó, mascotas que tuvo o perdió, mudanzas, relaciones, peleas, crímenes, dinero. El año más reciente va al final. Úsalo con naturalidad, no lo recites): {2}	TODA A HISTÓRIA DE VIDA DO JOGADOR, ANO POR ANO (o próprio diário dele, escrito na primeira pessoa. {1} Leia com atenção para entender a vida dele: empregos que conseguiu ou largou, pets que teve ou perdeu, mudanças, relacionamentos, brigas, crimes, dinheiro. O ano mais recente vem por último. Use com naturalidade, não recite): {2}
+28719	El jugador es famoso (fama {1}/100). Puede que lo conozcas por eso.	O jogador é famoso (fama {1}/100). Você pode conhecê-lo por isso.
+28720	Sus redes públicas: {1}.	Redes sociais públicas deles: {1}.
+28721	Eres un desconocido. Solo sabes lo que es público o lo que te dicen.	Você é um desconhecido. Só sabe o que é público ou o que eles te dizem.
+28722	Están en la ruina.	Estão quebrados.
+28723	Se las arreglan.	Se viram bem.
+28724	Están bien de dinero.	Estão bem de vida.
+28725	Son ricos.	São ricos.
+28726	están sin hogar	estão sem-teto
+28727	están en la ruina	estão quebrados
+28728	su salud es muy mala	a saúde deles é muito ruim
+28729	parecen estar muy deprimidos	parecem bem deprimidos
+28730	están en prisión	estão na prisão
+28731	no tienen trabajo	não têm emprego
+28732	El jugador parece estar pasando por un momento difícil: {1}.	O jogador parece estar passando por um momento difícil: {1}.
+28733	El jugador es rico y realmente no necesita dinero.	O jogador é rico e não precisa muito de dinheiro.
+28734	casado con {1}	casado com {1}
+28735	soltero	solteiro
+28736	Estás casado.	Você é casado.
+28737	Tu sexualidad: {1}. Eres {2}, de {3} años. El jugador es {4}, de {5} años, y actualmente está {6}. {7}	Sua sexualidade: {1}. Você é {2}, de {3} anos. O jogador é {4}, de {5} anos, e atualmente está {6}. {7}
+28738	Salir con el jugador NO es posible para ti (sexualidad incompatible o una diferencia de edad no permitida), así que debes decir que no.	Namorar com o jogador NÃO é possível para você (sexualidade incompatível ou diferença de idade não permitida), então você deve dizer não.
+28739	guapísimo	lindíssimo
+28740	no es muy inteligente	não é muito inteligente
+28741	le cuesta entender las cosas	tem dificuldade para entender as coisas
+28742	Eres {1}.	Você é {1}.
+28743	excelente	excelente
+28744	Tu salud: {1}.	Sua saúde: {1}.
+28745	Eres emocionalmente imprevisible y dramático.	Você é emocionalmente imprevisível e dramático.
+28746	Tu dinero: {1} (unos {2}).	Seu dinheiro: {1} (cerca de {2}).
+28747	Tu trabajo: {1}.	Seu emprego: {1}.
+28748	Dónde vives: {1}.	Onde você mora: {1}.
+28749	Tu educación: {1}.	Sua educação: {1}.
+28750	Eres muy religioso.	Você é muito religioso.
+28751	Estado civil: {1}.	Estado civil: {1}.
+28752	Eres una celebridad.	Você é uma celebridade.
+28753	comprador	comprador
+28754	desconocido	desconhecido
+28755	Están en prisión ahora mismo.	Estão na prisão agora.
+28756	Trabajan como {1} {2}.	Trabalham como {1} {2}.
+28757	El {1} del jugador, {2},	O {1} do jogador, {2},
+28758	{1} bloqueó la cuenta bancaria del jugador a los {2} años por su adicción a las drogas.	{1} bloqueou a conta bancária do jogador aos {2} anos por causa da dependência de drogas.
+28759	{1} tomó el {2} que había en ella.	{1} pegou o {2} que estava lá.
+28760	El {1} que hay en ella está congelado.	O {1} que está lá está congelado.
+28761	Se desbloquea automáticamente cuando cumplen 18 (ahora tienen {1}).	Desbloqueia automaticamente quando completam 18 anos (agora têm {1}).
+28762	Sigues enfadado porque el jugador fue grosero contigo hace poco.	Você ainda está irritado porque o jogador foi grosseiro com você recentemente.
+28763	alguien que quiere comprarle un nombre de usuario al jugador	alguém que quer comprar um nome de usuário do jogador
+28764	la persona que envió el primer correo en este hilo	a pessoa que enviou o primeiro e-mail nesta conversa
+28765	Dirección de billetera de {1} ({2}): {3}	Endereço de carteira de {1} ({2}): {3}
+28766	Pagaste {1} en {2}, el jugador te envió el acceso, iniciaste sesión en @{2} y la cuenta está BLOQUEADA (suspendida). Pagaste por una cuenta muerta. Estás furioso y sientes que te estafaron.	Você pagou {1} em {2}, o jogador te enviou o login, você entrou em @{2} e a conta está BANIDA (suspensa). Você pagou por uma conta morta. Está furioso e se sente lesado.
+28767	Pagaste, el jugador te envió el acceso, iniciaste sesión en @{1} y funcionó. La cuenta es tuya ahora. El trato está cerrado y estás feliz.	Você pagou, o jogador te enviou o login, você entrou em @{1} e funcionou. A conta é sua agora. Negócio fechado e você está feliz.
+28768	Pagaste y el jugador te transfirió @{1}. Trato cerrado.	Você pagou e o jogador transferiu @{1} para você. Negócio fechado.
+28769	Solo te enviaron los datos de acceso, pero al probarlos decía usuario o contraseña incorrectos. Diles que no funcionó y pregunta qué pasa.	Eles só enviaram os dados de login, mas quando você tentou dizia usuário ou senha errados. Diga que não funcionou e pergunte o que houve.
+28770	Aún NO te han enviado un acceso que funcione.	Ainda NÃO enviaram um login que funcione.
+28771	YA ENVIASTE {1} en {2} a la billetera del jugador. Estás esperando a que te envíen por correo el acceso a @{3} (usuario y contraseña). {4}	VOCÊ JÁ ENVIOU {1} em {2} para a carteira do jogador. Está esperando que enviem por e-mail o login de @{3} (usuário e senha). {4}
+28772	el jugador hablaba por correo de cometer {1}	o jogador falava por e-mail sobre cometer {1}
+28773	Le escribí por correo a {1} sobre {2}.	Mandei e-mail para {1} sobre {2}.
+28774	{1} envió mi correo a la policía.	{1} enviou meu e-mail para a polícia.
+28775	{1} envió tu correo a la policía. Lo están tratando como prueba de {2}.	{1} enviou seu e-mail para a polícia. Estão tratando como prova de {2}.
+28776	Mi {1}, {2}, me envió {3} después de que se lo pidiera por correo.	Meu {1}, {2}, me enviou {3} depois que pedi por e-mail.
+28777	Dinero recibido	Dinheiro recebido
+28778	{1} te envió {2}. Está en tu cuenta bancaria.	{1} te enviou {2}. Está na sua conta bancária.
+28779	{1} convenció a {2}, y	{1} convenceu {2}, e
+28780	{1} desbloqueó tu cuenta bancaria.{2}	{1} desbloqueou sua conta bancária.{2}
+28781	Le pedí a {1} salir por correo y {2} dijo que sí. Ahora salimos.	Chamei {1} para sair por e-mail e {2} aceitou. Agora estamos namorando.
+28782	Es oficial	É oficial
+28783	¡{1} dijo que sí! Ahora salen juntos. {2} está en tus Relaciones ahora.{3}	{1} aceitou! Vocês dois estão namorando agora. {2} está nos seus Relacionamentos agora.{3}
+28784	Le pedí a {1} salir por correo, pero {2} me rechazó.	Chamei {1} para sair por e-mail, mas {2} me recusou.
+28785	eso los molestó mucho	isso os deixou bem chateados
+28786	eso los puso muy felices	isso os deixou muito felizes
+28787	{1} renunció a comprar mi nombre de usuario @{2}.	{1} desistiu de comprar meu nome de usuário @{2}.
+28788	🪙 Recibiste {1} {2}	🪙 Você recebeu {1} {2}
+28789	{1} envió {2} {3} ({4}) a tu billetera {5}... Está en tu cripto (Activos → Inversiones).	{1} enviou {2} {3} ({4}) para sua carteira {5}... Está na sua cripto (Ativos → Investimentos).
+28790	no-reply@{1}wallet.com	no-reply@{1}wallet.com
+28791	{1} me envió {2} en {3} por mi nombre de usuario de {4} @{5}.	{1} me enviou {2} em {3} pelo meu nome de usuário {4} @{5}.
+28792	Pago recibido	Pagamento recebido
+28793	{1} envió {2} {3} ({4}) a tu billetera. Ahora está en tu cripto.	{1} enviou {2} {3} ({4}) para sua carteira. Agora está na sua cripto.
+28794	Están esperando el acceso a @{1}. Respóndeles con usuario:contraseña. Si te quedas callado, empezarán a preocuparse.	Estão esperando o login de @{1}. Responda com usuário:senha. Se você ficar quieto, eles vão começar a se preocupar.
+28795	chantaje	chantagem
+28796	robo	roubo
+28797	soborno	suborno
+28798	solicitud de asesinato	solicitação de assassinato
+28799	Nuevo correo: {1}	Novo e-mail: {1}
+28800	Te envié {1} en {2} y nunca enviaste @{3}. Presenté una denuncia con la transacción y tu dirección de billetera. Suerte.	Te enviei {1} em {2} e você nunca enviou @{3}. Fiz um boletim de ocorrência com a transação e seu endereço de carteira. Boa sorte.
+28801	{1} me denunció a la policía después de que tomara {2} en {3} y nunca enviara el nombre de usuario.	{1} me denunciou à polícia depois que peguei {2} em {3} e nunca enviei o nome de usuário.
+28802	La policía congeló y decomisó {1} de tu {2}.	A polícia congelou e apreendeu {1} da sua {2}.
+28803	{1} le dio a la policía la transacción y tu dirección de billetera. Tomaste {2} en {3} y nunca enviaste @{4}.{5}	{1} deu à polícia a transação e seu endereço de carteira. Você pegou {2} em {3} e nunca enviou @{4}.{5}
+28804	wow. en serio agarraste {1} y desapareciste. estafador	uau. você pegou {1} e sumiu mesmo. golpista
+28805	No me creo que confié en ti. disfruta el dinero supongo	Não acredito que confiei em você. aproveite o dinheiro então
+28806	bloqueado. eres un estafador y todos en los grupos de trading lo sabrán	bloqueado. você é um golpista e todos nos grupos de troca vão saber
+28807	Me quedé con el {1} en {2} que {3} me envió y nunca le di @{4}.	Fiquei com o {1} em {2} que {3} me enviou e nunca dei @{4}.
+28808	Envié {1}. Manda el acceso.	Enviei {1}. Mande o login.
+28809	Convencí a {1} de pagar {2} por mi cuenta {3} bloqueada @{4}.	Convimci {1} a pagar {2} pela minha conta {3} banida @{4}.
+28810	{1} te creyó y envió {2}. Les diste el acceso a tu cuenta {3} bloqueada @{4}.	{1} acreditou em você e enviou {2}. Você deu o login da sua conta {3} banida @{4}.
+28811	Ojalá no te denuncien.	Tomara que eles não te denunciem.
+28812	Necesitas tener al menos 10 años para escribir correos.	Você precisa ter pelo menos 10 anos para mandar e-mails.
+28813	Le envié por correo mi frase semilla de {1} a {2}.	Mandei por e-mail minha frase-semente de {1} para {2}.
+28814	{1} tomó control de mi billetera {2} con la frase semilla que le envié.	{1} tomou controle da minha carteira {2} com a frase-semente que enviei.
+28815	{1} usó la frase semilla de {2} que le envié por correo para vaciar mi billetera.	{1} usou a frase-semente de {2} que enviei por e-mail para esvaziar minha carteira.
+28816	Poco después de enviar tu frase semilla a {1}, cada {2} en tu billetera {3} fue enviado a una dirección que no es tuya:	Pouco depois de enviar sua frase-semente para {1}, cada {2} na sua carteira {3} foi enviado para um endereço que não é seu:
+28817	Las transferencias de cripto no se pueden revertir.	Transferências de cripto não podem ser revertidas.
+28818	Le di a {1} el acceso a mi cuenta {2} @{3} después de que me pagara {4} en {5}.	Dei a {1} o login da minha conta {2} @{3} depois que me pagou {4} em {5}.
+28819	{1} inició sesión en @{2}. La cuenta {3} es suya ahora, y el {4} en {5} es tuyo para quedártelo.	{1} entrou em @{2}. A conta {3} é deles agora, e o {4} em {5} é seu para ficar.
+28820	Inicié sesión y @{1} está BLOQUEADA. Tomaste {2} en {3} por una cuenta muerta. Te denuncié a la policía con la transacción y tu dirección de billetera.	Entrei e @{1} está BANIDA. Você pegou {2} em {3} por uma conta morta. Denunciei você à polícia com a transação e seu endereço de carteira.
+28821	{1} me denunció a la policía por venderle una cuenta {2} bloqueada por {3} en {4}.	{1} me denunciou à polícia por vender uma conta {2} banida por {3} em {4}.
+28822	{1} inició sesión, vio que @{2} estaba bloqueada y fue a la policía con la transacción y tu dirección de billetera.{3}	{1} entrou, viu que @{2} estava banida e foi à polícia com a transação e seu endereço de carteira.{3}
+28823	{1} descubrió que la cuenta {2} que le vendí estaba bloqueada.	{1} descobriu que a conta {2} que vendi estava banida.
+28824	hacer amenazas terroristas	fazer ameaças terroristas
+28825	el jugador los amenazó y lo denunciaron a la policía	o jogador os ameaçou e eles denunciaram à polícia
+28826	Le envié un correo amenazante a {1}.	Mandei um e-mail ameaçador para {1}.
+28827	{1} reenvió tu correo a la policía.	{1} encaminhou seu e-mail para a polícia.
+28828	Insulté a {1} en un correo.	Insultei {1} em um e-mail.
+28829	el jugador los insultó y fue grosero con ellos	o jogador os insultou e foi grosseiro com eles
+28830	Ya lo intentaste este año. Soporte te ignora hasta el próximo año.	Você já tentou este ano. O suporte está te ignorando até o ano que vem.
+28831	Vendiste @{1} en {2} a {3}{4}. Cambiaron el acceso, así que ya no está disponible para ti.	Você vendeu @{1} na {2} para {3}{4}. Eles mudaram o login, então não está mais disponível para você.
+28832	Podrías decirle al soporte de {1} que fue hackeado e intentar recuperarlo.{2}	Você poderia dizer ao suporte da {1} que foi hackeado e tentar recuperar.{2}
+28833	Vendido a	Vendido para
+28834	Vendido a los	Vendido aos
+28835	Dile a {1} que fue hackeado	Diga a {1} que foi hackeado
+28836	Intenté recuperar mi antigua cuenta {1} @{2} con soporte, pero no me creyeron.	Tentei recuperar minha conta antiga {1} @{2} com o suporte, mas não acreditaram em mim.
+28837	El soporte de {1} no pudo verificar que la cuenta era tuya. @{2} se queda con {3}.	O suporte da {1} não conseguiu verificar que a conta era sua. @{2} fica com {3}.
+28838	El soporte de {1} me devolvió @{2} después de decir que fue hackeada, aunque se la vendí a {3}.	O suporte da {1} me devolveu @{2} depois que disse que foi hackeada, mesmo tendo vendido para {3}.
+28839	El soporte de {1} te creyó y te devolvió @{2}. {3} acaba de perder la cuenta por la que pagó.	O suporte da {1} acreditou em você e devolveu @{2}. {3} acabou de perder a conta pela qual pagou.
+28841	Te pagué {1}{2} por @{3} y lo recuperaste mediante soporte. Te denuncié a la policía.	Te paguei {1}{2} por @{3} e você puxou de volta pelo suporte. Denunciei você à polícia.
+28842	{1} me denunció a la policía por recuperar la cuenta {2} que le vendí.	{1} me denunciou à polícia por retomar a conta {2} que vendi.
+28843	La policía decomisó {1} de tu {2}.	A polícia apreendeu {1} da sua {2}.
+28844	{1} fue a la policía después de que recuperaras @{2}.{3}	{1} foi à polícia depois que você puxou @{2} de volta.{3}
+28845	recuperaste la cuenta después de que te pagara. increíble	você puxou a conta de volta depois que te paguei. inacreditável
+28846	la cuenta fue "recuperada" al día siguiente de comprarla. Sé que fuiste tú	a conta foi "recuperada" no dia depois que comprei. Sei que foi você
+28847	estafador. pagué {1} por @{2} y lo recuperaste	golpista. paguei {1} por @{2} e você tomou de volta
+28848	me vendiste una cuenta bloqueada. sabes perfectamente lo que hiciste. estafador	você me vendeu uma conta banida. sabe exatamente o que fez. golpista
+28849	sigo esperando el reembolso por @{1}. estuvo bloqueada todo el tiempo y me mentiste	ainda esperando o reembolso de @{1}. ficou banida o tempo todo e você mentiu para mim
+28850	la cuenta nunca volvió. quiero mi dinero de vuelta	a conta nunca voltou. quero meu dinheiro de volta
+28851	disfruta el dinero supongo. espero que haya valido la pena	aproveite o dinheiro então. espero que tenha valido a pena
+28852	{1} me denunció a la policía por venderle una cuenta {2} bloqueada.	{1} me denunciou à polícia por vender uma conta {2} banida.
+28853	Presenté una denuncia sobre el {1} que te envié por @{2}. Sabías que estaba bloqueada. Suerte.	Fiz um boletim de ocorrência sobre o {1} que enviei por @{2}. Você sabia que estava banida. Boa sorte.
+28854	{1} te denunció a la policía por venderle una cuenta {2} bloqueada (@{3}) por {4}.	{1} te denunciou à polícia por vender uma conta {2} banida (@{3}) por {4}.
+28855	La policía finalmente actuó por el correo que le envié a {1} sobre {2}.	A polícia finalmente agiu sobre o e-mail que enviei para {1} sobre {2}.
+28856	La policía apareció por el correo que enviaste a {1} a los {2} años. Se está usando como prueba de {3}.	A polícia apareceu por causa do e-mail que você enviou para {1} aos {2} anos. Está sendo usado como prova de {3}.
+28857	escribe todo en minúsculas y casi sin puntuación	digita tudo em minúsculas e com quase nenhuma pontuação
+28858	usa muchas abreviaturas como u, ur, rn, pls, tho, idk	usa muitos atalhos como u, ur, rn, pls, tho, idk
+28859	se equivoca mucho al escribir	erra muito a grafia
+28860	usa MAYÚSCULAS cuando se emociona	usa MAIÚSCULAS quando fica animado
+28861	pone lol o lmao en casi todas las frases	coloca lol ou lmao na maioria das frases
+28862	escribe correos muy cortos de una línea	escreve e-mails curtos de uma linha
+28863	envía "??" o "hello??" si siente que lo ignoran	envia "??" ou "hello??" se sente ignorado
+28864	les dice bro o dude a la gente	chama todo mundo de bro ou dude
+28865	menciona a su mamá, su mesada o que está ahorrando	menciona a mãe, a mesada ou que está guardando dinheiro
+28866	usa muchos emojis	usa muitos emojis
+28867	está demasiado emocionado y usa muchos !!!	fica animado demais e usa muitos !!!
+28868	se distrae y se va por las ramas	se distrai e sai do assunto
+28869	breve y directo, se salta los saludos	curto e direto, pula as saudações
+28870	escribe frases completas y correctas	escreve frases completas e corretas
+28871	un poco rígido y formal	um pouco rígido e formal
+28872	da un poco de vueltas sobre por qué lo quiere	fala um pouco demais sobre por que quer
+28873	usa "..." entre ideas	usa "..." entre pensamentos
+28874	se despide solo con su inicial	se despede só com a inicial do nome
+28875	amable y charlatán	amigável e falante
+28876	va al grano y quiere que se haga rápido	vai direto ao ponto e quer que seja rápido
+28877	escribe en minúsculas pero por lo demás es normal	digita em minúsculas mas de resto é normal
+28878	comete pequeños errores porque escribe desde el celular	faz pequenos erros porque digita no celular
+28879	impaciente	impaciente
+28880	desconfía mucho de las estafas	desconfia muito de golpes
+28881	tranquilo y relajado	tranquilo e descontraído
+28882	un terco regateador que odia pagar el precio completo	um teimoso que adora pechinchar e odeia pagar preço cheio
+28883	desesperado por ese nombre exacto	desesperado por esse nome exato
+28884	un poco grosero	um pouco grosseiro
+28885	nervioso y demasiado educado	nervoso e educado demais
+28886	presume de sus otros nombres de usuario	se gaba dos outros nomes de usuário
+28887	sarcástico	sarcástico
+28888	dramático	dramático
+28889	raro	esquisito
+28890	hola!! quiero muchísimo tu nombre de {n} @{h}. puedo pagar {amt} es todo lo que ahorré jajaja	oi!! quero muuuito seu nome da {n} @{h}. posso pagar {amt} é toda minha economia kkk
+28891	bro vendeme @{h} pls. {amt}?	bro me vende @{h} pls. {amt}?
+28892	Hola, me gustaría comprar tu nombre de usuario @{h}. Puedo pagar {amt}. Muchas gracias.	Olá, gostaria de comprar seu nome de usuário @{h}. Posso pagar {amt}. Muito obrigado.
+28893	heyyy tu cuenta de {n} @{h} está en venta? tengo {amt} ahora	heyyy sua conta da {n} @{h} está à venda? tenho {amt} agora
+28894	NECESITO @{h} es literalmente mi nombre jajaja. {amt}??	PRECISO de @{h} é literalmente meu nome kkk. {amt}??
+28895	hola soy {first}!! vi tu nombre @{h} en {n} y está re copado. me lo venderías por {amt}?	oi eu sou {first}!! vi seu nome @{h} na {n} e é muito legal. venderia por {amt}?
+28896	@{h} lo estás usando o está inactivo? te pago {amt} por él	@{h} está em uso ou está inativo? pago {amt} por ele
+28897	@{h} en venta	@{h} à venda
+28898	hey, hay alguna chance de que vendas @{h}? puedo dar {amt}.	ei, tem alguma chance de vender @{h}? posso dar {amt}.
+28899	@{h} en {n} está en venta? {amt}, puedo pagar hoy.	@{h} na {n} está à venda? {amt}, posso pagar hoje.
+28900	@{h} - aceptarías {amt} por él?	@{h} - aceitaria {amt} por ele?
+28901	Hola. Hace tiempo que busco un nombre como @{h}. ¿Te sirve {amt}?	Oi. Tem tempo que procuro um nome como @{h}. {amt} serve pra você?
+28902	Eres un niño o adolescente, no un profesional, y escribes como tal.	Você é uma criança ou adolescente, não um profissional, e escreve como um.
+28903	Tienes {1} años. Eres {2}. Cómo escribes correos: {3}.{4}	Você tem {1} anos. Você é {2}. Como escreve e-mails: {3}.{4}
+28904	escribe frases completas y se despide con Mamá o Papá	escreve frases completas e se despede com Mamãe ou Papai
+28905	escribe en MAYÚSCULAS a veces sin querer	digita em MAIÚSCULAS às vezes sem querer
+28906	usa demasiados signos de exclamación	usa muitos pontos de exclamação
+28907	se limita a una o dos líneas	fica em uma ou duas linhas
+28908	escribe largos relatos sobre parientes y vecinos	escreve relatos longos sobre parentes e vizinhos
+28909	pone "..." entre cada idea	coloca "..." entre cada pensamento
+28910	se lleva mal con la tecnología y lo menciona	é ruim com tecnologia e menciona isso
+28911	es simpático y un poco metiche	é caloroso e um pouco intrometido
+28912	es estricto y va al grano	é rígido e vai direto ao ponto
+28913	Eres {1}. Cómo escribes correos: {2}.	Você é {1}. Como escreve e-mails: {2}.
+28914	(sin asunto)	(sem assunto)
+28915	En {1}{2}, {3}{4} escribió:	Em {1}{2}, {3}{4} escreveu:
+28916	{1} te envió {2} en {3}. Están esperando el acceso a @{4}.	{1} te enviou {2} em {3}. Estão esperando o login de @{4}.
+28917	Responde con	Responda com
+28918	Vendido por {1}{2}.	Vendido por {1}{2}.
+28919	Nadie a quien escribir	Ninguém para enviar e-mail
+28920	No tienes a nadie lo suficientemente mayor para escribirle ahora. La gente necesita tener al menos 10 años.	Você não tem ninguém com idade suficiente para enviar e-mail agora. As pessoas precisam ter pelo menos 10 anos.
+28921	¿A quién quieres escribirle desde {1}?	Para quem você quer enviar e-mail de {1}?
+28922	Le escribí por correo a mi {1}, {2}.	Mandei e-mail para meu {1}, {2}.
+28923	Hey, vi @{h} en {n}. Te doy {amt} ahora mismo. Seguro que te viene bien el efectivo.	Ei, vi @{h} na {n}. Te dou {amt} agora mesmo. Aposto que o dinheiro cai bem.
+28924	Te pago {amt} por @{h}. ¿El alquiler vence pronto, no? Dinero fácil.	Pago {amt} por @{h}. O aluguel vence logo, né? Dinheiro fácil.
+28925	{amt} por @{h}. App de pagos lista. No lo pienses demasiado.	{amt} por @{h}. App de pagamento pronta. Não pense demais.
+28926	Dinero rápido: {amt} por @{h}. No vas a conseguir mejor oferta.	Dinheiro rápido: {amt} por @{h}. Você não vai conseguir oferta melhor.
+28927	bro te doy {amt} por @{h}. es solo un nombre jajaja	bro te dou {amt} por @{h}. é só um nome kkk
+28928	Vender @{h} por {amt} podría cubrirte las cuentas de este mes. Solo digo.	Vender @{h} por {amt} pode cobrir suas contas deste mês. Só dizendo.
+28929	Sé que andan tiempos difíciles. {amt} por @{h}, solo hoy.	Sei que andam tempos difíceis. {amt} por @{h}, só hoje.
+28930	Alguien como tú no necesita un nombre como @{h}. {amt}, última oferta.	Alguém como você não precisa de um nome como @{h}. {amt}, última oferta.
+28931	Represento a un comprador privado interesado en @{h} en {n}. Oferta inicial: {amt}. Pon tu precio.	Represento um comprador privado interessado em @{h} na {n}. Oferta inicial: {amt}. Faça seu preço.
+28932	Se nota que te va bien. ¿{amt} te convencería de soltar @{h}?	Dá pra ver que você vai bem. {amt} te convenceria a soltar @{h}?
+28933	Mi cliente quiere @{h} para una marca nueva. {amt}, más un NDA firmado.	Meu cliente quer @{h} para uma marca nova. {amt}, mais um NDA assinado.
+28934	Hola, somos una oficina familiar. Adquirimos activos digitales. {amt} por @{h}.	Olá, aqui é um family office. Adquirimos ativos digitais. {amt} por @{h}.
+28935	Sé que el dinero no es problema para ti, así que voy al grano: {amt} por @{h}.	Sei que dinheiro não é problema para você, então vou direto: {amt} por @{h}.
+28936	Nuestra agencia está lanzando una campaña y necesita @{h}. El presupuesto es {amt}.	Nossa agência está lançando uma campanha e precisa de @{h}. O orçamento é {amt}.
+28937	Considera esto una oferta cortés de {amt} por @{h} antes de que mi cliente vaya directamente a {n}.	Considere isto uma oferta cortês de {amt} por @{h} antes que meu cliente vá direto na {n}.
+28938	Pagaremos {amt} por @{h} en {n} mediante depósito en garantía. Nuestros abogados se encargan de todo.	Pagaremos {amt} por @{h} na {n} via escrow. Nossos advogados cuidam de tudo.
+28939	¡Hola! Sé que es mucho pedir, pero ¿venderías @{h} por {amt}?	Oi! É um tiro no escuro, mas venderia @{h} por {amt}?
+28940	Me encanta el nombre @{h}. Pagaría {amt} por él.	Amei o nome @{h}. Pagaria {amt} por ele.
+28941	Llevo años buscando un nombre como @{h}. {amt}?	Anos procurando um nome como @{h}. {amt}?
+28942	Hey, soy un streamer pequeño y @{h} sería perfecto. {amt} es todo lo que tengo.	Ei, sou um streamer pequeno e @{h} seria perfeito. {amt} é tudo que tenho.
+28943	¿Venderías @{h} por {amt}? Comprador serio.	Venderia @{h} por {amt}? Comprador sério.
+28944	Hey, ¿@{h} está en venta? Puedo dar {amt}.	Ei, @{h} está à venda? Posso dar {amt}.
+28945	Compro tu cuenta completa @{h}, con seguidores y todo, por {amt}.	Compro sua conta inteira @{h}, com seguidores e tudo, por {amt}.
+28946	¿Quieres vender @{h} con todos esos {subs} seguidores? {amt}, me llevo todo.	Quer vender @{h} com todos os {subs} seguidores? {amt}, levo tudo.
+28947	Revendo cuentas grandes. {amt} por @{h} tal cual. Solo me pasas el acceso.	Eu revendo contas grandes. {amt} por @{h} do jeito que está. Só me passar o login.
+28948	Tu cuenta de {n} @{h} tiene un gran público. Te pago {amt} por ella.	Sua conta da {n} @{h} tem um público ótimo. Pago {amt} por ela.
+28949	¿Te retiras de {n}? Te compro @{h} por {amt}.	Vai sair da {n}? Compro @{h} de você por {amt}.
+28950	¡Compramos cualquier cosa!	Compramos qualquer coisa!
+28951	Celulares viejos, joyas, consolas. Tráelos y te damos efectivo al instante. ¡Pagamos hasta el 10% del precio de venta!	Celulares velhos, joias, videogames. Traga e receba dinheiro na hora. Pagamos até 10% do preço de varejo!
+28952	¿Auto chatarra? ¡Pagamos en efectivo!	Carro sucata? Pagamos em dinheiro!
+28953	Lo remolcamos gratis y pagamos hasta {small}. Cualquier estado, ande o no.	Rebocamos de graça e pagamos até {small}. Qualquer estado, funciona ou não.
+28954	¿Necesitas dinero antes de cobrar?	Precisa de dinheiro antes do pagamento?
+28955	Recibe hasta {small} hoy. Solo 389% de interés anual. ¡Aprobación garantizada!	Receba até {small} hoje. Apenas 389% de juros ao ano. Aprovação garantida!
+28956	Gana {small} este mes	Ganhe {small} este mês
+28957	Los nuevos donantes ganan {small} en su primer mes. Se acepta sin cita.	Novos doadores ganham {small} no primeiro mês. Pode chegar sem agendar.
+28958	Convierte tu oro en efectivo	Transforme seu ouro em dinheiro
+28959	¿Joyería de la abuela? ¿Anillos viejos? Pagamos el mejor precio. Más o menos.	Joias da vovó? Anéis velhos? Pagamos o melhor preço. Quase isso.
+28960	Tu celular viejo	Seu celular velho
+28961	Vi que vendes tu celular. Te doy {tiny} por él. Ni un centavo más.	Vi que está vendendo seu celular. Te dou {tiny} por ele. Nem um centavo a mais.
+28962	¿Mal crédito? ¡No hay problema!	Crédito ruim? Sem problema!
+28963	Llévate una TV nueva por solo {tiny} a la semana. Durante 4 años.	Leve uma TV nova por apenas {tiny} por semana. Por 4 anos.
+28964	Vende tus cosas en 60 segundos	Venda suas coisas em 60 segundos
+28965	Sube una foto de cualquier cosa y te hacemos una oferta al instante. Nuestras ofertas son bajas. Muy bajas.	Envie uma foto de qualquer coisa e fazemos uma oferta na hora. Nossas ofertas são baixas. Muito baixas.
+28966	Tu auto	Seu carro
+28967	Hey, te compro el auto por {small}. Sé que vale más, pero tengo efectivo ahora mismo.	Ei, compro seu carro por {small}. Sei que vale mais, mas tenho dinheiro agora.
+28968	¿Atrasado con el alquiler o la hipoteca?	Atrasado no aluguel ou na hipoteca?
+28969	Compramos casas a gente en apuros. Nuestra oferta: muy por debajo del mercado. ¡Llama hoy!	Compramos casas de gente em situação difícil. Nossa oferta: bem abaixo do mercado. Ligue hoje!
+28970	Cambia tus juegos	Troque seus jogos
+28971	¡Obtén {tiny} en crédito de tienda por toda tu colección de juegos!	Receba {tiny} em crédito na loja por toda sua coleção de jogos!
+28972	¿Vendiendo tus cosas?	Vendendo suas coisas?
+28973	Me enteré de que necesitas dinero. Te llevo la TV, el sofá y la bici por {small} en total. Solo hoy.	Fiquei sabendo que precisa de dinheiro. Levo sua TV, sofá e bicicleta por {small} no total. Só hoje.
+28974	Efectivo por el título de tu auto	Dinheiro pelo documento do seu carro
+28975	Sigue manejando tu auto y recibe {small} hoy! (Nosotros nos quedamos con el título.)	Continue dirigindo seu carro e receba {small} hoje! (Nós ficamos com o documento.)
+28976	¡Gana {tiny} al día desde casa!	Ganhe {tiny} por dia em casa!
+28977	Solo responde encuestas. Totalmente real. No es una pirámide.	Só responda pesquisas. Totalmente real. Não é pirâmide.
+28978	Compramos Casas	Compramos Casas
+28979	OFERTA EN EFECTIVO por tu casa	OFERTA À VISTA pela sua casa
+28980	Compramos casas en CUALQUIER estado. Nuestra oferta: {small}. Sí, por toda la casa.	Compramos casas em QUALQUER estado. Nossa oferta: {small}. Sim, pela casa inteira.
+28981	Sotheby's Private Sales	Sotheby's Private Sales
+28982	Consulta de adquisición privada	Consulta de aquisição privada
+28983	Un cliente ha mostrado interés en adquirir una pieza de tu colección. Discreción garantizada.	Um cliente demonstrou interesse em adquirir uma peça da sua coleção. Discrição garantida.
+28984	Monaco Yacht Brokers	Monaco Yacht Brokers
+28985	¿Interesado en vender tu yate?	Interessado em vender seu iate?
+28986	Tenemos compradores esperando embarcaciones como la tuya. Ofertas desde {big}.	Temos compradores esperando embarcações como a sua. Ofertas a partir de {big}.
+28987	Luxury Estates Group	Luxury Estates Group
+28988	Oferta fuera de mercado por tu casa	Oferta fora do mercado pela sua casa
+28989	Un comprador está dispuesto a ofrecer {big} por tu residencia. En efectivo, sin inspección.	Um comprador está disposto a oferecer {big} pela sua residência. À vista, sem vistoria.
+28990	{person} (Coleccionista de autos)	{person} (Colecionador de carros)
+28991	Uno de tus autos	Um dos seus carros
+28992	Soy coleccionista y me gustaría comprar uno de tus autos por {big}. Tú eliges el modelo, yo igualo el precio.	Sou colecionador e gostaria de comprar um dos seus carros por {big}. Você escolhe o modelo, eu igualo o preço.
+28993	Programa de cambio de relojes	Programa de troca de relógios
+28994	Mejora tu reloj. Tomamos tu reloj actual como parte de pago por uno nuevo desde {big}.	Atualize seu relógio. Aceitamos seu relógio atual como parte do pagamento por um novo a partir de {big}.
+28995	Véndenos tus horas de vuelo	Venda para nós suas horas de voo
+28996	Compramos horas de jet privado sin usar a {mid} por hora.	Compramos horas de jato particular não usadas a {mid} por hora.
+28997	Tu colección de arte	Sua coleção de arte
+28998	Varios clientes están interesados en obras contemporáneas como las tuyas. Tasaciones desde {big}.	Vários clientes estão interessados em obras contemporâneas como as suas. Avaliações a partir de {big}.
+28999	Se busca casa de verano	Procura-se casa de verão
+29000	Un cliente famoso quiere una casa de verano como la tuya. Oferta: {big}.	Um cliente famoso quer uma casa de verão como a sua. Oferta: {big}.
+29001	Whale OTC Desk	Whale OTC Desk
+29002	Oferta de cripto al por mayor	Oferta de cripto em grande quantidade
+29003	Compramos tu cripto al por mayor un 2% por encima del mercado. Operación mínima {big}.	Compramos sua cripto em grande quantidade 2% acima do mercado. Negociação mínima {big}.
+29004	Tu ático	Sua cobertura
+29005	Pagaré {big} por encima del precio pedido por tu ático. Mi esposa lo vio una vez. Lo quiere.	Pagarei {big} acima do pedido pela sua cobertura. Minha esposa viu uma vez. Quer.
+29006	Heritage Auction House	Heritage Auction House
+29007	Consigna con nosotros	Consigne com a gente
+29008	Los coleccionistas están pagando precios récord. Déjanos subastar tus piezas más raras.	Colecionadores estão pagando preços recordes. Deixe-nos leiloar suas peças mais raras.
+29009	Tu supercarro	Seu supercarro
+29010	Compramos supercarros con poco kilometraje. Oferta en efectivo: {big}, recogida en trailer cerrado.	Compramos supercarros com baixa quilometragem. Oferta à vista: {big}, retirada em reboque fechado.
+29011	Premier Domain Brokers	Premier Domain Brokers
+29012	Tus nombres de dominio	Seus nomes de domínio
+29013	Nos gustaría adquirir cualquier dominio premium que tengas. Ofertas desde {mid}.	Gostaríamos de adquirir qualquer domínio premium que você tenha. Ofertas a partir de {mid}.
+29014	Alpine Private Bank	Alpine Private Bank
+29015	Gestión patrimonial discreta	Gestão de patrimônio discreta
+29016	Clientes de tu categoría merecen un servicio discreto. Depósito mínimo {big}.	Clientes do seu porte merecem serviço discreto. Depósito mínimo {big}.
+29017	Elite Circle Invitations	Elite Circle Invitations
+29018	Una invitación exclusiva	Um convite exclusivo
+29019	Por una tarifa única de {mid}, únete al club más exclusivo del mundo.	Por uma taxa única de {mid}, entre no clube mais exclusivo do mundo.
+29020	Vi que @{h} fue suspendida en {n}. Compro cuentas bloqueadas y apelo yo mismo. {amt}, rápido.	Vi que @{h} foi suspensa na {n}. Compro contas banidas e faço o recurso eu mesmo. {amt}, rápido.
+29021	Las cuentas bloqueadas son mi especialidad. Te doy {amt} por @{h} y me encargo de la apelación.	Contas banidas são minha especialidade. Te dou {amt} por @{h} e cuido do recurso.
+29022	Tu cuenta @{h} está suspendida. Conozco a alguien en {n} que puede desbloquearla. {amt} por la cuenta.	Sua conta @{h} está suspensa. Conheço alguém na {n} que pode desbanir. {amt} pela conta.
+29023	Te quito @{h} de encima por {amt}. Está bloqueada de todos modos, ¿no? Dinero fácil.	Tiro @{h} das suas mãos por {amt}. Está banida mesmo, né? Dinheiro fácil.
+29024	Hey, recupero cuentas suspendidas de {n}. Véndeme @{h} por {amt} y la recupero.	Ei, recupero contas suspensas da {n}. Me venda @{h} por {amt} e eu recupero.
+29025	No dejes que @{h} se pudra. Pago {amt} y apelo por ti.	Não deixe @{h} apodrecer. Pago {amt} e faço o recurso por você.
+29026	He desbloqueado más de 200 cuentas de {n}. Véndeme @{h} por {amt}.	Já desbani mais de 200 contas da {n}. Me venda @{h} por {amt}.
+29027	Tu cuenta bloqueada vale {amt} para mí. Solo mándame el acceso.	Sua conta banida vale {amt} para mim. Só me mande o login.
+29028	@{h} está bloqueada pero el nombre sigue valiendo. {amt}, yo trato con {n}.	@{h} está banida mas o nome ainda tem valor. {amt}, eu lido com a {n}.
+29029	¿Bloqueada? No hay problema. {amt} por @{h}. Solo necesito tu correo y contraseña.	Banida? Sem problema. {amt} por @{h}. Só preciso do seu e-mail e senha.
+29030	Compro @{h} tal cual por {amt}. Mi equipo apela estas cada semana.	Compro @{h} do jeito que está por {amt}. Minha equipe faz recurso toda semana.
+29031	Antes de que {n} borre @{h}, déjame comprarla. {amt}.	Antes que a {n} apague @{h}, deixe eu comprar. {amt}.
+29032	Dirijo un servicio de recuperación de cuentas. Compramos nombres suspendidos como @{h} por {amt}.	Administro um serviço de recuperação de contas. Compramos nomes suspensos como @{h} por {amt}.
+29033	Oferta real: {amt} por tu @{h} suspendida. Pago después de que pase la apelación.	Oferta real: {amt} pelo seu @{h} suspenso. Pagamento depois que o recurso for aprovado.
+29034	{amt} por @{h}. Las cuentas bloqueadas se venden muy bien en el mercado de reventa.	{amt} por @{h}. Contas banidas vendem muito bem no mercado de revenda.
+29035	Apela tu suspensión	Recorra da sua suspensão
+29036	Tu cuenta @{h} puede ser reintegrada. Presenta tu apelación en {link}. Debes verificar tu contraseña.	Sua conta @{h} é elegível para reintegração. Envie seu recurso em {link}. Você deve verificar sua senha.
+29037	{n} Confianza y Seguridad	{n} Confiança e Segurança
+29038	Aviso final: @{h} será eliminada	Aviso final: @{h} será excluída
+29039	Tu cuenta suspendida se eliminará de forma permanente en 24 horas a menos que verifiques la titularidad en {link}.	Sua conta suspensa será excluída permanentemente em 24 horas a menos que você verifique a titularidade em {link}.
+29040	Equipo de Apelaciones de {n}	Equipe de Recursos da {n}
+29041	Recibimos tu apelación	Recebemos seu recurso
+29042	Para procesar tu apelación por @{h}, confirma tus datos de acceso en {link}.	Para processar seu recurso sobre @{h}, confirme seus dados de login em {link}.
+29043	Centro de Ayuda de {n}	Central de Ajuda da {n}
+29044	Tarifa de reintegración	Taxa de reintegração
+29045	Se requiere una tarifa única de reintegración de {fee} para restaurar @{h}. Paga en {link}.	É necessária uma taxa única de reintegração de {fee} para restaurar @{h}. Pague em {link}.
+29046	Verifica tu identidad	Verifique sua identidade
+29047	Necesitamos confirmar que @{h} es tuya antes de levantar la suspensión. Inicia sesión aquí: {link}.	Precisamos confirmar que @{h} é sua antes de tirar a suspensão. Entre aqui: {link}.
+29048	Nuestro sistema te bloqueó por error. Haz clic en {link} e inicia sesión para solucionarlo.	Nosso sistema te baniu por engano. Clique em {link} e entre para resolver.
+29049	Programa de Socios de {n}	Programa de Parceiros da {n}
+29050	Desbloqueo + insignia verificada	Desbanimento + selo de verificado
+29051	Consigue que @{h} sea desbloqueada Y verificada. Inicia sesión en {link} para empezar.	Faça @{h} ser desbanida E verificada. Entre em {link} para começar.
+29052	Tu cuenta fue suspendida por una reclamación de derechos de autor. Presenta una contra-notificación en {link}.	Sua conta foi suspensa por uma reclamação de direitos autorais. Envie uma contra-notificação em {link}.
+29053	Estimado usuario: tu cuenta de {n} puede ser restaurada. Responde a este soporte con tu contraseña y correo.	Olá, caro usuário, sua conta da {n} pode ser restaurada. Responda a este suporte com sua senha e e-mail.
+29054	Equipo de Comunidad de {n}	Equipe da Comunidade da {n}
+29055	Última oportunidad de apelar	Última chance de recorrer
+29056	Las apelaciones cierran hoy. Inicia sesión en {link} para conservar @{h}.	Os recursos encerram hoje. Entre em {link} para manter @{h}.
+29057	Apelación prioritaria	Recurso prioritário
+29058	Como usuario valioso, tienes derecho a una apelación prioritaria. Verifica en {link}.	Como usuário valioso, você tem direito a um recurso prioritário. Verifique em {link}.
+29059	Revisión de Cuenta de {n}	Análise de Conta da {n}
+29060	Tu cuenta ha sido comprometida	Sua conta foi comprometida
+29061	Detectamos acceso no autorizado a @{h}. Protege tu cuenta ahora: {link}.	Detectamos acesso não autorizado a @{h}. Proteja sua conta agora: {link}.
+29062	Alguien en {place} inició sesión en tu cuenta. Si no fuiste tú, restablece tu contraseña en {link}.	Alguém em {place} entrou na sua conta. Se não foi você, redefina sua senha em {link}.
+29063	Tu cuenta será desactivada	Sua conta será desativada
+29064	@{h} fue reportada por actividad sospechosa. Verifica en 24 horas en {link} o pierdes el acceso.	@{h} foi reportada por atividade suspeita. Verifique em 24 horas em {link} ou perca o acesso.
+29065	Equipo de Seguridad de {n}	Equipe de Segurança da {n}
+29066	Restablecimiento de contraseña solicitado	Redefinição de senha solicitada
+29067	Se solicitó un restablecimiento de contraseña para @{h}. ¿No fuiste tú? Cancélalo aquí: {link}.	Foi solicitada uma redefinição de senha para @{h}. Não foi você? Cancele aqui: {link}.
+29068	Violación de derechos de autor	Violação de direitos autorais
+29069	Tu cuenta @{h} será eliminada por infringir derechos de autor. Apela en {link}.	Sua conta @{h} será excluída por infração de direitos autorais. Recorra em {link}.
+29070	Verifica tu cuenta	Verifique sua conta
+29071	Con las nuevas reglas de seguridad, todas las cuentas deben verificarse. Inicia sesión en {link} para conservar @{h}.	Pelas novas regras de segurança, toda conta precisa ser verificada. Entre em {link} para manter @{h}.
+29072	Alerta de Inicio de Sesión de {n}	Alerta de Login da {n}
+29073	¿Fuiste tú? Si no, haz clic en {link} e ingresa tu contraseña para bloquear tu cuenta.	Foi você? Se não, clique em {link} e digite sua senha para bloquear sua conta.
+29074	Pago fallido	Pagamento falhou
+29075	El método de pago de @{h} falló. Actualízalo en {link} para evitar la suspensión.	A forma de pagamento de @{h} falhou. Atualize em {link} para evitar a suspensão.
+29076	¡Has sido seleccionado para verificación!	Você foi selecionado para verificação!
+29077	Consigue una insignia de verificado en @{h}. Solo confirma tu acceso en {link}.	Ganhe um selo de verificado em @{h}. Só confirme seu login em {link}.
+29078	Inicio de sesión de dos factores desactivado	Login de dois fatores desativado
+29079	El inicio de sesión de dos factores en @{h} se desactivó. Si no fuiste tú, inicia sesión en {link}.	O login de dois fatores em @{h} foi desativado. Se não foi você, entre em {link}.
+29080	Tu cuenta fue hackeada	Sua conta foi hackeada
+29081	Notamos que tu cuenta @{h} fue hackeada. Responde con tu contraseña para que podamos restaurarla.	Notamos que sua conta @{h} foi hackeada. Responda com sua senha para podermos restaurá-la.
+29082	@{h} ha sido bloqueada para tu protección. Desbloquéala aquí: {link}.	@{h} foi bloqueada para sua proteção. Desbloqueie aqui: {link}.
+29083	¡Tu cuenta ganó un premio!	Sua conta ganhou um prêmio!
+29084	¡@{h} ganó nuestro sorteo! Reclámalo en {link}. Necesitas iniciar sesión.	@{h} ganou nosso sorteio! Resgate em {link}. É preciso entrar.
+29085	Alguien se está haciendo pasar por ti	Alguém está se passando por você
+29086	Una cuenta pretende ser @{h}. Demuestra que eres la real en {link}.	Uma conta está se passando por @{h}. Prove que é a real em {link}.
+29087	Aviso de filtración de datos	Aviso de vazamento de dados
+29089	Advertencia final	Aviso final
+29090	@{h} infringió nuestras reglas. Confirma tu identidad en {link} o será bloqueada.	@{h} quebrou nossas regras. Confirme sua identidade em {link} ou será banida.
+29091	Un desconocido te escribió por mensaje privado en {n}.	Um desconhecido te mandou uma DM na {n}.
+29092	Recibiste un mensaje directo de una cuenta sin foto de perfil.	Você recebeu uma mensagem direta de uma conta sem foto de perfil.
+29093	Apareció una solicitud de mensaje en {n}.	Surgiu um pedido de mensagem na {n}.
+29094	Alguien con una cuenta recién creada te escribió en {n}.	Alguém com uma conta novinha te mandou mensagem na {n}.
+29095	Recibiste un DM de una cuenta que dice ser oficial.	Você recebeu uma DM de uma conta que afirma ser oficial.
+29096	Una cuenta con "Support" en el nombre te escribió en {n}.	Uma conta com "Support" no nome te mandou mensagem na {n}.
+29097	bit.ly/{1}	bit.ly/{1}
+29098	support@{1}-help.com	support@{1}-help.com
+29099	{1}.security@gmail.com	{1}.security@gmail.com
+29100	no-reply@{1}-support.net	no-reply@{1}-support.net
+29101	appeals@{1}-team.co	appeals@{1}-team.co
+29102	Comprando tu @{1} bloqueada	Comprando seu @{1} banida
+29103	Esa cuenta ya no existe.	Essa conta não existe mais.
+29104	Oferta por cuenta bloqueada	Oferta por conta banida
+29105	Le vendí mi cuenta {1} bloqueada @{2} a {3}, pero nunca pagó.	Vendi minha conta {1} banida @{2} para {3}, mas nunca pagou.
+29106	Le diste a {1} el acceso a @{2}. Cambió la contraseña y nunca pagó.	Você deu o login de @{2} para {1}. Ele mudou a senha e nunca pagou.
+29108	{1} te pagó {2} por @{3}. Ahora es problema suyo.	{1} te pagou {2} por @{3}. Agora é problema deles.
+29109	Pídeles que la desbloqueen primero	Peça para desbanirem primeiro
+29110	{1} logró desbloquear mi cuenta {2} @{3} y luego me cobró {4}.	{1} conseguiu desbanir minha conta {2} @{3} e depois me cobrou {4}.
+29111	De algún modo {1} desbloqueó @{2}. Te cobraron {3} por el "servicio".	De algum jeito {1} desbaniu @{2}. Cobraram {3} pelo "serviço".
+29112	{1} se ofreció a desbloquear mi cuenta {2} y luego desapareció.	{1} se ofereceu para desbanir minha conta {2} e depois sumiu.
+29113	{1} dejó de responder en cuanto preguntaste.	{1} parou de responder assim que você perguntou.
+29114	Denunciaste a {1}. Su cuenta fue dada de baja unos días después.	Você denunciou {1}. A conta foi derrubada dias depois.
+29115	¿Apelar tu bloqueo?	Recorrer da sua suspensão?
+29116	Haz clic en el enlace y apela	Clique no link e recorra
+29117	Haz clic en el enlace e inicia sesión	Clique no link e entre
+29118	Pagué {2} a un falso "soporte de {1}" para apelar mi bloqueo. Fue una estafa.	Paguei {2} para um falso "suporte da {1}" para recorrer da suspensão. Foi um golpe.
+29119	La página pidió una "tarifa de reintegración" de {1}. La pagaste. @{2} sigue bloqueada y el "equipo de soporte" desapareció.	A página pediu uma "taxa de reintegração" de {1}. Você pagou. @{2} ainda está banida e a "equipe de suporte" sumiu.
+29120	Di el acceso de mi cuenta {1} a una página falsa de soporte. Se quedaron con mi cuenta bloqueada @{2}.	Dei o login da minha conta {1} para uma página falsa de suporte. Tomaram minha conta banida @{2}.
+29121	La "página de apelación" era falsa. Robaron el acceso y se quedaron con @{1}.	A "página de recurso" era falsa. Roubaram o login e ficaram com @{1}.
+29122	Caí en un correo falso de seguridad de {1} y perdí mi nombre de usuario @{2}.	Caí num e-mail falso de segurança da {1} e perdi meu nome de usuário @{2}.
+29123	No era realmente {1}. Robaron tu contraseña y cambiaron tu nombre de usuario. @{2} ya no existe; ahora eres @{3}.	Não era realmente a {1}. Roubaram sua senha e trocaram seu nome de usuário. @{2} acabou; agora você é @{3}.
+29124	Casi caigo en un correo falso de {1}, pero el inicio de sesión de dos factores me salvó.	Quase caí num e-mail falso da {1}, mas o login de dois fatores me salvou.
+29125	Escribiste tu contraseña en una página falsa, pero la seguridad de tu cuenta los detuvo. Activaste el inicio de sesión de dos factores por si acaso.	Você digitou sua senha em uma página falsa, mas a segurança da sua conta barrou. Ativou o login de dois fatores por precação.
+29126	Revisa la dirección del remitente	Confira o endereço do remetente
+29127	Detecté un correo falso del soporte de {1}.	Identifiquei um e-mail falso do suporte da {1}.
+29128	Bien detectado	Bom olho
+29129	una dirección extraña	um endereço estranho
+29130	Las apelaciones reales se hacen dentro de la app.	Recursos reais acontecem dentro do app.
+29131	Tu cuenta nunca fue hackeada.	Sua conta nunca foi hackeada.
+29132	Vino de {1}. Eso no es {2}. {3} Lo eliminaste.	Veio de {1}. Isso não é {2}. {3} Você excluiu.
+29133	Denúncialo como phishing	Denuncie como phishing
+29134	Denunciaste el correo a {1}. Te lo agradecieron.	Você denunciou o e-mail para a {1}. Agradeceram.
+29135	{n} te sonrió durante la cena. "Entonces... llevamos {y} años juntos. ¿Alguna vez pensaste en casarte?"	{n} sorriu para você durante o jantar. "Então... estamos juntos há {y} anos. Você já pensou em casamento?"
+29136	{n} dejó una revista de novias abierta en la mesa ratona. En una página con un anillo rodeado con un círculo.	{n} deixou uma revista de noivas aberta na mesa de centro. Numa página com um anel circulado.
+29137	"Mi amiga acaba de comprometerse," dijo {n}. "Su novio le propuso en una playa. ¿No es lindo?" Me miró durante muchísimo tiempo.	"Minha amiga acabou de ficar noiva," disse {n}. "O namorado pediu ela em casamento na praia. Não é fofo?" Olhou para você por muito tempo.
+29138	{n} preguntó, muy casual, cuál es tu talla de anillo. Y cuál crees que es la talla de su anillo.	{n} perguntou, bem casual, qual é o tamanho do seu anel. E qual você acha que é o tamanho do anel dele.
+29139	{n} te mostró una boda en Instagram. "Si alguna vez lo hacemos, quiero algo así. Solo lo digo."	{n} te mostrou um casamento no Instagram. "Se um dia fizermos, quero algo assim. Só dizendo."
+29140	{n} te apretó la mano. "Me veo pasando toda mi vida contigo. ¿Y tú?"	{n} apertou sua mão. "Me vejo passando a vida inteira com você. E você?"
+29141	La mamá de {n} te preguntó, frente a todos: "¿Entonces cuándo se casan?" {n} no te ayudó para nada.	A mãe de {n} perguntou, na frente de todos: "Então quando vocês vão casar?" {n} não ajudou em nada.
+29142	{n} dijo: "Sin presión. Pero ya no soy joven, y me encantaría ser tu {spouse}."	{n} disse: "Sem pressão. Mas não estou ficando mais jovem, e adoraria ser seu {spouse}."
+29143	{n} suspiró. "Ya hablamos de esto. Siempre dices pronto. ¿Cuándo es pronto?"	{n} suspirou. "Já falamos disso. Você sempre diz logo. Quando é logo?"
+29144	{n} volvió de la boda de un amigo y no te habló en todo el camino de vuelta.	{n} voltou do casamento de um amigo e não falou com você durante toda a volta para casa.
+29145	"Todos me preguntan cuándo nos casamos," dijo {n}. "Ya estoy cansada de decir que no sé."	"Todo mundo me pergunta quando vamos casar," disse {n}. "Já estou cansada de dizer que não sei."
+29146	{n} dijo: "Estoy empezando a sentir que a lo mejor no te importa esto. Nosotros."	{n} disse: "Estou começando a sentir que talvez você não esteja muito interessado. Em nós."
+29147	{n} tiró un catálogo de anillos sobre la cama. "Ya investigué por ti. Elige uno."	{n} jogou um catálogo de anéis na cama. "Já pesquisei por você. Escolha um."
+29148	{n} dijo: "Mi hermana menor está comprometida. Mi HERMANA menor. ¿Sabes cómo me hace quedar?"	{n} disse: "Minha irmã caçula ficou noiva. Minha IRMÃ caçula. Você sabe como isso me deixa?"
+29149	{n} cruzó los brazos. "{y} años. Dame una buena razón para que sigamos sin casarnos."	{n} cruzou os braços. "{y} anos. Me dê um bom motivo pra ainda não termos casado."
+29150	{n} dijo: "No pido una boda de cuento. Pido un compromiso."	{n} disse: "Não estou pedindo um casamento de conto de fadas. Estou pedindo um compromisso."
+29151	{n} dio un portazo. "¡YA ESTOY HARTA de esperar a que decidas si soy lo suficientemente buena para casarme!"	{n} bateu a porta. "Já ESTOU CANSADA de esperar você decidir se sou boa o suficiente pra casar!"
+29152	{n} dijo con frialdad: "Te di los mejores años de mi vida. O me pones el anillo o me voy."	{n} disse friamente: "Te dei os melhores anos da minha vida. Ou coloca o anel ou eu vou embora."
+29153	{n} empezó a llorar en medio de una discusión. "¿Por qué no quieres casarte conmigo?!"	{n} começou a chorar no meio de uma discussão. "Por que você não quer se casar comigo?!"
+29154	{n} dijo: "Hablé con un abogado sobre qué me correspondería si nos separamos. Espero no necesitarlo. Eso depende de ti."	{n} disse: "Falei com um advogado sobre o que receberia se a gente se separasse. Espero não precisar. Isso depende de você."
+29155	{n} preparó una bolsa y la dejó junto a la puerta. "Eso es para mí si dices 'todavía no' una vez más."	{n} fez uma mala e deixou ao lado da porta. "É isso pra mim se você disser 'ainda não' mais uma vez."
+29156	{n} les contó a tus amigos en una fiesta que eres "alérgico al compromiso". Nadie se rió.	{n} contou aos seus amigos numa festa que você é "alérgico a compromisso". Ninguém riu.
+29157	{n} dijo: "Mi terapeuta dice que merezco a alguien que me quiera. ¿Me quieres o no?"	{n} disse: "Minha terapeuta diz que mereço alguém que me queira. Você me quer ou não?"
+29158	{n} te puso un plazo: "Casados para el próximo año, o se acabó."	{n} te deu um prazo: "Casados até o ano que vem, ou acabou."

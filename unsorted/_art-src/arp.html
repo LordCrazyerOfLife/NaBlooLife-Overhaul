@@ -1,0 +1,70 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>arp</title>
+<style>html,body{margin:0;background:transparent}svg{display:block;width:900px;height:540px}</style></head>
+<body>
+<!-- AR pistol sin accesorios: tubo de buffer con forro de goma, guardamanos largo con riel que tapa el cañón -->
+<svg viewBox="0 0 300 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4f535b"/><stop offset=".5" stop-color="#30333a"/><stop offset="1" stop-color="#1a1b1f"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#383b42"/><stop offset="1" stop-color="#17181b"/>
+    </linearGradient>
+    <linearGradient id="mag" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#16171a"/><stop offset=".45" stop-color="#363840"/><stop offset="1" stop-color="#131417"/>
+    </linearGradient>
+    <radialGradient id="gloss" cx=".3" cy=".1" r=".8">
+      <stop offset="0" stop-color="#fff" stop-opacity=".26"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="foam" width="3" height="3" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".7" fill="#000" opacity=".35"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <ellipse cx="150" cy="172" rx="120" ry="5" fill="#000" opacity=".28" filter="url(#blur)"/>
+
+  <!-- tubo del buffer con forro de goma -->
+  <rect x="58" y="54" width="22" height="12" rx="2" fill="url(#metal)" stroke="#0b0c0e" stroke-width="1.4"/>
+  <rect x="16" y="50" width="46" height="20" rx="8" fill="#1d1e22" stroke="#0b0c0e" stroke-width="1.6"/>
+  <rect x="16" y="50" width="46" height="20" rx="8" fill="url(#foam)"/>
+  <path d="M22 53 L56 53" stroke="#fff" stroke-width="1.2" opacity=".12"/>
+
+  <!-- cargador recto con estrías -->
+  <path d="M120 84 L148 84 L152 148 Q152 152 148 152 L126 154 Q122 154 122 150 Z" fill="url(#mag)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <g stroke="#0b0c0e" stroke-width="1.1" opacity=".7"><path d="M123 104 L150 103"/><path d="M123 112 L150 111"/><path d="M124 120 L151 119"/><path d="M124 128 L151 127"/></g>
+  <path d="M127 90 L130 146" stroke="#fff" stroke-width="1.2" opacity=".13"/>
+
+  <!-- empuñadura -->
+  <path d="M86 84 L108 84 L98 128 Q97 132 93 132 L76 132 Q72 132 73 128 Z" fill="url(#dark)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <g stroke="#0b0c0e" stroke-width=".9" opacity=".5"><path d="M90 90 L82 126"/><path d="M96 90 L88 126"/><path d="M102 90 L94 126"/></g>
+
+  <!-- guardamonte y gatillo -->
+  <path d="M106 86 L106 94 Q106 102 114 102 L120 102" fill="none" stroke="#24262b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 86 Q116 91 114 97" fill="none" stroke="#111215" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- lower -->
+  <path d="M82 66 L154 66 L154 84 L82 84 Q78 84 78 78 L78 70 Q78 66 82 66 Z" fill="url(#metal)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M118 66 L118 86 M150 66 L150 86" stroke="#0b0c0e" stroke-width="1.2" opacity=".6"/>
+  <circle cx="90" cy="74" r="2.4" fill="#111215"/><path d="M90 74 L96 70" stroke="#9ba0a8" stroke-width="1.4" stroke-linecap="round"/>
+
+  <!-- upper -->
+  <path d="M78 46 L156 46 L156 66 L78 66 Z" fill="url(#metal)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <rect x="106" y="52" width="30" height="8" rx="1.5" fill="#16171a" stroke="#0b0c0e" stroke-width="1"/>
+  <circle cx="148" cy="56" r="4" fill="#2a2c31" stroke="#0b0c0e" stroke-width="1.2"/>
+  <path d="M70 44 L82 44 L82 50 L70 50 Z" fill="#2a2c31" stroke="#0b0c0e" stroke-width="1.2"/>
+
+  <!-- riel superior continuo -->
+  <rect x="78" y="40" width="176" height="7" rx="1.5" fill="url(#dark)" stroke="#0b0c0e" stroke-width="1.4"/>
+  <path d="M82 43.5 L250 43.5" stroke="#0b0c0e" stroke-width="2.2" stroke-dasharray="3 2.2"/>
+
+  <!-- guardamanos largo con ranuras (tapa el cañón) -->
+  <path d="M156 47 L252 47 Q256 47 256 51 L256 68 Q256 72 252 72 L156 72 Z" fill="url(#dark)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <g fill="#0d0e10"><rect x="164" y="54" width="14" height="4" rx="2"/><rect x="184" y="54" width="14" height="4" rx="2"/><rect x="204" y="54" width="14" height="4" rx="2"/><rect x="224" y="54" width="14" height="4" rx="2"/>
+    <rect x="164" y="62" width="14" height="4" rx="2"/><rect x="184" y="62" width="14" height="4" rx="2"/><rect x="204" y="62" width="14" height="4" rx="2"/><rect x="224" y="62" width="14" height="4" rx="2"/></g>
+  <path d="M160 50 L252 50" stroke="#fff" stroke-width="1" opacity=".12"/>
+
+  <!-- boca corta que asoma -->
+  <rect x="256" y="54" width="12" height="10" rx="2" fill="#1b1c20" stroke="#0b0c0e" stroke-width="1.4"/>
+
+  <path d="M16 40 L268 40 L268 86 L16 86 Z" fill="url(#gloss)" opacity=".7"/>
+</svg>
+</body></html>

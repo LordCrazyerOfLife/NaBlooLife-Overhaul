@@ -1,0 +1,367 @@
+[
+ {
+  "file": "plain-cheeseburger.png",
+  "original": "item-001.png",
+  "label": "Plain cheeseburger"
+ },
+ {
+  "file": "double-cheeseburger-bacon.png",
+  "original": "item-002.png",
+  "label": "Double cheeseburger bacon"
+ },
+ {
+  "file": "crispy-chicken-burger.png",
+  "original": "item-003.png",
+  "label": "Crispy chicken burger"
+ },
+ {
+  "file": "bacon-cheeseburger.png",
+  "original": "item-004.png",
+  "label": "Bacon cheeseburger"
+ },
+ {
+  "file": "mcdonalds-fries.png",
+  "original": "item-005.png",
+  "label": "McDonald's fries"
+ },
+ {
+  "file": "checkered-fries-basket.png",
+  "original": "item-006.png",
+  "label": "Checkered fries basket"
+ },
+ {
+  "file": "chicken-nuggets.png",
+  "original": "item-007.png",
+  "label": "Chicken nuggets"
+ },
+ {
+  "file": "chicken-tenders.png",
+  "original": "item-008.png",
+  "label": "Chicken tenders"
+ },
+ {
+  "file": "pepperoni-pizza-slice.png",
+  "original": "item-009.png",
+  "label": "Pepperoni pizza slice"
+ },
+ {
+  "file": "pepperoni-pizza-whole.png",
+  "original": "item-010.png",
+  "label": "Pepperoni pizza whole"
+ },
+ {
+  "file": "dominos-pizza-box.png",
+  "original": "item-011.png",
+  "label": "Domino's pizza box"
+ },
+ {
+  "file": "crunchy-beef-taco.png",
+  "original": "item-012.png",
+  "label": "Crunchy beef taco"
+ },
+ {
+  "file": "crunchy-taco-veggies.png",
+  "original": "item-013.png",
+  "label": "Crunchy taco veggies"
+ },
+ {
+  "file": "foil-wrapped-burrito.png",
+  "original": "item-014.png",
+  "label": "Foil wrapped burrito"
+ },
+ {
+  "file": "wrapped-burrito.png",
+  "original": "item-015.png",
+  "label": "Wrapped burrito"
+ },
+ {
+  "file": "folded-quesadilla.png",
+  "original": "item-016.png",
+  "label": "Folded quesadilla"
+ },
+ {
+  "file": "loaded-taco.png",
+  "original": "item-017.png",
+  "label": "Loaded taco"
+ },
+ {
+  "file": "burrito-bowl.png",
+  "original": "item-018.png",
+  "label": "Burrito bowl"
+ },
+ {
+  "file": "chopped-salad-bowl.png",
+  "original": "item-019.png",
+  "label": "Chopped salad bowl"
+ },
+ {
+  "file": "loaded-nachos-bowl.png",
+  "original": "item-020.png",
+  "label": "Loaded nachos bowl"
+ },
+ {
+  "file": "cheese-dip-cup.png",
+  "original": "item-021.png",
+  "label": "Cheese dip cup"
+ },
+ {
+  "file": "nacho-box-and-fries.png",
+  "original": "item-022.png",
+  "label": "Nacho box and fries"
+ },
+ {
+  "file": "chili-hot-dog.png",
+  "original": "item-023.png",
+  "label": "Chili hot dog"
+ },
+ {
+  "file": "chili-cheese-hot-dog.png",
+  "original": "item-024.png",
+  "label": "Chili cheese hot dog"
+ },
+ {
+  "file": "classic-hot-dog-mustard.png",
+  "original": "item-025.png",
+  "label": "Classic hot dog mustard"
+ },
+ {
+  "file": "corn-dog.png",
+  "original": "item-026.png",
+  "label": "Corn dog"
+ },
+ {
+  "file": "soft-pretzel.png",
+  "original": "item-027.png",
+  "label": "Soft pretzel"
+ },
+ {
+  "file": "soft-pretzel-big.png",
+  "original": "item-028.png",
+  "label": "Soft pretzel big"
+ },
+ {
+  "file": "mozzarella-sticks.png",
+  "original": "item-029.png",
+  "label": "Mozzarella sticks"
+ },
+ {
+  "file": "fried-chicken-drumsticks.png",
+  "original": "item-030.png",
+  "label": "Fried chicken drumsticks"
+ },
+ {
+  "file": "curly-fries.png",
+  "original": "item-031.png",
+  "label": "Curly fries"
+ },
+ {
+  "file": "onion-rings.png",
+  "original": "item-032.png",
+  "label": "Onion rings"
+ },
+ {
+  "file": "kfc-bucket.png",
+  "original": "item-033.png",
+  "label": "KFC bucket"
+ },
+ {
+  "file": "chick-fil-a-nugget-box.png",
+  "original": "item-034.png",
+  "label": "Chick-fil-A nugget box"
+ },
+ {
+  "file": "nuggets-box-mcdonalds.png",
+  "original": "item-035.png",
+  "label": "Nuggets box McDonald's"
+ },
+ {
+  "file": "cheese-burger-light.png",
+  "original": "item-036.png",
+  "label": "Cheeseburger light"
+ },
+ {
+  "file": "crispy-chicken-sandwich.png",
+  "original": "item-037.png",
+  "label": "Crispy chicken sandwich"
+ },
+ {
+  "file": "cheeseburger-classic.png",
+  "original": "item-038.png",
+  "label": "Classic cheeseburger"
+ },
+ {
+  "file": "fish-sandwich.png",
+  "original": "item-039.png",
+  "label": "Fish sandwich"
+ },
+ {
+  "file": "bbq-cheeseburger.png",
+  "original": "item-040.png",
+  "label": "BBQ cheeseburger"
+ },
+ {
+  "file": "wendys-stacked-combo.png",
+  "original": "item-041.png",
+  "label": "Wendy's stacked combo"
+ },
+ {
+  "file": "pink-frosted-donut.png",
+  "original": "item-042.png",
+  "label": "Pink frosted donut"
+ },
+ {
+  "file": "chocolate-glazed-donut.png",
+  "original": "item-043.png",
+  "label": "Chocolate glazed donut"
+ },
+ {
+  "file": "powdered-sugar-donut.png",
+  "original": "item-044.png",
+  "label": "Powdered sugar donut"
+ },
+ {
+  "file": "croissant.png",
+  "original": "item-045.png",
+  "label": "Croissant"
+ },
+ {
+  "file": "brownie.png",
+  "original": "item-046.png",
+  "label": "Brownie"
+ },
+ {
+  "file": "chocolate-cake-slice.png",
+  "original": "item-047.png",
+  "label": "Chocolate cake slice"
+ },
+ {
+  "file": "snack-stack-orange-tower.png",
+  "original": "item-048.png",
+  "label": "Snack stack orange tower"
+ },
+ {
+  "file": "muffin-milkshake-stack.png",
+  "original": "item-049.png",
+  "label": "Muffin milkshake stack"
+ },
+ {
+  "file": "cookie-frappe-stack.png",
+  "original": "item-050.png",
+  "label": "Cookie frappe stack"
+ },
+ {
+  "file": "starbucks-frappuccino.png",
+  "original": "item-051.png",
+  "label": "Starbucks Frappuccino"
+ },
+ {
+  "file": "pink-smoothie.png",
+  "original": "item-052.png",
+  "label": "Pink smoothie"
+ },
+ {
+  "file": "chocolate-drizzle-smoothie.png",
+  "original": "item-053.png",
+  "label": "Chocolate drizzle smoothie"
+ },
+ {
+  "file": "caramel-frappe-cup.png",
+  "original": "item-054.png",
+  "label": "Caramel frappe cup"
+ },
+ {
+  "file": "donut-cone-coke-stack.png",
+  "original": "item-055.png",
+  "label": "Donut cone Coke stack"
+ },
+ {
+  "file": "mcflurry-pepsi-stack.png",
+  "original": "item-056.png",
+  "label": "McFlurry Pepsi stack"
+ },
+ {
+  "file": "ice-cream-snack-stack.png",
+  "original": "item-057.png",
+  "label": "Ice cream snack stack"
+ },
+ {
+  "file": "fanta-snack-stack.png",
+  "original": "item-058.png",
+  "label": "Fanta snack stack"
+ },
+ {
+  "file": "dr-pepper-snack-stack.png",
+  "original": "item-059.png",
+  "label": "Dr Pepper snack stack"
+ },
+ {
+  "file": "cookie-shake-snack-stack.png",
+  "original": "item-060.png",
+  "label": "Cookie shake snack stack"
+ },
+ {
+  "file": "monster-pringles-stack.png",
+  "original": "item-061.png",
+  "label": "Monster Pringles stack"
+ },
+ {
+  "file": "dasani-tostitos-stack.png",
+  "original": "item-062.png",
+  "label": "Dasani Tostitos stack"
+ },
+ {
+  "file": "candy-drinks-mix-stack.png",
+  "original": "item-063.png",
+  "label": "Candy drinks mix stack"
+ },
+ {
+  "file": "snickers-bar.png",
+  "original": "item-064.png",
+  "label": "Snickers bar"
+ },
+ {
+  "file": "milky-way-bar.png",
+  "original": "item-065.png",
+  "label": "Milky Way bar"
+ },
+ {
+  "file": "mixed-snack-condiments-stack.png",
+  "original": "item-066.png",
+  "label": "Mixed snack condiments stack"
+ },
+ {
+  "file": "fiji-snack-stack.png",
+  "original": "item-067.png",
+  "label": "Fiji snack stack"
+ },
+ {
+  "file": "milk-jug.png",
+  "original": "item-068.png",
+  "label": "Milk jug"
+ },
+ {
+  "file": "twix-orange-juice-stack.png",
+  "original": "item-069.png",
+  "label": "Twix orange juice stack"
+ },
+ {
+  "file": "salt-shaker.png",
+  "original": "item-070.png",
+  "label": "Salt shaker"
+ },
+ {
+  "file": "pepper-shaker.png",
+  "original": "item-071.png",
+  "label": "Pepper shaker"
+ },
+ {
+  "file": "sugar-bag.png",
+  "original": "item-072.png",
+  "label": "Sugar bag"
+ },
+ {
+  "file": "green-juice-bottle.png",
+  "original": "item-073.png",
+  "label": "Green juice bottle"
+ }
+]

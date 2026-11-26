@@ -1,0 +1,26 @@
+^The shell company washed the money: police heat -(\d+)\.$	La empresa fantasma blanqueó el dinero: presión policial -$1.	A empresa de fachada lavou o dinheiro: pressão policial -$1.
+^The house appraised it at (.+)\.$	La casa lo tasó en $1.	A casa avaliou em $1.
+^You have lifetime casino earnings of (.+)\.$	Tienes ganancias de casino de por vida por $1.	Você tem ganhos de cassino vitalícios de $1.
+^You have lifetime casino losses of (.+)\.$	Tienes pérdidas de casino de por vida por $1.	Você tem perdas de cassino vitalícias de $1.
+^You have (.+) on the line\.$	Tienes $1 en juego.	Você tem $1 em jogo.
+^Cost: (.+)$	Costo: $1	Custo: $1
+^This costs (.+) and you don't have it\.$	Esto cuesta $1 y no lo tienes.	Isso custa $1 e você não tem.
+^It cost me (.+)\.$	Me costó $1.	Me custou $1.
+^(Footballer|NBA player|Celebrity|Tycoon|Local millionaire) (.+) buys a (.+) worth (.+)$	$1 $2 compra $3 por $4	$1 $2 compra $3 por $4
+^(Footballer|NBA player|Celebrity|Tycoon|Local millionaire) (.+) falls for a fake investment scam$	$1 $2 cae en una estafa de inversión falsa	$1 $2 cai em um golpe de investimento falso
+^(Footballer|NBA player|Celebrity|Tycoon|Local millionaire) (.+) is audited by the tax office$	$1 $2 es auditado por la oficina de impuestos	$1 $2 é auditado pela Receita
+^Attitude: (.+)$	Actitud: $1	Atitude: $1
+^(\d+) items? in your collection · (.+)$	$1 objetos en tu colección · $2	$1 itens na sua coleção · $2
+^(\d+) items? · (.+) appraised$	$1 objetos · $2 tasados	$1 itens · $2 avaliados
+^(\d+) items?$	$1 objetos	$1 itens
+^(.+) · haggled$	$1 · regateado	$1 · pechinchado
+^Fake · worth (.+)$	Falso · vale $1	Falso · vale $1
+^Authentic · worth (.+)$	Auténtico · vale $1	Autêntico · vale $1
+^Paid (.+) · not appraised$	Pagaste $1 · sin tasar	Pagou $1 · não avaliado
+^I bought a (.+) on the black market\.$	Compré un/a $1 en el mercado negro.	Comprei um(a) $1 no mercado negro.
+^I sold a (.+) to a fence\.$	Vendí un/a $1 a un receptador.	Vendi um(a) $1 para um receptador.
+^I gave my (.+) to my (.+), (.+)\. They realized it was fake\.$	Le regalé mi $1 a mi $2, $3. Se dieron cuenta de que era falso.	Dei meu $1 para meu(minha) $2, $3. Perceberam que era falso.
+^I gave my (.+) to my (.+), (.+)\.$	Le regalé mi $1 a mi $2, $3.	Dei meu $1 para meu(minha) $2, $3.
+^You gave your (.+) to (.+)\. They loved it!$	Le regalaste tu $1 a $2. ¡Le encantó!	Você deu seu $1 para $2. Amou!
+^You gave (.+) your (.+), and they realized it was fake!$	Le regalaste a $1 tu $2 y se dio cuenta de que era falso.	Você deu para $1 seu $2 e perceberam que era falso.
+^(Jewelry|Cars|Houses) \((\d+)\)$	$1 ($2)	$1 ($2)

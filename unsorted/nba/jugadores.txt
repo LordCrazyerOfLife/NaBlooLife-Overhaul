@@ -1,0 +1,776 @@
+NBA 2026-27 - plantillas completas
+Fuente: ESPN (site.api.espn.com) - descargado el 24/11/2026
+Logos: carpeta logos/ (<ABBR>.png, 500x500)
+
+Equipos: 30
+
+Jugadores totales: 529
+
+======================================================================
+Atlanta Hawks (ATL)
+======================================================================
+Entrenador: Quin Snyder
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+7   Nickeil Alexander-Walker   G    28   6' 5"   205 lbs   Virginia Tech / 8 años
+-   Rafael Castro              F    23   6' 9"   224 lbs   G Washington / rookie
+5   Dyson Daniels              G    23   6' 7"   199 lbs   5 años
+10  RayJ Dennis                G    25   6' 2"   180 lbs   Baylor / 3 años
+0   Luguentz Dort              G    27   6' 4"   220 lbs   Arizona St / 8 años
+20  Zuby Ejiofor               F    22   6' 8"   245 lbs   St John's / rookie
+8   Dorian Finney-Smith        F    33   6' 7"   220 lbs   Florida / 11 años
+4   Kingston Flemings          G    19   6' 3"   183 lbs   Houston / rookie
+18  Mouhamed Gueye             F    24   6' 11"  210 lbs   Washington St / 4 años
+1   Jalen Johnson              F    24   6' 8"   219 lbs   Duke / 6 años
+24  Corey Kispert              F    27   6' 6"   224 lbs   Gonzaga / 6 años
+31  Jock Landale               C    31   6' 11"  255 lbs   Saint Mary's / 6 años
+3   CJ McCollum                G    35   6' 3"   190 lbs   Lehigh / 14 años
+14  Asa Newell                 F    21   6' 11"  224 lbs   Georgia / 2 años
+17  Onyeka Okongwu             F    25   6' 10"  240 lbs   USC / 7 años
+13  Henri Veesaar              C    22   7' 0"   227 lbs   North Carolina / rookie
+2   Aaron Wiggins              G    27   6' 5"   190 lbs   Maryland / 6 años
+22  Jalen Wilson               F    26   6' 6"   220 lbs   Kansas / 4 años
+
+======================================================================
+Boston Celtics (BOS)
+======================================================================
+Entrenador: Joe Mazzulla
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+99  Devin Carter               G    24   6' 2"   188 lbs   Providence / 3 años
+12  Chris Cenac Jr.            F    19   6' 11"  240 lbs   Houston / rookie
+45  Mike Conley                G    39   6' 1"   175 lbs   Ohio State / 20 años
+52  Luka Garza                 C    27   6' 10"  243 lbs   Iowa / 6 años
+13  Paul George                F    36   6' 8"   221 lbs   Fresno St / 17 años
+28  Hugo Gonzalez              G    20   6' 6"   205 lbs   2 años
+8   Ron Harper Jr.             G    26   6' 5"   233 lbs   Rutgers / 5 años
+30  Sam Hauser                 F    28   6' 8"   221 lbs   Virginia / 6 años
+20  Dillon Mitchell            F    23   6' 8"   210 lbs   St John's / rookie
+11  Payton Pritchard           G    28   6' 2"   211 lbs   Oregon / 7 años
+88  Neemias Queta              C    27   7' 0"   260 lbs   Utah State / 6 años
+4   Mitchell Robinson          C    28   7' 0"   240 lbs   9 años
+55  Baylor Scheierman          G    26   6' 6"   213 lbs   Creighton / 3 años
+0   Jayson Tatum               F    28   6' 8"   224 lbs   Duke / 10 años
+27  Jordan Walsh               G    22   6' 7"   208 lbs   Arkansas / 4 años
+9   Derrick White              G    32   6' 4"   200 lbs   Colorado / 10 años
+77  Amari Williams             F    24   7' 0"   262 lbs   Kentucky / 2 años
+
+======================================================================
+Brooklyn Nets (BKN)
+======================================================================
+Entrenador: Jordi Fernandez
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+34  Tyler Bilodeau             F    22   6' 8"   228 lbs   UCLA / rookie
+0   Mikel Brown Jr.            G    20   6' 5"   180 lbs   Louisville / rookie
+21  Noah Clowney               F    22   6' 10"  210 lbs   Alabama / 4 años
+8   Egor Demin                 G    20   6' 8"   200 lbs   BYU / 2 años
+1   Keon Ellis                 G    26   6' 4"   175 lbs   Alabama / 5 años
+9   Joshua Jefferson           F    23   6' 8"   246 lbs   Iowa State / rookie
+31  Chaney Johnson             F    24   6' 8"   225 lbs   Auburn / 2 años
+14  Terance Mann               G    30   6' 6"   215 lbs   Florida St / 8 años
+00  Josh Minott                F    23   6' 8"   205 lbs   Memphis / 5 años
+16  Grant Nelson               F    24   6' 11"  230 lbs   Alabama / 2 años
+17  Michael Porter Jr.         F    28   6' 10"  218 lbs   Missouri / 8 años
+4   Drake Powell               G    21   6' 5"   195 lbs   North Carolina / 2 años
+30  Julius Randle              F    31   6' 9"   250 lbs   Kentucky / 13 años
+77  Ben Saraf                  G    20   6' 6"   200 lbs   2 años
+20  Day'Ron Sharpe             C    25   6' 10"  265 lbs   North Carolina / 6 años
+10  Nolan Traore               G    20   6' 3"   185 lbs   2 años
+13  Moritz Wagner              C    29   6' 11"  245 lbs   Michigan / 9 años
+2   Danny Wolf                 F    22   6' 11"  250 lbs   Michigan / 2 años
+
+======================================================================
+Charlotte Hornets (CHA)
+======================================================================
+Entrenador: Charles Lee
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+10  Michael Ajayi              F    23   6' 7"   228 lbs   Butler / rookie
+8   Grayson Allen              G    31   6' 3"   198 lbs   Duke / 9 años
+5   Christian Anderson         G    20   6' 1"   180 lbs   Texas Tech / rookie
+18  Kylan Boswell              G    21   6' 1"   226 lbs   Illinois / rookie
+14  Moussa Diabate             F    24   6' 10"  210 lbs   Michigan / 5 años
+16  PJ Hall                    C    24   6' 8"   245 lbs   Clemson / 3 años
+4   Sion James                 G    23   6' 5"   220 lbs   Duke / 2 años
+11  Ryan Kalkbrenner           C    24   7' 1"   256 lbs   Creighton / 2 años
+7   Kon Knueppel               G    21   6' 6"   215 lbs   Duke / 2 años
+33  Liam McNeeley              G    21   6' 7"   210 lbs   UConn / 2 años
+24  Brandon Miller             F    24   6' 7"   200 lbs   Alabama / 4 años
+00  Royce O'Neale              F    33   6' 6"   226 lbs   Baylor / 10 años
+0   Naz Reid                   C    27   6' 9"   264 lbs   LSU / 8 años
+31  Tidjane Salaun             F    21   6' 10"  207 lbs   3 años
+17  Dennis Schroder            G    33   6' 1"   175 lbs   14 años
+22  Hannes Steinbach           F    20   6' 10"  248 lbs   Washington / rookie
+3   Coby White                 G    26   6' 4"   195 lbs   North Carolina / 8 años
+2   Grant Williams             F    27   6' 7"   236 lbs   Tennessee / 8 años
+
+======================================================================
+Chicago Bulls (CHI)
+======================================================================
+Entrenador: Tiago Splitter
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+19  Tobe Awaka                 F    22   6' 8"   255 lbs   Arizona / rookie
+14  Matas Buzelis              F    22   6' 8"   209 lbs   3 años
+9   Nic Claxton                C    27   6' 11"  215 lbs   Georgia / 8 años
+12  Zach Collins               F    29   6' 9"   250 lbs   Gonzaga / 10 años
+2   Noa Essengue               F    19   6' 11"  206 lbs   2 años
+3   Josh Giddey                G    24   6' 7"   216 lbs   6 años
+15  Jordan Hawkins             G    24   6' 5"   190 lbs   UConn / 4 años
+7   Buddy Hield                G    33   6' 4"   220 lbs   Oklahoma / 11 años
+30  Tre Jones                  G    26   6' 1"   185 lbs   Duke / 7 años
+11  Leonard Miller             F    22   6' 10"  220 lbs   4 años
+35  Isaac Okoro                F    25   6' 4"   225 lbs   Auburn / 7 años
+24  Norman Powell              G    33   6' 4"   215 lbs   UCLA / 12 años
+00  Orlando Robinson           C    26   6' 10"  235 lbs   Fresno St / 3 años
+22  Jaylin Sellers             G    23   6' 5"   205 lbs   Providence / rookie
+25  Jalen Smith                F    26   6' 8"   215 lbs   Maryland / 7 años
+5   Dailyn Swain               G    21   6' 7"   211 lbs   Texas / rookie
+44  Patrick Williams           F    25   6' 6"   215 lbs   Florida St / 7 años
+8   Caleb Wilson               F    20   6' 9"   211 lbs   North Carolina / rookie
+
+======================================================================
+Cleveland Cavaliers (CLE)
+======================================================================
+Entrenador: Kenny Atkinson
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+31  Jarrett Allen              C    28   6' 9"   243 lbs   Texas / 10 años
+55  Zack Austin                G    25   6' 5"   216 lbs   Pitt / 1 años
+3   Thomas Bryant              C    29   6' 9"   248 lbs   Indiana / 10 años
+18  Khalifa Diop               C    24   6' 11"  231 lbs   rookie
+1   James Harden               G    37   6' 5"   220 lbs   Arizona St / 18 años
+33  Mario Hezonja              F    31   6' 8"   220 lbs   6 años
+5   Sam Merrill                G    30   6' 4"   205 lbs   Utah State / 7 años
+12  Riley Minix                F    26   6' 7"   230 lbs   Morehead St / 3 años
+45  Donovan Mitchell           G    30   6' 2"   215 lbs   Louisville / 10 años
+4   Evan Mobley                C    25   6' 11"  215 lbs   USC / 6 años
+77  Norchad Omier              C    25   6' 7"   248 lbs   Baylor / rookie
+9   Craig Porter Jr.           G    26   6' 1"   180 lbs   Wichita St / 4 años
+24  Tyrese Proctor             G    22   6' 4"   185 lbs   Duke / 2 años
+15  Meleek Thomas              G    20   6' 3"   190 lbs   Arkansas / rookie
+35  Nae'Qwan Tomlin            F    25   6' 8"   210 lbs   Memphis / 3 años
+20  Jaylon Tyson               G    23   6' 6"   215 lbs   California / 3 años
+88  Ernest Udeh Jr.            C    22   6' 9"   266 lbs   Miami / rookie
+8   Peyton Watson              G    24   6' 8"   200 lbs   UCLA / 5 años
+
+======================================================================
+Dallas Mavericks (DAL)
+======================================================================
+Entrenador: Dusty May
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+34  Santi Aldama               F    25   7' 0"   215 lbs   Loyola MD / 6 años
+13  Tarik Biberovic            F    25   6' 7"   218 lbs   rookie
+0   Max Christie               G    23   6' 5"   190 lbs   Michigan St / 5 años
+30  Moussa Cisse               C    24   6' 11"  220 lbs   Memphis / 2 años
+1   Walter Clayton Jr.         G    23   6' 4"   195 lbs   Florida / 2 años
+55  Sergio de Larrea           F    20   6' 7"   202 lbs   rookie
+32  Cooper Flagg               F    19   6' 9"   205 lbs   Duke / 2 años
+21  Daniel Gafford             F    28   6' 10"  265 lbs   Arkansas / 8 años
+9   Jett Howard                G    23   6' 8"   215 lbs   Michigan / 4 años
+11  Kyrie Irving               G    34   6' 2"   195 lbs   Duke / 15 años
+14  Morez Johnson Jr.          F    20   6' 9"   250 lbs   Michigan / rookie
+33  Tobi Lawal                 F    23   6' 8"   215 lbs   Virginia Tech / rookie
+2   Dereck Lively II           C    22   7' 1"   230 lbs   Duke / 4 años
+3   Naji Marshall              F    28   6' 6"   220 lbs   Xavier / 7 años
+16  Caleb Martin               F    31   6' 5"   205 lbs   Nevada / 8 años
+10  Zaccharie Risacher         F    21   6' 8"   200 lbs   3 años
+8   Marcus Sasser              G    26   6' 1"   195 lbs   Houston / 4 años
+25  P.J. Washington            F    28   6' 7"   230 lbs   Kentucky / 8 años
+
+======================================================================
+Denver Nuggets (DEN)
+======================================================================
+Entrenador: David Adelman
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+3   Marvin Bagley III          F    27   6' 10"  235 lbs   Duke / 9 años
+0   Christian Braun            G    25   6' 6"   220 lbs   Kansas / 5 años
+7   Trevon Brazile             F    23   6' 10"  220 lbs   Arkansas / rookie
+10  DeMar DeRozan              G    37   6' 6"   220 lbs   USC / 18 años
+11  Alpha Diallo               F    29   6' 7"   210 lbs   Providence / rookie
+32  Aaron Gordon               F    31   6' 8"   235 lbs   Arizona / 13 años
+14  DaRon Holmes II            F    24   6' 9"   225 lbs   Dayton / 2 años
+13  Bryce Hopkins              F    24   6' 7"   220 lbs   St John's / rookie
+23  Cameron Johnson            F    30   6' 8"   210 lbs   North Carolina / 8 años
+15  Nikola Jokic               C    31   6' 11"  284 lbs   12 años
+21  Spencer Jones              F    25   6' 7"   225 lbs   Stanford / 3 años
+5   Tyus Jones                 G    30   6' 0"   196 lbs   Duke / 12 años
+27  Jamal Murray               G    29   6' 4"   215 lbs   Kentucky / 10 años
+9   Ryan Nembhard              G    23   5' 11"  180 lbs   Gonzaga / 2 años
+22  Zeke Nnaji                 F    25   6' 10"  240 lbs   Arizona / 7 años
+1   Julian Strawther           G    24   6' 6"   205 lbs   Gonzaga / 4 años
+00  Cam Whitmore               F    22   6' 6"   230 lbs   Villanova / 4 años
+
+======================================================================
+Detroit Pistons (DET)
+======================================================================
+Entrenador: J.B. Bickerstaff
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+20  John Collins               F    29   6' 9"   226 lbs   Wake Forest / 10 años
+2   Cade Cunningham            G    25   6' 6"   220 lbs   Oklahoma St / 6 años
+0   Jalen Duren                C    23   6' 10"  250 lbs   Memphis / 5 años
+31  Javonte Green              G    33   6' 5"   205 lbs   Radford / 8 años
+94  Elijah Harkless            G    26   6' 3"   195 lbs   UNLV / 3 años
+5   Ronald Holland II          F    21   6' 8"   206 lbs   3 años
+27  Kevin Huerter              G    28   6' 6"   198 lbs   Maryland / 9 años
+24  Daniss Jenkins             G    25   6' 4"   165 lbs   St John's / 3 años
+17  Isaiah Joe                 G    27   6' 4"   165 lbs   Arkansas / 7 años
+13  Isaac Jones                C    26   6' 8"   245 lbs   Washington St / 3 años
+8   Chaz Lanier                G    24   6' 3"   206 lbs   Tennessee / 2 años
+23  Ebuka Okorie               G    19   6' 2"   186 lbs   Stanford / rookie
+34  Ugonna Onyenso             C    22   7' 0"   236 lbs   Virginia / rookie
+12  Taurean Prince             F    32   6' 6"   218 lbs   Baylor / 11 años
+7   Paul Reed                  F    27   6' 9"   210 lbs   DePaul / 7 años
+55  Duncan Robinson            F    32   6' 7"   215 lbs   Michigan / 9 años
+35  Tolu Smith                 F    26   6' 11"  250 lbs   Mississippi St / 3 años
+9   Ausar Thompson             G    23   6' 7"   205 lbs   4 años
+
+======================================================================
+Golden State Warriors (GS)
+======================================================================
+Entrenador: Steve Kerr
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+28  Charles Bassey             C    26   6' 10"  230 lbs   Western KY / 6 años
+10  Jimmy Butler III           F    37   6' 6"   230 lbs   Marquette / 16 años
+18  LJ Cryer                   G    25   6' 0"   200 lbs   Houston / 2 años
+30  Stephen Curry              G    38   6' 2"   185 lbs   Davidson / 18 años
+23  Draymond Green             F    36   6' 6"   230 lbs   Michigan St / 15 años
+20  Al Horford                 C    40   6' 8"   240 lbs   Florida / 20 años
+45  Graham Ike                 F    24   6' 9"   250 lbs   Gonzaga / rookie
+1   Yaxel Lendeborg            F    24   6' 9"   241 lbs   Michigan / rookie
+33  Malevy Leons               F    27   6' 9"   203 lbs   Bradley / 3 años
+8   De'Anthony Melton          G    28   6' 2"   200 lbs   USC / 9 años
+4   Moses Moody                G    24   6' 5"   211 lbs   Arkansas / 6 años
+32  Georges Niang              F    33   6' 6"   230 lbs   Iowa State / 11 años
+0   Gary Payton II             G    33   6' 2"   195 lbs   Oregon St / 11 años
+2   Brandin Podziemski         G    23   6' 4"   205 lbs   Santa Clara / 4 años
+7   Kristaps Porzingis         C    31   7' 2"   240 lbs   12 años
+3   Will Richard               G    23   6' 3"   206 lbs   Florida / 2 años
+15  Gui Santos                 F    24   6' 7"   185 lbs   4 años
+12  Brandon Williams           G    27   6' 1"   190 lbs   Arizona / 5 años
+
+======================================================================
+Houston Rockets (HOU)
+======================================================================
+Entrenador: Ime Udoka
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+12  Steven Adams               C    33   6' 11"  265 lbs   Pitt / 14 años
+31  Bogdan Bogdanovic          G    34   6' 5"   225 lbs   10 años
+30  Clint Capela               C    32   6' 10"  256 lbs   13 años
+25  Quadir Copeland            G    23   6' 6"   220 lbs   NC State / rookie
+27  Isaiah Crawford            F    25   6' 6"   220 lbs   Louisiana Tech / 3 años
+7   Kevin Durant               F    38   6' 11"  240 lbs   Texas / 20 años
+17  Tari Eason                 F    25   6' 8"   215 lbs   LSU / 5 años
+3   Julian Phillips            F    23   6' 6"   198 lbs   Tennessee / 4 años
+28  Alperen Sengun             C    24   6' 11"  243 lbs   6 años
+15  Reed Sheppard              G    22   6' 2"   185 lbs   Kentucky / 3 años
+36  Marcus Smart               G    32   6' 3"   220 lbs   Oklahoma St / 13 años
+10  Jabari Smith Jr.           F    23   6' 11"  220 lbs   Auburn / 5 años
+8   Jae'Sean Tate              F    31   6' 4"   230 lbs   Ohio State / 7 años
+1   Amen Thompson              G    23   6' 7"   200 lbs   4 años
+2   Bruce Thornton             G    23   6' 0"   229 lbs   Ohio State / rookie
+9   Oscar Tshiebwe             C    26   6' 8"   255 lbs   Kentucky / 4 años
+5   Fred VanVleet              G    32   6' 0"   197 lbs   Wichita St / 11 años
+
+======================================================================
+Indiana Pacers (IND)
+======================================================================
+Entrenador: Rick Carlisle
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+24  Kobe Brown                 G    26   6' 7"   250 lbs   Missouri / 4 años
+12  Johnny Furphy              G    21   6' 8"   200 lbs   Kansas / 3 años
+0   Tyrese Haliburton          G    26   6' 5"   185 lbs   Iowa State / 7 años
+32  Jay Huff                   C    29   7' 1"   240 lbs   Virginia / 6 años
+29  Quenton Jackson            G    28   6' 4"   173 lbs   Texas A&M / 5 años
+9   T.J. McConnell             G    34   6' 1"   190 lbs   Arizona / 12 años
+22  Larry Nance Jr.            F    33   6' 6"   245 lbs   Wyoming / 12 años
+2   Andrew Nembhard            G    26   6' 4"   191 lbs   Gonzaga / 5 años
+23  Aaron Nesmith              G    27   6' 5"   215 lbs   Vanderbilt / 7 años
+10  Kelly Oubre Jr.            G    30   6' 8"   203 lbs   Kansas / 12 años
+26  Ben Sheppard               G    25   6' 6"   190 lbs   Belmont / 4 años
+43  Pascal Siakam              F    32   6' 8"   245 lbs   New Mexico St / 11 años
+18  Jalen Slawson              F    27   6' 7"   215 lbs   Furman / 3 años
+3   Braden Smith               G    23   5' 10"  167 lbs   Purdue / rookie
+1   Obi Toppin                 F    28   6' 9"   220 lbs   Dayton / 7 años
+5   Jarace Walker              F    23   6' 7"   235 lbs   Houston / 4 años
+40  Ivica Zubac                C    29   7' 0"   240 lbs   11 años
+
+======================================================================
+LA Clippers (LAC)
+======================================================================
+Entrenador: Tyronn Lue
+Jugadores: 19
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+3   Bradley Beal               G    33   6' 4"   207 lbs   Florida / 15 años
+24  Cam Christie               G    21   6' 5"   190 lbs   Minnesota / 3 años
+9   Gradey Dick                G    23   6' 7"   200 lbs   Kansas / 4 años
+8   Kris Dunn                  G    32   6' 3"   205 lbs   Providence / 11 años
+10  Darius Garland             G    26   6' 1"   192 lbs   Vanderbilt / 8 años
+28  Rui Hachimura              F    28   6' 8"   230 lbs   Gonzaga / 8 años
+7   Brandon Ingram             F    29   6' 8"   190 lbs   Duke / 11 años
+23  Isaiah Jackson             F    24   6' 8"   205 lbs   Kentucky / 6 años
+5   Derrick Jones Jr.          F    29   6' 6"   210 lbs   UNLV / 11 años
+11  Brook Lopez                C    38   7' 1"   282 lbs   Stanford / 19 años
+12  Nick Martinelli            F    22   6' 7"   224 lbs   Northwestern / rookie
+18  Baba Miller                F    22   6' 11"  208 lbs   Cincinnati / rookie
+22  Jordan Miller              G    26   6' 5"   194 lbs   Miami / 4 años
+14  Yanic Konan Niederhauser   C    23   6' 11"  242 lbs   Penn State / 2 años
+21  Jalen Pickett              G    27   6' 2"   202 lbs   Penn State / 4 años
+4   Kobe Sanders               G    24   6' 8"   207 lbs   Nevada / 2 años
+31  Max Strus                  G    30   6' 5"   215 lbs   DePaul / 8 años
+1   Keaton Wagler              G    19   6' 5"   188 lbs   Illinois / rookie
+20  Blake Wesley               G    23   6' 4"   190 lbs   Notre Dame / 5 años
+
+======================================================================
+Los Angeles Lakers (LAL)
+======================================================================
+Entrenador: JJ Redick
+Jugadores: 19
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+43  Cameron Carr               G    22   6' 5"   184 lbs   Baylor / rookie
+-   Carson Cooper              C    22   6' 11"  245 lbs   Michigan St / rookie
+77  Luka Doncic                G    27   6' 8"   230 lbs   9 años
+5   Quentin Grimes             G    26   6' 4"   210 lbs   Houston / 6 años
+7   Jaden Hardy                G    24   6' 3"   198 lbs   5 años
+9   Bronny James               G    22   6' 2"   210 lbs   USC / 3 años
+47  Arthur Kaluma              F    24   6' 6"   223 lbs   Texas / 2 años
+14  Walker Kessler             C    25   7' 2"   245 lbs   Auburn / 5 años
+12  Jake LaRavia               F    25   6' 7"   235 lbs   Wake Forest / 5 años
+55  Kevon Looney               F    30   6' 9"   222 lbs   UCLA / 12 años
+54  Sandro Mamukelashvili      F    27   6' 9"   240 lbs   Seton Hall / 6 años
+30  Chris Manon                G    24   6' 4"   209 lbs   Vanderbilt / 2 años
+31  AK Okereke                 F    23   6' 7"   244 lbs   Vanderbilt / rookie
+15  Austin Reaves              G    28   6' 5"   197 lbs   Oklahoma / 6 años
+10  Collin Sexton              G    27   6' 3"   190 lbs   Alabama / 9 años
+1   Adou Thiero                F    22   6' 8"   220 lbs   Arkansas / 2 años
+4   Matisse Thybulle           G    29   6' 5"   202 lbs   Washington / 8 años
+2   Jarred Vanderbilt          F    27   6' 8"   214 lbs   Kentucky / 9 años
+11  Ziaire Williams            F    25   6' 9"   185 lbs   Stanford / 6 años
+
+======================================================================
+Memphis Grizzlies (MEM)
+======================================================================
+Entrenador: Tuomas Iisalo
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+27  Cameron Boozer             F    19   6' 8"   253 lbs   Duke / rookie
+23  Cedric Coward              F    23   6' 5"   206 lbs   Washington St / 2 años
+14  Zach Edey                  C    24   7' 3"   305 lbs   Purdue / 3 años
+3   Jerami Grant               F    32   6' 7"   213 lbs   Syracuse / 13 años
+22  Taylor Hendricks           F    23   6' 9"   215 lbs   UCF / 4 años
+45  GG Jackson                 F    21   6' 9"   210 lbs   South Carolina / 4 años
+2   Ty Jerome                  G    29   6' 5"   195 lbs   Virginia / 8 años
+35  Karim Lopez                F    19   6' 8"   222 lbs   rookie
+21  Jahmai Mashack             G    24   6' 3"   197 lbs   Tennessee / 2 años
+17  Kris Murray                F    26   6' 8"   218 lbs   Iowa / 4 años
+1   Scotty Pippen Jr.          G    26   6' 2"   170 lbs   Vanderbilt / 5 años
+41  Quinten Post               C    26   7' 0"   238 lbs   Boston College / 3 años
+18  Olivier-Maxence Prosper    F    24   6' 7"   230 lbs   Marquette / 4 años
+5   Richie Saunders            G    25   6' 5"   205 lbs   BYU / rookie
+10  Javon Small                G    23   6' 1"   190 lbs   West Virginia / 2 años
+24  Cam Spencer                G    26   6' 3"   205 lbs   UConn / 3 años
+28  Isaiah Stewart             C    25   6' 8"   250 lbs   Washington / 7 años
+0   Jaylen Wells               F    23   6' 7"   206 lbs   Washington St / 3 años
+
+======================================================================
+Miami Heat (MIA)
+======================================================================
+Entrenador: Erik Spoelstra
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+13  Bam Adebayo                C    29   6' 9"   260 lbs   Kentucky / 10 años
+7   Giannis Antetokounmpo      F    31   6' 11"  243 lbs   14 años
+4   Ryan Conwell               G    22   6' 3"   220 lbs   Louisville / rookie
+24  Tre Donaldson              G    22   6' 2"   210 lbs   Miami / rookie
+0   Simone Fontecchio          F    30   6' 7"   220 lbs   5 años
+15  Myron Gardner              F    25   6' 5"   225 lbs   Little Rock / 2 años
+50  Vladislav Goldin           C    25   7' 0"   255 lbs   Michigan / 2 años
+10  Tim Hardaway Jr.           G    34   6' 5"   205 lbs   Michigan / 14 años
+16  Keshad Johnson             F    25   6' 6"   230 lbs   Arizona / 3 años
+5   Nikola Jovic               F    23   6' 10"  240 lbs   5 años
+9   Pelle Larsson              G    25   6' 5"   215 lbs   Arizona / 3 años
+2   Davion Mitchell            G    28   6' 0"   210 lbs   Baylor / 6 años
+95  Bobby Portis               F    31   6' 9"   250 lbs   Arkansas / 12 años
+8   Nick Richards              C    28   6' 11"  245 lbs   Kentucky / 7 años
+12  Dru Smith                  G    28   6' 2"   200 lbs   Missouri / 5 años
+11  Klay Thompson              G    36   6' 5"   220 lbs   Washington St / 16 años
+22  Andrew Wiggins             F    31   6' 7"   210 lbs   Kansas / 13 años
+
+======================================================================
+Milwaukee Bucks (MIL)
+======================================================================
+Entrenador: Taylor Jenkins
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+15  Nate Ament                 F    19   6' 10"  211 lbs   Tennessee / rookie
+0   Brayden Burries            G    21   6' 4"   215 lbs   Arizona / rookie
+21  Ousmane Dieng              F    23   6' 9"   185 lbs   5 años
+20  AJ Green                   G    27   6' 4"   190 lbs   Northern Iowa / 5 años
+11  Tyler Herro                G    26   6' 5"   205 lbs   Kentucky / 8 años
+25  Kasparas Jakucionis        G    20   6' 5"   205 lbs   Illinois / 2 años
+24  Jaime Jaquez Jr.           F    25   6' 6"   230 lbs   UCLA / 4 años
+19  Kam Jones                  G    24   6' 4"   200 lbs   Marquette / 2 años
+18  Kyle Kuzma                 F    31   6' 8"   221 lbs   Utah / 10 años
+12  Caris LeVert               G    32   6' 7"   205 lbs   Michigan / 11 años
+23  Bogoljub Markovic          F    21   6' 11"  210 lbs   rookie
+35  Pete Nance                 F    26   6' 9"   225 lbs   North Carolina / 4 años
+13  Ryan Rollins               G    24   6' 3"   180 lbs   Toledo / 5 años
+30  Cormac Ryan                G    28   6' 5"   195 lbs   North Carolina / 2 años
+00  Jericho Sims               C    28   6' 10"  250 lbs   Texas / 6 años
+5   Gary Trent Jr.             G    27   6' 5"   204 lbs   Duke / 9 años
+3   Myles Turner               C    30   6' 11"  250 lbs   Texas / 12 años
+9   Kel'el Ware                C    22   7' 0"   250 lbs   Indiana / 3 años
+
+======================================================================
+Minnesota Timberwolves (MIN)
+======================================================================
+Entrenador: Chris Finch
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+1   LaMelo Ball                G    25   6' 7"   180 lbs   7 años
+19  Joan Beringer              F    20   6' 11"  230 lbs   2 años
+22  Johni Broome               F    24   6' 10"  235 lbs   Auburn
+7   Jaylen Clark               G    25   6' 5"   205 lbs   UCLA / 3 años
+0   Donte DiVincenzo           G    29   6' 4"   203 lbs   Villanova / 9 años
+13  Ayo Dosunmu                G    26   6' 4"   200 lbs   Illinois / 6 años
+5   Anthony Edwards            G    25   6' 4"   225 lbs   Georgia / 7 años
+33  Isaiah Evans               F    20   6' 6"   186 lbs   Duke / rookie
+27  Rudy Gobert                C    34   7' 1"   258 lbs   14 años
+8   Bones Hyland               G    26   6' 2"   169 lbs   VCU / 6 años
+24  Jonathan Kuminga           F    24   6' 7"   225 lbs   6 años
+41  Trey Lyles                 F    31   6' 9"   234 lbs   Kentucky / 11 años
+3   Jaden McDaniels            F    26   6' 9"   185 lbs   Washington / 7 años
+15  Zyon Pullin                G    25   6' 4"   206 lbs   Florida / 3 años
+4   Terrence Shannon Jr.       G    26   6' 6"   215 lbs   Illinois / 3 años
+9   Cody Williams              F    22   6' 8"   190 lbs   Colorado / 3 años
+44  Rocco Zikarsky             C    20   7' 3"   254 lbs   2 años
+
+======================================================================
+New Orleans Pelicans (NO)
+======================================================================
+Entrenador: Jamahl Mosley
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+41  Saddiq Bey                 F    27   6' 8"   215 lbs   Villanova / 6 años
+8   Malik Dia                  F    22   6' 9"   250 lbs   Ole Miss / rookie
+0   Jeremiah Fears             G    20   6' 3"   190 lbs   Oklahoma / 2 años
+14  AJ Johnson                 G    21   6' 5"   160 lbs   3 años
+2   Herbert Jones              F    28   6' 7"   206 lbs   Alabama / 6 años
+6   DeAndre Jordan             C    38   6' 11"  265 lbs   Texas A&M / 19 años
+24  Bennedict Mathurin         G    24   6' 5"   210 lbs   Arizona / 5 años
+17  Karlo Matkovic             F    25   6' 10"  231 lbs   3 años
+11  Bryce McGowens             G    24   6' 6"   190 lbs   Nebraska / 5 años
+21  Yves Missi                 C    22   6' 11"  235 lbs   Baylor / 3 años
+25  Trey Murphy III            F    26   6' 8"   206 lbs   Virginia / 6 años
+5   Dejounte Murray            G    30   6' 4"   180 lbs   Washington / 10 años
+10  Jaron Pierre Jr.           G    24   6' 6"   210 lbs   SMU / rookie
+3   Jordan Poole               G    27   6' 4"   194 lbs   Michigan / 8 años
+22  Derik Queen                C    21   6' 9"   250 lbs   Maryland / 2 años
+13  Julian Reese               F    23   6' 9"   252 lbs   Maryland / 2 años
+9   Trendon Watford            F    26   6' 8"   237 lbs   LSU / 6 años
+1   Zion Williamson            F    26   6' 6"   284 lbs   Duke / 7 años
+
+======================================================================
+New York Knicks (NY)
+======================================================================
+Entrenador: Mike Brown
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+14  Jaden Akins                G    23   6' 4"   195 lbs   Michigan St / rookie
+5   Jose Alvarado              G    28   6' 0"   179 lbs   Georgia Tech / 6 años
+8   OG Anunoby                 F    29   6' 7"   240 lbs   Indiana / 10 años
+25  Mikal Bridges              G    30   6' 6"   209 lbs   Villanova / 9 años
+11  Jalen Brunson              G    30   6' 2"   190 lbs   Villanova / 9 años
+00  Jordan Clarkson            G    34   6' 5"   194 lbs   Missouri / 13 años
+4   Pacome Dadiet              F    21   6' 9"   210 lbs   3 años
+51  Mohamed Diawara            F    21   6' 9"   225 lbs   2 años
+0   Andre Drummond             C    33   6' 11"  279 lbs   UConn / 15 años
+3   Josh Hart                  G    31   6' 5"   215 lbs   Villanova / 10 años
+1   Dalton Knecht              F    25   6' 6"   215 lbs   Tennessee / 3 años
+13  Tyler Kolek                G    25   6' 2"   195 lbs   Marquette / 3 años
+2   Miles McBride              G    26   6' 2"   195 lbs   West Virginia / 6 años
+55  Tyler Nickel               F    23   6' 8"   217 lbs   Vanderbilt / rookie
+44  Landry Shamet              G    29   6' 5"   190 lbs   Wichita St / 9 años
+32  Karl-Anthony Towns         C    31   7' 0"   248 lbs   Kentucky / 12 años
+35  James Wiseman              C    25   6' 11"  240 lbs   Memphis / 7 años
+
+======================================================================
+Oklahoma City Thunder (OKC)
+======================================================================
+Entrenador: Mark Daigneault
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+23  Brooks Barnhizer           F    24   6' 6"   226 lbs   Northwestern / 2 años
+9   Alex Caruso                G    32   6' 5"   186 lbs   Texas A&M / 10 años
+18  Nique Clifford             G    24   6' 5"   175 lbs   Colorado St / 2 años
+21  Josh Dix                   G    22   6' 5"   206 lbs   Creighton / rookie
+2   Shai Gilgeous-Alexander    G    28   6' 6"   195 lbs   Kentucky / 9 años
+55  Isaiah Hartenstein         C    28   7' 0"   250 lbs   9 años
+7   Chet Holmgren              C    24   7' 1"   208 lbs   Gonzaga / 4 años
+15  Aday Mara                  C    21   7' 3"   262 lbs   Michigan / rookie
+3   Jared McCain               G    22   6' 3"   195 lbs   Duke / 3 años
+25  Ajay Mitchell              G    24   6' 4"   190 lbs   Santa Barbara / 3 años
+-   Micah Peavy                G    25   6' 7"   220 lbs   Georgetown / 2 años
+12  Thomas Sorber              C    20   6' 9"   250 lbs   Georgetown / rookie
+14  Bennett Stirtz             G    23   6' 4"   190 lbs   Iowa / rookie
+44  Nikola Topic               G    21   6' 6"   200 lbs   2 años
+22  Cason Wallace              G    23   6' 3"   195 lbs   Kentucky / 4 años
+8   Jalen Williams             G    25   6' 5"   211 lbs   Santa Clara / 5 años
+6   Jaylin Williams            F    24   6' 9"   240 lbs   Arkansas / 5 años
+34  Kenrich Williams           G    31   6' 7"   210 lbs   TCU / 9 años
+
+======================================================================
+Orlando Magic (ORL)
+======================================================================
+Entrenador: Sean Sweeney
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+5   Paolo Banchero             F    24   6' 10"  250 lbs   Duke / 5 años
+3   Desmond Bane               G    28   6' 6"   215 lbs   TCU / 7 años
+35  Goga Bitadze               C    27   6' 11"  250 lbs   8 años
+0   Anthony Black              G    22   6' 7"   200 lbs   Arkansas / 4 años
+8   Jamal Cain                 F    27   6' 7"   191 lbs   Oakland / 5 años
+2   Jevon Carter               G    31   6' 0"   200 lbs   West Virginia / 9 años
+34  Wendell Carter Jr.         C    27   6' 10"  270 lbs   Duke / 9 años
+14  Colin Castleton            C    26   6' 10"  250 lbs   Florida / 4 años
+23  Tristan da Silva           F    25   6' 8"   217 lbs   Colorado / 3 años
+1   Jonathan Isaac             F    29   6' 10"  230 lbs   Florida St / 10 años
+30  Alex Morales               G    29   6' 6"   180 lbs   Wagner / 2 años
+25  Izaiyah Nelson             F    23   6' 8"   219 lbs   South Florida / rookie
+93  Noah Penda                 F    21   6' 7"   215 lbs   2 años
+11  Jase Richardson            G    21   6' 1"   180 lbs   Michigan St / 2 años
+4   Jalen Suggs                G    25   6' 5"   205 lbs   Gonzaga / 6 años
+9   Nikola Vucevic             C    36   6' 9"   260 lbs   USC / 16 años
+22  Franz Wagner               F    25   6' 10"  220 lbs   Michigan / 6 años
+
+======================================================================
+Philadelphia 76ers (PHI)
+======================================================================
+Entrenador: Nick Nurse
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+25  Dominick Barlow            F    23   6' 9"   238 lbs   5 años
+30  Adem Bona                  C    23   6' 10"  239 lbs   UCLA / 3 años
+7   Jaylen Brown               G    30   6' 6"   223 lbs   California / 11 años
+1   Kentavious Caldwell-Pope   G    33   6' 5"   213 lbs   Georgia / 14 años
+77  VJ Edgecombe               G    21   6' 5"   180 lbs   Baylor / 2 años
+11  Justin Edwards             F    22   6' 7"   222 lbs   Kentucky / 3 años
+21  Joel Embiid                C    32   7' 0"   270 lbs   Kansas / 11 años
+99  Tacko Fall                 C    30   7' 6"   299 lbs   UCF / 4 años
+55  Ariel Hukporti             C    24   7' 0"   258 lbs   3 años
+23  LeBron James               F    41   6' 9"   250 lbs   24 años
+8   Caleb Love                 G    25   6' 3"   214 lbs   Arizona / 2 años
+0   Tyrese Maxey               G    26   6' 2"   204 lbs   Kentucky / 7 años
+00  Labaron Philon Jr.         G    20   6' 3"   179 lbs   Alabama / rookie
+12  Rayan Rupert               G    22   6' 7"   207 lbs   4 años
+5   Anfernee Simons            G    27   6' 4"   206 lbs   9 años
+45  Dean Wade                  F    30   6' 9"   223 lbs   Kansas St / 8 años
+33  Jabari Walker              F    24   6' 7"   240 lbs   Colorado / 5 años
+
+======================================================================
+Phoenix Suns (PHX)
+======================================================================
+Entrenador: Jordan Ott
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+15  Devin Booker               G    30   6' 5"   206 lbs   Kentucky / 12 años
+17  Jamaree Bouyea             G    27   6' 2"   180 lbs   San Francisco / 5 años
+22  Miles Bridges              F    28   6' 7"   225 lbs   Michigan St / 8 años
+3   Dillon Brooks              F    30   6' 7"   225 lbs   Oregon / 10 años
+0   Ryan Dunn                  F    23   6' 7"   216 lbs   Virginia / 3 años
+20  Rasheer Fleming            F    22   6' 9"   240 lbs   Saint Joseph's / 2 años
+12  Collin Gillespie           G    27   6' 1"   195 lbs   Villanova / 4 años
+23  Jordan Goodwin             G    28   6' 3"   215 lbs   Saint Louis / 6 años
+4   Jalen Green                G    24   6' 4"   186 lbs   6 años
+11  Oso Ighodaro               F    24   6' 11"  235 lbs   Marquette / 3 años
+8   Luke Kennard               G    30   6' 5"   206 lbs   Duke / 10 años
+10  Khaman Maluach             C    20   7' 2"   250 lbs   Duke / 2 años
+18  Koa Peat                   F    19   6' 8"   245 lbs   Arizona / rookie
+26  Duop Reath                 C    30   6' 9"   245 lbs   LSU / 4 años
+61  Pat Spencer                G    30   6' 2"   205 lbs   Northwestern / 4 años
+2   Drew Timme                 F    26   6' 10"  235 lbs   Gonzaga / 2 años
+25  Mark Williams              C    24   7' 1"   240 lbs   Duke / 5 años
+
+======================================================================
+Portland Trail Blazers (POR)
+======================================================================
+Entrenador: Micah Nori
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+8   Deni Avdija                F    25   6' 8"   228 lbs   7 años
+33  Toumani Camara             F    26   6' 7"   230 lbs   Dayton / 4 años
+10  Branden Carlson            C    27   7' 0"   220 lbs   Utah / 3 años
+91  Sidy Cissoko               G    22   6' 6"   220 lbs   4 años
+23  Donovan Clingan            C    22   7' 2"   280 lbs   UConn / 3 años
+16  Yang Hansen                C    21   7' 1"   270 lbs   2 años
+00  Scoot Henderson            G    22   6' 3"   207 lbs   4 años
+5   Jrue Holiday               G    36   6' 4"   220 lbs   UCLA / 18 años
+29  Jayson Kent                G    24   6' 8"   215 lbs   Texas / 2 años
+27  Vit Krejci                 G    26   6' 8"   195 lbs   6 años
+0   Damian Lillard             G    36   6' 2"   200 lbs   Weber St / 15 años
+1   Ja Morant                  G    27   6' 2"   174 lbs   Murray St / 8 años
+9   Micah Potter               C    28   6' 9"   248 lbs   Wisconsin / 6 años
+17  Shaedon Sharpe             G    23   6' 5"   210 lbs   Kentucky / 5 años
+2   John Tonje                 F    25   6' 5"   225 lbs   Wisconsin / 2 años
+35  Robert Williams III        C    29   6' 9"   249 lbs   Texas A&M / 9 años
+11  Chris Youngblood           G    24   6' 4"   221 lbs   Alabama / 2 años
+
+======================================================================
+Sacramento Kings (SAC)
+======================================================================
+Entrenador: Doug Christie
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+9   Precious Achiuwa           F    27   6' 8"   243 lbs   Memphis / 7 años
+5   Darius Acuff Jr.           G    20   6' 2"   186 lbs   Arkansas / rookie
+19  Leaky Black                F    27   6' 6"   209 lbs   North Carolina / 3 años
+32  Dylan Cardwell             C    24   6' 10"  255 lbs   Auburn / 2 años
+15  De'Andre Hunter            F    28   6' 7"   221 lbs   Virginia / 8 años
+33  Alex Karaban               F    24   6' 7"   225 lbs   UConn / rookie
+8   Zach LaVine                G    31   6' 5"   200 lbs   UCLA / 13 años
+22  Jonathan Mogbo             F    25   6' 9"   225 lbs   San Francisco / 3 años
+0   Malik Monk                 G    28   6' 3"   200 lbs   Kentucky / 10 años
+13  Keegan Murray              F    26   6' 8"   225 lbs   Iowa / 5 años
+3   Sean Pedulla               G    24   6' 1"   195 lbs   Ole Miss / 2 años
+29  Daeqwon Plowden            G    28   6' 6"   216 lbs   Bowling Green / 3 años
+24  Mason Plumlee              C    36   7' 0"   254 lbs   Duke / 13 años
+42  Maxime Raynaud             C    23   7' 1"   250 lbs   Stanford / 2 años
+11  Domantas Sabonis           F    30   6' 10"  240 lbs   Gonzaga / 11 años
+34  Emanuel Sharp              G    22   6' 3"   208 lbs   Houston / rookie
+25  Ben Simmons                G    30   6' 10"  240 lbs   LSU / 10 años
+-   Gabe Vincent               G    30   6' 2"   200 lbs   Santa Barbara / 7 años
+
+======================================================================
+San Antonio Spurs (SA)
+======================================================================
+Entrenador: Mitch Johnson
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+40  Harrison Barnes            F    34   6' 8"   225 lbs   North Carolina / 15 años
+15  Maliq Brown                F    23   6' 9"   235 lbs   Duke / rookie
+11  Carter Bryant              F    20   6' 7"   230 lbs   Arizona / 2 años
+5   Stephon Castle             G    22   6' 6"   220 lbs   UConn / 3 años
+30  Julian Champagnie          F    25   6' 7"   215 lbs   St John's / 5 años
+4   De'Aaron Fox               G    28   6' 3"   190 lbs   Kentucky / 10 años
+17  Ja'Kobi Gillespie          G    22   6' 1"   180 lbs   Tennessee / rookie
+2   Dylan Harper               G    20   6' 5"   220 lbs   Rutgers / 2 años
+23  Tobias Harris              F    34   6' 8"   230 lbs   Tennessee / 16 años
+3   Keldon Johnson             F    27   6' 6"   215 lbs   Kentucky / 8 años
+25  David Jones Garcia         F    24   6' 4"   215 lbs   Memphis / 2 años
+7   Luke Kornet                C    31   7' 1"   270 lbs   Vanderbilt / 10 años
+0   Jordan McLaughlin          G    30   6' 0"   180 lbs   USC / 8 años
+22  Jayden Quaintance          F    19   6' 10"  255 lbs   Kentucky / rookie
+10  Tarris Reed Jr.            C    23   6' 10"  270 lbs   UConn / rookie
+24  Devin Vassell              G    26   6' 5"   205 lbs   Florida St / 7 años
+1   Victor Wembanyama          F    22   7' 4"   240 lbs   4 años
+
+======================================================================
+Toronto Raptors (TOR)
+======================================================================
+Entrenador: Darko Rajakovic
+Jugadores: 17
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+12  Kyle Anderson              F    33   6' 8"   230 lbs   UCLA / 13 años
+4   Scottie Barnes             F    25   6' 8"   237 lbs   Florida St / 6 años
+9   RJ Barrett                 F    26   6' 6"   214 lbs   Duke / 8 años
+77  Jamison Battle             F    25   6' 7"   220 lbs   Ohio State / 3 años
+12  Nate Bittle                C    23   7' 0"   250 lbs   Oregon / rookie
+8   Jaden Bradley              G    23   6' 3"   205 lbs   Arizona / rookie
+22  Allen Graves               F    20   6' 8"   225 lbs   Santa Clara / rookie
+32  Trayce Jackson-Davis       F    26   6' 9"   245 lbs   Indiana / 4 años
+2   Kawhi Leonard              F    35   6' 6"   225 lbs   San Diego St / 16 años
+55  Alijah Martin              G    24   6' 2"   212 lbs   Florida / 2 años
+9   Kevin McCullar Jr.         G    25   6' 6"   210 lbs   Kansas / 2 años
+30  Collin Murray-Boyles       F    21   6' 7"   245 lbs   South Carolina / 2 años
+19  Jakob Poeltl               C    31   7' 0"   253 lbs   Utah / 11 años
+5   Immanuel Quickley          G    27   6' 2"   190 lbs   Kentucky / 7 años
+23  Jamal Shead                G    24   6' 1"   200 lbs   Houston / 3 años
+18  Malachi Smith              G    26   6' 4"   205 lbs   Gonzaga / 2 años
+14  Ja'Kobe Walter             G    22   6' 4"   180 lbs   Baylor / 3 años
+
+======================================================================
+Utah Jazz (UTAH)
+======================================================================
+Entrenador: Will Hardy
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+13  Jonas Aidoo                C    23   6' 11"  240 lbs   Arkansas / rookie
+19  Ace Bailey                 G    20   6' 9"   200 lbs   Rutgers / 2 años
+44  Mo Bamba                   C    28   7' 0"   231 lbs   Texas / 9 años
+13  Tony Bradley               C    28   6' 10"  248 lbs   North Carolina / 9 años
+0   Kobe Bufkin                G    23   6' 4"   195 lbs   Michigan / 4 años
+8   Isaiah Collier             G    22   6' 4"   210 lbs   USC / 3 años
+2   Kyle Filipowski            F    23   6' 11"  250 lbs   Duke / 3 años
+3   Keyonte George             G    23   6' 4"   185 lbs   Baylor / 4 años
+5   Josh Green                 G    26   6' 6"   200 lbs   Arizona / 7 años
+11  Jaxson Hayes               C    26   7' 0"   220 lbs   Texas / 8 años
+00  Harrison Ingram            F    23   6' 5"   230 lbs   North Carolina / 3 años
+20  Jaren Jackson Jr.          F    27   6' 10"  242 lbs   Michigan St / 9 años
+23  Lauri Markkanen            F    29   7' 1"   240 lbs   Arizona / 10 años
+10  Svi Mykhailiuk             G    29   6' 7"   205 lbs   Kansas / 9 años
+30  Jusuf Nurkic               C    32   6' 11"  290 lbs   13 años
+21  Josh Okogie                G    28   6' 4"   213 lbs   Georgia Tech / 9 años
+22  Darryn Peterson            G    19   6' 5"   199 lbs   Kansas / rookie
+28  Brice Sensabaugh           F    23   6' 6"   235 lbs   Ohio State / 4 años
+
+======================================================================
+Washington Wizards (WSH)
+======================================================================
+Entrenador: Brian Keefe
+Jugadores: 18
+
+#   Jugador                    Pos  Edad Altura  Peso      Universidad / Experiencia
+8   Deandre Ayton              C    28   7' 0"   252 lbs   Arizona / 9 años
+26  Reece Beekman              G    25   6' 3"   190 lbs   Virginia / 2 años
+7   Bub Carrington             G    21   6' 4"   190 lbs   Pitt / 3 años
+9   Justin Champagnie          F    25   6' 6"   206 lbs   Pitt / 6 años
+0   Bilal Coulibaly            G    22   6' 7"   195 lbs   4 años
+23  Anthony Davis              F    33   6' 10"  253 lbs   Kentucky / 15 años
+4   AJ Dybantsa                F    19   6' 9"   217 lbs   BYU / rookie
+18  Kyshawn George             F    22   6' 8"   200 lbs   Miami / 3 años
+16  Anthony Gill               F    34   6' 7"   230 lbs   Virginia / 7 años
+12  Tre Johnson                G    20   6' 5"   190 lbs   Texas / 2 años
+1   Tre Mann                   G    25   6' 4"   178 lbs   Florida / 6 años
+22  Khris Middleton            F    35   6' 7"   222 lbs   Texas A&M / 15 años
+34  Felix Okpara               F    22   6' 11"  237 lbs   Tennessee / rookie
+27  Will Riley                 G    20   6' 9"   180 lbs   Illinois / 2 años
+20  Alex Sarr                  C    21   7' 0"   205 lbs   3 años
+00  Tristan Vukcevic           F    23   7' 0"   220 lbs   4 años
+5   Jamir Watkins              G    25   6' 6"   210 lbs   Florida St / 2 años
+3   Trae Young                 G    28   6' 2"   164 lbs   Oklahoma / 9 años

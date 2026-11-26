@@ -1,0 +1,179 @@
+name: Mobile build (APK + IPA)
+
+# Every push to main packs the game into an Android APK and an (unsigned) iOS IPA with Capacitor.
+# Downloads: the run's "Artifacts" section. Tag a version (git tag v1.0.0 && git push --tags) to also get a GitHub Release.
+# Optional secrets (Settings -> Secrets and variables -> Actions) for a SIGNED release APK:
+#   ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD
+# The IPA is NOT signed (no Apple account needed): install it with Sideloadly / AltStore / TrollStore, which sign it for you.
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+    paths-ignore:
+      - "CONTEXT.md"
+      - "dev/**"
+      - "GRIDS/**"
+      - "_art-src/**"
+  workflow_dispatch:
+
+concurrency:
+  group: mobile-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  NODE_VERSION: "22"
+
+jobs:
+  android:
+    name: Android APK
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      KS_B64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Install Capacitor
+        working-directory: mobile
+        run: npm install --no-audit --no-fund
+
+      - name: Install ffmpeg (sound compression)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Copy the game into mobile/www
+        working-directory: mobile
+        run: node prepare-www.mjs --webp --ogg
+
+      - name: Create the Android project
+        working-directory: mobile
+        run: |
+          npx cap add android
+          npx cap sync android
+          # more memory for Gradle: the app carries ~12,000 image and sound files
+          echo "org.gradle.jvmargs=-Xmx4g -Dfile.encoding=UTF-8" >> android/gradle.properties
+          # version = run number
+          sed -i "s/versionCode 1/versionCode ${{ github.run_number }}/; s/versionName \"1.0\"/versionName \"1.0.${{ github.run_number }}\"/" android/app/build.gradle
+
+      - name: Build the debug APK (installable as is)
+        working-directory: mobile/android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon --stacktrace
+
+      - name: Build and sign the release APK (only if the keystore secrets exist)
+        if: env.KS_B64 != ''
+        working-directory: mobile/android
+        env:
+          KS_PASS: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KS_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          KEY_PASS: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: |
+          echo "$KS_B64" | base64 -d > "$RUNNER_TEMP/release.keystore"
+          ./gradlew assembleRelease --no-daemon --stacktrace
+          BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
+          UNSIGNED=app/build/outputs/apk/release/app-release-unsigned.apk
+          "$BT/zipalign" -f -p 4 "$UNSIGNED" "$RUNNER_TEMP/aligned.apk"
+          "$BT/apksigner" sign --ks "$RUNNER_TEMP/release.keystore" --ks-pass "pass:$KS_PASS" \
+            --ks-key-alias "$KS_ALIAS" --key-pass "pass:$KEY_PASS" \
+            --out app/build/outputs/apk/release/YourLife-release.apk "$RUNNER_TEMP/aligned.apk"
+
+      - name: Collect the APKs
+        run: |
+          mkdir -p dist
+          cp mobile/android/app/build/outputs/apk/debug/app-debug.apk dist/YourLife-debug.apk
+          if [ -f mobile/android/app/build/outputs/apk/release/YourLife-release.apk ]; then
+            cp mobile/android/app/build/outputs/apk/release/YourLife-release.apk dist/YourLife-release.apk
+          fi
+          ls -lh dist
+
+      - uses: actions/upload-artifact@v5
+        with:
+          name: YourLife-android
+          path: dist/*.apk
+          retention-days: 30
+          compression-level: 0
+
+  ios:
+    name: iOS IPA (unsigned)
+    runs-on: macos-15
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install Capacitor
+        working-directory: mobile
+        run: npm install --no-audit --no-fund
+
+      - name: Copy the game into mobile/www
+        working-directory: mobile
+        run: node prepare-www.mjs --webp
+
+      - name: Create the iOS project
+        working-directory: mobile
+        run: |
+          npx cap add ios
+          npx cap sync ios
+          /usr/libexec/PlistBuddy -c "Set :CFBundleVersion ${{ github.run_number }}" ios/App/App/Info.plist
+          /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString 1.0.${{ github.run_number }}" ios/App/App/Info.plist || true
+
+      - name: Build the app without signing
+        working-directory: mobile/ios/App
+        run: |
+          xcodebuild \
+            -workspace App.xcworkspace \
+            -scheme App \
+            -configuration Release \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath "$RUNNER_TEMP/build" \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            build | tail -n 40
+
+      - name: Pack the IPA
+        run: |
+          APP=$(find "$RUNNER_TEMP/build/Build/Products/Release-iphoneos" -maxdepth 1 -name "*.app" | head -1)
+          echo "app: $APP"
+          mkdir -p dist/Payload
+          cp -R "$APP" dist/Payload/
+          (cd dist && zip -qry YourLife-unsigned.ipa Payload && rm -rf Payload)
+          ls -lh dist
+
+      - uses: actions/upload-artifact@v5
+        with:
+          name: YourLife-ios-unsigned
+          path: dist/YourLife-unsigned.ipa
+          retention-days: 30
+          compression-level: 0
+
+  release:
+    name: GitHub Release (tags only)
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [android, ios]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v5
+        with:
+          path: out
+          merge-multiple: true
+      - run: ls -lh out
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: out/*
+          body_path: CHANGELOG.md
+          generate_release_notes: false

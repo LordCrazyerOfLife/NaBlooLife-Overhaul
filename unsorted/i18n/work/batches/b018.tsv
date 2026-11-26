@@ -1,0 +1,800 @@
+13831	I sewed a shirt and sold it at the market.
+13833	Embroider a sampler
+13834	I embroidered a pretty sampler to hang on the wall.
+13835	fair
+13836	Attend a Town Fair
+13837	Enjoy food, games, and entertainment
+13838	The town fair has come to the village! Entry costs {1}.
+13839	Ride the carousel
+13840	I rode the carousel at the town fair.
+13841	Enter the pie contest
+13842	I won the pie contest at the town fair!
+13843	I entered the pie contest at the town fair but didn't place.
+13844	Watch the strongman
+13845	I watched the strongman bend an iron bar at the town fair.
+13846	Visit the fortune teller
+13847	The fortune teller at the fair said I will cross the ocean one day.
+13848	The fortune teller at the fair said great riches are in my future.
+13849	The fortune teller at the fair warned me of a dark stranger.
+13850	letter
+13851	Write a Letter
+13852	Keep in touch with family and friends
+13853	society
+13854	Join a Society
+13855	Accumulate knowledge or status
+13856	Play an Instrument
+13857	Practice a musical instrument
+13858	You pick up an instrument. What will you play?
+13859	Practice the piano
+13860	I practiced the piano for hours.
+13861	Play the violin
+13862	I played the violin beautifully.
+13863	I played the violin so badly the neighbors complained.
+13864	Fiddle at the tavern for coins
+13865	I fiddled at the tavern and people threw coins in my hat.
+13866	I fiddled at the tavern but nobody paid me a penny.
+13867	Help in your community
+13868	The parish is always looking for helping hands. Where will you help?
+13869	Help at the orphanage
+13870	I helped look after the children at the orphanage.
+13871	Feed the poor
+13872	I handed out bread and soup to the poor.
+13873	Nurse the sick
+13874	I helped nurse the sick at the infirmary.
+13875	I helped nurse the sick and caught a fever myself.
+13876	No horse
+13877	You need a riding horse for that. Buy one at the horse market.
+13878	You already did that this year.
+13879	caught a hoof on a fence, fell and broke a leg, and had to be put down
+13880	stepped in a gopher hole at a full gallop, broke a leg and had to be put down
+13881	city
+13882	The Old Absinthe House
+13883	The Planter's House
+13884	St. Louis
+13885	The El Dorado
+13886	bucket
+13887	The Bucket of Blood
+13888	The Alamo Saloon
+13889	west
+13890	The Long Branch Saloon
+13891	The Gem Saloon
+13892	The Silver Dollar Saloon
+13893	The Crystal Palace
+13894	The George Inn
+13895	brazen
+13896	The Brazen Head
+13897	sheep
+13899	miners
+13900	The Miners Arms
+13901	star
+13902	The Star Inn
+13903	St Just, Cornwall
+13904	bell
+13905	The Old Bell
+13906	home
+13907	The Village Saloon
+13908	The Village Tavern
+13909	Just down the road
+13910	Riding your own horse
+13911	By foot or stagecoach
+13912	visited this year
+13913	trip costs {1}
+13914	· visited this year
+13915	The trip to {1} costs {2}, plus money for drinks.
+13916	rode
+13917	took the stagecoach
+13918	I {1} to {2} to visit {3}.
+13919	Have a pint
+13920	I had a pint of ale at {1}.
+13921	Buy a round for everyone
+13922	I bought a round for everyone at {1}. They cheered my name!
+13923	Play faro
+13924	Play cards
+13925	cards
+13926	I won a game of {1} at {2}.
+13927	I lost a game of {1} at {2}.
+13928	Start a brawl
+13929	I started a brawl at {1} and won!
+13930	I started a brawl at {1} and got knocked out cold.
+13931	The tavern is warm, loud and smells of ale. What will you do?
+13932	{1} in {2} is packed with merchants, sailors and gentlemen. What will you do?
+13933	Spurs jingle and a piano plays as you push through the swinging doors of {1}. What will you do?
+13934	{1} in {2} is full of dusty miners swapping stories about rich strikes. What will you do?
+13935	Buy a miner a drink for a tip
+13936	I bought an old miner a drink at {1}, but his stories didn't lead anywhere.
+13937	I bought an old miner a drink at {1} and he told me where to find {2} in the {3}. I marked it on my map.
+13938	No job
+13939	You need a job before you can work extra hours.
+13940	You already worked extra hours this year.
+13941	Your employer at {1} could use extra hands. How hard will you work?
+13942	Stay a few extra hours
+13943	I worked a few extra hours as {1} {2} and earned {3}.
+13944	Work through the night
+13945	I worked through the night and earned {1}. I'm exhausted.
+13946	You already wrote a letter this year.
+13947	Nobody to write to
+13948	You have no one to write a letter to.
+13949	Who will you write to? Postage costs {1}.
+13950	I wrote a heartfelt letter to {1}.
+13951	You already went to a society meeting this year.
+13952	Ladies' Club
+13953	Gentlemen's Club
+13954	You're a member of the {1}.
+13955	Attend a meeting
+13956	I attended a meeting of the {1}.
+13957	Resign my membership
+13958	I resigned from the {1}.
+13959	The {1} charges {2} to join.
+13961	Literary Society ({1})
+13962	Temperance Society ({1})
+13963	You already went courting this year.
+13964	Lives with family
+13965	I {1} and {2} {3} agreed to let me court {4}.
+13966	I {1}, but {2} {3} turned me down.
+13967	local
+13968	You've caught the eye of {1} {2}, a {3}-year-old {4}. How will you win {5} over?
+13969	Take them for a carriage ride
+13970	took {1} for a carriage ride behind {2}
+13971	sent flowers to {1}
+13972	Take a stroll in the park
+13973	took {1} for a stroll in the park
+13974	Ask the family for permission
+13975	asked {1}'s family for permission to court {2}
+13976	rifle
+13977	A reliable rifle for deer, elk, boar, bear and wolves
+13978	lever
+13979	A classic frontier rifle that holds plenty of rounds
+13980	scoped
+13981	A telescopic sight for long-range shots
+13982	shotgun
+13983	For ducks, geese, turkeys, pheasants, rabbits and squirrels
+13984	golden
+13985	An engraved, gold-plated rifle with a gold scope
+13986	pouch
+13987	crate
+13988	Crate of Rifle Cartridges
+13989	Military Ammo Crate
+13990	shells
+13991	Box of Shotgun Shells
+13992	case
+13993	Case of Shotgun Shells
+13994	squirrel
+13995	pheasant
+13996	duck
+13997	goose
+13998	turkey
+13999	coyote
+14000	deer
+14001	boar
+14002	bear
+14003	wolf
+14004	trout
+14005	bass
+14006	catfish
+14007	salmon
+14008	woods
+14009	fields
+14010	marsh
+14011	mountains
+14012	river
+14013	Farmers' Market
+14014	Buys the whole animal at a low price
+14015	butcher
+14016	Wild Game Processor
+14017	Pays well for meat, but not for shot-up animals
+14018	Only buys the hide or feathers
+14019	Pays big for trophy-grade animals
+14020	Buy guns and boxes of ammunition
+14021	Valid for this year
+14022	Not licensed · {1} for this year
+14023	{1} trip{2} left this year
+14024	no trips left this year
+14025	Go Out · {1}
+14026	some have gone bad
+14028	{1} in your Assets · {2}
+14029	Sell Your Catch
+14030	A hunting license lets you hunt legally for the rest of this year.
+14031	Buy a license
+14032	A hunting license costs {1}.
+14033	I bought a hunting license.
+14034	Ammunition · {1} cartridges · {2} shells
+14035	You must be at least {1} to buy guns or ammunition.
+14036	The background check flagged your felony conviction. The shop won't sell to you.
+14038	{1}. You'll need {2} to use it.
+14039	rounds
+14040	New gun
+14041	Don't forget to buy {1}.
+14042	You bought a {1} for {2}.{3}
+14043	You now have {1} {2}.
+14044	{1} {2}. Every shot you take uses one.
+14045	Season over
+14046	You've already been out {1} times this year. Try again next year.
+14047	Too far to walk
+14048	The mountains are days away. You need a riding horse to hunt there.
+14049	You need a hunting license for this year before you can hunt. Hunting without one is poaching.
+14050	Poach anyway
+14051	Out of Ammo
+14052	You don't have any {1}. Buy a box at the {2} before you go out.
+14053	Go to the {1}
+14054	No gun
+14055	You need a gun to hunt in the {1}. Guns start at {2} at the {3}.
+14056	I slipped on a muddy bank in the {1} and hurt myself.
+14057	I fished all day at the river without a single bite.
+14058	I spent all day in the {1} and never got a clean look at anything.
+14059	{1} {2} slipped the hook while I played it.
+14060	I waited for a better shot, but the {1} caught my scent and ran off.
+14061	My {1} only wounded the {2}, and it charged at me! I was badly hurt.
+14062	I hit {1} {2}, but my {3} didn't have the stopping power and it got away wounded.
+14063	I {1} {2} {3} weighing {4} lb. It's {5} quality.
+14064	A game warden caught me poaching and fined me {1}.
+14065	I missed, and the {1} charged at me! I was badly hurt.
+14066	shell
+14067	You missed! The {1} is running. You have {2} more {3}{4} loaded in your {5}.
+14068	Fire again
+14069	I missed {1} {2} and let it run off.
+14070	I wounded {1} {2}, but it got away.
+14071	I hooked {1} {2}, but it broke the line.
+14073	Fish On!
+14074	Something big is pulling on your line. It feels like {1} {2}!
+14075	That's past the {1}-yard range of your {2}.
+14076	You spot {1} {2} about {3} yards away. It looks like it weighs around {4} lb.{5}
+14077	Reel it in hard
+14078	Play it slowly
+14079	Cut the line
+14080	I cut the line and let it go.
+14081	Wait for a better shot
+14082	I lowered my {1} and let the {2} go.
+14083	Which gun will you take?
+14084	Used up one per shot
+14085	worth up to {1}
+14086	Something I caught
+14087	{1} things I caught
+14088	{1} went bad because I didn't sell {2} in time.
+14089	a rotten catch
+14090	{1} rotten catches
+14091	I threw out {1} that had been lying around for over a year.
+14092	Gone bad
+14093	{1} quality · fresh
+14094	Game prices in {1}
+14095	Up {1}% on last year · sell before your catch goes bad at the end of the year
+14096	best offer {1} from the {2}
+14097	nobody will buy it
+14098	Go hunting or fishing first
+14099	Sell Everything · {1}
+14100	Each piece goes to whoever pays the most
+14101	Sell {1} pieces of game for {2}?
+14102	I sold {1} pieces of game for {2}.
+14103	You sold everything to the best buyers for {1}. Folks in town are talking about what a fine hunter you are.
+14104	spoiled
+14105	This has gone bad. The meat is rotten and only the hide, feathers or trophy might still be worth something.
+14107	Sell to the {1}
+14108	I sold {1} to the {2} for {3}.
+14109	Cook it at home
+14110	I cooked {1} at home.
+14111	Throw it away
+14112	I threw away {1}.
+14113	metal
+14114	Gold Dust & Nuggets
+14115	copper
+14116	Galena (Lead Ore)
+14117	zinc
+14118	Tin Ore (Cassiterite)
+14119	iron
+14120	coal
+14121	bulk
+14122	sulfur
+14123	quartz
+14124	limestone
+14125	obsidian
+14126	sapphire
+14127	shaft
+14128	stone
+14129	Adirondack Iron Hills
+14130	cave
+14131	rock
+14132	Missouri Lead Belt
+14133	Vermont Marble Quarries
+14134	North Carolina Gem Hills
+14135	Lake Superior Copper Country
+14136	Comstock Lode, Nevada
+14137	Arizona Copper Hills
+14138	Oregon Obsidian Cliffs
+14139	Black Hills, Dakota
+14140	Leadville, Colorado
+14141	South Wales Coalfield
+14142	Cornish Tin Mines
+14143	Borrowdale Graphite, Cumberland
+14144	Dolgellau Gold Belt, Wales
+14145	Kildonan Burn, Scotland
+14146	Wicklow Mountains, Ireland
+14147	A plain iron pick. Wears out quickly in hard rock
+14148	Tempered steel bites deeper and lasts longer
+14149	Prospector's Pick
+14150	A balanced pick that finds more gems and rich ore
+14151	shovel
+14152	Shovel & Gold Pan
+14153	Needed to work creek gravel for gold dust
+14154	drill
+14155	Hammer & Hand Drill
+14156	Drill holes for blasting charges and break hard rock
+14157	rope
+14158	Needed to climb deeper than the second level
+14159	lantern
+14160	Miner's Lantern
+14161	An oil lantern. No more buying candles
+14162	Davy Safety Lamp
+14163	Its gauze keeps firedamp from exploding in coal mines
+14164	Carry up to 250 lb of ore out of the mine
+14165	Carry up to 800 lb of ore out of the mine
+14166	candles
+14167	Box of Candles
+14168	One candle lights one trip underground
+14169	charges
+14170	Box of Dynamite
+14171	10 sticks. Needs a hammer and drill
+14172	Keg of Black Powder
+14173	10 blasting charges. Needs a hammer and drill
+14174	dynamite
+14175	carats
+14176	tons
+14177	Raw gold dust
+14178	Not assayed
+14179	Lost Man's
+14180	Old Man's
+14181	{1} swings before it wears out
+14182	No pickaxe
+14183	You can't mine without one
+14184	Lights every trip
+14185	One candle per trip
+14186	You need light to go underground
+14187	Ready for blasting
+14188	You need a hammer and drill to use them
+14189	Mining Supply Store
+14190	Pickaxes, lamps, candles, rope, blasting powder
+14191	Your Map · {1}
+14192	Search for a Cave
+14193	Explore the hills for caves and mineral signs
+14194	(your claim)
+14195	· worked out
+14196	{1} lot{2} in your Assets
+14197	Assay, smelt, cut, sell, or keep them in the family
+14198	find
+14199	Supplies · {1} candles · {2} {3}
+14200	The storekeeper won't sell mining gear to a child.
+14201	{1} swings left
+14202	You bought {1} {2} for {3}.
+14203	You are too young to go exploring caves alone.
+14204	No more trips
+14205	You have explored enough for this year. Try again next year.
+14206	Map is full
+14207	Your map already has six caves marked. Forget one before you search for another.
+14208	Where will you go looking? Faraway diggings are days away and need a riding horse.
+14209	{1} is days away. You need a riding horse to get there.
+14210	You need {1} for provisions.
+14212	I searched the {1}, but every cave I found had already been worked out.
+14213	I got caught in a storm in the {1} and came home with nothing.
+14214	You spot traces of {1} near the entrance.
+14215	You can't make out any mineral signs from the entrance.
+14216	{1}You found {2} {3} in the {4}. {5}
+14217	Creek bed
+14218	Known for
+14219	Mark it on my map
+14220	I found {1} in the {2} and marked it on my map.
+14221	{1} is on your map. Go down whenever you're ready.
+14222	Leave it
+14223	I found a cave in the {1} but decided it wasn't worth my time.
+14224	Work the creek
+14225	Go down
+14226	Stake a claim ({1})
+14227	You must be 18 to file a mining claim.
+14228	Filing and buying the claim costs {1}.
+14229	I staked a mining claim on {1}.
+14230	Claim filed
+14231	{1} is now your claim. You can hire miners to work it for you, and it passes to your heirs.
+14232	Manage my claim
+14233	Forget this cave
+14234	You will give up your claim.
+14235	Remove {1} from your map?{2}
+14236	Worked out
+14237	Partly worked
+14238	Nearly worked out
+14239	You own the claim on {1}. Hired miners dig all year and add their ore to your Assets. Each miner costs {2} a year.
+14240	Hire a miner
+14241	You need {1} to pay a miner's first year.
+14242	I hired a miner to work my claim on {1}.
+14243	Let a miner go
+14244	I let a miner go from {1}.
+14245	Sell the claim ({1})
+14246	I sold my claim on {1} for {2}.
+14247	Claim sold
+14248	You sold {1} for {2}.
+14249	candle
+14250	You are too young to go into a mine.
+14251	You have been down enough times this year. Try again next year.
+14252	No shovel
+14253	You need a shovel and gold pan to work creek gravel. Buy them at the supply store.
+14254	You need a pickaxe to mine. Buy one at the supply store.
+14255	Too dark
+14256	It is pitch black down there. Buy candles or a lantern first.
+14257	Nothing yet
+14258	I came out of {1} with {2}.
+14259	I came out of {1} empty-handed.
+14260	You carried out {1}. It's in your Assets.
+14261	You came out with nothing to show for it.
+14262	Your {1} snapped in two!
+14263	cold
+14264	fall
+14265	collapse
+14266	Standing in the icy creek all day leaves you shivering and numb.
+14267	Your light gutters and you lose your way in the twisting passages. It takes ages to find the way back.
+14268	a fall in a cave
+14269	You slipped on wet rock and fell into a crevice. You barely dragged yourself out.
+14270	You slipped on wet rock and fell hard. You pick yourself up, bruised.
+14271	a roof fall in a coal mine
+14272	falling rock in a mine
+14273	Part of the roof
+14274	A slab of rock
+14275	came down on you. You crawled out badly hurt.
+14276	A chunk of the roof
+14277	A slab of loose rock
+14278	crashes down and clips your shoulder. You're hurt, but you can keep going.
+14279	choking on bad air in a mine
+14280	The air turned foul and your light dimmed. Dizzy and gasping, you scrambled out before it was too late.
+14281	a firedamp explosion in a coal mine
+14282	lamp
+14283	Firedamp gas met your {1} and the tunnel exploded! You were burned and thrown into the dark.
+14284	a blasting accident in a mine
+14285	Your charge went off early while you were still too close. The blast threw you against the wall.
+14286	tunnel
+14287	You hit a pocket of water and it's pouring into the {1} fast!
+14288	Drop everything and run
+14289	You dropped your haul and ran. The water filled the level behind you.
+14290	Grab your haul and run
+14291	You grabbed your haul and splashed out just ahead of the water.
+14292	drowning in a flooded mine
+14293	The water knocked you off your feet and swept your haul away. You barely made it out.
+14294	With a roar, the tunnel behind you collapses. You are trapped in the dark.
+14295	Dig your way out
+14296	You dug through the rubble for hours and finally broke through.
+14297	Dug out
+14298	being trapped in a cave-in
+14299	More rock came down while you dug, but you squeezed through a gap at last.
+14300	Wait for rescue
+14301	Your miners dug through to you by morning.
+14302	Other miners heard you shouting and dug you out.
+14303	Nobody came for two days. You finally clawed your way out, starving and weak.
+14304	You prayed in the dark, and a draft of air led you to a crack you could squeeze through.
+14305	A way out
+14306	You prayed for hours before you found a way out, half-dead.
+14307	This place is worked out. There is nothing left worth digging.
+14308	Your pan comes up with nothing but sand.
+14309	Nothing but mud and pebbles in this gravel.
+14310	You chip away at the wall, but find nothing but worthless rock.
+14311	Hours of digging, and nothing but stone.
+14312	The rock here is barren.
+14313	You break loose a big chunk of rock, but it's just plain stone.
+14314	You follow what looked like a vein, but it's only stained rock.
+14315	You sift the gravel, but there's nothing valuable in this stretch of creek.
+14316	A wheelbarrow or ore cart would help.
+14317	You found {1}, but you can't carry any more. {2}
+14318	You can only carry {1} lb of it.
+14319	The blast rips open the wall!
+14320	{1}You found {2} of {3}!{4}
+14321	Gem Strike!
+14322	Gold Discovery!
+14323	Silver Strike!
+14324	It sparkles even in the dim light.
+14325	It glitters in your lamplight.
+14326	the location of the cave
+14327	{1} {2} Word travels fast, and a local prospector offers to buy {3}. What will you do?
+14328	Sell your claim
+14329	Sell the location
+14330	I sold {1} to a prospector for {2} after a rich strike.
+14331	Continue mining
+14332	You wave the prospector off and keep digging.
+14333	Hire an assayer ({1})
+14334	You can't afford an assayer right now.
+14335	The assayer tested your haul on the spot.
+14336	Your {1} is {2} ore.
+14337	He whistles at the quality.
+14338	Pan the gravel
+14339	Swing your pickaxe
+14340	Blast it ({1} left)
+14341	Dig into the bank
+14342	Go down to level {1}
+14343	You dig into the bank where the old gravel lies deeper.
+14344	You climb down a rickety ladder into the next level.
+14345	You squeeze down a narrow passage into the dark below.
+14346	The air grows warmer and damper as you climb down.
+14347	Climb back out
+14348	You were too exhausted to keep going.
+14349	You're exhausted and can't swing another blow.
+14350	The shaft goes deeper, but you need a rope to climb down.
+14351	Level {1} of {2}
+14352	Cold water rushes over the gravel bed.
+14353	Your light flickers on the damp stone walls.
+14354	Water drips somewhere in the dark.
+14355	The timbers creak above your head.
+14356	{1} of {2} lb
+14357	You wade into the creek at {1} with your pan.
+14358	light a candle
+14359	light your lamp
+14360	You {1} and climb down into {2}.
+14361	Minerals · about {1}
+14362	· old family stock
+14363	Have it assayed ({1})
+14364	The assayer charges {1}.
+14365	I had my {1} assayed. It's {2} ore.
+14366	The assayer crushed a sample and tested it. Your {1} is
+14367	ore, worth about {1} as it is.
+14368	Melt it into a bar
+14369	Send it to the smelter
+14370	I had {1} of {2} refined into {3} of {4}.
+14371	Your {1} of {2} came out as
+14372	of refined metal.
+14373	Have it cut ({1})
+14374	The gem cutter charges {1}.
+14375	My {1} cracked while it was being cut.
+14376	I had my {1} cut and polished.
+14377	The stone cracked on the wheel! The cutter saved {1} of it.
+14378	The cutter polished it into a {1} {2} gem.
+14379	Sell to the {1} ({2})
+14380	I sold {1} of {2} to the {3} for {4}.
+14381	I threw away {1} of {2}.
+14382	Ore & Minerals
+14384	Keep it and it gains value every year, and it passes to your children when you die.
+14385	Shift over
+14386	You have already worked every extra shift you can this year.
+14387	The shift whistle blows at {1} in the {2}. How will you spend your shift?
+14388	Work a hard shift
+14389	A timber gave way during my shift and rock fell on me. The foreman sent me home hurt.
+14390	I worked a hard shift in the company mine. The foreman noticed.
+14391	Look for a new vein
+14392	seam
+14393	vein
+14394	I found a new {1} for the company! The owners paid me a {2} bonus.
+14395	I spent my shift searching for a new {1} and found nothing.
+14396	Pocket some high-grade ore
+14397	I was caught stealing ore from {1} and fired on the spot.
+14398	The shift boss searched your lunch pail and found the ore. You're fired from {1}.
+14399	I smuggled {1} of {2} out of the company mine in my lunch pail.
+14400	Take it easy
+14401	I took it easy during my shift in the mine.
+14402	I couldn't pay the miners on {1}, so they all quit.
+14403	My claim on {1} is worked out.
+14404	My miners worked {1} all year and brought up ore for me to sell.
+14405	My miners on {1} found nothing worth keeping this year.
+14406	One of my miners was hurt in an accident on {1}.
+14407	I've developed a miner's cough from years of breathing rock dust.
+14408	small
+14409	large
+14410	estate
+14411	wheat
+14412	oats
+14413	potatoes
+14414	tobacco
+14415	barley
+14416	milk and butter
+14417	pork
+14418	wool
+14419	plowing
+14420	Keeps animals alive through hard winters and stores more of the harvest
+14421	well
+14422	Water for the fields. Droughts hurt far less
+14423	Keeps wolves and foxes away from your chickens and sheep
+14424	good
+14425	A fine growing year with sun and rain at the right times.
+14426	An ordinary year for the crops.
+14427	A dry summer stunted the crops.
+14428	drought
+14429	A terrible drought scorched the fields.
+14430	hail
+14431	A hailstorm flattened part of the crop.
+14432	locusts
+14433	A plague of grasshoppers ate through the fields.
+14434	Floods drowned the low fields.
+14435	Light work
+14436	Normal work
+14437	Heavy work
+14438	{1} miles out on {2}
+14439	grasshopper
+14440	Last Harvest · {1}
+14441	{1} after costs
+14442	Fields · {1} of {2} acres planted · work {3} of {4}
+14443	{1} acres of {2}
+14444	Replant Last Year's Fields
+14445	Buy {1} of seed and plant {2}
+14446	Your fields are bare
+14447	Buy seed and plant before the harvest, or nothing will grow this year
+14448	({1} acres planted)
+14449	{1} · seed {2} an acre · sells for {3} a {4}
+14450	or buy a workhorse or ox to pull the plow
+14451	Not enough hands
+14452	Only {1}% of the work will get done. Hire hands{2}
+14453	pulls the plow
+14454	raised for pork
+14455	{1} a year each · each works 30 acres
+14456	You already put in the work this year
+14457	Pitch in with the chores for a better harvest
+14458	Work the Farm
+14459	· homestead not proved up yet
+14460	Sell the Farm
+14461	Worth about {1}{2}
+14462	Building a {1} costs {2}.
+14463	Build a {1} for {2}?
+14464	I built a {1} on my farm.
+14465	The seed costs {1}.
+14466	I bought {1} of seed and replanted my fields.
+14467	Claim a Homestead
+14469	Farms for Sale in {1}
+14470	decent
+14471	You must be 18 to own a farm.
+14472	I filed a homestead claim on 160 acres of land.
+14473	I bought a {1}-acre {2} for {3}.
+14474	Homestead claimed
+14475	You own a farm!
+14476	Live on it and farm it for 5 years to prove up and own it outright.
+14477	{1} is yours. Plant your fields and buy some livestock.{2}
+14478	The government will give you 160 acres of untamed land for a small filing fee. You must build a home, live on it and farm it for 5 years before it is truly yours.
+14479	Unknown, often poor
+14480	File the claim
+14481	{1} acres with a farmhouse, {2}.
+14482	Buy the farm
+14483	Buy seed and plant {1}. It grows through the summer and is harvested and sold when you age up. Next year you'll need to buy seed again.
+14484	{1} an acre
+14485	about {1} {2} an acre
+14486	Plant {1} more acres ({2})
+14487	Seed for {1} acres of {2} costs {3}.
+14488	I bought {1} of {2} seed and planted {3} acres.
+14489	Plow it under
+14490	I plowed under my {1} field.
+14491	No room
+14492	Your {1} acres can't keep more than {2} {3}s.
+14493	I bought {1} {2} for my farm.
+14494	An ox pulls the plow, so you can work twice the land without a workhorse.
+14495	Hogs breed fast and sell well at market once they are fattened.
+14496	Each one gives you {1} to sell every year.
+14497	{1} a year each
+14498	about {1} a year each
+14499	Each hand works 30 acres and costs {1} a year, paid at harvest.
+14500	Work You Can Do
+14501	Hire a hand
+14502	Enough hands
+14503	You have more hands than your land needs.
+14504	I hired a farm hand.
+14505	Let a hand go
+14506	I let a farm hand go.
+14507	You already put in the work this year.
+14508	There is always something to do on a farm. What will you work on?
+14509	Plow and plant from dawn to dusk
+14510	I plowed and planted from dawn to dusk. The fields look promising.
+14511	Mend the fences and the barn
+14512	I spent the week mending fences and patching the barn.
+14513	Spread manure on the fields
+14514	I spread manure across the fields. It stank, but the soil will thank me.
+14515	Tend the animals
+14517	Not yours yet
+14518	You have to live on your homestead until {1} to prove up before you can sell it.
+14519	A buyer offers {1} for {2}, its land, animals and buildings. Sell?
+14520	I sold {1} for {2}.
+14521	Farm sold
+14522	Harvest of {1}
+14523	Hands' Wages
+14524	· last harvest {1} {2}
+14525	blight
+14526	The potato blight rotted the crop in the ground.
+14527	Only {1}% of the work got done
+14528	{1} {2}{3} died in the winter
+14529	Your hands quit because you couldn't pay them
+14530	You proved up! The land is yours outright
+14531	{1} My farm {2} this year.
+14532	store
+14533	clerks
+14534	Sell flour, cloth, tools and sundries to the townsfolk
+14535	Shoe horses, mend wagons and forge tools
+14536	bakery
+14537	bakers
+14538	Bake bread and pies for the whole town
+14539	tailor
+14540	Tailor's Shop
+14541	Cut and sew suits for gentlemen
+14542	dress
+14544	Make gowns and dresses for the ladies of the town
+14545	Pour whiskey and beer for thirsty customers
+14546	eating
+14547	cooks and waiters
+14548	Serve hot meals to travelers and workers
+14549	Rent rooms to travelers, drummers and newcomers
+14550	assistants
+14551	Take portraits with the newest marvel of the age
+14552	jewel
+14553	jeweler
+14554	craftsmen
+14555	Sell rings, watches and necklaces to the wealthy
+14556	printers and reporters
+14557	Print the news and sell advertising
+14558	brewery
+14559	Brew lager and ale for the saloons
+14560	still
+14561	Distill whiskey by the barrel
+14562	Turn hides into leather for boots and saddles
+14563	cigar
+14564	Roll cigars by hand for the tobacco shops
+14565	tonic
+14566	Patent Medicine Company
+14567	medicine
+14568	Bottle a miracle tonic and sell it in every town
+14569	Saw logs into lumber for the growing towns
+14570	logging
+14571	Fell whole forests and float the logs downriver
+14572	textile
+14573	Spin cotton and weave cloth on hundreds of looms
+14574	works
+14575	Make plows, stoves and tools by the thousand
+14576	foundry
+14577	Cast iron for rails, engines and cannon
+14578	Dig coal to fuel the railroads and factories
+14579	Work a gold vein. It could make you rich, until it runs out
+14580	Mine tin and copper deep under Cornwall
+14581	Drill for rock oil. A gusher makes you rich, a dry hole makes you broke
+14582	ranch
+14583	cowboys
+14584	Run longhorns on the open range and drive them to market
+14585	fishing
+14586	fishermen
+14587	Send boats out for cod, herring and mackerel
+14588	freight
+14589	Freight Wagon Line
+14590	Haul goods between towns by wagon
+14591	stage
+14592	stagecoach
+14593	drivers and hostlers
+14594	Carry passengers and mail between towns
+14595	ships
+14596	shipping
+14597	sailors
+14598	Carry cargo and passengers across the ocean
+14599	ship
+14600	actors and stagehands
+14601	Put on plays, operas and minstrel shows
+14602	circus
+14603	performers
+14604	Tour the country with acrobats, clowns and an elephant
+14605	Take deposits and lend money at interest
+14606	insure
+14607	Fire Insurance Company
+14608	insurance
+14609	Sell fire policies and pray nothing burns
+14610	rail
+14611	railroad
+14612	Lay track, run trains and carry the nation
+14613	Make and sell your own patented invention
+14614	the Long Depression
+14616	the Depression of 1920
+14617	the Great Depression
+14618	the Commercial Crisis of 1847
+14619	the Overend Gurney crash
+14620	the Baring Crisis
+14621	Cheaper, but workers quit and go on strike
+14622	The going rate in town
+14623	Workers stay loyal and work harder
+14624	Hard Times · {1}
+14625	Good Times in {1}
+14626	· trade is slow and banks are failing
+14627	· trade is brisk
+14628	A common laborer earns about {1} a year{2}
+14629	· last year {1} {2}
+14630	· just opened
+14631	Start or Buy a Business in {1}
+14633	up to {1} {2}
+14634	You must be 18 to own a business.
+14635	Already own one
+14636	You already own {1} {2}.
+14637	Too many businesses
+14638	You can only run six businesses at once.
+14639	I bought {1} {2} for {3} and named it {4}.
+14640	The drill came up dry. There is no oil here, unless you drill deeper.
+14641	A gusher! Oil sprayed high over the derrick. This well is rich!
+14642	The drill struck oil. It looks like a steady well.
+14643	Hire some {1} to start pumping.
+14644	{1} is yours. Hire some {2} to get it running.

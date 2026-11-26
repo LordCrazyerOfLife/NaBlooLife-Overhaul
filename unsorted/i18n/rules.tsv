@@ -1,0 +1,269 @@
+# Regex rules for text with numbers/names. Columns: regex<TAB>español<TAB>português (BR)
+# $1, $2... are the captured groups; a group is translated too if it is a key in ui.tsv.
+## --- ages / dates ---
+^Age: (\d+) years? \((\d+)\)$	Edad: $1 años ($2)	Idade: $1 anos ($2)
+^Age: (\d+) years?$	Edad: $1 años	Idade: $1 anos
+^Age (\d+)$	Edad $1	Idade $1
+^\(Age (\d+)\)$	(Edad $1)	(Idade $1)
+^(\d+) Weeks?$	$1 semanas	$1 semanas
+^Died at (\d+)$	Murió a los $1	Morreu aos $1
+^\(Died at (\d+)\)$	(Murió a los $1)	(Morreu aos $1)
+^Died (\d+) years? ago$	Murió hace $1 años	Morreu há $1 anos
+^Died about ([\d,]+) years ago$	Murió hace unos $1 años	Morreu há cerca de $1 anos
+^born (\d+)–(\d+)$	nacidos entre $1 y $2	nascidos entre $1 e $2
+^≈ ([\d,]+) generations later$	≈ $1 generaciones después	≈ $1 gerações depois
+^c\. ([\d,]+) BC$	c. $1 a. C.	c. $1 a.C.
+^c\. ([\d,]+) BC · Mammoth Clan$	c. $1 a. C. · Clan del Mamut	c. $1 a.C. · Clã do Mamute
+^c\. ([\d,–]+) BC$	c. $1 a. C.	c. $1 a.C.
+^family members ·$	miembros de la familia ·	membros da família ·
+^living · the$	vivos · los	vivos · os
+^bloodline$	(linaje)	(linhagem)
+## --- ancestors ---
+^(\d+)(?:st|nd|rd|th) Great-Grandparents$	$1.º bisabuelos	$1.º bisavós
+^(\d+)(?:st|nd|rd|th) Great-Grandfather$	$1.º bisabuelo	$1.º bisavô
+^(\d+)(?:st|nd|rd|th) Great-Grandmother$	$1.º bisabuela	$1.º bisavó
+^(\d+)(?:st|nd|rd|th) Great-$	$1.º bis-	$1.º bis-
+^Great-$	Bis-	Bis-
+^Inherited from (.+)$	Heredado de $1	Herdado de $1
+^Veteran of (.+)$	Veterano de $1	Veterano de $1
+^Hooked on (.+)$	Enganchado a $1	Viciado em $1
+## --- generic wrappers ---
+^\((.+)\)$	($1)	($1)
+^(.+) \((\d+)\)$	$1 ($2)	$1 ($2)
+## --- chess mod (chess.js) ---
+^Work on your chess \((\d) left this year\)$	Trabaja en tu ajedrez (te quedan $1 este año)	Treine seu xadrez (restam $1 este ano)
+^Puzzle rating (\d+) · (\d+) solved$	Rating de problemas $1 · $2 resueltos	Rating de problemas $1 · $2 resolvidos
+^peak (\d+)$	pico $1	pico $1
+^(\d+)/5 games for a rating$	$1/5 partidas para tener rating	$1/5 partidas para ter rating
+^Norms IM (\d)/3 GM (\d)/3$	Normas MI $1/3 GM $2/3	Normas MI $1/3 GM $2/3
+^Age (\d+)\+$	Edad $1+	Idade $1+
+^Under (\d+) only$	Solo menores de $1	Só para menores de $1
+^Invitation only \((\d+)\+\)$	Solo por invitación ($1+)	Só por convite ($1+)
+^(\d+) rounds · invited$	$1 rondas · por invitación	$1 rodadas · por convite
+^(\d+) rounds · parents pay the fee$	$1 rondas · tus papás pagan la inscripción	$1 rodadas · seus pais pagam a inscrição
+^(\d+) rounds · fee (\S+) \+ travel$	$1 rondas · inscripción $2 + viaje	$1 rodadas · inscrição $2 + viagem
+^(\d+) rounds · fee (\S+)$	$1 rondas · inscripción $2	$1 rodadas · inscrição $2
+^Earn (\S+)/hour$	Gana $1/hora	Ganhe $1/hora
+^Rapid 5\+3 vs a real opponent · (\d+\??)$	Rápida 5+3 contra un rival de verdad · $1	Rápida 5+3 contra um adversário de verdade · $1
+^([\d,]+) followers$	$1 seguidores	$1 seguidores
+^(.+): you have ([\d.]+)/(\d+) going into the last round\.$	$1: llevas $2/$3 antes de la última ronda.	$1: você tem $2/$3 antes da última rodada.
+^Your opponent is (.+) \((\d+)\)\.$	Tu rival es $1 ($2).	Seu adversário é $1 ($2).
+^(.+) · Round (\d+)$	$1 · Ronda $2	$1 · Rodada $2
+^You won the (.+)!$	¡Ganaste el $1!	Você venceu o $1!
+^A solid tournament at the (.+)\.$	Buen torneo en el $1.	Um bom torneio no $1.
+^A rough tournament at the (.+)\.$	Torneo difícil en el $1.	Um torneio difícil no $1.
+^First rating: (\d+)$	Primer rating: $1	Primeiro rating: $1
+^(\d+)(?:st|nd|rd|th)$	$1.º	$1º
+^(IM|GM) norm \((\d)/3\)$	Norma de $1 ($2/3)	Norma de $1 ($2/3)
+^I played the (.+) and scored ([\d.]+)/(\d+), finishing (\d+)(?:st|nd|rd|th)\. I won (.+)\.$	Jugué el $1, hice $2/$3 y quedé en el puesto $4. Gané $5.	Joguei o $1, fiz $2/$3 e terminei em $4º lugar. Ganhei $5.
+^I played the (.+) and scored ([\d.]+)/(\d+), finishing (\d+)(?:st|nd|rd|th)\.$	Jugué el $1, hice $2/$3 y quedé en el puesto $4.	Joguei o $1, fiz $2/$3 e terminei em $4º lugar.
+^I earned an? (IM|GM) norm!$	¡Conseguí una norma de $1!	Consegui uma norma de $1!
+^I earned the title of (.+)!$	¡Me dieron el título de $1!	Recebi o título de $1!
+^FIDE has awarded you the title of (.+) \((\w+)\)\.$	La FIDE te otorgó el título de $1 ($2).	A FIDE concedeu a você o título de $1 ($2).
+^I became the World Chess Champion after tiebreaks! I earned (.+)\.$	¡Me convertí en Campeón Mundial de Ajedrez en el desempate! Gané $1.	Virei Campeão Mundial de Xadrez no desempate! Ganhei $1.
+^I became the World Chess Champion! I earned (.+)\.$	¡Me convertí en Campeón Mundial de Ajedrez! Gané $1.	Virei Campeão Mundial de Xadrez! Ganhei $1.
+^I lost the World Championship match after tiebreaks\. I still earned (.+)\.$	Perdí el match por el Campeonato Mundial en el desempate. Igual gané $1.	Perdi o match pelo Campeonato Mundial no desempate. Mesmo assim ganhei $1.
+^I lost the World Championship match\. I still earned (.+)\.$	Perdí el match por el Campeonato Mundial. Igual gané $1.	Perdi o match pelo Campeonato Mundial. Mesmo assim ganhei $1.
+^([\d.]+) – ([\d.]+) after tiebreaks$	$1 – $2 en el desempate	$1 – $2 no desempate
+^Current: (.+)$	Actual: $1	Atual: $1
+^(.+) \((\S+)/yr\) \(current\)$	$1 ($2/año) (actual)	$1 ($2/ano) (atual)
+^(.+) \((\S+)/yr\)$	$1 ($2/año)	$1 ($2/ano)
+^(.+) \(current\)$	$1 (actual)	$1 (atual)
+^I hired a new chess coach \((.+)\)\.$	Contraté un nuevo entrenador de ajedrez ($1).	Contratei um novo treinador de xadrez ($1).
+^I gave (\d+) hours of chess lessons and earned (.+)\.$	Di $1 horas de clases de ajedrez y gané $2.	Dei $1 horas de aulas de xadrez e ganhei $2.
+^You taught (\d+) hours of lessons this year and earned (.+)\.$	Diste $1 horas de clases este año y ganaste $2.	Você deu $1 horas de aula este ano e ganhou $2.
+^You need (.+) to enter \(fee \+ travel\)\.$	Necesitas $1 para inscribirte (inscripción + viaje).	Você precisa de $1 para se inscrever (inscrição + viagem).
+^You need (.+) to enter \(fee\)\.$	Necesitas $1 para inscribirte.	Você precisa de $1 para se inscrever.
+^You've already played (\d+) tournaments this year\. Rest up!$	Ya jugaste $1 torneos este año. ¡Descansa!	Você já jogou $1 torneios este ano. Descanse!
+^I played (\d+) (bullet|blitz|rapid) games on Pawnder \((\d+)W (\d+)D (\d+)L\)\.$	Jugué $1 partidas de $2 en Pawnder ($3G $4T $5P).	Joguei $1 partidas de $2 no Pawnder ($3V $4E $5D).
+^(Bullet|Blitz|Rapid) session$	Sesión de $1	Sessão de $1
+^You played (\d+) (bullet|blitz|rapid) games\.$	Jugaste $1 partidas de $2.	Você jogou $1 partidas de $2.
+^(\d+)W (\d+)D (\d+)L$	$1G $2T $3P	$1V $2E $3D
+^I played Pawnder Titled Tuesday and scored ([\d.]+)/11, winning (.+)\.$	Jugué el Titled Tuesday de Pawnder, hice $1/11 y gané $2.	Joguei o Titled Tuesday do Pawnder, fiz $1/11 e ganhei $2.
+^I played Pawnder Titled Tuesday and scored ([\d.]+)/11\.$	Jugué el Titled Tuesday de Pawnder e hice $1/11.	Joguei o Titled Tuesday do Pawnder e fiz $1/11.
+^I streamed chess on Pawnder and gained ([\d,]+) followers\.$	Transmití ajedrez en Pawnder y gané $1 seguidores.	Fiz live de xadrez no Pawnder e ganhei $1 seguidores.
+^You gained ([\d,]+) followers\. You have ([\d,]+) now\.$	Ganaste $1 seguidores. Ahora tienes $2.	Você ganhou $1 seguidores. Agora tem $2.
+^Puzzle · rated (\d+)$	Problema · nivel $1	Problema · nível $1
+^Your puzzle rating: (\d+)$	Tu rating de problemas: $1	Seu rating de problemas: $1
+^Puzzle rating: (\d+) → (\d+)$	Rating de problemas: $1 → $2	Rating de problemas: $1 → $2
+^Rapid rating: (\d+) → (\d+)$	Rating de rápidas: $1 → $2	Rating de rápidas: $1 → $2
+^Wrong move\. The answer was (\S+)\.$	Jugada incorrecta. La respuesta era $1.	Lance errado. A resposta era $1.
+^Not quite\. The answer was (\S+)\.$	Casi. La respuesta era $1.	Quase. A resposta era $1.
+^Banned until age (\d+)$	Suspendido hasta los $1 años	Suspenso até os $1 anos
+^FIDE suspended you until age (\d+)\.$	La FIDE te suspendió hasta los $1 años.	A FIDE te suspendeu até os $1 anos.
+^(\d+) years$	$1 años	$1 anos
+^(.+) per year$	$1 por año	$1 por ano
+^Game (\d+)$	Partida $1	Partida $1
+^Tiebreak game (\d+)$	Partida de desempate $1	Partida de desempate $1
+^World Championship · (.+)$	Campeonato Mundial · $1	Campeonato Mundial · $1
+^Match score: ([\d.]+) – ([\d.]+)$	Marcador del match: $1 – $2	Placar do match: $1 – $2
+^World Championship match vs (.+) \((\d+)\)\.$	Match por el Campeonato Mundial contra $1 ($2).	Match pelo Campeonato Mundial contra $1 ($2).
+^(.+) with a firearm$	$1 con arma de fuego	$1 com arma de fogo
+^(.+) and illegal firearm possession$	$1 y posesión ilegal de arma de fuego	$1 e porte ilegal de arma de fogo
+^(.+) and possession of an automatic weapon$	$1 y posesión de arma automática	$1 e posse de arma automática
+^attempted purchase of an illegal firearm$	intento de compra de arma de fuego ilegal	tentativa de compra de arma de fogo ilegal
+^You have to be at least (\d+) years old to buy that\.$	Tienes que tener al menos $1 años para comprar eso.	Você precisa ter pelo menos $1 anos para comprar isso.
+^Power (\d+%)$	Poder $1	Poder $1
+^Police heat \+(\d+)$	Calor policial +$1	Atenção da polícia +$1
+^Magazines (\d+)$	Cargadores $1	Pentes $1
+^Parts (\d+)$	Piezas $1	Peças $1
+^Price: (.+)$	Precio: $1	Preço: $1
+^(.+) ×(\d+)$	$1 ×$2	$1 ×$2
+^Switch \((.+)\)$	Switch ($1)	Switch ($1)
+^Rep (\d+)$	Reputación $1	Reputação $1
+^Heat (\d+)$	Calor $1	Atenção $1
+^Requires rank: (.+)$	Requiere rango: $1	Requer patente: $1
+^(.+) · (Prospect|Soldier|Enforcer|Lieutenant|Shot Caller|Boss)$	$1 · $2	$1 · $2
+^Bond (\d+)$	Confianza $1	Confiança $1
+^(\d+) members$	$1 miembros	$1 membros
+^Buy · (.+)$	Comprar · $1	Comprar · $1
+^Term (\d+)–(\d+) · Election in (\d+) years?$	Mandato $1–$2 · Elección en $3 años	Mandato $1–$2 · Eleição em $3 anos
+^(\d{4})–(\d{4}) · Election in 1 year$	$1–$2 · Elección en 1 año	$1–$2 · Eleição em 1 ano
+^(\d{4})–(\d{4}) · Election in (\d+) years?$	$1–$2 · Elección en $3 años	$1–$2 · Eleição em $3 anos
+^(\d{4})–(\d{4}) · Election this year$	$1–$2 · Elección este año	$1–$2 · Eleição este ano
+^(\d{4}) · (\d+) years?$	$1 · $2 años	$1 · $2 anos
+^Term (\d+)–(\d+) · Election this year$	Mandato $1–$2 · Elección este año	Mandato $1–$2 · Eleição este ano
+^Campaign Actions \((\d+) left\)$	Acciones de campaña ($1 restantes)	Ações de campanha ($1 restantes)
+^Actions \((\d+) left\)$	Acciones ($1 restantes)	Ações ($1 restantes)
+^Election in 1 year$	Elección en 1 año	Eleção em 1 ano
+^Election in (\d+) years?$	Elección en $1 años	Eleição em $1 anos
+^(.+) · Approval (\d+)%$	$1 · Aprobación $2%	$1 · Aprovação $2%
+^Candidate for (.+)$	Candidato a $1	Candidato a $1
+^Running for (.+)$	Candidato a $1	Candidato a $1
+^Run for (.+)$	Postúlate a $1	Candidate-se a $1
+^Term (\d+) years$	Mandato de $1 años	Mandato de $1 anos
+^(.+)/year$	$1/año	$1/ano
+^Your share (\d+)%$	Tu porcentaje $1%	Sua porcentagem $1%
+^Opponent share (\d+)%$	Porcentaje del rival $1%	Porcentagem do rival $1%
+^Personal money: (.+)$	Dinero personal: $1	Dinheiro pessoal: $1
+^The ball drops to you in the box in the 89th minute\. (.+) needs a win\. The defender is closing, the keeper is off his line\.$	El balón te cae en el área en el minuto 89. $1 necesita ganar. El defensor se cierra y el portero está adelantado.	A bola cai para você na área no minuto 89. $1 precisa vencer. O zagueiro fecha e o goleiro está adiantado.
+^(.+) is one point above the drop\. The opponents are fighting for the same thing\. The pitch is a swamp\.$	$1 está un punto arriba del descenso. Los rivales pelean por lo mismo. La cancha es un pantano.	$1 está um ponto acima do rebaixamento. Os adversários lutam pelo mesmo. O campo é um pântano.
+^The anthem plays, the lights go down, and the away side is a European giant\. (.+) has never gone further than this\.$	Suena el himno, se apagan las luces y el visitante es un gigante europeo. $1 nunca llegó tan lejos.	O hino toca, as luzes se apagam e o visitante é um gigante europeu. $1 nunca foi tão longe.
+^I took (.+) to recover\.$	Me tomé $1 para recuperarme.	Levei $1 para me recuperar.
+^I got hurt during (.+) training\.$	Me lesioné durante el entrenamiento de $1.	Me machuquei durante o treino de $1.
+^I trained (.+) in (.+)\.$	Entrené $1 en $2.	Treinei $1 em $2.
+^I signed for the (.+) academy\.$	Firmé por la academia del $1.	Assinei pela base do $1.
+^You are now a (.+) academy player\. The first team is a long way up, but the door is open\.$	Ahora eres jugador de la academia del $1. El primer equipo queda muy arriba, pero la puerta está abierta.	Agora você é jogador da base do $1. O time principal está muito acima, mas a porta está aberta.
+^(.+) will not offer you a professional contract\. Your agent finds a trial at (.+)\.$	$1 no te ofrecerá un contrato profesional. Tu agente te consigue una prueba en $2.	$1 não vai te oferecer um contrato profissional. Seu agente consegue um teste no $2.
+^I signed a one-year deal with (.+) after being released\.$	Firmé un contrato de un año con $1 después de que me liberaran.	Assinei um contrato de um ano com $1 depois de ser dispensado.
+^It is not the fairytale, but it is a contract\. (.+) believes in you enough to give you a year\.$	No es el cuento de hadas, pero es un contrato. $1 cree en ti lo suficiente para darte un año.	Não é o conto de fadas, mas é um contrato. $1 acredita em você o suficiente para te dar um ano.
+^I moved abroad to start my career at (.+)\.$	Me fui al extranjero para empezar mi carrera en $1.	Fui para o exterior para começar minha carreira no $1.
+^You pack one suitcase and sign for (.+)\. Nobody here knows your name yet\.$	Haces una maleta y firmas por $1. Aquí nadie conoce tu nombre todavía.	Você faz uma mala e assina com $1. Aqui ninguém conhece seu nome ainda.
+^(.+) wants to promote you to the first team\. Your agent has the paperwork\. Your body has opinions\.$	$1 quiere subirte al primer equipo. Tu agente tiene los papeles. Tu cuerpo tiene opiniones.	$1 quer te promover ao time principal. Seu agente tem os papéis. Seu corpo tem opiniões.
+^I signed my first professional contract with (.+)\.$	Firmé mi primer contrato profesional con $1.	Assinei meu primeiro contrato profissional com $1.
+^You are a first-team footballer\. The academy kids are already asking for your shirt\.$	Eres futbolista del primer equipo. Los chicos de la academia ya te piden la camiseta.	Você é futebolista do time principal. Os garotos da base já estão pedindo sua camisa.
+^I signed pro terms and went on loan to (.+)\.$	Firmé como profesional y me fui cedido a $1.	Assinei como profissional e fui emprestado ao $1.
+^You sign for (.+) and immediately join (.+) on loan\. Regular minutes are the plan\.$	Firmas por $1 y te unes de inmediato a $2 como cedido. El plan es tener minutos regulares.	Você assina com $1 e logo se junta ao $2 por empréstimo. O plano é ter minutos regulares.
+^I won the (.+) with my country\.$	Gané el $1 con mi país.	Venci o $1 com meu país.
+^We won the (.+)!$	¡Ganamos el $1!	Vencemos o $1!
+^I moved to (.+) to keep playing\.$	Me mudé a $1 para seguir jugando.	Me mudei para $1 para continuar jogando.
+^You join (.+)\. Less pressure, more minutes, and a chance to finish properly\.$	Te unes a $1. Menos presión, más minutos y una oportunidad de terminar bien.	Você se junta ao $1. Menos pressão, mais minutos e uma chance de terminar bem.
+^I signed a new contract with (.+)\.$	Firmé un nuevo contrato con $1.	Assinei um novo contrato com $1.
+^You stay at (.+)\. The wage goes up (\d+)% and the release clause goes with it\.$	Te quedas en $1. El sueldo sube $2% y la cláusula de rescisión sube con él.	Você fica no $1. O salário sobe $2% e a cláusula de rescisão sobe junto.
+^I transferred from (.+) to (.+)\.$	Me transfirieron de $1 a $2.	Fui transferido do $1 para o $2.
+^You are a (.+) player\. New city, new dressing room, same hunger\.$	Eres jugador del $1. Nueva ciudad, nuevo vestuario, la misma hambre.	Você é jogador do $1. Cidade nova, vestiário novo, a mesma fome.
+^I helped beat (.+) (\d+)-(\d+) in a derby\.$	Ayudé a vencer $2-$3 a $1 en un clásico.	Ajudei a vencer o $1 por $2 a $3 num clássico.
+^We drew (\d+)-(\d+) with (.+)\.$	Empatamos $1-$2 con $3.	Empatamos em $1 a $2 com $3.
+^We lost (\d+)-(\d+) to (.+)\.$	Perdimos $1-$2 contra $3.	Perdemos de $1 a $2 para $3.
+^Finish in the top (\d+)$	Terminar entre los $1 primeros	Terminar entre os $1 primeiros
+^Average rating ([\d.]+) or better$	Calificación promedio $1 o mejor	Nota média $1 ou melhor
+^I started my football career as a (.+)\.$	Empecé mi carrera de fútbol como $1.	Comecei minha carreira de futebol como $1.
+^(.+) · Reputation (\d+)$	$1 · Reputación $2	$1 · Reputação $2
+^Won the (.+)$	Ganó el $1	Venceu o $1
+^Out in the (.+)$	Eliminado en $1	Eliminado nas $1
+^Qualified for the (.+) · play it week by week$	Clasificado para $1 · jugarlo semana a semana	Classificado para $1 · jogar semana a semana
+^(.+) Golden Boot$	Bota de Oro de $1	Chuteira de Ouro de $1
+^(.+) Golden Ball$	Balón de Oro de $1	Bola de Ouro de $1
+^You must be at least (\d+) years old\.$	Debes tener al menos $1 años.	Você precisa ter pelo menos $1 anos.
+^You need the (.+) first\.$	Primero necesitas $1.	Você precisa do $1 primeiro.
+^You are now licensed: (.+)\. (.+)$	Ahora tienes licencia: $1. $2	Agora você tem licença: $1. $2
+^The exam costs (.+) and you can't afford it\.$	El examen cuesta $1 y no puedes pagarlo.	A prova custa $1 e você não pode pagar.
+^(\d+)/(\d+) correct\. Now the practical test\.$	$1/$2 correctas. Ahora la prueba práctica.	$1/$2 corretas. Agora a prova prática.
+^You got (\d+)/(\d+)\. You needed (\d+)\. Retaking costs (.+)\.$	Sacaste $1/$2. Necesitabas $3. Repetirlo cuesta $4.	Você tirou $1/$2. Precisava de $3. Refazer custa $4.
+^The practical retake costs (.+)\.$	Repetir la práctica cuesta $1.	Refazer a prática custa $1.
+^(\d+)/(\d+) good attempts, (\d+) needed\. Your written exam is still valid\. A retake costs (.+)\.$	$1/$2 intentos buenos, necesitabas $3. Tu examen escrito sigue válido. Repetir cuesta $4.	$1/$2 tentativas boas, precisava de $3. Sua prova escrita continua válida. Refazer custa $4.
+^Take the written exam \((.+)\)$	Hacer el examen escrito ($1)	Fazer a prova escrita ($1)
+^(\d+)/(\d+) correct$	$1/$2 correctas	$1/$2 corretas
+^(\d+)/(\d+) licenses: driving, boats, planes, guns$	$1/$2 licencias: conducir, botes, aviones, armas	$1/$2 licenças: direção, barcos, aviões, armas
+^I got my (.+)!$	¡Conseguí mi $1!	Consegui minha $1!
+^I failed the written exam for my (.+)\.$	Fallé el examen escrito de mi $1.	Falhei na prova escrita da minha $1.
+^I failed the practical test for my (.+)\.$	Fallé la prueba práctica de mi $1.	Falhei na prova prática da minha $1.
+^You won (.+) at (.+)!$	Ganaste $1 en $2!	Você ganhou $1 em $2!
+^You lost (.+) at (.+)\.$	Perdiste $1 en $2.	Você perdeu $1 em $2.
+^You broke even at (.+)\.$	Quedaste a mano en $1.	Você ficou no zero a zero em $1.
+^You have (.+) riding on this bet\.$	Tienes $1 en juego en esta apuesta.	Você tem $1 em jogo nesta aposta.
+^Higher \(x([\d.]+)\)$	Más alta (x$1)	Mais alta (x$1)
+^Lower \(x([\d.]+)\)$	Más baja (x$1)	Mais baixa (x$1)
+^Cash out (.+)$	Cobrar $1	Sacar $1
+^Bet (.+)$	Apostar $1	Apostar $1
+^Call (.+)$	Igualar $1	Pagar $1
+^Draw! \((.+)\)$	¡Sortear! ($1)	Sortear! ($1)
+^Picked (\d+)/10 · top prize x([\d.]+)$	Elegiste $1/10 · premio mayor x$2	Escolheu $1/10 · prêmio máximo x$2
+^Ball (\d+)/20 · hits: (\d+)$	Bola $1/20 · aciertos: $2	Bola $1/20 · acertos: $2
+^(\d+) hits! x([\d.]+)$	¡$1 aciertos! x$2	$1 acertos! x$2
+^(\d+) hit\. No prize$	$1 acierto. Sin premio	$1 acerto. Sem prêmio
+^(\d+) hits\. No prize$	$1 aciertos. Sin premio	$1 acertos. Sem prêmio
+^The point is (\d+)\. Roll it again before a 7\.$	El punto es $1. Tíralo otra vez antes de un 7.	O ponto é $1. Role de novo antes de um 7.
+^Rolled (\d+)\. Point is (\d+)\.$	Salió $1. El punto es $2.	Saiu $1. O ponto é $2.
+^(\d+)! The point is made\.$	$1! Punto hecho.	$1! Ponto feito.
+^Full time: (.+)$	Final del partido: $1	Fim de jogo: $1
+^GOAL! (.+) \((\d+)'\)$	¡GOL! $1 ($2')	GOL! $1 ($2')
+^The dealer bets (.+)\.$	El crupier apuesta $1.	O crupiê aposta $1.
+^Which local casino will you visit to play (.+)\?$	¿A qué casino local irás a jugar $1?	Em qual cassino local você vai jogar $1?
+^Again \((.+)\)$	Otra vez ($1)	De novo ($1)
+^(\d{4}) catalogue$	Catálogo de $1	Catálogo de $1
+^Bid (.+)$	Pujar $1	Dar lance de $1
+^Jump bid (.+)$	Puja grande $1	Lance alto de $1
+^Statement bid (.+)$	Puja contundente $1	Lance de impacto de $1
+^Pay for authentication \((.+)\)$	Pagar la autenticación ($1)	Pagar a autenticação ($1)
+^The experts say the (.+) is a fake\. The house withdraws the lot\. Your (.+) fee bought you a good escape\.$	Los expertos dicen que $1 es falso. La casa retira el lote. Tu cuota de $2 te compró una buena salida.	Os especialistas dizem que $1 é falso. A casa retira o lote. Sua taxa de $2 te comprou uma boa saída.
+^The (.+) didn't reach its reserve and was withdrawn\.$	$1 no alcanzó su reserva y fue retirado.	$1 não atingiu a reserva e foi retirado.
+^(.+) bids (.+)\.$	$1 puja $2.	$1 dá lance de $2.
+^You bid (.+)\.$	Pujaste $1.	Você deu lance de $1.
+^I won the (.+) at auction for (.+)\.$	Gané $1 en subasta por $2.	Ganhei $1 no leilão por $2.
+^I lost the (.+) at auction\.$	Perdí $1 en la subasta.	Perdi $1 no leilão.
+^I sold my (.+) at auction for (.+)\.$	Vendí mi $1 en la subasta por $2.	Vendi meu $1 no leilão por $2.
+^(\d+) lots this year · bid, sell, invest$	$1 lotes este año · puja, vende, invierte	$1 lotes este ano · dê lances, venda, invista
+^(\d+)-year old (.+)$	$1 años de antigüedad · $2	$1 anos de uso · $2
+^Oil on canvas by (.+)$	Óleo sobre lienzo de $1	Óleo sobre tela de $1
+^(.+) watch$	$1 reloj	$1 relógio
+^(.+) chain$	$1 cadena	$1 corrente
+^Donate (.+)$	Donar $1	Doar $1
+^Ape in with (.+)$	Entrar con $1	Entrar com $1
+^You invested (.+) in \$SILLY\. The developer stopped updating it on (.+)\. Your investment is now worth \$0\.00\.$	Invertiste $1 en $SILLY. El desarrollador dejó de actualizarlo el $2. Tu inversión ahora vale $0.00.	Você investiu $1 em $SILLY. O desenvolvedor parou de atualizá-lo em $2. Seu investimento agora vale $0.00.
+^I invested (.+) in \$SILLY\.$	Invertí $1 en $SILLY.	Investi $1 em $SILLY.
+^I paid (.+) at a charity gala auction\.$	Pagué $1 en una subasta de gala benéfica.	Paguei $1 num leilão de gala beneficente.
+^"Owned by (.+)" - fame multiplies the price \(x([\d.]+)\)\.$	"Propiedad de $1": la fama multiplica el precio (x$2).	"De propriedade de $1": a fama multiplica o preço (x$2).
+^Notorious provenance: macabre-memorabilia collectors are circling \(x([\d.]+)\)\.$	Procedencia macabra: los coleccionistas de memorabilia morbosa están rondando (x$1).	Procedência macabra: os colecionadores de memorabilia mórbida estão rondando (x$1).
+^My family put (\d+) of my things up for auction and raised (.+)\.(.*)$	Mi familia subastó $1 de mis cosas y recaudó $2.$3	Minha família leiloou $1 das minhas coisas e arrecadou $2.$3
+^ My name made everything sell for more\.$	 Mi nombre hizo que todo se vendiera por más.	 Meu nome fez tudo vender por mais.
+^(.+) · est\. (.+) · (.+)$	$1 · est. $2 · $3	$1 · est. $2 · $3
+^with provenance ~(.+)$	con procedencia ~$1	com procedência ~$1
+^Wear (.+) on your (.+)$	Poner $1 en tu $2	Usar $1 no seu $2
+^(.+) is loaded now\.$	$1 ya está cargado.	$1 já está carregado.
+^(.+) will be off the next time YourLife loads\.$	$1 estará apagado la próxima vez que cargues YourLife.	$1 ficará desligado na próxima vez que o YourLife carregar.
+^(.+) will be skipped the next time YourLife loads\.$	$1 se omitirá la próxima vez que cargues YourLife.	$1 será ignorado na próxima vez que o YourLife carregar.
+^BIDDING WAR! (.+) bids (.+)\.$	¡GUERRA DE PUJAS! $1 puja $2.	GUERRA DE LANCES! $1 dá lance de $2.
+^Keeping up my lifestyle cost me (.+) this year \(staff, security, memberships\)\.$	Mantener mi estilo de vida me costó $1 este año (personal, seguridad, membresías).	Manter meu estilo de vida me custou $1 este ano (equipe, segurança, mensalidades).
+^Happiness \+(\d+)\.$	Felicidad +$1.	Felicidade +$1.
+^The shell company washed the money: police heat -(\d+)\.$	La empresa fantasma blanqueó el dinero: presión policial -$1.	A empresa de fachada lavou o dinheiro: pressão policial -$1.
+^The house appraised it at (.+)\.$	La casa lo tasó en $1.	A casa avaliou em $1.
+^You have lifetime casino earnings of (.+)\.$	Tienes ganancias de casino de por vida por $1.	Você tem ganhos de cassino vitalícios de $1.
+^You have lifetime casino losses of (.+)\.$	Tienes pérdidas de casino de por vida por $1.	Você tem perdas de cassino vitalícias de $1.
+^You have (.+) on the line\.$	Tienes $1 en juego.	Você tem $1 em jogo.
+^Cost: (.+)$	Costo: $1	Custo: $1
+^This costs (.+) and you don't have it\.$	Esto cuesta $1 y no lo tienes.	Isso custa $1 e você não tem.
+^It cost me (.+)\.$	Me costó $1.	Me custou $1.
+^(Footballer|NBA player|Celebrity|Tycoon|Local millionaire) (.+) buys a (.+) worth (.+)$	$1 $2 compra $3 por $4	$1 $2 compra $3 por $4
+^(Footballer|NBA player|Celebrity|Tycoon|Local millionaire) (.+) falls for a fake investment scam$	$1 $2 cae en una estafa de inversión falsa	$1 $2 cai em um golpe de investimento falso
+^(Footballer|NBA player|Celebrity|Tycoon|Local millionaire) (.+) is audited by the tax office$	$1 $2 es auditado por la oficina de impuestos	$1 $2 é auditado pela Receita
+^Attitude: (.+)$	Actitud: $1	Atitude: $1
+^(\d+) items? in your collection · (.+)$	$1 objetos en tu colección · $2	$1 itens na sua coleção · $2
+^(\d+) items? · (.+) appraised$	$1 objetos · $2 tasados	$1 itens · $2 avaliados
+^(\d+) items?$	$1 objetos	$1 itens
+^(.+) · haggled$	$1 · regateado	$1 · pechinchado
+^Fake · worth (.+)$	Falso · vale $1	Falso · vale $1
+^Authentic · worth (.+)$	Auténtico · vale $1	Autêntico · vale $1
+^Paid (.+) · not appraised$	Pagaste $1 · sin tasar	Pagou $1 · não avaliado
+^I bought a (.+) on the black market\.$	Compré un/a $1 en el mercado negro.	Comprei um(a) $1 no mercado negro.
+^I sold a (.+) to a fence\.$	Vendí un/a $1 a un receptador.	Vendi um(a) $1 para um receptador.

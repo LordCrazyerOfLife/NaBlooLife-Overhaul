@@ -1,0 +1,800 @@
+42865	Busca una escalera	Procure uma escada
+42866	Conseguí una escalera antes de abastecer.	Consegui uma escada antes de abastecer.
+42867	Una caja de huevos se resbala de tu palé.	Uma caixa de ovos escorrega do seu pallet.
+42868	Intenta atraparla	Tente pegá-la
+42869	¡Atrapé una caja de huevos que caía!	Peguei uma caixa de ovos que estava caindo!
+42870	Dejé caer 30 docenas de huevos al piso.	Deixei cair 30 dúzias de ovos no chão.
+42871	Deja que caiga y limpia	Deixe cair e limpe
+42872	Una caja de huevos se estrelló contra el piso.	Uma caixa de ovos se espatifou no chão.
+42873	Encuentras una repisa llena de yogur vencido.	Você encontra uma prateleira cheia de iogurte vencido.
+42874	Retira y rotaciona todo	Puxe e rotacione tudo
+42875	Retiré los productos vencidos y roté el stock.	Retirei os produtos vencidos e rotacionei o estoque.
+42876	Empújalos al fondo	Empurre-os para o fundo
+42877	Escondí yogur vencido al fondo de la repisa.	Escondi iogurte vencido no fundo da prateleira.
+42878	Un cliente se quejó del yogur vencido que dejé afuera.	Um cliente reclamou do iogurte vencido que deixei exposto.
+42879	El nuevo planograma dice que muevas cada caja de cereal tres pies a la izquierda.	O novo planograma diz para mover cada caixa de cereal três pés para a esquerda.
+42880	Síguelo al pie de la letra	Siga exatamente
+42881	Reorganicé el pasillo de cereales según el nuevo planograma.	Reorganizei a seção de cereais conforme o novo planograma.
+42882	Hazlo a ojo	Vá no olhômetro
+42883	Hice a ojo la nueva disposición de cereales.	Fiz de olhômetro a nova disposição dos cereais.
+42884	Mi jefe me hizo rehacer el pasillo de cereales.	Meu chefe me fez refazer a seção de cereais.
+42885	¿Dónde Está?	Onde Fica?
+42886	Un cliente pregunta dónde está el papel higiénico por tercera vez hoy.	Um cliente pergunta onde fica o papel higiênico pela terceira vez hoje.
+42887	Acompáñalo hasta ahí	Acompanhe até lá
+42888	Acompañé a un cliente al pasillo del papel higiénico.	Acompanhei um cliente até a seção de papel higiênico.
+42889	Señala vagamente	Aponte vagamente
+42890	Señalé vagamente hacia el fondo de la tienda.	Apontei vagamente para o fundo da loja.
+42891	Un paquete de galletas ya está roto. Se ven deliciosas.	Um pacote de biscoitos já está aberto. Eles parecem deliciosos.
+42892	Comí una galleta de un paquete dañado.	Comi um biscoito de um pacote danificado.
+42893	Me pillaron comiendo mercancía dañada.	Me pegaram comendo mercadoria danificada.
+42894	Márcalo como dañado	Marque como danificado
+42895	Marqué un paquete dañado correctamente.	Marquei um pacote danificado corretamente.
+42896	La puerta de la cámara de congelación se cierra de golpe detrás de ti.	A porta da câmara fria bate atrás de você.
+42897	Usa la manija de emergencia	Use a alavanca de emergência
+42898	Me quedé encerrado en el congelador, pero usé la liberación de emergencia.	Fiquei preso na câmara fria, mas usei a liberação de emergência.
+42899	Estuve atrapado en el congelador 20 minutos.	Fiquei preso na câmara fria por 20 minutos.
+42900	{first} está reponiendo el mismo pasillo y quiere competir.	{first} está repondo a mesma seção e quer competir.
+42901	Le gané a {first} en una carrera de reposición.	Ganhei do {first} numa corrida de reposição.
+42902	{first} me ganó en una carrera de reposición.	{first} ganou de mim numa corrida de reposição.
+42903	Trabajar a mi ritmo	Trabalhar no meu ritmo
+42904	Rechacé una carrera de reposición.	Recusei uma corrida de reposição.
+42905	La pila de excedentes en el fondo se inclina peligrosamente.	A pilha de estoque excedente no fundo está inclinada perigosamente.
+42906	Vuelve a apilarlo con seguridad	Reempilhe com segurança
+42907	Arreglé una pila de excedentes peligrosa.	Consertei uma pilha de estoque excedente perigosa.
+42908	Pasa de largo rápido	Passe rápido
+42909	Pasé junto a una pila de excedentes inclinada.	Passei por uma pilha de estoque excedente inclinada.
+42910	La pila de excedentes se derrumbó sobre mí.	A pilha de estoque excedente desabou sobre mim.
+42911	La cuadrilla de reposición nocturna está falta de personal.	A equipe de reposição noturna está com falta de pessoal.
+42912	Cubre el turno nocturno	Cubra o turno da noite
+42913	Cubrí un turno nocturno de reposición.	Cobri um turno noturno de reposição.
+42914	Rechacé el turno nocturno.	Recusei o turno da noite.
+42915	Un palé de cajitas de jugo está goteando jugo pegajoso por todos lados.	Um pallet de caixinhas de suco está vazando suco grudento por todo lado.
+42916	Limpia todo	Limpe tudo
+42918	Déjalo para el próximo turno	Deixe para o próximo turno
+42919	Dejé un desastre de jugo para el próximo turno.	Deixei uma bagunça de suco para o próximo turno.
+42920	La app de inventario dice que hay 400 TVs en stock. Hay 3.	O app de estoque diz que tem 400 TVs em estoque. Tem 3.
+42921	Reporta el error	Reporte o erro
+42922	Reporté un error grave de inventario.	Reportei um erro grave de estoque.
+42923	Ignoré un conteo de inventario equivocado.	Ignorei uma contagem de estoque errada.
+42924	Caos en el pasillo de juguetes	Caos na seção de brinquedos
+42925	Los niños destrozaron el pasillo de juguetes.	As crianças destruíram a seção de brinquedos.
+42926	Reconstrúyelo	Reconstrua
+42927	Reconstruí el pasillo de juguetes destrozado.	Reconstruí a seção de brinquedos destruída.
+42928	Juega con un juguete primero	Brinque com um brinquedo primeiro
+42929	Jugué con un carro de control remoto en el pasillo de juguetes.	Brinquei com um carrinho de controle remoto na seção de brinquedos.
+42930	Tu jefe nota que repusiste el doble que cualquier otro.	Seu chefe nota que você repôs o dobro de qualquer outro.
+42931	Acepta el elogio	Aceite o elogio
+42932	Me reconocieron como el reponedor más rápido.	Fui reconhecido como o repositor mais rápido.
+42933	Un cliente te pide que expliques la diferencia entre dos TVs casi idénticas.	Um cliente pede que você explique a diferença entre duas TVs quase idênticas.
+42934	Explica con honestidad	Explique com honestidade
+42935	Ayudé a un cliente a elegir la TV adecuada.	Ajudei um cliente a escolher a TV certa.
+42936	Véndele la más cara	Venda a mais cara
+42937	Le vendí a un cliente una TV más cara.	Vendi uma TV mais cara para um cliente.
+42938	El cliente devolvió la TV cara que le vendí.	O cliente devolveu a TV cara que eu vendi.
+42939	Las mesas de ropa parecen que les cayó un tornado.	As mesas de roupa parecem que um tornado passou por elas.
+42940	Dobla todo perfectamente	Dobre tudo perfeitamente
+42941	Volví a doblar toda la sección de ropa.	Dobrei de novo toda a seção de roupas.
+42942	Dobla solo el frente	Dobre só a frente
+42943	Doblé el frente de las mesas de ropa.	Dobrei a frente das mesas de roupa.
+42944	Un cliente quiere que iguales el precio de un anuncio de la competencia.	Um cliente quer que você iguale o preço de um anúncio da concorrência.
+42945	Consulta la política	Confira a política
+42946	Manejé la igualación de precios según el reglamento.	Lidei com a igualação de preços conforme as regras.
+42947	Dale el descuento nomás	Dê o desconto mesmo
+42948	Le di un descuento a un cliente sin revisar.	Dei desconto para um cliente sem conferir.
+42949	Me metí en líos por un descuento no aprobado.	Me encrenquei por um desconto não aprovado.
+42950	Altas de tarjeta de crédito	Cadastros de cartão de crédito
+42951	Tu jefe quiere cinco altas de tarjeta de la tienda hoy.	Seu chefe quer cinco cadastros de cartão da loja hoje.
+42952	Ofrecérsela a todos los clientes	Ofereça para todos os clientes
+42953	Alcancé mi meta de altas de tarjeta de la tienda.	Atingi minha meta de cadastros de cartão da loja.
+42954	Solo conseguí una alta de tarjeta de crédito.	Consegui só um cadastro de cartão de crédito.
+42955	Salta la promo	Pule a abordagem
+42956	Me salté el discurso de la tarjeta de crédito.	Pulei a abordagem do cartão de crédito.
+42957	Escasez de consolas	Falta de consoles
+42958	Un padre te ruega que encuentres una consola agotada para el cumpleaños de su hijo.	Um pai te implora para achar um console esgotado para o aniversário do filho.
+42959	Revisa todas las tiendas cercanas	Confira todas as lojas por perto
+42960	Encontré una consola agotada para el hijo de un cliente.	Achei um console esgotado para o filho de um cliente.
+42961	Di que está agotado	Diga que está esgotado
+42962	Le dije a un padre que la consola estaba agotada.	Disse a um pai que o console estava esgotado.
+42963	Un cliente se prueba 31 pares de zapatos y no compra ninguno.	Um cliente experimenta 31 pares de sapatos e não compra nenhum.
+42964	Mantén la paciencia	Mantenha a paciência
+42965	Ayudé a un cliente a probarse 31 pares de zapatos.	Ajudei um cliente a experimentar 31 pares de sapatos.
+42966	Escóndete en el almacén	Esconda no depósito
+42967	Me escondí de un cliente obsesionado con los zapatos.	Me escondi de um cliente obcecado por sapatos.
+42968	Te piden que hagas anuncios por el altavoz.	Pedem que você faça anúncios pelo interfone.
+42969	Usa voz de DJ de radio	Use voz de DJ de rádio
+42970	Hice los anuncios de la tienda con voz de DJ de radio.	Fiz os anúncios da loja com voz de DJ de rádio.
+42971	Mi jefe me dijo que dejara la voz de DJ.	Meu chefe mandou eu parar com a voz de DJ.
+42972	Léelo normal	Leia normal
+42973	Leí los anuncios de la tienda.	Li os anúncios da loja.
+42974	Un cliente pregunta si puedes envolver para regalo una piscina inflable gigante.	Um cliente pergunta se você consegue embrulhar para presente uma piscina inflável gigante.
+42975	Inténtalo	Tente
+42976	Envolví para regalo una piscina inflable.	Embrulhei para presente uma piscina inflável.
+42977	Explica que no envolvemos	Explique que não embrulhamos
+42978	Le dije a un cliente que no envolvemos para regalo.	Disse a um cliente que não embrulhamos para presente.
+42979	Estás armando la sección de Halloween y un esqueleto con sensor te grita.	Você está montando a seção de Halloween e um esqueleto com sensor grita com você.
+42980	Una decoración de Halloween me dio un susto de muerte.	Uma decoração de Halloween me matou de susto.
+42981	Armé la sección de Halloween sin inmutarme.	Montei a seção de Halloween sem piscar.
+42982	Un cliente necesita ayuda para configurar su teléfono nuevo.	Um cliente precisa de ajuda para configurar o celular novo.
+42983	Guíalo paso a paso	Guie passo a passo
+42984	Ayudé a un cliente a configurar un teléfono nuevo.	Ajudei um cliente a configurar um celular novo.
+42985	Indícale el manual	Indique o manual
+42986	Le indiqué a un cliente el manual del teléfono.	Indiquei a um cliente o manual do celular.
+42987	Un cliente quiere que le armen la bicicleta ahora mismo.	Um cliente quer que montem a bicicleta agora mesmo.
+42988	Arma la bicicleta aquí mismo	Monte aqui mesmo
+42989	Armé una bicicleta para un cliente.	Montei uma bicicleta para um cliente.
+42990	La bicicleta que armé se desarmó en el estacionamiento.	A bicicleta que montei desmontou no estacionamento.
+42991	Prográmalo para mañana	Agende para amanhã
+42992	Programé el armado de una bicicleta.	Agendei a montagem de uma bicicleta.
+42993	Hay que colocar cientos de letreros de liquidación antes de la mañana.	É preciso colocar centenas de cartazes de liquidação antes do amanhecer.
+42994	Quédate tarde y termina	Fique até mais tarde e termine
+42995	Me quedé hasta tarde para colocar los letreros de liquidación.	Fiquei até mais tarde para colocar os cartazes de liquidação.
+42996	Termina por la mañana	Termine de manhã
+42997	Dejé los letreros de liquidación para la mañana.	Deixei os cartazes de liquidação para a manhã.
+42998	Unos padres están peleando por los últimos paquetes de cuadernos.	Uns pais estão brigando pelos últimos pacotes de cadernos.
+42999	Repón desde el almacén	Reponha do depósito
+43000	Salvé el día con cuadernos del almacén.	Salvei o dia com cadernos do depósito.
+43001	Déjalos pelear	Deixe eles brigarem
+43002	Vi a unos padres pelear por cuadernos.	Vi pais brigando por cadernos.
+43003	Un cliente pregunta si puedes tocar la guitarra en exhibición.	Um cliente pergunta se você pode tocar a guitarra em exposição.
+43004	Toca una canción	Toque uma música
+43005	Toqué una canción en una guitarra en exhibición para un cliente.	Toquei uma música numa guitarra em exposição para um cliente.
+43006	Mi jefe me dijo que dejara de tocar la guitarra en exhibición.	Meu chefe mandou eu parar de tocar a guitarra em exposição.
+43007	Me negué a tocar la guitarra en exhibición.	Recusei tocar a guitarra em exposição.
+43008	Sospechas que el cliente que hace muchas preguntas es un comprador misterioso de la central.	Você suspeita que o cliente que faz muitas perguntas é um cliente secreto da matriz.
+43009	Da un servicio de cinco estrellas	Dê um atendimento cinco estrelas
+43010	Salí con nota en la visita de un comprador misterioso de la central.	Me saí muito bem na visita de um cliente secreto da matriz.
+43011	Trátalo normal	Trate normal
+43012	Traté a un comprador misterioso como a cualquier otro.	Tratei um cliente secreto como qualquer outro.
+43013	Las únicas bananas que quedan están marrones y golpeadas.	As únicas bananas que sobraram estão escuras e machucadas.
+43014	Sustituye con orgánicas	Substitua por orgânicas
+43015	Sustituí las bananas magulladas por unas orgánicas frescas.	Substituí as bananas machucadas por orgânicas frescas.
+43016	Manda las magulladas	Mande as machucadas
+43017	Un cliente se quejó de las bananas que elegí.	Um cliente reclamou das bananas que escolhi.
+43018	Tu escáner portátil suena: vas detrás en el ritmo de preparación.	Seu coletor apita: você está atrasado no ritmo de separação.
+43019	Aceleré para alcanzar mi ritmo de preparación.	Acelerei para bater meu ritmo de separação.
+43020	Me quedé atrás en mi ritmo de preparación.	Fiquei atrasado no ritmo de separação.
+43021	Abres una caja para revisar los huevos. Dos están rajados.	Você abre uma caixa para conferir os ovos. Dois estão rachados.
+43022	Cambia la caja	Troque a caixa
+43023	Revisé los huevos y cambié una caja rajada.	Conferi os ovos e troquei uma caixa rachada.
+43024	Mándala de todos modos	Mande mesmo assim
+43025	Un cliente recibió huevos rajados en mi pedido.	Um cliente recebeu ovos rachados no meu pedido.
+43026	Tu carro de preparación está sobrecargado y se mueve.	Seu carrinho de separação está sobrecarregado e balançando.
+43027	Para y reorganiza	Pare e reorganize
+43028	Reorganicé mi carro sobrecargado.	Reorganizei meu carrinho sobrecarregado.
+43029	Empujé un carro sobrecargado por la tienda.	Empurrei um carrinho sobrecarregado pela loja.
+43030	Mi carro sobrecargado se volcó en el pasillo de cereales.	Meu carrinho sobrecarregado tombou na seção de cereais.
+43031	El momento de los congelados	O timing dos congelados
+43032	Tu pedido tiene helado, pero el cliente no llega hasta dentro de una hora.	Seu pedido tem sorvete, mas o cliente só chega daqui a uma hora.
+43033	Prepara los congelados al final	Separe os congelados por último
+43034	Calculé perfectamente el momento de los congelados.	Acertei o timing dos congelados perfeitamente.
+43035	Tómalo ahora	Pegue agora
+43036	El helado se derritió antes de la recogida.	O sorvete derreteu antes da retirada.
+43037	Un cliente en la zona de recogida dice que falta la mitad de su pedido.	Um cliente na retirada diz que falta metade do pedido.
+43038	Corre a arreglarlo	Corra consertar
+43039	Arreglé un pedido de recogida en el acto.	Consertei um pedido de retirada na hora.
+43040	Culpa al sistema	Culpe o sistema
+43041	Culpé al sistema por un pedido incompleto.	Culpei o sistema por um pedido incompleto.
+43042	Un cliente te da una propina de $10 en la recogida.	Um cliente te dá uma gorjeta de $10 na retirada.
+43043	Un cliente de la recogida me dio $10 de propina.	Um cliente da retirada me deu $10 de gorjeta.
+43044	Rechazar con cortesía (política)	Recusar com educação (política)
+43045	Rechacé una propina con cortesía, según la política de la tienda.	Recusei uma gorjeta com educação, conforme a política da loja.
+43046	El cliente pidió una marca de salsa de tomate que está agotada.	O cliente pediu uma marca de molho de tomate que está esgotada.
+43047	Elige la más parecida	Escolha a mais parecida
+43048	Elegí un buen sustituto para un artículo agotado.	Escolhi um ótimo substituto para um item esgotado.
+43049	Márcalo como no disponible	Marque como indisponível
+43050	Marqué un artículo como no disponible.	Marquei um item como indisponível.
+43051	Un cliente pidió 12 galones de agua y 40 latas de sopa.	Um cliente pediu 12 galões de água e 40 latas de sopa.
+43052	Levanta todo	Levante tudo
+43053	Cargué con un pedido gigante de supermercado.	Carreguei um pedidão de supermercado.
+43054	Usa una transpaleta	Use uma transpaleteira
+43055	Usé una transpaleta para un pedido gigante.	Usei uma transpaleteira num pedido gigante.
+43056	Semana de Acción de Gracias: 300 pedidos de recogida programados hoy.	Semana de Ação de Graças: 300 pedidos de retirada agendados hoje.
+43057	Trabaja durante los descansos	Trabalhe nos intervalos
+43058	Preparé pedidos durante mis descansos en la semana de Acción de Gracias.	Separei pedidos durante meus intervalos na semana de Ação de Graças.
+43059	Tomar mis descansos	Tirar meus intervalos
+43060	Tomé mis descansos durante la avalancha de las fiestas.	Tirei meus intervalos durante a correria das festas.
+43061	El cliente escribió "el queso bueno" en las notas.	O cliente escreveu "o queijo bom" nas observações.
+43062	Elige el brie elegante	Escolha o brie sofisticado
+43063	Elegí brie elegante para un pedido vago de "queso bueno".	Escolhi brie sofisticado para um pedido vago de "queijo bom".
+43064	El cliente quería cheddar, no brie.	O cliente queria cheddar, não brie.
+43065	Elige cheddar normal	Escolha cheddar simples
+43066	Elegí cheddar para un pedido vago de queso.	Escolhi cheddar para um pedido vago de queijo.
+43067	El cliente quería algo más elegante.	O cliente queria algo mais sofisticado.
+43068	Tu escáner de preparación se muere con 40 artículos pendientes.	Seu coletor morre com 40 itens pendentes.
+43069	Agarra uno de repuesto	Pegue um sobressalente
+43070	Cambié por un escáner de repuesto.	Troquei por um coletor reserva.
+43071	Anota los artículos a mano	Anote os itens à mão
+43072	Terminé de preparar un pedido a mano.	Terminei de separar um pedido à mão.
+43073	Un pedido tiene 30 frascos de pepinillos y una sola banana.	Um pedido tem 30 potes de picles e uma única banana.
+43074	Prepáralo, sin preguntas	Separe, sem perguntas
+43075	Preparé un pedido de supermercado rarísimo.	Separei um pedido de supermercado esquisitíssimo.
+43076	Llama para confirmar	Ligue para confirmar
+43077	Confirmé con el cliente un pedido raro.	Confirmei com o cliente um pedido esquisito.
+43078	Tienes que embolsar juntos frascos de vidrio, pan y melones del tamaño de una bola de boliche.	Você precisa ensacar juntos potes de vidro, pão e melões do tamanho de uma bola de boliche.
+43079	Empaqueta con cuidado	Embale com cuidado
+43080	Empaqueté un pedido frágil perfectamente.	Embalei um pedido frágil perfeitamente.
+43081	Mete todo ahí nomás	Jogue tudo dentro
+43082	Un cliente recibió pan aplastado en mi pedido.	Um cliente recebeu pão amassado no meu pedido.
+43083	No te faltó ni un artículo en toda una semana.	Você não teve nenhum item faltando por uma semana inteira.
+43084	Tuve una semana perfecta preparando pedidos.	Tive uma semana perfeita separando pedidos.
+43085	Tres empleados avisaron que estaban enfermos el mismo día.	Três funcionários avisaram que estavam doentes no mesmo dia.
+43086	Cubrir yo un turno	Cobrir eu um turno
+43087	Cubrí un turno cuando mi equipo avisó que no iba.	Cobri um turno quando minha equipe avisou que não ia.
+43088	Llama a la gente en su día de descanso	Chame as pessoas no dia de folga
+43089	Llamé a empleados en su día de descanso.	Chamei funcionários no dia de folga.
+43090	Tu departamento va 15% detrás en ventas mensuales.	Seu departamento está 15% atrás nas vendas mensais.
+43091	Planea una promoción grande	Planeje uma promoção grande
+43092	La promoción de mi departamento subió las ventas.	A promoção do meu departamento impulsionou as vendas.
+43093	La promoción de mi departamento fue un fracaso.	A promoção do meu departamento flopou.
+43094	Culpa al clima	Culpe o clima
+43095	Culpé al clima por las ventas bajas.	Culpei o clima pelas vendas baixas.
+43096	{first} ha llegado tarde cinco veces este mes.	{first} chegou atrasado cinco vezes este mês.
+43097	Habla en privado	Converse em particular
+43098	Hablé con {first} de forma comprensiva sobre los retrasos.	Conversei com {first} de forma compreensiva sobre os atrasos.
+43099	Le hice un informe a {first} por llegar tarde.	Fiz um relatório sobre {first} por chegar atrasado.
+43100	La central va a auditar el inventario de tu departamento mañana.	A matriz vai auditar o estoque do seu departamento amanhã.
+43101	Prepara toda la noche	Prepare a noite toda
+43102	Mi departamento pasó la auditoría de inventario.	Meu departamento passou na auditoria de estoque.
+43103	Me la jugué en la auditoría de inventario.	ImproviSEI a auditoria de estoque.
+43104	Mi departamento reprobó la auditoría de inventario.	Meu departamento reprovou na auditoria de estoque.
+43105	Puedes nominar a un empleado para un premio.	Você pode indicar um funcionário para um prêmio.
+43106	Nominé a {first} para un premio de empleado.	Indiquei {first} para um prêmio de funcionário.
+43107	Nominarme de algún modo	Me indicar de algum jeito
+43108	Intenté nominarme para un premio.	Tentei me indicar para um prêmio.
+43109	Llamada en mi día de descanso	Ligação no dia de folga
+43110	La tienda te llama en tu día de descanso con una "emergencia".	A loja te liga no seu dia de folga com uma "emergência".
+43111	Fui a trabajar en mi día de descanso por una emergencia.	Fui trabalhar no meu dia de folga por uma emergência.
+43112	Deja que suene	Deixe tocar
+43113	Ignoré una llamada del trabajo en mi día de descanso.	Ignorei uma ligação do trabalho no meu dia de folga.
+43114	Te dicen que recortes las horas de tu departamento un 10%.	Mandam reduzir as horas do seu departamento em 10%.
+43115	Recortar primero mis horas	Reduzir primeiro as minhas horas
+43116	Recorté mis horas para proteger a mi equipo.	Reduzi minhas horas para proteger minha equipe.
+43117	Recorta a los más nuevos	Reduza os mais novos
+43118	Recorté horas a los empleados más nuevos.	Reduzi as horas dos funcionários mais novos.
+43119	{first} y otro empleado se niegan a trabajar juntos.	{first} e outro funcionário se recusam a trabalhar juntos.
+43120	Mediar una charla	Mediar uma conversa
+43121	Medié un conflicto entre dos empleados.	Mediei um conflito entre dois funcionários.
+43122	Sepáralos	Separe os dois
+43123	Separé a dos empleados que se llevaban mal.	Separei dois funcionários que estavam brigados.
+43124	La central envía una actualización de políticas de 40 páginas y confusa.	A matriz envia uma atualização de política confusa de 40 páginas.
+43125	Lee cada página	Leia cada página
+43126	Leí una actualización de políticas de 40 páginas.	Li uma atualização de política de 40 páginas.
+43127	Lee el resumen por encima	Dê uma olhada no resumo
+43128	Ojeé una actualización de políticas de la central.	Dei uma olhada numa atualização de política da matriz.
+43129	Estás entrevistando candidatos para un puesto de empleado.	Você está entrevistando candidatos para uma vaga de funcionário.
+43130	Contrata al experimentado	Contrate o experiente
+43131	Contraté a un empleado experimentado.	Contratei um funcionário experiente.
+43132	Contrata al entusiasta	Contrate o entusiasmado
+43133	Contraté a un empleado nuevo entusiasta.	Contratei um funcionário novo entusiasmado.
+43134	Un cliente furioso exige ver "al gerente". Ese eres tú.	Um cliente furioso exige ver "o gerente". Esse é você.
+43135	Escucha y resuélvelo	Ouça e resolva
+43136	Calmé a un cliente enfadado y resolví su problema.	Acalmei um cliente irritado e resolvi o problema dele.
+43137	Ofrece una tarjeta regalo	Ofereça um vale-presente
+43138	Le di una tarjeta regalo a un cliente enfadado.	Dei um vale-presente para um cliente irritado.
+43139	Tu departamento acaba de tener su mejor mes de siempre.	Seu departamento acabou de ter o melhor mês de todos.
+43140	Organiza una fiesta de pizza para el equipo	Faça uma festa de pizza para a equipe
+43141	Organicé una fiesta de pizza para mi equipo por un mes récord.	Fiz uma festa de pizza para minha equipe por um mês recorde.
+43142	Me atribuí el mérito del mes récord de mi departamento.	Assumi o mérito pelo mês recorde do meu departamento.
+43143	Ves a un empleado usando una escalera de forma insegura.	Você vê um funcionário usando uma escada de forma insegura.
+43144	Detenlo de inmediato	Pare imediatamente
+43145	Evité una situación peligrosa con la escalera.	Evitei uma situação perigosa com a escada.
+43146	Menciónalo después	Mencione depois
+43147	Ignoré una escalera en mal estado.	Ignorei uma escada insegura.
+43148	Un empleado se cayó de una escalera bajo mi supervisión.	Um funcionário caiu de uma escada sob minha supervisão.
+43149	La empresa te ofrece un curso de liderazgo.	A empresa te oferece um curso de liderança.
+43150	Hice un curso de liderazgo.	Fiz um curso de liderança.
+43151	Me salté el curso de liderazgo.	Pulei o curso de liderança.
+43152	Visita del gerente de la tienda	Visita do gerente da loja
+43153	El gerente de la tienda está recorriendo tu departamento.	O gerente da loja está percorrendo seu departamento.
+43154	Presume las mejoras	Mostre as melhorias
+43155	Impresioné al gerente de la tienda durante el recorrido.	Impressionei o gerente da loja durante a visita.
+43156	Señala los problemas	Aponte os problemas
+43157	Señalé los problemas al gerente de la tienda con honestidad.	Apontei os problemas para o gerente da loja com honestidade.
+43158	El gerente de distrito visita tu tienda mañana.	O gerente de distrito visita sua loja amanhã.
+43159	Motiva a todo el equipo	Motive toda a equipe
+43160	Mi tienda dejó boquiabierto al gerente de distrito.	Minha loja deixou o gerente de distrito de queixo caído.
+43161	El gerente de distrito encontró un almacén desordenado.	O gerente de distrito achou um depósito bagunçado.
+43162	Actúa como si fuera un día normal	Aja como se fosse um dia normal
+43163	Mantuve todo normal para la visita del distrito.	Mantive tudo normal para a visita do distrito.
+43164	Tu tienda no alcanzó su meta trimestral de ganancias.	Sua loja não atingiu a meta trimestral de lucro.
+43165	Presenta un plan de recuperación	Apresente um plano de recuperação
+43166	Presenté un plan de recuperación para mi tienda.	Apresentei um plano de recuperação para minha loja.
+43167	Culpa a la economía	Culpe a economia
+43168	Culpé a la economía por las cifras de mi tienda.	Culpei a economia pelos números da minha loja.
+43169	Un equipo de noticias local quiere grabar una nota en tu tienda.	Uma equipe de notícias local quer gravar uma matéria na sua loja.
+43170	Da una gran entrevista	Dê uma ótima entrevista
+43171	Me entrevistaron en las noticias locales.	Fui entrevistado nas notícias locais.
+43172	Rechacé una entrevista con las noticias locales.	Recusei uma entrevista com as notícias locais.
+43173	La central aprobó una remodelación completa de tu tienda.	A matriz aprovou uma reforma completa da sua loja.
+43174	Supervisa cada detalle	Supervisione cada detalhe
+43175	Supervisé una remodelación completa de la tienda.	Supervisionei uma reforma completa da loja.
+43176	Delega todo	Delege tudo
+43177	Delegué la remodelación de mi tienda.	Deleguei a reforma da minha loja.
+43178	Las pérdidas por robo en tu tienda se duplicaron este año.	As perdas por furto na sua loja dobraram este ano.
+43179	Contrata más seguridad	Contrate mais segurança
+43180	Endurecí el combate al robo en mi tienda.	Endureci o combate ao furto na minha loja.
+43181	Cierra más productos con llave	Tranque mais produtos
+43182	Cerré productos con llave para evitar robos.	Tranquei produtos para evitar furtos.
+43183	Puedes organizar una campaña de útiles escolares.	Você pode fazer uma campanha de material escolar.
+43184	Organízala	Faça
+43185	Mi tienda organizó una campaña de útiles escolares.	Minha loja fez uma campanha de material escolar.
+43186	Sáltatelo este año	Pule este ano
+43187	Me salté la campaña comunitaria de útiles.	Pulei a campanha comunitária de material escolar.
+43188	Debes ascender a {first} o a otro empleado destacado a gerente de departamento.	Você deve promover {first} ou outro funcionário bom a gerente de departamento.
+43190	Ascender al otro	Promover o outro
+43191	Ignoré a {first} para el ascenso.	Preteri {first} na promoção.
+43192	Necesitas 40 trabajadores temporales antes del Black Friday.	Você precisa de 40 funcionários temporários antes da Black Friday.
+43193	Organiza una jornada de contratación	Faça um evento de contratação
+43194	Organicé una jornada de contratación temporal.	Fiz um evento de contratação temporária.
+43195	Haz que el personal actual trabaje más	Faça a equipe atual trabalhar mais
+43196	Hice que mi personal cubriera la avalancha de las fiestas.	Fiz minha equipe cobrir a correria das festas.
+43197	Una tormenta deja sin luz a toda la tienda.	Uma tempestade corta a energia de toda a loja.
+43198	Mantén a los clientes tranquilos y seguros	Mantenha os clientes calmos e seguros
+43199	Manejé un apagón por tormenta en mi tienda.	Lidei com uma queda de energia por tempestade na minha loja.
+43200	Cierra temprano	Feche cedo
+43201	Cerré mi tienda temprano durante un apagón.	Fechei minha loja cedo durante uma queda de energia.
+43202	Tu tienda alcanzó todas las metas este año. ¡Te ganaste un bono!	Sua loja bateu todas as metas este ano. Você ganhou um bônus!
+43203	Cobra el bono	Receba o bônus
+43204	Me gané un bono de gerente de tienda de $5,000.	Ganhei um bônus de gerente de loja de $5,000.
+43205	Un video de una escena caótica en tu tienda se vuelve viral.	Um vídeo de uma cena caótica na sua loja está viralizando.
+43206	Emite un comunicado público	Emita um comunicado público
+43207	Manejé un video viral con calma.	Lidei com um vídeo viral com calma.
+43208	Un video viral de mi tienda salió en los titulares.	Um vídeo viral da minha loja virou manchete.
+43209	Los auditores de la central llegan sin avisar.	Os auditores da matriz chegam sem avisar.
+43210	Dales la bienvenida	Dê as boas-vindas
+43211	Mi tienda pasó una auditoría sorpresa de la central.	Minha loja passou numa auditoria surpresa da matriz.
+43212	Mi tienda reprobó una auditoría sorpresa de la central.	Minha loja reprovou numa auditoria surpresa da matriz.
+43213	Entreténlos	Enrole eles
+43214	Intenté entretener a los auditores de la central.	Tentei enrolar os auditores da matriz.
+43215	La central me pilló retrasando la auditoría. Me despidieron.	A matriz me pegou enrolando a auditoria. Fui demitido.
+43216	Los empleados entregaron una petición pidiendo mejores descansos.	Os funcionários entregaram uma petição pedindo intervalos melhores.
+43217	Reúnete con ellos	Reúna-se com eles
+43218	Me reuní con los empleados sobre su petición.	Reuni-me com os funcionários sobre a petição.
+43219	Repórtalo a la central	Reporte à matriz
+43220	Reenvié la petición a la central.	Encaminhei a petição para a matriz.
+43221	Tienda del Año	Loja do Ano
+43222	Tu tienda fue nominada a Tienda del Año.	Sua loja foi indicada a Loja do Ano.
+43223	Empuja para ganar	Corra atrás da vitória
+43224	¡Mi tienda ganó Tienda del Año!	Minha loja ganhou Loja do Ano!
+43225	Mi tienda quedó segunda en Tienda del Año.	Minha loja ficou em segundo lugar na Loja do Ano.
+43226	Mantuve la humildad por nuestra nominación.	Mantive a humildade pela nossa indicação.
+43227	Un minorista rival te ofrece un trabajo con mejor salario.	Um varejista rival te oferece um emprego com salário maior.
+43228	Sé leal	Seja leal
+43229	Rechacé una oferta de trabajo de la competencia.	Recusei uma oferta de emprego da concorrência.
+43230	Úsala para negociar un aumento	Use para negociar um aumento
+43231	Negocié un aumento usando la oferta de la competencia.	Negociei um aumento usando a oferta da concorrência.
+43232	A mis jefes no les gustó que comparara ofertas.	Meus chefes não gostaram que eu ficasse comparando ofertas.
+43233	morir en una emboscada	ser morto numa emboscada
+43234	Tu convoy entra en un valle estrecho en {country}. El camión de adelante se detiene. Luego la cresta se ilumina con fogonazos.	Seu comboio entra num vale estreito em {country}. O caminhão da frente para. Depois a crista se acende com clarões de cano.
+43235	Devuelve el fuego desde la torreta	Revire o fogo da torreta
+43236	Descargaste fuego contra la cresta hasta que el enemigo rompió el contacto.	Você despejou fogo na crista até o inimigo romper contato.
+43237	Las balas chispeaban contra el escudo de tu torreta por todos lados.	Os tiros faiscavam no escudo da sua torreta por todo lado.
+43238	Tu conductor pisó a fondo y el convoy salió rompiendo la emboscada.	Seu motorista pisou fundo e o comboio rompeu a emboscada.
+43239	Un neumático reventó y quedaste atrapado en la zona de fuego.	Um pneu estourou e você ficou preso na zona de morte.
+43240	Baja del vehículo y cúbrete	Desembarque e se cubra
+43241	Encontraste refugio detrás de un muro de rocas y pediste las coordenadas.	Você achou cobertura atrás de um muro de pedras e pediu as coordenadas.
+43242	La zanja en la que saltaste estaba a la vista de una ametralladora.	A vala onde você pulou estava bem à vista de uma metralhadora.
+43243	una bala de francotirador	uma bala de franco-atirador
+43244	Un solo disparo retumba en el complejo. El soldado a tu lado cae. Hay un francotirador en los edificios.	Um único estalo ecoa pelo complexo. O soldado ao seu lado cai. Tem um franco-atirador em algum dos prédios.
+43245	Arrástralo a cubierto	Arraste ele para cobertura
+43246	Lo arrastraste detrás de un muro. Va a sobrevivir.	Você arrastou ele atrás de um muro. Ele vai sobreviver.
+43247	Otro disparo levantó tierra a unas pulgadas de tu cabeza.	Outro tiro levantou terra a algumas polegadas da sua cabeça.
+43248	Busca al tirador	Procure o atirador
+43249	Viste un destello en una ventana y tu equipo lo silenció.	Você viu um brilho numa janela e sua equipe silenciou.
+43250	No lo encontraste. Siguió disparando.	Você não achou. Ele continuou atirando.
+43251	Tira humo primero	Solte fumaça primeiro
+43252	El humo los cubrió y lo sacaste.	A fumaça cobriu vocês e você o tirou dali.
+43253	El viento se llevó el humo en segundos.	O vento levou a fumaça em segundos.
+43254	pisar una mina terrestre	pisar uma mina terrestre
+43255	Tu patrulla toma un atajo por un campo viejo. Alguien ve una placa de presión oxidada. Puede haber más.	Sua patrulha pega um atalho por um campo velho. Alguém avista uma placa de pressão enferrujada. Pode haver mais.
+43256	Sonda el suelo con tu cuchillo	Sonde o chão com sua faca
+43257	Encontraste tres minas más y marcaste un paso seguro.	Você achou mais três minas e marcou uma passagem segura.
+43258	Te temblaban tanto las manos que tuviste que parar.	Suas mãos tremiam tanto que você teve que parar.
+43259	Vuelve pisando exactamente tus huellas	Volte pisando exatamente suas pegadas
+43260	Paso a paso, todos salieron.	Passo a passo, todos saíram.
+43261	Alguien pisó mal. La explosión lanzó tierra por todos lados.	Alguém pisou errado. A explosão jogou terra por todo lado.
+43262	Llama a ingenieros y espera	Chame os engenheiros e espere
+43263	Los ingenieros lo despejaron. Tomó horas, pero nadie se lastimó.	Os engenheiros limparam. Levou horas, mas ninguém se machucou.
+43264	Esperaste a la intemperie durante horas. Nada divertido.	Você esperou ao ar livre por horas. Nada divertido.
+43265	la explosión de un artefacto explosivo	a explosão de um artefato explosivo
+43266	Tu vehículo pasa por un alcantarillado. Algo bajo la carretera se ve raro.	Seu veículo passa por um bueiro. Algo sob a estrada parece errado.
+43267	El conductor frenó justo a tiempo. La unidad de explosivos lo hizo estallar ahí.	O motorista freou bem na hora. O esquadrão de bombas explodiu no lugar.
+43268	Demasiado tarde. La explosión levantó la parte delantera del camión.	Tarde demais. A explosão levantou a frente do caminhão do chão.
+43269	Sigue manejando y espera	Continue dirigindo e torça
+43270	No pasó nada. Quizás solo fuera basura.	Não aconteceu nada. Talvez fosse só lixo.
+43271	Detonó justo debajo del motor.	Detonou bem embaixo do motor.
+43272	Retrocede despacio	Recue devagar
+43273	Retrocediste por tus propias huellas.	Você recuou pelas suas próprias marcas de pneu.
+43274	Un segundo artefacto estaba enterrado detrás de ti.	Um segundo artefato estava enterrado atrás de você.
+43275	recibir un disparo en una incursión nocturna	ser baleado numa incursão noturna
+43276	Gafas de visión nocturna puestas. Tu equipo se agrupa junto al muro de un complejo en {country}. La inteligencia dice que hay un fabricante de bombas adentro.	Óculos de visão noturna ligados. Sua equipe se posiciona junto ao muro de um complexo em {country}. A inteligência diz que tem um fabricante de bombas lá dentro.
+43277	Entra primero por la puerta	Entre primeiro pela porta
+43278	Despejaste la primera habitación en segundos. Objetivo capturado.	Você limpou o primeiro cômodo em segundos. Alvo capturado.
+43279	Alguien esperaba detrás de la puerta con un rifle.	Alguém esperava atrás da porta com um fuzil.
+43280	Lanza una granada de destello primero	Jogue uma granada de clarão primeiro
+43281	El estruendo aturdió a todos adentro. Entrada limpia.	O estrondo atordoou todos lá dentro. Entrada limpa.
+43282	La granada rebotó en el marco de la puerta.	A granada quicou no batente da porta.
+43283	Cubre las ventanas desde afuera	Cubra as janelas de fora
+43284	Atrapaste a uno que intentaba escapar por detrás.	Você pegou um que tentava fugir pelos fundos.
+43285	Nadie salió por tu lado. No viste nada.	Ninguém saiu pelo seu lado. Você não viu nada.
+43286	un ataque de mortero	um ataque de morteiro
+43287	El silbido de los proyectiles. Los morteros recorren tu puesto.	O assobio dos projéteis. Os morteiros estão varrendo seu posto.
+43288	Te deslizaste al búnker mientras temblaba el suelo.	Você se jogou no bunker enquanto o chão tremia.
+43289	Un proyectil cayó tan cerca que te tiró al suelo.	Um projétil caiu tão perto que te jogou no chão.
+43290	Usa la radio de contrabombardeo	Use o rádio de contra-bombardeio
+43291	Tus coordenadas permitieron que la artillería silenciara al equipo de morteros.	Suas coordenadas deixaram a artilharia silenciar a equipe de morteiros.
+43292	La radio se cortó a mitad de la transmisión.	O rádio caiu no meio da transmissão.
+43293	Tírate al suelo donde estás	Jogue-se no chão onde está
+43294	Pegaste el suelo hasta que terminó.	Você ficou colado no chão até parar.
+43295	La metralla rasgó la carpa a tu lado.	Os estilhaços rasgaram a barraca ao seu lado.
+43296	recibir un disparo en una azotea	ser baleado num telhado
+43297	Estás de vigilancia en una azotea cuando combatientes enemigos empiezan a disparar desde tres direcciones.	Você está vigiando de um telhado quando combatentes inimigos começam a atirar de três direções.
+43298	Levántate y reprime su fuego	Levante-se e suprima o fogo deles
+43299	Tu fuego los mantuvo rajados el suficiente para que la escuadra los flanqueara.	Seu fogo os prendeu até a esquadra flanquear.
+43300	Estuviste expuesto demasiado tiempo.	Você ficou exposto por muito tempo.
+43301	Arrastra hasta el parapeto y elige blancos	Rasteje até o parapeito e escolha alvos
+43302	Disparos cuidadosos. Tres combatientes dejaron de disparar.	Tiros cuidadosos. Três combatentes pararam de atirar.
+43303	No lograste un tiro limpio.	Você não conseguiu um tiro limpo.
+43304	Pide un camión con ametralladora	Peça um caminhão com metralhadora
+43305	El camión llegó y terminó el combate.	O caminhão chegou e acabou com a briga.
+43306	El camión tardó veinte minutos en llegar.	O caminhão demorou vinte minutos para chegar.
+43307	un atentado suicida	um atentado suicida
+43308	En un puesto de control, un hombre con un abrigo grueso camina hacia tu posición y no se detiene.	Num checkpoint, um homem de casaco grosso caminha até sua posição e não para.
+43309	Grita advertencias y apunta	Grite avisos e aponte
+43310	Se detuvo, abrió el abrigo. Solo una chamarra. Todos respiraron de nuevo.	Ele parou, abriu o casaco. Só uma jaqueta. Todos respiraram de novo.
+43311	Siguió caminando. La decisión se tomó por ti.	Ele continuou andando. A decisão foi tomada por você.
+43312	Dispara un tiro de advertencia	Atire um tiro de aviso
+43313	Se dio vuelta y corrió. Después encontraron un chaleco en un callejón.	Ele virou e correu. Depois acharam um colete num beco.
+43314	El tiro no lo detuvo.	O tiro não o parou.
+43315	Pon a todos detrás de las barreras	Coloque todos atrás das barreiras
+43316	Cuando detonó, las barreras absorbieron la explosión.	Quando ele detonou, as barreiras absorveram a explosão.
+43317	No todos llegaron detrás de las barreras a tiempo.	Nem todos chegaram atrás das barreiras a tempo.
+43318	un accidente de helicóptero	um acidente de helicóptero
+43319	Tu helicóptero recibe fuego al acercarse. Alarmas llenan la cabina y el piloto grita que se preparen.	Seu helicóptero leva fogo na aproximação. Alertas enchem a cabine e o piloto grita para se prepararem.
+43320	Un aterrizaje brusco. Todos salieron arrastrándose vivos.	Uma aterrissagem dura. Todos saíram rastejando vivos.
+43321	El impacto te dejó inconsciente unos segundos.	O impacto te deixou inconsciente por alguns segundos.
+43322	Tu fuego los mantuvo agachados mientras el piloto lo llevaba al suelo.	Seu fogo os manteve abaixados enquanto o piloto levava o aparelho ao chão.
+43323	Saliste volando por la cabina.	Você foi arremessado pela cabine.
+43324	Asegura primero a los heridos	Coloque o cinto nos feridos primeiro
+43325	Todos los que aseguraste sobrevivieron al aterrizaje.	Todos que você prendeu sobreviveram à aterrissagem.
+43326	No te aseguraste a tiempo.	Você não conseguiu se prender a tempo.
+43327	ahogarse al cruzar un río	se afogar ao cruzar um rio
+43328	El puente está destruido. Tu escuadra tiene que cruzar un río rápido con todo el equipo.	A ponte caiu. Sua esquadra tem que vadear um rio rápido com todo o equipamento.
+43329	Cruza primero con la cuerda	Cruze primeiro com a corda
+43330	Aseguraste la cuerda en la otra orilla. Todos cruzaron sin problema.	Você prendeu a corda na outra margem. Todos cruzaram com segurança.
+43332	Déja el equipo pesado primero	Deixe o equipamento pesado primeiro
+43333	Más ligero, cruzaste fácil.	Mais leve, você cruzou fácil.
+43334	Tu sargento te regañó por perder equipo.	Seu sargento te deu um puxão de orelha por perder equipamento.
+43335	Busca un lugar menos profundo	Procure um lugar mais raso
+43336	Una milla río abajo, el agua llegaba a las rodillas.	Uma milha rio abaixo, a água chegava aos joelhos.
+43337	El desvío te hizo perderte.	O desvio te fez se perder.
+43338	Otra unidad confunde tu patrulla con el enemigo de noche y abre fuego.	Outra unidade confunde sua patrulha com o inimigo à noite e abre fogo.
+43339	Grita la contraseña de reconocimiento	Grite a senha de reconhecimento
+43340	"¡ALTO EL FUEGO!" Te escucharon justo a tiempo.	"PARE O FOGO!" Eles ouviram você bem na hora.
+43341	No te escucharon por encima de los disparos.	Eles não ouviram você por causa dos tiros.
+43342	Dispara una baliza infrarroja	Atire um strobe infravermelho
+43343	La baliza se vio en su visión nocturna. Pararon.	O strobe apareceu na visão noturna deles. Eles pararam.
+43344	La batería de tu baliza estaba muerta.	A bateria do seu strobe estava morta.
+43345	Llama por radio al mando superior	Chame o comando superior pelo rádio
+43346	El mando transmitió el mensaje. Los disparos cesaron.	O comando repassou a mensagem. Os tiros pararam.
+43347	La red de radio estaba saturada de tráfico.	A rede de rádio estava travada de tráfego.
+43348	la explosión de una granada	a explosão de uma granada
+43349	Una granada rebota hasta tu posición y se detiene en la tierra.	Uma granada quica até sua posição e para na terra.
+43350	Pátala lejos	Chute para longe
+43351	Explotó fuera de la trinchera.	Explodiu fora da trincheira.
+43352	Tu patada apenas la movió.	Seu chute mal a moveu.
+43353	Tírate a un lado y grita "¡GRANADA!"	Jogue-se para o lado e grite "GRANADA!"
+43354	Todos se tiraron al suelo. Solo cortes menores.	Todos jogaram no chão. Só cortes leves.
+43355	La explosión te alcanzó en pleno salto.	A explosão te pegou no meio do mergulho.
+43356	Lánzala de vuelta	Jogue de volta
+43357	Explotó de vuelta en la posición enemiga.	Explodiu de volta na posição inimiga.
+43358	Ya estaba con la mecha encendida.	Já estava com o pavio aceso.
+43359	Hacen 120 grados en {country}. Llevas nueve horas de patrulla con 80 libras de equipo. Dejas de sudar.	Está fazendo 120 graus em {country}. Você está há nove horas em patrulha com 80 libras de equipamento. Você para de suar.
+43360	El médico te puso hielo. En una hora estabas de pie otra vez.	O médico te cobriu de gelo. Em uma hora você estava de pé de novo.
+43361	Vomitaste por todos lados, pero sobreviviste.	Você vomitou por todo lado, mas sobreviveu.
+43362	Volviste a la base, apenas.	Você voltou para a base, por pouco.
+43363	Te desplomaste en el sendero.	Você desabou no caminho.
+43364	Bebe toda el agua de una vez	Beba toda a água de uma vez
+43365	Sirvió lo suficiente para que volvieras.	Ajudou o bastante para você voltar.
+43366	Te quedaste sin agua una hora después.	Você ficou sem água uma hora depois.
+43367	un ataque con cohetes	um ataque de foguetes
+43368	"¡VIENEN!" Los cohetes caen sobre la base durante la cena.	"LÁ VEM!" Os foguetes caem na base durante o jantar.
+43369	Tira a todos al suelo en el comedor	Jogue todos no chão no refeitório
+43370	Los vidrios volaron por todos lados, pero todos estaban en el suelo.	Os vidros voaram por todo lado, mas todos estavam no chão.
+43371	Un cohete impactó el techo.	Um foguete acertou o teto.
+43372	Corre al búnker de afuera	Corra para o bunker lá fora
+43373	Llegaste al búnker.	Você chegou ao bunker.
+43374	Un cohete cayó a cielo abierto entre tú y el búnker.	Um foguete caiu em campo aberto entre você e o bunker.
+43375	Quédate en la mesa	Fique na mesa
+43376	Todos cayeron al otro lado de la base.	Todos caíram do outro lado da base.
+43377	Mala decisión.	Decisão ruim.
+43378	morir al despejar una cueva	ser morto ao limpar uma caverna
+43379	Combatientes se esconden en una red de cuevas en las montañas de {country}.	Combatentes se escondem numa rede de cavernas nas montanhas de {country}.
+43380	Guía al equipo adentro	Guie a equipe para dentro
+43381	Despejaste la cueva y encontraste un depósito de armas.	Você limpou a caverna e achou um depósito de armas.
+43382	Un combatiente disparó desde la oscuridad.	Um combatente abriu fogo da escuridão.
+43383	Pide una bomba sobre la entrada	Peça uma bomba na entrada
+43384	El ataque aéreo la cerró.	O ataque aéreo fechou.
+43385	Los combatientes escaparon por una salida trasera.	Os combatentes escaparam por uma saída dos fundos.
+43386	Espéralos en la entrada	Espere eles na entrada
+43387	El hambre los sacó. Se rindieron.	A fome os tirou. Eles se renderam.
+43388	Cayó la noche y se escabulleron.	A noite caiu e eles escaparam sorrateiramente.
+43389	un vuelco de vehículo	uma capotagem de veículo
+43390	Tu camión blindado resbala por una carretera montañosa que se desmorona y empieza a volcar.	Seu caminhão blindado escorrega por uma estrada montanhosa desmoronando e começa a tombar.
+43391	Agarra al artillero y jálalo adentro	Pegue o atirador e puxe para dentro
+43392	Lo jalaste hacia abajo justo antes de que el camión volcara.	Você puxou ele para baixo bem antes do caminhão tombar.
+43393	El camión volcó antes de que pudieras llegar a él.	O caminhão tombou antes de você chegar nele.
+43394	Afirmate contra el techo	Apoie-se no teto
+43395	Magoado, pero vivo.	Machucado, mas vivo.
+43396	Te golpeaste la cabeza fuerte.	Você bateu a cabeça forte.
+43397	Salta por la puerta	Pule pela porta
+43398	Saltaste y te salvaste.	Você pulou e se salvou.
+43399	Caíste mal sobre las rocas.	Você caiu mal nas pedras.
+43400	fuego cruzado	fogo cruzado
+43401	Una niña está tirada en la calle durante un tiroteo, llorando.	Uma criança está deitada na rua durante um tiroteio, chorando.
+43402	Corre a agarrarla	Corra e pegue ela
+43403	La levantaste en brazos y corriste. Va a estar bien.	Você a pegou no colo e correu. Ela vai ficar bem.
+43404	Las balas pasaron silbando todo el camino.	Os tiros passaram assobiando o caminho todo.
+43405	Pide fuego de cobertura y ve	Peça fogo de cobertura e vá
+43406	Tu escuadra abrió fuego y la sacaste.	Sua esquadra abriu fogo e você a tirou dali.
+43407	El fuego de cobertura llegó un segundo tarde.	O fogo de cobertura chegou um segundo atrasado.
+43408	Mantén tu posición	Mantenha sua posição
+43409	Un hombre local corrió y la puso a salvo.	Um homem local correu e a colocou em segurança.
+43411	Doblas una esquina en un callejón estrecho y te encuentras cara a cara con un combatiente enemigo.	Você dobra a esquina num beco estreito e se depara com um combatente inimigo.
+43412	Dispara primero	Atire primeiro
+43413	Fuiste más rápido.	Você foi mais rápido.
+43414	Ambos dispararon.	Vocês dois atiraram.
+43415	Vuelve a agacharte tras la esquina	Volte se abaixar atrás da esquina
+43416	Te agachaste de vuelta y tu compañero cubrió la esquina.	Você se abaixou de volta e seu companheiro cobriu a esquina.
+43417	Te siguió hasta la esquina.	Ele te seguiu até a esquina.
+43418	Carga contra él	Parta para cima dele
+43419	Lo derribaste antes de que pudiera levantar el arma.	Você o derrubou antes que ele pudesse levantar a arma.
+43420	Era más fuerte de lo que parecía.	Ele era mais forte do que parecia.
+43421	una trampa explosiva	uma armadilha explosiva
+43422	Al registrar una casa abandonada, notas un cable fino cruzando una puerta.	Ao revistar uma casa abandonada, você nota um fio fino atravessando uma porta.
+43423	Corta el cable	Corte o fio
+43424	No pasó nada. Encontraste una granada en el otro extremo.	Não aconteceu nada. Você achou uma granada na outra ponta.
+43425	Era un señuelo. La trampa real estaba en el suelo.	Era uma isca. A armadilha real estava no chão.
+43426	Márcalo y retírate	Marque e saia de ré
+43427	Vino el EOD y lo desactivó.	O EOD veio e desarmou.
+43428	Otro lo activó más tarde esa semana.	Outra pessoa acionou depois, naquela semana.
+43429	Pásalo por encima	Passe por cima
+43430	Lo pasaste con cuidado y seguiste registrando.	Você passou por cima com cuidado e continuou revistando.
+43431	Tu bota se enganchó.	Sua bota enganchou.
+43432	Ataque con dron salido de control	Ataque de drone que deu errado
+43433	un ataque con dron enemigo	um ataque de drone inimigo
+43434	Oyes un zumbido sobre ti. Un dron enemigo rodea tu trinchera.	Você ouve um zumbido acima. Um drone inimigo rodeia sua trincheira.
+43435	Derríbalo	Derrube
+43436	Tu fusil lo derribó del cielo.	Seu fuzil derrubou do céu.
+43437	Fallaste. Soltó su granada.	Você errou. Ele soltou a granada.
+43438	Corre al refugio	Corra para o abrigo
+43439	Te perdió bajo la cobertura.	Ele te perdeu sob a cobertura.
+43440	Te siguió.	Ele te seguiu.
+43441	Quédate quieto	Fique parado
+43442	No te vio y se fue volando.	Ele não viu você e foi embora voando.
+43443	Te vio.	Ele viu você.
+43444	Tiembla el suelo. La artillería enemiga está ajustando el tiro sobre tu línea de trincheras.	O chão treme. A artilharia inimiga está acertando sua linha de trincheiras.
+43445	Muévete a la siguiente trinchera	Mude para a próxima trincheira
+43446	Te moviste justo antes de que la próxima salva cayera donde estabas.	Você se moveu bem antes da próxima saraivada cair onde estava.
+43447	Los obuses te siguieron.	Os obuses seguiram você.
+43448	Mantente agachado en tu pozo	Fique baixo no seu buraco
+43449	Los obuses cayeron cortos.	Os obuses caíram curtos.
+43450	Un obús cayó justo en el borde del pozo.	Um obus caiu bem na borda do buraco.
+43451	Ayuda a desenterrar a un amigo	Ajude a desenterrar um amigo
+43452	Lo desenterraste vivo.	Você o desenterrou vivo.
+43453	El siguiente obús cayó cerca.	O próximo obus caiu perto.
+43454	Herido tras las líneas enemigas	Ferido atrás das linhas inimigas
+43455	morir tras las líneas enemigas	ser morto atrás das linhas inimigas
+43456	Tu escuadra está aislada. La radio está rota y los combatientes enemigos registran la zona.	Sua esquadra está isolada. O rádio está quebrado e combatentes inimigos revistam a área.
+43457	Abriste un paso a tiros y llegaste a las líneas amigas.	Você abriu caminho a tiros e chegou às linhas amigas.
+43458	Corriste directo a su fuerza principal.	Você correu direto para a força principal.
+43459	Escóndete hasta que oscurezca	Esconda até escurecer
+43460	Pasaron justo a tu lado. Te escabulliste de noche.	Eles passaram bem por você. Você escapou à noite.
+43461	Un perro te encontró.	Um cachorro te achou.
+43462	Haz señales a un avión con un espejo	Faça sinal para uma aeronave com um espelho
+43463	Un helicóptero vio el destello y fue a buscarte.	Um helicóptero viu o clarão e veio te buscar.
+43464	El enemigo también vio el destello.	O inimigo também viu o clarão.
+43465	morir cuando tomaron el puesto	ser morto quando o posto foi tomado
+43466	Al amanecer, cientos de combatientes asaltan tu pequeño puesto desde todos lados.	Ao amanhecer, centenas de combatentes atacam seu pequeno posto de todos os lados.
+43467	Opera la ametralladora	Opere a metralhadora
+43468	Mantuviste la línea hasta que llegó el apoyo aéreo.	Você segurou a linha até o apoio aéreo chegar.
+43469	Concentraron todo su fuego en tu posición.	Eles concentraram todo o fogo na sua posição.
+43470	Reparte munición por la línea	Distribua munição pela linha
+43471	Sin ti, se habrían quedado sin munición.	Sem você, teriam ficado sem munição.
+43472	Te pillaron a campo abierto llevando munición.	Você foi pego em campo aberto levando munição.
+43473	Pide apoyo aéreo muy cercano	Peça apoio aéreo de muito perto
+43474	Las bombas cayeron a metros del alambre y rompieron el ataque.	As bombas caíram a metros do arame e quebraram o ataque.
+43475	Algunas bombas cayeron demasiado cerca.	Algumas bombas caíram perto demais.
+43476	una infección grave	uma infecção grave
+43477	Media tu pelotón tiene fiebre después de beber agua local.	Metade do seu pelotão está com febre depois de beber água local.
+43478	Ve al médico de inmediato	Vá ao médico imediatamente
+43479	Los antibióticos lo curaron en unos días.	Os antibióticos resolveram em poucos dias.
+43480	Estuviste en el puesto de socorro una semana.	Você ficou no posto de socorro por uma semana.
+43481	Lo aguantaste a sudor.	Você aguentou suando.
+43482	Empeoró mucho.	Piorou muito.
+43483	Roba los medicamentos buenos del médico	Roube os remédios bons do médico
+43484	Funcionó, pero tu sargento se enteró.	Funcionou, mas seu sargento ficou sabendo.
+43485	Tomaste las pastillas equivocadas.	Você tomou os comprimidos errados.
+43486	morir durante un rescate de rehenes	ser morto durante um resgate de reféns
+43487	Insurgentes retienen a trabajadores humanitarios en una casa de campo. Estás en el equipo de rescate.	Insurgentes mantêm trabalhadores humanitários numa casa de fazenda. Você está na equipe de resgate.
+43488	Abre la puerta principal a la fuerza	Abra a porta da frente à força
+43489	Todos los rehenes salieron vivos.	Todos os reféns saíram vivos.
+43490	La puerta principal estaba preparada.	A porta da frente estava armada.
+43491	Entra por una ventana	Entre por uma janela
+43492	Tomaste por sorpresa a los guardias.	Você pegou os guardas de surpresa.
+43493	Te atascaste en el marco de la ventana.	Você ficou preso no batente da janela.
+43494	Negocia desde afuera	Negocie de fora
+43495	Liberaron a los rehenes.	Eles libertaram os reféns.
+43496	Las negociaciones fracasaron.	As negociações fracassaram.
+43497	un ataque químico	um ataque químico
+43498	Suena la alarma química. "¡GAS! ¡GAS! ¡GAS!"	O alarme químico dispara. "GÁS! GÁS! GÁS!"
+43499	Ponte la máscara en nueve segundos	Coloque a máscara em nove segundos
+43500	Tu máscara selló perfectamente.	Sua máscara vedou perfeitamente.
+43501	Tu máscara tenía una rajadura.	Sua máscara tinha uma rachadura.
+43502	Ayuda primero a un compañero a ponerse la máscara	Ajude primeiro um companheiro a colocar a máscara
+43503	Ambos se pusieron las máscaras.	Vocês dois colocaram as máscaras.
+43504	Inhalaste un poco.	Você inalou um pouco.
+43505	Corre contra el viento	Corra contra o vento
+43506	Saliste de la nube.	Você saiu da nuvem.
+43507	El viento cambió.	O vento mudou.
+43508	un accidente con explosivos	um acidente com explosivos
+43509	Tienes que volar un puente antes de que los tanques enemigos lo crucen.	Você precisa explodir uma ponte antes que os tanques inimigos a cruzem.
+43510	Coloca los explosivos bajo fuego	Coloque os explosivos sob fogo
+43511	El puente cayó al río justo antes de que llegaran los tanques.	A ponte caiu no rio bem antes de os tanques chegarem.
+43512	Un obús de tanque impactó el puente mientras estabas debajo.	Um projétil de tanque acertou a ponte enquanto você estava embaixo.
+43513	Usa una mecha larga	Use um pavio longo
+43514	Funcionó, con tiempo de sobra.	Funcionou, com tempo de sobra.
+43515	La mecha se quemó demasiado rápido.	O pavio queimou rápido demais.
+43516	Mejor pide un ataque aéreo	Peça um ataque aéreo em vez disso
+43517	Los aviones destruyeron el puente.	Os jatos destruíram a ponte.
+43518	Los aviones se retrasaron. Los tanques cruzaron.	Os jatos atrasaram. Os tanques cruzaram.
+43519	Fuga de un campo de prisioneros	Fuga de um campo de prisioneiros
+43520	recibir un disparo al intentar escapar	ser baleado ao tentar fugir
+43521	Te capturaron. Los guardias están distraídos y una cerca está floja.	Você foi capturado. Os guardas estão distraídos e uma cerca está frouxa.
+43522	Te colaste por la abertura y corriste hacia la noche.	Você se espremeu pela abertura e correu para a noite.
+43523	Un reflector giró hacia ti.	Um refletor girou para você.
+43524	Espera una mejor oportunidad	Espere uma chance melhor
+43525	Un asalto de rescate te liberó dos días después.	Um resgate te libertou dois dias depois.
+43526	Te llevaron a un lugar más seguro.	Eles te levaram para um lugar mais seguro.
+43527	Ayuda a los demás a escapar primero	Ajude os outros a escapar primeiro
+43528	Cuatro hombres salieron gracias a ti.	Quatro homens saíram graças a você.
+43529	Los guardias notaron el alboroto.	Os guardas notaram a confusão.
+43530	recibir un disparo al cargar una evacuación médica	ser baleado ao carregar uma evacuação médica
+43531	Un helicóptero de evacuación médica aterriza en zona caliente. Tienes que cargar a tres soldados heridos.	Um helicóptero de evacuação médica pousa em zona quente. Você precisa carregar três soldados feridos.
+43532	Llévalos uno por uno	Carregue um por um
+43533	Los tres subieron al helicóptero.	Os três entraram no heli.
+43534	Las balas pegaban en el helicóptero mientras corrías.	Os tiros acertavam o helicóptero enquanto você corria.
+43535	Cubre al equipo de carga	Cubra a equipe de carregamento
+43536	Tu fuego mantuvo al enemigo agachado.	Seu fogo manteve o inimigo abaixado.
+43537	Te quedaste sin munición.	Você ficou sem munição.
+43538	Haz señales al piloto para que se vaya hasta que sea más seguro	Faça sinal ao piloto para ir embora até ficar mais seguro
+43539	El piloto volvió después del apoyo aéreo.	O piloto voltou depois do apoio aéreo.
+43540	Uno de los heridos no sobrevivió.	Um dos feridos não sobreviveu.
+43541	morir en una batalla de tanques	ser morto numa batalha de tanques
+43542	Blindados enemigos aparecen por la cresta. Tu unidad tiene armas antitanque y segundos para actuar.	Blindados inimigos aparecem na crista. Sua unidade tem armas antitanque e segundos para agir.
+43543	Dispara el misil antitanque	Atire o míssil antitanque
+43544	Impacto directo. El tanque de adelante estalló en llamas.	Acerto direto. O tanque da frente explodiu em chamas.
+43545	El jato de escape del lanzador delató tu posición.	O jato traseiro entregou sua posição.
+43546	Cámbiate a un mejor ángulo	Mude para um ângulo melhor
+43547	Le diste en el blindaje lateral.	Você acertou a blindagem lateral.
+43548	Te vieron mientras te movías.	Você foi visto se movendo.
+43549	Pide artillería sobre la cresta	Peça artilharia na crista
+43550	La artillería desbarató su ataque.	A artilharia desfez o ataque.
+43551	La artillería fue demasiado lenta.	A artilharia foi lenta demais.
+43552	Semanas de combate te pasan factura. El corazón te late a mil y no puedes respirar en un turno de guardia tranquilo.	Semanas de combate cobram seu preço. Seu coração dispara e você não consegue respirar durante um turno de guarda tranquilo.
+43553	Se quedó de guardia en tu lugar y te habló hasta calmarte. No estás solo.	Ele ficou de guarda no seu lugar e conversou com você até passar. Você não está sozinho.
+43554	No lo entendió.	Ele não entendeu.
+43555	Guárdalo para ti	Guarde para si
+43556	Pasó. Nunca le dijiste a nadie.	Passou. Você nunca contou para ninguém.
+43557	Volvió a pasar la noche siguiente.	Aconteceu de novo na noite seguinte.
+43558	El capellán ayudó más de lo que esperabas.	O capelão ajudou mais do que você esperava.
+43559	Ayudó un poco.	Ajudou um pouco.
+43560	Reparto de correo. Hay una carta con tu nombre.	Hora da correspondência. Tem uma carta com seu nome.
+43561	Léela enseguida	Leia agora
+43562	Buenas noticias de casa. La leíste diez veces.	Boas notícias de casa. Você leu dez vezes.
+43563	Malas noticias. La leíste diez veces de todos modos.	Notícias ruins. Você leu dez vezes mesmo assim.
+43564	Guárdala para un día difícil	Guarde para um dia difícil
+43565	La abriste después de una patrulla terrible. Justo a tiempo.	Você abriu depois de uma patrulha ruim. Timing perfeito.
+43566	Se mojó en un aguacero.	Ficou encharcado numa chuva forte.
+43567	Responde primero	Responda primeiro
+43568	Tus cartas se cruzaron en el correo. A tu familia le encantó.	Suas cartas se cruzaram no correio. Sua família adorou.
+43569	Nunca encontraste las palabras adecuadas.	Você nunca encontrou as palavras certas.
+43570	perderse en una tormenta de arena	se perder numa tempestade de areia
+43571	Una tormenta de arena gigante azota mientras tu patrulla está a campo abierto en el desierto. No ves ni tu mano.	Uma tempestade de areia gigante ataca enquanto sua patrulha está em campo aberto no deserto. Você não vê nem a própria mão.
+43572	Agárrate al hombre de adelante	Segure o homem à frente
+43573	La escuadra se mantuvo junta y esperó a que pasara.	A esquadra ficou junta e esperou passar.
+43575	Guíate por la brújula	Navegue pela bússola
+43576	Llevaste a todos de vuelta a los camiones.	Você levou todos de volta aos caminhões.
+43577	Caminaste en círculos durante horas.	Você andou em círculos por horas.
+43578	Sigue avanzando hacia la base	Continue seguindo para a base
+43579	Encontraste la entrada.	Você achou o portão.
+43580	Te alejaste solo.	Você se afastou sozinho.
+43581	un ataque interno	um ataque interno
+43582	Un soldado local al que entrenaste durante meses de repente apunta con su fusil a tu grupo.	Um soldado local que você treinou por meses de repente aponta o fuzil para seu grupo.
+43583	Lo derribaste antes de que pudiera disparar de nuevo.	Você o derrubou antes que ele pudesse atirar de novo.
+43584	Ya estaba disparando.	Ele já estava atirando.
+43585	Estabas fuera de su línea de fuego.	Você estava fora da linha de fogo dele.
+43586	Te disparó.	Ele atirou em você.
+43587	Devuelve el fuego	Revire o fogo
+43588	Lo detuviste.	Você o parou.
+43589	Ambos dispararon a la vez.	Vocês dois atiraram ao mesmo tempo.
+43590	caer desde un puerto de montaña	cair de um desfiladeiro de montanha
+43591	Tu patrulla avanza por un sendero estrecho de montaña de noche. El fuego enemigo empieza desde arriba.	Sua patrulha avança por uma trilha estreita na montanha à noite. O fogo inimigo começa de cima.
+43592	Devuelve el fuego ladera arriba	Revire o fogo morro acima
+43593	Los mantuviste rajados hasta que llegó la ayuda.	Você os prendeu até a ajuda chegar.
+43594	Perdiste el apoyo del pie.	Você perdeu o apoio do pé.
+43595	Pégate a la pared del acantilado	Cole-se na parede do penhasco
+43596	No lograron tomarte el ángulo.	Eles não conseguiram um ângulo para você.
+43597	Llovieron rocas sobre ti.	Choveram pedras em você.
+43598	Corre hacia la próxima curva	Corra para a próxima curva
+43599	Lograste doblar la curva.	Você conseguiu fazer a curva.
+43600	El sendero se desmoronó bajo ti.	A trilha desmoronou sob você.
+43601	morir en una misión de captura	ser morto numa missão de captura
+43602	Tu equipo recibe la orden de capturar a un objetivo de alto valor desde un coche en movimiento.	Sua equipe é enviada para capturar um alvo de alto valor de um carro em movimento.
+43603	Encierra el coche	Cerque o carro
+43604	Cerco perfecto. Objetivo capturado.	Cerco perfeito. Alvo capturado.
+43605	El coche embistió tu vehículo.	O carro bateu no seu veículo.
+43606	Dispara a las llantas	Atire os pneus
+43607	El coche derrapó hasta detenerse.	O carro derrapou até parar.
+43608	Los guardias salieron disparando.	Os guardas saíram atirando.
+43609	Síguelo y espera a que pare	Siga e espere ele parar
+43610	Pararon a cargar combustible. Fácil de agarrar.	Eles pararam para abastecer. Fácil de pegar.
+43611	Perdiste el coche entre el tráfico.	Você perdeu o carro no trânsito.
+43612	una explosión secundaria	uma explosão secundária
+43613	Un atentado en un mercado. Decenas de civiles heridos. Y puede que haya una segunda bomba esperando.	Um atentado numa feira. Dezenas de civis feridos. E pode ter uma segunda bomba esperando.
+43614	Corre a atender a los heridos	Corra atender os feridos
+43615	Salvaste varias vidas.	Você salvou várias vidas.
+43616	Estalló una segunda explosión.	Houve uma segunda explosão.
+43617	Monta primero un perímetro seguro	Monte primeiro um perímetro seguro
+43618	Encontraste y desactivaste un segundo artefacto primero.	Você achou e desarmou um segundo artefato primeiro.
+43619	Tomó demasiado tiempo. La gente sufrió.	Demorou demais. As pessoas sofreram.
+43620	Desvía a los civiles	Desvie os civis
+43621	Sacaste a cientos de personas de ahí.	Você tirou centenas de pessoas dali.
+43622	La multitud entró en pánico.	A multidão entrou em pânico.
+43623	No has dormido en tres días. Te pillas cabeceando de guardia.	Você não dorme há três dias. Se pega cochilando de guarda.
+43624	Despierta a un compañero para que te cubra	Acorde um companheiro para cobrir você
+43625	Te cubrió. Le debes una.	Ele cobriu para você. Você deve uma a ele.
+43626	También estaba dormido.	Ele também estava dormindo.
+43627	Bebe cuatro bebidas energéticas	Beba quatro energéticos
+43628	Estabas bien despierto. Demasiado despierto.	Você estava bem acordado. Acordado demais.
+43629	El corazón te latía toda la noche.	Seu coração batia a noite toda.
+43630	Pellizcate para despertarte	Belisque-se para acordar
+43631	Te quedaste dormido. El sargento te encontró.	Você adormeceu. O sargento te achou.
+43632	caer en una trampa	cair numa armadilha
+43633	Llegas a una aldea "tranquila" según el informe de inteligencia. Está demasiado tranquila.	Você chega a uma vila "tranquila" segundo o relatório de inteligência. Está tranquila demais.
+43634	Avanza hacia la aldea	Avançe para a vila
+43635	La aldea estaba despejada. La inteligencia acertó.	A vila estava limpa. A inteligência acertou.
+43636	Era una trampa.	Era uma armadilha.
+43637	Manda un dron primero	Mande um drone primeiro
+43638	El dron detectó combatientes esperando. Lo reportaste.	O drone avistou combatentes esperando. Você reportou.
+43639	El dron no los vio.	O drone não os viu.
+43640	Prepárate y observa	Monte e observe
+43641	Los combatientes se delataron al cabo de una hora.	Os combatentes se denunciaram depois de uma hora.
+43642	Perdiste todo el día.	Você perdeu o dia todo.
+43643	Incendio en el depósito de combustible	Incêndio no depósito de combustível
+43644	quemaduras por un incendio de combustible	queimaduras por um incêndio de combustível
+43645	Un ataque incendia el depósito de combustible de la base. Alguien está atrapado cerca de los tanques.	Um ataque incendeia o depósito de combustível da base. Alguém está preso perto dos tanques.
+43646	Corre a buscarlo	Corra buscá-lo
+43647	Lo sacaste arrastrando segundos antes de que explotara un tanque.	Você o arrastou para fora segundos antes de um tanque explodir.
+43648	Un tanque explotó.	Um tanque explodiu.
+43649	Agarra el extintor	Pegue o extintor
+43650	Contuviste las llamas el tiempo suficiente.	Você conteve as chamas tempo suficiente.
+43651	El extintor estaba vacío.	O extintor estava vazio.
+43652	Llama a los bomberos	Chame os bombeiros
+43653	Los bomberos lo sacaron.	Os bombeiros o tiraram.
+43654	Tardaron demasiado.	Eles demoraram demais.
+43655	Jauría de perros salvajes	Matilha de cachorros selvagens
+43656	Una jauría de perros salvajes rodea tu patrulla de noche.	Uma matilha de cachorros selvagens cerca sua patrulha à noite.
+43657	Se dispersaron.	Eles se espalharam.
+43658	Uno te mordió la pierna.	Um mordeu sua perna.
+43659	Mantén la calma y retrocede	Mantenha a calma e recue
+43660	Perdieron el interés.	Eles perderam o interesse.
+43661	Te siguieron por una milla.	Eles te seguiram por uma milha.
+43662	Lánzales tus raciones	Jogue suas rações para eles
+43663	Te adoraron. Uno te siguió hasta la base.	Eles te amaram. Um seguiu você até a base.
+43664	Ahora tienes hambre.	Agora você está com fome.
+43665	morir mientras estás acorralado	ser morto enquanto está encurralado
+43666	Un nido de ametralladora tiene a tu escuadra pegada tras un muro bajo. El muro empieza a desmoronarse.	Um ninho de metralhadora prende sua esquadra atrás de um muro baixo. O muro começa a desmoronar.
+43667	Flanquéalo tú solo	Flanqueie sozinho
+43668	Te escabulliste por un lado y silenciaste la ametralladora.	Você se esgueirou por um lado e silenciou a metralhadora.
+43669	El artillero giró hacia ti.	O metralhador girou para você.

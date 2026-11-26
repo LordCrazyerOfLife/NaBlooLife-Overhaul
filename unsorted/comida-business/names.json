@@ -1,0 +1,62 @@
+[
+ {
+  "file": "mcdonalds-restaurant.png",
+  "original": "item-001.png",
+  "label": "McDonald's restaurant"
+ },
+ {
+  "file": "burger-king-restaurant.png",
+  "original": "item-002.png",
+  "label": "Burger King restaurant"
+ },
+ {
+  "file": "taco-bell-restaurant.png",
+  "original": "item-003.png",
+  "label": "Taco Bell restaurant"
+ },
+ {
+  "file": "dominos-pizza-restaurant.png",
+  "original": "item-004.png",
+  "label": "Domino's restaurant"
+ },
+ {
+  "file": "starbucks-coffee-shop.png",
+  "original": "item-005.png",
+  "label": "Starbucks coffee shop"
+ },
+ {
+  "file": "kfc-restaurant.png",
+  "original": "item-006.png",
+  "label": "KFC restaurant"
+ },
+ {
+  "file": "pepper-logo-grill-restaurant.png",
+  "original": "item-007.png",
+  "label": "Pepper logo grill restaurant"
+ },
+ {
+  "file": "rooster-chicken-restaurant.png",
+  "original": "item-008.png",
+  "label": "Rooster chicken restaurant"
+ },
+ {
+  "file": "wendys-restaurant.png",
+  "original": "item-009.png",
+  "label": "Wendy's restaurant"
+ },
+ {
+  "file": "red-roof-pizza-restaurant.png",
+  "original": "item-010.png",
+  "label": "Red roof pizza restaurant"
+ },
+ {
+  "file": "subway-sandwich-shop.png",
+  "original": "item-011.png",
+  "label": "Subway sandwich shop"
+ },
+ {
+  "file": "dunkin-donuts-shop.png",
+  "original": "item-012.png",
+  "label": "Dunkin' donuts shop"
+ }
+]

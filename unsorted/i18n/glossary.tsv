@@ -1,0 +1,148 @@
+# Valores en minúscula que el juego mete dentro de las frases (no salen en el código como texto suelto).
+# build_i18n.py los suma al diccionario de eventos (los de ui.tsv ganan siempre).
+man	hombre	homem
+men	hombres	homens
+boy	niño	menino
+guy	tipo	cara
+kid	niño	criança
+dude	tipo	cara
+lady	señora	senhora
+mom	mamá	mãe
+dad	papá	pai
+mama	mamá	mamãe
+nanny	niñera	babá
+babysitter	niñera	babá
+toddler	niño pequeño	criancinha
+teenager	adolescente	adolescente
+someone	alguien	alguém
+somebody	alguien	alguém
+neighbor	vecino	vizinho
+neighbour	vecino	vizinho
+grandparent	abuelo	avô
+stepparent	padrastro	padrasto
+stepbrother	hermanastro	meio-irmão
+stepsister	hermanastra	meia-irmã
+cop	policía	policial
+judge	juez	juiz
+cashier	cajero	caixa
+waiter	mesero	garçom
+waitress	mesera	garçonete
+bartender	bartender	barman
+driver	conductor	motorista
+janitor	conserje	zelador
+tenant	inquilino	inquilino
+colleague	colega	colega
+manager	gerente	gerente
+intern	pasante	estagiário
+employee	empleado	funcionário
+customer	cliente	cliente
+client	cliente	cliente
+patient	paciente	paciente
+busker	artista callejero	artista de rua
+juggler	malabarista	malabarista
+vandal	vándalo	vândalo
+influencer	influencer	influenciador
+bounty hunter	cazarrecompensas	caçador de recompensas
+sperm donor	donante de esperma	doador de esperma
+retiree	jubilado	aposentado
+puppy	cachorro	cachorrinho
+kitten	gatito	gatinho
+hamster	hámster	hamster
+parrot	loro	papagaio
+turtle	tortuga	tartaruga
+snake	serpiente	cobra
+cow	vaca	vaca
+pig	cerdo	porco
+fox	zorro	raposa
+elk	alce	alce
+rat	rata	rato
+bat	murciélago	morcego
+drug trafficking	tráfico de drogas	tráfico de drogas
+drug dealing	venta de drogas	venda de drogas
+drug possession	posesión de drogas	posse de drogas
+attempted murder	intento de asesinato	tentativa de homicídio
+negligent homicide	homicidio culposo	homicídio culposo
+wire fraud	fraude electrónico	fraude eletrônico
+tax fraud	fraude fiscal	fraude fiscal
+tax evasion	evasión de impuestos	sonegação de impostos
+bank robbery	robo a un banco	roubo a banco
+train robbery	robo de tren	roubo de trem
+armed robbery	robo a mano armada	assalto à mão armada
+identity theft	robo de identidad	roubo de identidade
+mail theft	robo de correspondencia	roubo de correspondência
+account theft	robo de cuentas	roubo de contas
+horse theft	robo de caballos	roubo de cavalos
+cattle rustling	robo de ganado	roubo de gado
+home invasion	allanamiento de morada	invasão de domicílio
+public intoxication	ebriedad en público	embriaguez em público
+organ trafficking	tráfico de órganos	tráfico de órgãos
+arms trafficking	tráfico de armas	tráfico de armas
+money laundering	lavado de dinero	lavagem de dinheiro
+resisting arrest	resistencia al arresto	resistência à prisão
+witness intimidation	intimidación de testigos	intimidação de testemunhas
+making threats	hacer amenazas	fazer ameaças
+reckless driving	conducción temeraria	direção imprudente
+unpaid fines	multas sin pagar	multas não pagas
+pickpocketing	carterismo	furto de carteira
+shoplift	hurtar en tiendas	furtar em lojas
+embezzle	malversar fondos	desviar dinheiro
+escaping prison	fuga de prisión	fuga da prisão
+disobeying orders	desobedecer órdenes	desobedecer ordens
+misbehaving	portarse mal	se comportar mal
+skipping class	faltar a clases	matar aula
+went fishing	fui a pescar	fui pescar
+went bowling	fui a jugar boliche	fui jogar boliche
+asked out	invitó a salir	chamou para sair
+cheat on	engañar a	trair
+study for	estudiar para	estudar para
+the beach	la playa	a praia
+the news	las noticias	as notícias
+the movies	el cine	o cinema
+the weather	el clima	o clima
+the talk	la charla	a conversa
+the police	la policía	a polícia
+your mom	tu mamá	sua mãe
+your country	tu país	seu país
+your work	tu trabajo	seu trabalho
+your portfolio	tu portafolio	seu portfólio
+their hometown	su ciudad natal	sua cidade natal
+their pets	sus mascotas	seus pets
+their family	su familia	sua família
+their dreams	sus sueños	seus sonhos
+family drama	drama familiar	drama de família
+natural causes	causas naturales	causas naturais
+old age	vejez	velhice
+gas station	gasolinera	posto de gasolina
+apartment building	edificio de apartamentos	prédio de apartamentos
+living room	sala	sala de estar
+subway train	tren del metro	trem do metrô
+construction site	obra en construcción	canteiro de obras
+wheat field	campo de trigo	campo de trigo
+cargo ship	buque de carga	navio de carga
+convenience store	tienda de conveniencia	loja de conveniência
+box truck	camión de caja	caminhão baú
+storage unit	bodega de almacenamiento	box de armazenamento
+power station	central eléctrica	usina de energia
+police station	estación de policía	delegacia
+hair salon	salón de belleza	salão de beleza
+cell phone	celular	celular
+yoga instructor	instructor de yoga	instrutor de ioga
+pro athlete	atleta profesional	atleta profissional
+sleeping pills	pastillas para dormir	remédios para dormir
+sleep gummy	gomita para dormir	gominha para dormir
+cough syrup	jarabe para la tos	xarope para tosse
+some catnip	un poco de hierba gatera	um pouco de erva-de-gato
+some grapes	unas uvas	algumas uvas
+treehouse	casa del árbol	casa na árvore
+shrooms	hongos	cogumelos
+meds	medicinas	remédios
+fentanyl	fentanilo	fentanil
+vaping	vapear	vaporizar
+euthanasia	eutanasia	eutanásia
+electrocution	electrocución	eletrocussão
+anaphylactic shock	shock anafiláctico	choque anafilático
+scarlet fever	escarlatina	escarlatina
+ringworm	tiña	micose
+colic	cólico	cólica
+sniper school	escuela de francotiradores	escola de atiradores de elite
+flight school	escuela de aviación	escola de aviação

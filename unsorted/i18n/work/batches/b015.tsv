@@ -1,0 +1,800 @@
+11407	offer
+11408	claim
+11409	mail
+11410	Bank of America
+11411	custodial
+11412	Bank transfer from {1}
+11413	🏦 Deposit received: {1}
+11414	A deposit of {1} was made to your account ending in {2}.
+11415	A payment of {1} was made from your account ending in {2}.
+11416	{1} is now part of {2}. Your account and balance moved over automatically.
+11417	My bank, {1}, was taken over by {2}.
+11418	chase
+11419	discover
+11420	ally
+11421	chime
+11423	Your {1} account at {2} earned {3} in interest this year.{4}
+11424	Earned in All
+11425	from my famous family
+11426	My {1} account{2} earned {3} in interest this year ({4}% APY). It's now {5}.
+11427	Your parents handle your money until you're 13.
+11428	Open an Account
+11429	Open a new account at {1}. It starts empty; move money in with a transfer.
+11430	Open account
+11431	I opened a {1} account at {2}.
+11432	Account opened
+11433	Your {1} account ending in {2} is open. Tap it to deposit money.
+11434	No other accounts
+11435	Open a savings or money market account first, then you can move money into it.
+11436	Move money between your accounts.
+11437	From → To:
+11438	No money
+11439	{1} is empty.
+11440	Move money from checking ({1}) into {2}.
+11441	Move money from {1} ({2}) back to checking.
+11442	I put {1} into my {2} account.
+11443	I took {1} out of my {2} account.
+11444	Age {1} ({2}): earned {3}, paid {4}, kept {5}
+11445	Taxes taken out of your paychecks over the years.
+11446	Recent years
+11447	You haven't paid any taxes yet. Once you have a job, the taxes taken out of each year's pay show up here.
+11448	Total Taxes Paid
+11449	Average Tax Rate
+11450	This year's paycheck breakdown
+11451	Available Balance {1} · {2}% APY
+11452	{1} in all · {2} last year
+11453	Move money in from checking ({1})
+11454	Move money back to checking
+11455	delete
+11456	Its balance moves to checking
+11457	Close this account? Its {1} moves to your checking account.
+11458	Close account
+11459	I closed my {1} account.
+11460	The account is closed.
+11461	Paychecks and purchases show up here
+11462	status
+11463	type
+11464	No activity yet. Paychecks and purchases show up here.
+11465	coins
+11466	My {1}, {2}, locked me out of my bank account because of my drug use.
+11467	{1} took the {2} that was in my account.
+11468	Bank locked
+11469	{1} also took all {2} out of it. You might never see that money again.
+11470	The {1} in it is frozen. You can't touch it.
+11471	{1} found out about your drug use and locked you out of your {2} account until you're 18.{3}
+11472	Maybe you can talk {1} into giving it back by email.
+11473	convinced
+11474	eighteen
+11475	with {1} in it
+11476	, but the money was gone
+11477	I turned 18 and got access to my bank account back{1}.
+11478	and gave back {1}
+11479	My {1}, {2}, unlocked my bank account{3}.
+11480	Money taken
+11481	Frozen balance
+11482	{1} took {2} out of it
+11483	{1} you can't touch
+11484	Account locked by your {1}
+11485	Locked until you're 18
+11486	{1} locked it at age {2} because of your drug use
+11487	Talk to them
+11488	Email {1} and try to convince {2} to unlock it
+11489	Account locked
+11490	withdraw
+11491	deposit
+11492	{1} locked your bank account. You can't {2} anything until you're 18.
+11493	No cash
+11494	There's nothing in your {1} account to take out.
+11495	You don't have any cash on you.
+11496	Your passbook at {1} shows {2}. How much will you ask the teller for?
+11497	You have {1} in coins and notes. How much will you hand the teller?
+11498	You have {1} in {2}. How much cash do you want to take out?
+11499	You have {1} in cash. How much do you want to put in {2}?
+11500	I withdrew {1} in cash from {2}.
+11501	I deposited {1} in cash at {2}.
+11502	Bank unlocked
+11503	{1} is back in your account.
+11504	The money {1} took is gone.
+11505	You're 18 now. {1} can't keep you locked out anymore.{2}
+11506	pointer
+11507	Custodial account at {1}
+11508	No bank account
+11509	Your parents handle your money until you're 13
+11510	Your parents opened this for you. Apply to open an account of your own.
+11511	Apply at a bank to open your first checking account
+11512	Apply at a Bank
+11513	Available at 13
+11514	Open a checking account
+11515	You can apply for a bank account when you turn 13. Until then, your parents handle your money.
+11516	You're under 18, so a parent has to co-sign.
+11517	Apply for a checking account at {1}?{2}
+11518	Email for your account:
+11519	No email (add one in Assets → Email)
+11520	Submit application
+11521	{1} denied my bank account application.
+11522	Application denied
+11523	{1} needs a parent or guardian to co-sign for anyone under 18.
+11524	{1} denied your application. You can try a different bank.
+11525	Your checking account ending in {1} is open. Your balance of {2} is ready to use.
+11526	with my parent co-signing
+11527	I opened my first bank account at {1}{2}.
+11528	Bank emails will go to {1}.
+11529	Your {1} checking account is open.{2}
+11530	No email
+11531	You need an email address first. Make one in Assets → Email.
+11532	Right now it's {1}.
+11533	Which email should {1} use for alerts, receipts and password resets?{2}
+11534	(locked out)
+11535	Your email address was changed
+11536	The email on your account ending in {1} was changed to {2}. If you didn't do this, call us right away.
+11537	Email address updated
+11538	This is now the email for your {1} account ending in {2}.
+11539	I changed the email on my {1} account to {2}.
+11540	Email updated
+11541	Careful: you're locked out of that address.
+11542	{1} will now email {2}.{3}
+11543	Custodial account · opened by your parents
+11544	{1} account{2} · tap an account for its activity
+11545	Managed by your parents
+11546	You can withdraw, deposit and open your own account at 13
+11547	Open Your Own Account
+11548	Apply at any bank to take over your money
+11549	Between your checking and savings
+11550	Savings, money market and more
+11551	Cash on hand: {1}
+11552	Put your cash back in checking
+11553	{1} paid in all · {2} last year
+11554	No taxes paid yet
+11555	Used on {1} other account{2}
+11556	Change your online banking password
+11557	· locked out
+11558	No email on file
+11559	Dispute Stolen Money
+11560	{1} wired out by hackers
+11561	(Your bank)
+11562	Your paychecks go here
+11563	Move your money here
+11564	I changed my {1} password.
+11565	Password changed
+11566	Your {1} online banking password is updated.
+11567	Close your {1} accounts and move everything to {2}? Your paychecks will go to {3} from now on.
+11568	Switch to {1}
+11569	Your new checking account ending in {1} is open. We moved over your balance of {2} from {3}.
+11570	I moved my money from {1} to {2}.
+11571	New bank
+11572	Your money is now at {1}.
+11573	Bank of North America
+11574	commercial
+11575	Bank of New York
+11576	Bank of the United States
+11577	national
+11578	Second Bank of the United States
+11579	Philadelphia Saving Fund Society
+11580	savings
+11581	Bank for Savings in New York
+11582	Wells, Fargo & Company
+11583	express
+11584	Boston Five Cents Savings Bank
+11585	First National Bank
+11586	Freedman's Savings Bank
+11587	Chase National Bank
+11588	Bank of England
+11589	central
+11590	Coutts & Co
+11591	private
+11592	merchant
+11593	Trustee Savings Bank
+11594	National Provincial Bank
+11595	Overend, Gurney & Co
+11596	discount
+11597	Post Office Savings Bank
+11598	Commercial bank
+11599	National bank
+11600	Savings bank
+11601	Express company and bank
+11602	The nation's central bank
+11603	Private bank for the wealthy
+11604	Merchant bank
+11605	Discount house
+11606	the Panic of 1819
+11607	the Panic of 1837
+11608	the Panic of 1857
+11609	the Panic of 1873
+11610	the Panic of 1884
+11611	the Panic of 1893
+11612	the Panic of 1825
+11613	the Panic of 1847
+11614	the collapse of Overend, Gurney
+11615	the City of Glasgow Bank failure
+11616	the Baring crisis
+11617	Pays {1}% interest a year
+11618	Pays no interest on deposits
+11619	Passbook Savings · {1}
+11620	{1} · {2} entr{3} in the passbook
+11621	Kept by your parents
+11622	Your parents hold your passbook until you're 13
+11623	Loan · {1} owed
+11624	Ask the Banker for a Loan
+11625	{1} due each year · {2} year{3} left
+11626	Borrow against your wages or your property
+11627	The Teller's Window · open Monday to Saturday, 10 to 3
+11628	Hand coins and notes to the teller to be written in your passbook
+11629	Draw money from your passbook in person
+11630	Cash Kept at Home · {1}
+11631	Hidden under the floorboards. Thieves and fires can take it
+11632	The Banker's Office
+11633	No one guarantees your deposits
+11634	If {1} fails in a panic, your savings can be lost
+11635	Banks in {1}
+11636	· only takes clients with {1} or more
+11637	Your parents decide where your savings are kept until you're 13.
+11638	{1} only takes clients with at least {2} to deposit.
+11639	Close your passbook at {1}, carry your {2} across town and open a new one at {3}?
+11640	Move to {1}
+11641	I closed my passbook at {1} and moved my savings to {2}.
+11642	New passbook
+11643	Your savings are now kept at {1}.
+11644	The clerk writes every deposit and withdrawal in your passbook by hand.
+11645	Interest is added once a year.
+11646	Interest last year
+11647	None yet
+11648	The banker won't lend money to anyone under 21.
+11649	Loan refused
+11650	The banker at {1} looks you up and down. "No wages and no property? I'm afraid not."
+11651	The banker says your security is too small to lend against.
+11652	A Loan from the Banker
+11653	property
+11654	wages
+11655	Miss your payments and the bank takes your house.
+11656	Miss your payments and the bank takes you to court.
+11657	The banker will lend against your {1} at {2}% a year, repaid over five years. {3}
+11658	I borrowed {1} from {2}.
+11659	Loan granted
+11660	{1} lent you {2}. You'll repay {3} a year for five years.
+11661	You borrowed {1} from {2}.
+11662	Pay it all off ({1})
+11663	You need {1} to clear the loan.
+11664	I paid off my loan from {1}.
+11665	The banker stamps your loan paper "paid in full".
+11666	Linked to {1} · since {2}
+11668	You need to be {1} to use {2}.
+11669	Sign up for {1} and link it to your {2} account?
+11670	Link my bank
+11671	Your {1} account is linked. You're ready to pay.
+11672	I signed up for {1}.
+11673	{1} is linked to your {2} account.
+11674	{1} needs a bank account to link to. Apply for one in Assets → Bank.
+11675	Unlink and delete your {1} account
+11676	I deleted my {1} account.
+11677	You deleted your {1} account.
+11678	My savings at {1} earned {2} in interest.
+11679	A thief broke in and stole {1} I had hidden at home.
+11680	A fire at home burned {1} of the cash I kept hidden there.
+11681	I made the last payment on my loan from {1}.
+11682	{1} foreclosed on my {2} because I couldn't repay my loan.
+11683	{1} took your {2} at {3} to cover your unpaid loan.
+11684	{1} took me to court over my unpaid loan and seized my savings.
+11685	Taken to court
+11686	The court ordered your savings of {1} paid to {2}, and the debt was written off.
+11687	I couldn't make my loan payment to {1} this year.
+11688	{1} collapsed and I lost {2} of my savings.
+11689	{1} closed its doors and my savings were moved to {2}.
+11690	Bank failed
+11691	Bank closed
+11692	{1} has failed! You lost {2} of your savings. What was left went to {3}.
+11693	{1} has closed. Your passbook savings were moved to {2}.
+11694	Run on the Bank!
+11695	It's {1}. Crowds are lining up outside {2} to pull their money out, and rumors say the bank is about to fail. You have {3} in your passbook.
+11696	Join the line and withdraw it all
+11697	I stood in line during {1} and got all {2} of my savings out of {3}.
+11698	I only got {1} out of {2} before it shut its doors during {3}. I lost {4}.
+11699	Got it out
+11700	Doors closed
+11701	You pushed to the front and the teller counted out all {1}. It's hidden at home now.
+11702	The bank ran out of coin and shut its doors with you still in line. You got {1} and lost the rest.
+11703	Trust the bank
+11704	I trusted {1} during {2}, and it survived.
+11705	It held
+11706	{1} weathered the panic. Your savings are safe.
+11707	{1} failed during {2} and I lost {3} of my savings.
+11708	The bank failed
+11709	{1} suspended payments and never fully reopened. You lost {2}.
+11710	free
+11711	retail
+11712	driving
+11713	remote
+11714	partner
+11715	You have new {1}
+11716	@{1}, see what you missed
+11717	{1}: your weekly recap
+11718	New activity on your account
+11719	{1} new notifications on @{2}.
+11720	Unusual sign-in attempt
+11721	an unknown device
+11722	Someone tried to sign in to @{1} from {2}. We blocked it. If this wasn't you, no action is needed.
+11723	person
+11724	collector
+11725	{1} (Username Collector)
+11726	{1} (Username Reseller)
+11727	Hello, I collect rare usernames and @{1} on {2} would be a great fit for my collection. I can offer {3}. Payment sent as soon as the name is transferred.
+11728	Hi, we buy and resell usernames. We'd like to make a quick offer of {1} for your {2} username @{3}. Fast payment, no hassle.
+11729	Hi! I'm interested in buying your {1} username @{2}. Would you take {3}? Let me know.
+11730	Interested in @{1}
+11731	Verify your {1} account
+11732	Welcome to {1}! Your account @{2} is now verified and connected to {3}.
+11733	Email needed
+11734	You're locked out of your email, so you can't sign up for {1}. Recover it or make a new address in the Email section of Assets.
+11735	You need an email address to sign up for {1}. Make one in the Email section of Assets.
+11736	Pick an Email
+11737	Which email should your {1} account use?
+11738	Use this email
+11739	Make an email address
+11740	email
+11741	Can't sign in: password changed
+11742	Claim a {1} address
+11743	New {1} Address
+11744	Pick your address ({1}-15 letters, numbers, dots or underscores).
+11745	Make a strong password
+11746	Claim address
+11747	You already use this password on {1} other account{2}.
+11748	You don't use this password anywhere else.
+11749	Not allowed
+11750	That address isn't allowed. Pick one without bad words.
+11751	Too short
+11752	{1} addresses need at least {2} characters.
+11753	Passwords need at least 6 characters.
+11754	I tried to make the email {1}, but it was taken.
+11755	{1} is already taken.
+11756	Your new address {1} is ready to use.
+11757	I made a new email address: {1}.
+11758	New email
+11759	{1} is yours.
+11760	{1} yours · {2} from strangers
+11761	Change the password for this address
+11762	question
+11763	phone
+11764	Add recovery options (question, phone, backup email)
+11765	Write to family, friends or your partner
+11766	No emails
+11767	Your inbox is empty
+11768	I changed the password on {1}.
+11769	{1} has a new password.
+11770	Strangers keep putting your address in when they sign up for things.
+11771	Accounts using {1}.{2}
+11772	What was the name of your first pet?
+11773	What city were you born in?
+11774	What is your mother's maiden name?
+11775	What was your first school called?
+11776	What is your favorite food?
+11777	What was your childhood nickname?
+11778	Not set
+11779	Each one gives you a better chance of getting back in if {1} is ever hacked
+11780	Pick a question only you know the answer to.
+11781	No answer
+11782	Type an answer first.
+11783	I set a security question on {1}.
+11784	Your security question is set.
+11785	No phone
+11786	Hardly anyone has a cell phone yet.
+11787	You don't have a phone of your own yet.
+11788	Your recovery phone is {1}.
+11789	Add your phone number ({1}) so {2} can text you a code if you get locked out.
+11790	Remove it
+11791	I removed my phone number from {1}.
+11792	I added my phone number to {1}.
+11793	No other address
+11794	Make another email address first, then you can use it as a backup.
+11795	A second address {1} can send a recovery link to.
+11796	I set {1} as the backup for {2}.
+11797	I removed the backup email from {1}.
+11798	I made another {1} account, @{2}.
+11799	New account
+11800	You made a new {1} account, @{2}. Change its username any time.
+11801	I signed up for {1} {2} account as @{3}.
+11802	, even though {1} just launched
+11803	{1} of my fans followed my new {2} account right away{3}.
+11804	Social Media Star
+11805	Get a million followers on social media
+11806	You lost access to {1}, the email on @{2}. Recover the email first (Assets → Email).
+11807	{1} shut down in {2}. Your account @{3} is gone with it.
+11808	appeal
+11809	Appeal your ban
+11810	Start over with another {1} account
+11811	Delete your account
+11812	Buy some {1}
+11813	Monetize your account
+11814	Play {1} and have some fun
+11815	promote
+11816	Promote a product
+11817	Change your username (@{1}){2}
+11818	Request verification
+11819	about
+11820	Write your status or about me
+11821	password
+11822	Change your password
+11823	Move to another email ({1})
+11824	Connect an email
+11825	Your {1} Accounts
+11826	Locked: you lost access to its email
+11827	Make another {1} account
+11828	search
+11829	Look up a {1} username
+11830	Your {1} password is updated.
+11831	No other email
+11832	You don't have another email to move @{1} to. Make a new address in the Email section of Assets.
+11833	Current email: {1}
+11834	Move your {1} account @{2} to a different email.{3}
+11835	This account was bought with stolen crypto, and it sits on the same email as your personal accounts. Moving it to a separate email makes it much harder to trace back to you.
+11836	New email:
+11837	Move my account
+11838	Your {1} email was changed
+11839	The email on your {1} account @{2} was changed to {3}. If this wasn't you, secure your account right away.
+11840	I moved my {1} account @{2} {3}to {4}.
+11841	Email changed
+11842	Your {1} account @{2} is now on {3}.
+11843	Hop on {1} and have some fun!
+11844	Let's play
+11845	Post {1} {2} on {3} today!
+11846	Pick your {1}:
+11847	Buy some {1} on {2} today!
+11848	Pick your followers:
+11849	Buy them
+11850	Request verification on your {1} account today!
+11851	Verify me
+11852	Um, no
+11853	You already asked {1} to verify you this year.
+11854	I asked {1} to verify my account, but they said no.
+11855	Your attempt to verify your {1} account has been rejected.
+11856	My {1} account got verified!
+11858	Your {1} account is now verified!
+11859	Monetize your {1} account today!
+11860	Monetize it
+11861	Your {1} account is already monetized.
+11862	I tried to monetize my {1} account, but I didn't have enough {2}.
+11863	Your request to monetize your {1} account was rejected. You need at least 1,000 {2}.
+11864	I monetized my {1} account.
+11865	Show me the money
+11866	You monetized your {1} account. You'll earn money from it every year.
+11867	You already promoted a product on this account this year.
+11868	No company wants to sponsor an account with so few {1}.
+11869	You've received an offer to promote something on your {1} account.
+11870	Accept the offer
+11871	and some of your fame
+11872	You promoted {1} on your {2} account and earned {3}.
+11873	Your fans hated it. You lost {1} {2}{3}.
+11874	I promoted {1} on my {2} account for {3}, and my fans hated it. I lost {4} {5}.
+11875	Brand deal
+11876	Your fans loved it! You gained {1} {2}.
+11877	I promoted {1} on my {2} account for {3}. My fans loved it, and I gained {4} {5}.
+11878	I promoted {1} on my {2} account and got paid {3}.
+11879	Are you sure you want to delete your {1} account?
+11880	Delete it
+11881	Your {1} account was disabled for buying {2}. How will you appeal?
+11882	Pick your appeal:
+11883	Say I'm sorry
+11884	Claim a misunderstanding
+11885	Submit appeal
+11886	Too soon
+11887	{1} won't look at another appeal yet. You can try again at age {2}.
+11888	{1} reinstated my account after I appealed{2}.
+11889	Welcome back
+11890	{1} accepted your appeal and reinstated your account. All your bought {2} were removed.
+11891	{1} denied my appeal.
+11892	Appeal denied
+11893	after you insulted them
+11894	{1} denied your appeal{2}. You'll have to wait {3} year{4} before you can appeal again.
+11895	Play an obby
+11896	beat an obby
+11897	compete
+11898	Play Work at a Pizza Place
+11899	worked a shift at Work at a Pizza Place
+11900	Play Natural Disaster Survival
+11901	survived a tsunami in Natural Disaster Survival
+11902	robbed the bank in Jailbreak
+11903	Play Adopt Me!
+11904	raised pets in Adopt Me!
+11905	roleplayed in Brookhaven
+11906	Build a place in Studio
+11907	built a place in Roblox Studio
+11908	build
+11909	Trade limiteds
+11910	Hang out in a hangout game
+11911	hung out with strangers
+11912	Build a house
+11913	built a house
+11914	Go mining
+11915	went mining for diamonds
+11916	Survive the first night
+11917	survived the first night
+11918	Fight the Ender Dragon
+11919	fought the Ender Dragon
+11920	Play on a server
+11921	played on a multiplayer server
+11922	Build a redstone machine
+11923	built a redstone machine
+11924	Train a skill
+11925	trained Woodcutting for hours
+11926	Do a quest
+11927	finished a quest
+11928	Fight in the Wilderness
+11929	fought in the Wilderness
+11930	Trade at the Grand Exchange
+11931	traded at the Grand Exchange
+11932	Trade in Varrock
+11933	traded in Varrock square
+11934	Hang out at the bank
+11935	hung out at the Varrock bank
+11936	Go sledding
+11937	Decorate your igloo
+11938	decorated your igloo
+11939	Go to a party
+11940	went to a party at the Night Club
+11941	Feed your puffle
+11942	played with your puffle
+11943	Look for Rockhopper
+11944	searched for Rockhopper
+11945	Hang out in the lobby
+11946	hung out in the hotel lobby
+11947	Decorate your room
+11948	decorated your room
+11949	Trade furni
+11950	Play Falling Furni
+11951	played Falling Furni
+11952	Feed your Neopet
+11953	fed your Neopet
+11954	Play Meerca Chase
+11955	played Meerca Chase
+11956	Spin the Wheel of Excitement
+11957	spun the Wheel of Excitement
+11958	Use the Trading Post
+11959	traded at the Trading Post
+11960	Play Cash Cow
+11961	played Cash Cow
+11962	Decorate your pet's room
+11963	decorated your pet's room
+11964	Work at the Employment Office
+11965	worked at the Employment Office
+11966	Visit the Clubhouse
+11967	chatted in the Clubhouse
+11968	Play a new game
+11969	played a new game
+11970	Grind achievements
+11971	Trade items
+11972	Play with friends
+11973	played with friends
+11974	Play an online match
+11975	played online matches
+11976	Join a party chat
+11977	chatted in a party
+11978	Hunt trophies
+11979	Play 8 Ball Pool
+11980	played 8 Ball Pool
+11981	Play a flash game
+11982	played flash games
+11983	Beat your high score
+11984	tried to beat your high score
+11985	Explore an island
+11986	explored an island
+11987	Finish an island
+11988	finished an island
+11989	Customize your avatar
+11990	customized your avatar
+11991	Feed your monster
+11992	fed your monster
+11993	Do a daily puzzle
+11994	did the daily puzzle
+11995	Visit friends' rooms
+11996	visited friends' rooms
+11997	Play trolley games
+11998	played trolley games
+11999	Do a ToonTask
+12000	did a ToonTask
+12001	Grind levels
+12002	Do a party quest
+12003	did a party quest
+12004	Sell in the Free Market
+12005	traded in the Free Market
+12006	Run a dungeon
+12007	ran a dungeon
+12008	Go on a raid
+12009	went on a raid
+12010	Play battlegrounds
+12011	Farm gold
+12012	Play a ranked match
+12013	Duel in the arena
+12014	dueled in the arena
+12015	did a quest
+12016	Tend your garden
+12017	tended your garden
+12018	Play mini games
+12019	played mini games
+12020	Go on an adventure
+12021	went on an adventure
+12022	Play ranked
+12023	Play normals
+12024	played normal games
+12025	Chat while gaming
+12026	chatted while gaming
+12027	Record a clip
+12028	recorded a clip
+12029	Join a clan
+12030	joined a clan
+12031	Post in the forums
+12032	posted in the forums
+12033	Shop for avatar items
+12034	shopped for avatar items
+12035	Build something
+12036	Go to a club
+12037	went to a virtual club
+12038	Shop for your avatar
+12039	shopped for your avatar
+12040	Dress up dolls
+12041	dressed up dolls
+12042	Decorate your suite
+12043	decorated your suite
+12044	Shop for clothes
+12045	shopped for clothes
+12046	Play a game
+12047	played a game
+12048	Game on
+12049	New friends
+12050	You met some cool people and they added you.
+12051	Someone scammed you in a trade and logged off. You lost your best item.
+12052	Huge trade
+12053	You pulled off an amazing trade!
+12054	You won!
+12055	Rage quit
+12056	You lost badly and rage quit.
+12057	You're really proud of how it turned out.
+12058	Toxic lobby
+12059	Some kid screamed at you the whole time.
+12060	I got scammed in a trade.
+12061	You got {1} new {2}.
+12062	You {1} on {2}.{3}{4}
+12063	I posted {1} on {2}'s {3} account. It got {4} likes, but {5} {6} unfollowed.
+12064	Going viral
+12065	Blowing up
+12066	Huge reach
+12067	and made you {1}
+12068	fans can tell it isn't really {1}
+12069	people are asking if {1} got hacked
+12070	the comments are full of "this isn't {1}"
+12071	You posted {1} on @{2}.
+12072	It got {1} views and {2} likes{3}.
+12073	But {1}. You lost {2} {3}.
+12074	{1}'s team got their {2} account @{3} back and reported me to the police.
+12075	Account recovered
+12076	{1}'s team got @{2} back from {3}. They traced the sale to you and went to the police.
+12077	and made me {1}
+12078	I posted {1} on {2}{3}. It got {4} views{5}.{6}
+12079	You posted {1} on {2}{3}.
+12080	Your {1} got {2} views, but you lost {3} {4}. People only followed you for basketball.
+12081	Hit like & subscribe!
+12082	Let's go viral
+12083	, and you earned {1} new {2}
+12084	Your {1} got {2} views and {3} likes{4}.
+12085	You need {1} to buy {2} {3}.
+12086	{1} disabled my account for buying {2}.
+12087	{1} caught you using bots and disabled your account for buying {2}. You'll have to appeal to get it back.
+12088	I bought {1} {2} on {3}.
+12089	Paid pals
+12090	You bought {1} {2} on {3}.
+12091	Disabled · was @{1}
+12092	rare
+12093	common
+12094	your usual password
+12095	default
+12096	· too long for this site
+12097	focus
+12098	blur
+12099	2015 All Rights Reserved
+12100	It's time to ditch Skype and TeamSpeak. Discord is here.
+12101	All-in-one voice and text chat for gamers that
+12102	s free, secure, and works on both your desktop and phone. Stop paying for TeamSpeak servers and hassling with Skype. Simplify your life.
+12103	You'll never go back.
+12104	Try Discord now, it's free
+12105	required
+12106	must be between 2 and 32 characters
+12107	that username isn't allowed
+12108	Welcome back!
+12109	We're so excited to see you again!
+12110	Need an account?
+12111	Claim your account
+12112	! Add an email and password so you never lose your account.
+12113	Already have an account?
+12115	This account has been disabled.
+12116	Email or password is invalid.
+12117	Password must be at least 6 characters.
+12118	2016 Discord, Inc.
+12119	potion
+12120	bomb
+12121	coin
+12122	cartridge
+12123	desktop
+12124	android
+12125	controller
+12126	s time to ditch Skype and TeamSpeak.
+12127	Download for Windows
+12128	Open Discord in your browser
+12129	No download required
+12130	Learn more
+12131	You can use Discord right in your browser.
+12132	Must be between 2 and 32 characters.
+12133	That username isn't allowed.
+12134	Create an account
+12135	By registering, you agree to Discord's
+12136	Username must be between 2 and 32 characters.
+12137	Forgot your password?
+12138	Check your inbox for a password reset link.
+12139	This field is required
+12140	Login or password is invalid.
+12141	Must be between 2 and 32 in length
+12142	That username isn't allowed
+12143	Must be at least 6 characters long
+12144	servers
+12145	Create an invite-only place where you belong
+12146	Discord servers are organized into topic-based channels where you can collaborate, share, and just talk about your day without clogging up a group chat.
+12147	voice
+12148	Where hanging out is easy
+12149	Grab a seat in a voice channel when you
+12150	re free. Friends in your server can see you
+12151	re around and instantly pop in to talk without having to call.
+12152	From few to a fandom
+12153	Get any community running with moderation tools and custom member access. Give members special powers, set up private channels, and more.
+12154	Imagine a place...
+12155	...where you can belong to a school club, a gaming group, or a worldwide art community. Where just you and a handful of friends can spend time together. A place that makes it easy to talk every day and hang out more often.
+12156	{1}Download for Windows
+12157	Reliable tech for staying close
+12158	Low-latency voice and video feels like you
+12159	re in the same room. Wave hello over video, watch friends stream their games, or gather up and have a drawing session with screen share.
+12160	Ready to start your journey?
+12161	{1}Open Discord in your browser
+12162	Imagine a place
+12164	Date of Birth
+12165	I have read and agree to Discord's
+12166	Please only use numbers, letters, underscores _ , or periods .
+12167	Username is unavailable. Try adding numbers, letters, underscores _ , or periods.
+12168	Must be at least 8 characters long
+12169	Please enter a valid date of birth
+12170	You need to be 13 or older to use Discord
+12171	Already a Member? Log in here.
+12172	User Name :
+12173	What is YouTube?
+12174	YouTube is a way to get your videos to the people who matter to you. With YouTube you can:
+12175	Upload, tag and share your videos worldwide
+12176	Browse thousands of original videos uploaded by community members
+12177	Find, join and create video groups to connect with people with similar interests
+12178	Customize your experience with playlists and subscriptions
+12179	Integrate YouTube with your website using video embeds or APIs
+12180	To learn more about our service, please see our
+12181	Joining YouTube is free and easy. Just fill out the account information below.
+12182	(All fields required)
+12183	Email Address:
+12184	User Name:
+12185	Confirm Password:
+12186	Postal Code:
+12187	Required for US, UK
+12188	Date of Birth:
+12189	Sign me up for "The Weekly Tube" email
+12190	- I certify I am over 13 years old.
+12191	- I agree to the
+12192	terms of use
+12194	{1} YouTube, Inc.
+12195	We sent the details to the email address on your account.
+12197	This account has been suspended.
+12198	Invalid username or password.
+12199	Please enter a user name.
+12200	User Name can only contain letters A-Z or numbers 0-9.
+12201	User Name must be at least 3 characters long.
+12202	That user name is not allowed.
+12203	The user name "{1}" is already taken. Please choose another.
+12204	Your password must be at least 6 characters long.
+12205	The passwords you entered do not match.
+12206	Please select a country.
+12207	Please enter your postal code.
+12208	Please select your gender.
+12209	Please enter a valid date of birth.
+12210	You must be over 13 years old to sign up for YouTube.
+12211	url(social/youtube/2008-master.gif) no-repeat
+12212	italic 700 46px "Times New Roman",serif
+12213	Create my account

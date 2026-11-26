@@ -1,0 +1,800 @@
+1637	¡La bóveda! Ponte frente a ella para taladrarla.	O cofre! Fica na frente dele pra furá-lo.
+1638	Enciérrate en un baño.	Tranque-se num reservado.
+1639	SOLO PERSONAL. La puerta está cerrada con llave. Prueba el baño...	SÓ FUNCIONÁRIOS. A porta tá trancada. Tenta o banheiro...
+1640	afuera	lá fora
+1641	escapado	escapado
+1642	vacío	vazio
+1643	¡La policía está entrando por el frente! ¡Busca la salida de atrás!	A polícia tá entrando pela frente! Acha a saída dos fundos!
+1644	Caíste del techo. Encuentra la bóveda sin que te vean.	Você caiu do teto. Ache a sala do cofre sem ser visto.
+1645	Luz abajo... una rejilla sobre el {1}.	Luz lá embaixo... uma grade em cima do {1}.
+1647	¡Ocupado! No te vieron. Prueba otro baño.	Ocupado! Não perceberam você. Tenta outro reservado.
+1648	¡Hay alguien adentro! ¡Están gritando pidiendo seguridad!	Tem alguém aí dentro! Estão gritando pela segurança!
+1649	Cerraste el baño. Taladrando por el ducto del techo...	Você trancou o reservado. Furando pelo duto do teto...
+1650	¡Agarraste "{1}" ({2})!	Você pegou "{1}" ({2})!
+1651	redondo	redondo
+1652	lienzo	tela
+1653	interior	interno
+1654	encendedor	isqueiro
+1655	PRUEBA: alarma activada, policía entrando, gas inundando la tienda.	TESTE: alarme ligado, polícia entrando, gás inundando a loja.
+1656	PRUEBA: alarma activada, policía entrando.	TESTE: alarme ligado, polícia entrando.
+1657	MODO FANTASMA: la seguridad no te puede ver ni atrapar (el gas igual te puede hacer daño).	MODO FANTASMA: a segurança não consegue te ver nem te pegar (o gás ainda pode te machucar).
+1658	Modo fantasma desactivado.	Modo fantasma desligado.
+1659	.esc-pad img	.esc-pad img
+1660	¿Sueltas todo y sales corriendo?	Larga tudo e corre?
+1661	huido	fugido
+1662	tiempo	tempo
+1663	bóveda	cofre
+1664	¡La bóveda está abierta! Agarra los diamantes y sal antes de que llegue la policía.	O cofre tá aberto! Pega os diamantes e cai fora antes da polícia chegar!
+1665	¡La bóveda está abierta! El gas de seguridad inunda el edificio en {1} segundos. ¡Agarra lo que puedas!	O cofre tá aberto! O gás de segurança inunda o prédio em {1} segundos. Pega o que der!
+1666	Estás en los ductos de aire. Arrástrate hasta una rejilla y cae a los cuartos de atrás.	Você tá nos dutos de ar. Rasteja até uma grade e cai nas salas dos fundos.
+1667	¡Te vieron! El gas se apagó, ¡pero la policía ya viene en camino!	Te viram! O gás foi desligado, mas a polícia já tá a caminho!
+1668	¡Gas de seguridad! Los demás ya salieron. ¡Tienes unos {1} segundos!	Gás de segurança! Todo mundo já saiu. Você tem uns {1} segundos!
+1669	humo	fumaça
+1670	privacidad	privacidade
+1671	¡Un empleado te vio y gritó! ¡Ya vienen los guardias!	Um funcionário te viu e gritou! Os seguranças tão vindo!
+1672	tic-tac	tique-taque
+1673	Me desplomé por el gas de seguridad dentro de {1}.	Desmaiei no gás de segurança dentro de {1}.
+1674	inhalación de humo durante un robo de joyas	inalação de fumaça durante um assalto a joias
+1675	Entré a un baño ocupado en {1}. La seguridad me sacó y llamó a la policía.	Invadi um reservado ocupado em {1}. A segurança me jogou pra fora e chamou a polícia.
+1676	{1} me prohibió la entrada de por vida.	{1} me baniu pra sempre.
+1677	¡Expulsado!	Expulso!
+1678	Abriste de un tirón un baño en {1} y había alguien adentro. Gritaron tanto que la seguridad te sacó agarrándote del cuello y la policía te esperaba afuera.	Você escancarou um reservado em {1} e tinha alguém lá dentro. A pessoa gritou pra caramba, a segurança te arrastou pela gola e a polícia tava esperando lá fora.
+1679	Te acusan de violar la privacidad y {1} te prohibió la entrada de por vida.	Você tá sendo acusado de violar a privacidade, e {1} te baniu pra sempre.
+1680	Diamantes robados	Diamantes roubados
+1681	Violación de privacidad	Violação de privacidade
+1682	Prohibido en	Banido de
+1683	Estado del caso	Status do caso
+1684	Yendo a juicio	Indo pro tribunal
+1685	Las grabaciones de seguridad de {1} me subieron al puesto #{2} de la lista de los Diez Más Buscados del FBI.	As imagens de segurança de {1} me levaram pro #{2} na lista dos Dez Mais Procurados do FBI.
+1686	Las grabaciones de seguridad de {1} me pusieron en la lista de los Diez Más Buscados del FBI, en el puesto #{2}.	As imagens de segurança de {1} me colocaram na lista dos Dez Mais Procurados do FBI, na posição #{2}.
+1687	El FBI me agregó a su lista de los Diez Más Buscados en el puesto #{1}.	O FBI me colocou na lista dos Dez Mais Procurados, na posição #{1}.
+1688	Abrí la bóveda en {1} y escapé con {2} {3} valorados en {4}.	Arrombei o cofre em {1} e fugi com {2} {3} valendo {4}.
+1689	Me metí a {1} y robé {2} pintura{3} con un valor estimado de {4}.	Invadi {1} e roubei {2} pintura{3} avaliada em cerca de {4}.
+1690	El robo de "{1}" se volvió noticia mundial.	O roubo de "{1}" virou notícia mundial.
+1691	El Golpe del Siglo	O Golpe do Século
+1692	El Trabajo de la Bóveda	O Assalto ao Cofre
+1693	El Robo del Siglo	O Assalto do Século
+1694	Un Robo Audaz	Um Assalto Ousado
+1695	Una Obra Maestra Robada	Uma Obra-Prima Roubada
+1696	Solo el "{1}" vale {2}. Todos los canales de noticias lo llaman el robo de joyas más grande de la historia.	Só o "{1}" vale {2}. Todos os canais de notícia tão chamando de o maior assalto a joias da história.
+1697	La tienda ni se va a dar cuenta de que la bóveda está vacía hasta la mañana.	A loja nem vai saber que o cofre tá vazio até de manhã.
+1698	Robar "{1}" salió en titulares de todo el mundo, y todos los canales de noticias hablan de la obra maestra desaparecida.	Roubar "{1}" virou manchete no mundo todo, e todos os canais de notícia tão falando da obra-prima sumida.
+1699	Activaste la alarma, así que la policía busca con todo a quien hizo esto.	Você disparou o alarme, então a polícia tá procurando com tudo quem fez isso.
+1700	Ver tus diamantes	Ver seus diamantes
+1701	Ver tu arte robado	Ver suas obras roubadas
+1702	{1} {2} {3} ahora en tu poder. {4}{5}	{1} {2} {3} agora em seu poder. {4}{5}
+1703	Valor estimado:	Valor estimado:
+1704	Escondido en tu escondite	Escondido no seu esconderijo
+1705	te subió al puesto #{1} en	te levou pro #{1} na
+1706	te agregó a	te colocou na
+1707	Las cámaras de seguridad de {1} captaron tu cara durante el robo. El FBI sacó las imágenes, publicó un retrato tuyo y {2} su lista de los Diez Más Buscados.	As câmeras de segurança de {1} pegaram seu rosto durante o assalto. O FBI puxou as imagens, soltou um retrato seu e {2} na lista dos Dez Mais Procurados.
+1708	Robaste {1} cuadros y las cámaras de seguridad captaron tu cara. El FBI publicó un retrato tuyo y te agregó a su lista de los Diez Más Buscados.	Você roubou {1} quadros, e as câmeras de segurança pegaram seu rosto. O FBI soltou um retrato seu e te colocou na lista dos Dez Mais Procurados.
+1709	Robo a mano armada: {1}, {2} diamante{3}	Roubo à mão armada: {1}, {2} diamante{3}
+1710	Robo grave de arte fina: {1} cuadros	Roubo qualificado de arte: {1} quadros
+1711	Buscado por	Procurado por
+1712	Diamantes llevados	Diamantes levados
+1713	Imágenes de cámaras de seguridad	Imagens das câmeras de segurança
+1714	Cuadros robados	Quadros roubados
+1715	Visto en cámara	Visto na câmera
+1716	¡Estás en la lista de los Más Buscados del FBI!	Você tá na lista dos Mais Procurados do FBI!
+1717	Diez Más Buscados del FBI	Dez Mais Procurados do FBI
+1718	Tu retrato está en la web del FBI, en las oficinas de correo y en el noticiero de la noche.	Seu retrato tá no site do FBI, nas agências dos correios e no jornal da noite.
+1719	Me arrestaron robando en {1}.	Fui preso roubando {1}.
+1720	Me atraparon intentando robar arte de {1}.	Me pegaram tentando roubar arte de {1}.
+1721	diamantes	diamantes
+1722	Saliste de {1} y te topaste con un muro de patrullas. Los oficiales tenían cubierta cada salida y te esperaban.	Você saiu de {1} e deu de cara com um muro de viaturas. Os policiais tinham cercado todas as saídas e tavam esperando você.
+1723	Tardaste demasiado dentro de {1}. La policía entró a la fuerza y te sacó con {2} todavía en las manos.	Você demorou demais dentro de {1}. A polícia invadiu o prédio e te arrastou pra fora com {2} ainda nas mãos.
+1724	La policía te acorraló dentro de {1}. Quedaste arrestado por sospecha de {2}.	A polícia te encurralou dentro de {1}. Você foi preso por suspeita de {2}.
+1725	{1} te prohibió la entrada de por vida. Nunca volverás a pasar por su puerta.	{1} te baniu pra sempre. Você nunca mais vai passar pela porta deles.
+1726	¡Se acabó el tiempo!	Acabou o tempo!
+1727	¡Atrapado en el acto!	Pego no flagra!
+1728	Diamantes recuperados	Diamantes recuperados
+1729	Obra recuperada	Obra recuperada
+1730	Nada robado	Nada levado
+1731	Robo de joyas	Assalto a joias
+1732	Robo de arte	Roubo de arte
+1733	robando a {1} {2} en diamantes	roubando {1} em {2} em diamantes
+1734	intentando robar a {1}	tentando roubar {1}
+1735	robando arte valorado en {1}	roubando arte avaliada em {1}
+1736	intento de robo de arte	tentativa de roubo de arte
+1737	y posesión de {1}	e posse de {1}
+1738	La policía allanó mi casa y confiscó {1} valorado en {2}.	A polícia invadiu minha casa e apreendeu {1} avaliado em {2}.
+1739	La policía allanó mi casa pero no encontró nada más.	A polícia invadiu minha casa mas não achou mais nada.
+1740	ellos	eles
+1741	Encontraron {1} escondido en tu casa y confiscaron todo {2}. Eso también va a tus cargos.	Acharam {1} escondido na sua casa e apreenderam todo {2}. Isso também entra nas suas acusações.
+1742	Revisaron cada cuarto pero no encontraron nada más.	Revistaram todos os cômodos mas não acharam mais nada.
+1743	Recuperado en la escena	Recuperado no local
+1744	Cuadros confiscados ({1})	Quadros apreendidos ({1})
+1745	Diamantes confiscados ({1})	Diamantes apreendidos ({1})
+1746	Tu casa fue allanada	Sua casa foi invadida
+1747	Valor total:	Valor total:
+1748	Posible condena:	Possível pena:
+1749	Los oficiales tumbaron tu puerta principal al amanecer con una orden de allanamiento.	Os policiais arrombaram a porta da frente ao amanhecer com um mandado de busca.
+1750	Un equipo SWAT rodeó tu casa mientras los vecinos miraban desde sus jardines.	Uma equipe SWAT cercou sua casa enquanto os vizinhos olhavam do quintal.
+1751	Los detectives revolvieron tu casa buscando más arte robado.	Os detetives reviraram sua casa atrás de mais arte roubada.
+1752	Perros policía encontraron un cuarto escondido detrás de tu clóset.	Cães da polícia acharam um quarto escondido atrás do seu armário.
+1753	Me rajé del robo a {1} y salí corriendo.	Desisti de roubar {1} e corri.
+1754	Saliste de {1} sin agarrar ni un solo {2}.	Você saiu de {1} sem pegar nenhum {2}.
+1755	Soltaste todo y saliste de {1} antes de que alguien te viera.	Você largou tudo e saiu de {1} antes que alguém te visse.
+1756	Tu arte robado	Sua arte roubada
+1757	Sin arte robado	Nenhuma arte roubada
+1758	Haz un robo para llenar tu escondite	Faça um assalto pra encher seu esconderijo
+1759	Los receptadores pagan más cuando una pintura se enfría	Os receptadores pagam mais quando uma pintura esfria
+1760	La presión baja cada año que lo mantienes escondido	O calor cai a cada ano que você mantém escondido
+1761	Tus {1} diamante{2} robado(s) en Activos	Seus {1} diamante{2} roubado(s) em Bens
+1762	Vende {1} en la dark web desde ahí	Venda {1} na dark web daí
+1763	Valor estimado	Valor estimado
+1764	Robado de	Roubado de
+1765	Vender en la dark web	Vender na dark web
+1766	Vender en el mercado negro	Vender no mercado negro
+1767	Mantenlo escondido	Mantenha escondido
+1768	Este {1} todavía está caliente. Todos los policías del país lo están buscando.	Esse {1} ainda tá quente. Todos os policiais do país tão procurando.
+1769	¿A quién le vas a vender "{1}"?{2}	Pra quem você vai vender "{1}"?{2}
+1770	cargo	acusação
+1771	cargos	acusações
+1772	{1} {2} por tráfico de diamantes robados	{1} {2} por tráfico de diamantes roubados
+1773	{1} {2} por tráfico de arte robada	{1} {2} por tráfico de arte roubada
+1774	Me arrestaron intentando vender un {1} robado, "{2}". La policía encontró {3} {4} robado(s) en mi casa.	Fui preso tentando vender um {1} roubado, "{2}". A polícia achou {3} {4} roubado(s) na minha casa.
+1775	¡Operativo encubierto!	Operação Armadilha!
+1776	{1} diamante{2} robado(s)	{1} diamante{2} roubado(s)
+1777	{1} pintura{2} robada(s)	{1} pintura{2} roubada(s)
+1778	La policía registró tu casa y encontró {1}{2}{3}. Cada uno es otro cargo.	A polícia revistou sua casa e achou {1}{2}{3}. Cada um é mais uma acusação.
+1779	Me estafaron intentando vender un {1} robado, "{2}".	Me passaram a perna tentando vender um {1} roubado, "{2}".
+1780	"{1}" se fue y no te quedó nada.	"{1}" sumiu e você não ficou com nada.
+1781	en la dark web	na dark web
+1782	en el mercado negro	no mercado negro
+1784	{1} pagó {2} por "{3}".	{1} pagou {2} por "{3}".
+1785	Viktor el Receptador	Viktor, o Receptador
+1786	Un receptador de la vieja escuela. Paga poco y nunca hace preguntas.	Um receptador da velha guarda. Paga pouco e nunca faz perguntas.
+1787	Un comprador anónimo en línea	Um comprador anônimo online
+1788	Paga bien en cripto. Podría ser cualquiera. Podría ser el FBI.	Paga bem em cripto. Pode ser qualquer um. Pode ser o FBI.
+1789	Un coleccionista multimillonario solitario	Um colecionador bilionário recluso
+1790	Paga una fortuna por piezas importantes, pero solo se reúne en persona.	Paga uma fortuna por peças importantes, mas só se encontra pessoalmente.
+1791	Un corredor de diamantes de la darknet	Um corretor de diamantes da dark web
+1792	Compra piedras sueltas por Monero, sin preguntas. Le paga a todos una miseria.	Compra pedras soltas em Monero, sem perguntas. Oferece uma mixaria pra todo mundo.
+1793	Un comprador anónimo de cripto	Um comprador anônimo de cripto
+1794	Paga bien en Bitcoin. Podría ser cualquiera. Podría ser el FBI.	Paga bem em Bitcoin. Pode ser qualquer um. Pode ser o FBI.
+1795	Un joyero respaldado por un cártel	Um joalheiro ligado a um cartel
+1796	Retalla las piedras para que nadie las rastree, y paga una fortuna por eso.	Relapida as pedras pra ninguém rastrear, e paga uma fortuna por isso.
+1797	El "comprador" enseñó una placa. Era una trampa del FBI.	O "comprador" mostrou um distintivo. Era uma armadilha do FBI.
+1798	Agentes de Interpol irrumpieron en el almacén en cuanto desenvolviste el lienzo.	Agentes da Interpol invadiram o galpão no segundo que você desembrulhou a tela.
+1799	El mayordomo del coleccionista era un detective encubierto.	O mordomo do colecionador era um detetive disfarçado.
+1800	El "comprador" de la dark web era un agente del FBI todo el tiempo.	O "comprador" da dark web era um agente do FBI o tempo todo.
+1801	El punto de entrega estaba rodeado de policías encubiertos antes de que siquiera estacionaras.	O ponto de entrega tava cercado de policiais disfarçados antes de você nem estacionar.
+1802	La billetera cripto donde te pagaron pertenecía al Servicio Secreto.	A carteira cripto onde você recebeu pertencia ao Serviço Secreto.
+1803	El comprador se llevó la pintura a punta de pistola y se fue manejando.	O comprador levou a pintura na mira de uma arma e foi embora.
+1804	El pago en cripto nunca llegó, y tampoco la pintura.	O pagamento em cripto nunca chegou, e a pintura também não.
+1805	Te entregaron una maleta llena de periódico.	Te entregaram uma mala cheia de jornal.
+1806	El comprador se llevó el diamante a punta de pistola y desapareció.	O comprador levou o diamante na mira de uma arma e sumiu.
+1807	El pago en cripto nunca llegó, y tampoco tu diamante.	O pagamento em cripto nunca chegou, e seu diamante também não.
+1808	El sitio de "depósito en garantía" se cayó en cuanto lo enviaste.	O site de "custódia" saiu do ar no segundo que você enviou.
+1809	traficando arte robada	traficando arte roubada
+1810	traficando diamantes robados	traficando diamantes roubados
+1811	Eres muy joven para hacer un robo de joyas.	Você é novo demais pra fazer um assalto a joias.
+1812	Joyería {1} e Hijos	Joalheria {1} & Filhos
+1813	Casa de Diamantes {1}	Bolsa de Diamantes {1}
+1814	La Bóveda de Diamantes {1}	O Cofre de Diamantes {1}
+1815	Todas las joyerías del pueblo tienen tu foto detrás del mostrador. Estás prohibido en todas.	Todas as joalherias da cidade têm sua foto atrás do balcão. Você tá banido de todas.
+1816	Entra como cliente, enciérrate en un baño y taladra hacia los ductos de aire. Encuentra el camino a la bóveda sin que los guardias te vean.	Entre como cliente, tranque-se num reservado e fure pra cima até os dutos de ar. Ache o caminho até o cofre sem os seguranças te verem.
+1817	Cinco segundos después de que se abre la bóveda, el gas de seguridad inunda el edificio y solo tienes segundos para salir. Si te ven, en vez de eso llega la policía.	Cinco segundos depois que o cofre abre, o gás de segurança inunda o prédio e você tem só alguns segundos pra sair. Se te virem, quem aparece é a polícia.
+1818	¿Qué tienda vas a asaltar?	Qual loja você vai assaltar?
+1819	Entrada	Entrada
+1820	Ducto del techo del baño	Duto do teto do banheiro
+1821	{1} s después de que se abre la bóveda	{1} s depois que o cofre abre
+1822	Botín de la bóveda	Butim do cofre
+1823	Captado en cámara	Pego na câmera
+1824	Más Buscado del FBI si sales	Mais Procurado do FBI se você sair
+1825	{1} te prohibió la entrada después de que te atraparon ahí. La seguridad te reconocería en cuanto entraras.	{1} te baniu depois que te pegaram lá. A segurança te reconheceria no segundo que você entrasse.
+1826	gray	gray
+1827	null	null
+1828	logo	logo
+1829	tabs	tabs
+1830	card	card
+1831	.ag-go, .ag-alt	.ag-go, .ag-alt
+1832	ground	ground
+1833	transparent	transparent
+1834	.ag-head img	.ag-head img
+1835	load	load
+1836	freelife/sounds/login-music.wav	freelife/sounds/login-music.wav
+1837	number	number
+1838	object	object
+1839	symbol	symbol
+1840	date	date
+1841	lives	lives
+1842	spun	spun
+1843	gone	gone
+1844	¿Cómo quieres jugar?	Como você quer jogar?
+1845	Jugar en PC	Jogar no PC
+1846	Jugar en el celular	Jogar no celular
+1847	asking	asking
+1848	button	button
+1850	¿Seguro que quieres jugar este modo?	Tem certeza de que quer jogar este modo?
+1851	La interfaz de PC todavía tiene fallos y se está trabajando en ella. Puedes encontrar muchos bugs que hacen el juego más difícil de jugar.	A interface do PC ainda tem bugs e tá sendo trabalhada. Você vai encontrar vários bugs que deixam o jogo mais difícil de jogar.
+1852	Cargando tus datos...	Carregando seus dados...
+1853	Necesitas una cuenta para jugar BitLife++.	Você precisa de uma conta pra jogar BitLife++.
+1854	Inicia sesión para cargar tus vidas y seguir jugando.	Entre na conta pra carregar suas vidas e continuar jogando.
+1855	3-20 letras, números o guiones bajos	3 a 20 letras, números ou underlines
+1856	Mínimo 8 caracteres	Mínimo de 8 caracteres
+1857	Escribe las letras que ves	Digite as letras que você vê
+1859	© 2026 Free Life. Todos los derechos reservados.	© 2026 Free Life. Todos os direitos reservados.
+1860	Vigente desde el 25 de octubre de 2026	Em vigor desde 25 de outubro de 2026
+1861	light	light
+1862	freelife/sounds/ui-exit.mp3	freelife/sounds/ui-exit.mp3
+1863	form	form
+1864	.ag-cap img	.ag-cap img
+1865	No se pudo cargar el captcha. Toca ↻ para intentar de nuevo.	Não foi possível carregar o captcha. Toque em ↻ pra tentar de novo.
+1866	.ag-cap button	.ag-cap button
+1867	Los nombres de usuario tienen de 3 a 20 letras, números o guiones bajos.	Nomes de usuário têm de 3 a 20 letras, números ou underlines.
+1868	La contraseña debe tener al menos 8 caracteres.	A senha precisa ter pelo menos 8 caracteres.
+1869	Ingresa tu nombre de usuario y contraseña.	Digite seu nome de usuário e senha.
+1871	¡Cuenta creada! Inicia sesión para empezar a jugar.	Conta criada! Entre pra começar a jogar.
+1872	freelife/sounds/login.mp3	freelife/sounds/login.mp3
+1873	No se puede conectar con el servidor de cuentas. Intenta más tarde.	Não foi possível conectar ao servidor de contas. Tenta de novo mais tarde.
+1874	El captcha todavía está cargando. Toca ↻ si no aparece.	O captcha ainda tá carregando. Toque em ↻ se não aparecer.
+1875	Escribe las letras de la imagen.	Digite as letras da imagem.
+1876	input	input
+1877	1. Aceptación de los Términos	1. Aceitação dos Termos
+1878	Estos Términos de Servicio ("Términos") regulan tu acceso y uso del juego y sitio web de Free Life (el "Servicio"), operado por Free Life ("Free Life", "nosotros" o "nuestro"). Al crear una cuenta, iniciar sesión o usar de cualquier otra forma el Servicio, aceptas quedar sujeto a estos Términos. Si no estás de acuerdo, no uses el Servicio.	Estes Termos de Serviço ("Termos") regem seu acesso e uso do jogo e site Free Life (o "Serviço"), operado pela Free Life ("Free Life", "nós" ou "nosso"). Ao criar uma conta, entrar ou usar o Serviço de qualquer outra forma, você concorda em ficar sujeito a estes Termos. Se não concordar, não use o Serviço.
+1879	2. Licencia de Uso	2. Licença de Uso
+1880	Sujeto a estos Términos, Free Life te otorga una licencia limitada, personal, no exclusiva, no transferible y revocable para acceder y jugar el Servicio desde un navegador web, para tu entretenimiento personal no comercial. Todos los derechos no otorgados expresamente a ti están reservados.	De acordo com estes Termos, a Free Life concede a você uma licença limitada, pessoal, não exclusiva, intransferível e revogável para acessar e jogar o Serviço pelo navegador, para seu entretenimento pessoal e não comercial. Todos os direitos não expressamente concedidos a você são reservados.
+1881	3. Propiedad y Derechos de Autor	3. Propriedade e Direitos Autorais
+1882	El Servicio, incluido su código fuente original, software, diseño, textos, gráficos, interfaz de usuario y demás contenido original, es propiedad de Free Life y está protegido por las leyes de derechos de autor y propiedad intelectual. © 2026 Free Life. Todos los derechos reservados.	O Serviço, incluindo seu código-fonte original, software, design, textos, gráficos, interface de usuário e outros conteúdos originais, pertence à Free Life e é protegido por leis de direitos autorais e propriedade intelectual. © 2026 Free Life. Todos os direitos reservados.
+1883	Free Life es un proyecto independiente inspirado en BitLife. No está afiliado, respaldado ni patrocinado por Candywriter, LLC ni por BitLife. Todos los nombres y marcas de terceros son propiedad de sus respectivos dueños y se usan solo para identificación.	A Free Life é um projeto independente inspirado em BitLife. Não é afiliada, endossada nem patrocinada pela Candywriter, LLC ou pela BitLife. Todos os nomes e marcas de terceiros são propriedade de seus respectivos donos e são usados apenas para identificação.
+1884	4. Conductas Prohibidas	4. Condutas Proibidas
+1885	Aceptas no hacer, ni ayudar ni permitir que nadie más haga lo siguiente:	Você concorda em não fazer, nem ajudar ou permitir que outras pessoas façam:
+1886	(e) interferir con el Servicio o sus servidores, sobrecargarlos o interrumpirlos, o intentar obtener acceso no autorizado a cualquier cuenta o sistema.	(e) interferir, sobrecarregar ou interromper o Serviço ou seus servidores, ou tentar obter acesso não autorizado a qualquer conta ou sistema.
+1887	Eres responsable de mantener seguro tu nombre de usuario y contraseña, y de toda la actividad en tu cuenta. Free Life puede suspender o eliminar cuentas que infrinjan estos Términos.	Você é responsável por manter seu nome de usuário e senha seguros e por toda atividade na sua conta. A Free Life pode suspender ou excluir contas que violem estes Termos.
+1888	Free Life puede suspender o terminar tu acceso al Servicio en cualquier momento, con o sin aviso, si infringes estos Términos. Las secciones 3, 4, 7 y 8 siguen vigentes después de la terminación.	A Free Life pode suspender ou encerrar seu acesso ao Serviço a qualquer momento, com ou sem aviso prévio, se você violar estes Termos. As seções 3, 4, 7 e 8 continuam valendo após o encerramento.
+1889	7. Exención de Garantías	7. Isenção de Garantias
+1891	8. Limitación de Responsabilidad	8. Limitação de Responsabilidade
+1892	En la máxima medida permitida por la ley, Free Life no será responsable por daños indirectos, incidentales, especiales o consecuentes, ni por la pérdida de datos o del progreso del juego que surja del uso del Servicio.	Na medida máxima permitida por lei, a Free Life não será responsável por danos indiretos, incidentais, especiais ou consequenciais, nem pela perda de dados ou do progresso do jogo decorrentes do uso do Serviço.
+1893	Tu uso del Servicio también se rige por la Política de Privacidad de Free Life.	Seu uso do Serviço também é regido pela Política de Privacidade da Free Life.
+1894	10. Cambios a Estos Términos	10. Alterações a Estes Termos
+1895	Podemos actualizar estos Términos de vez en cuando. Los cambios entran en vigor al publicarse, y la fecha de vigencia indicada arriba se actualizará en consecuencia. Seguir usando el Servicio después de publicados los cambios implica aceptar los Términos revisados.	Podemos atualizar estes Termos de tempos em tempos. As alterações entram em vigor assim que publicadas, e a data de vigência acima será atualizada de acordo. Continuar usando o Serviço após a publicação das alterações significa aceitar os Termos revisados.
+1896	Free Life pone la privacidad por encima de las ganancias y la diversión por encima de las ganancias.	A Free Life coloca a privacidade acima do lucro e a diversão acima do lucro.
+1897	Esta Política de Privacidad describe cómo Free Life ("Free Life", "nosotros" o "nuestro") maneja la información relacionada con tu uso del juego y sitio web de Free Life (el "Servicio"). Al crear una cuenta o usar el Servicio, reconoces las prácticas descritas a continuación.	Esta Política de Privacidade descreve como a Free Life ("Free Life", "nós" ou "nosso") trata as informações relacionadas ao seu uso do jogo e site Free Life (o "Serviço"). Ao criar uma conta ou usar o Serviço, você reconhece as práticas descritas abaixo.
+1898	2. Información que Recopilamos	2. Informações que Coletamos
+1899	Para crear una cuenta, Free Life solo recopila un nombre de usuario que elijas y una contraseña. Las contraseñas nunca se guardan en texto legible; están protegidas con Argon2id, un hash criptográfico de una sola vía, y nadie puede verlas, incluidos nosotros. El progreso del juego que guardes en tu cuenta se almacena con esa cuenta.	Para criar uma conta, a Free Life coleta apenas um nome de usuário de sua escolha e uma senha. As senhas nunca são armazenadas em forma legível; elas são protegidas com Argon2id, um hash criptográfico de mão única, e ninguém pode vê-las, nem nós. O progresso do jogo salvo na sua conta fica armazenado com essa conta.
+1900	3. Información que No Recopilamos	3. Informações que Não Coletamos
+1901	Free Life no registra, guarda ni almacena direcciones de Protocolo de Internet ("IP"). Una dirección IP puede mantenerse brevemente en memoria temporal únicamente para limitar abusos, como intentos repetidos de inicio de sesión fallidos, y nunca se escribe en ningún registro, base de datos o disco.	A Free Life não registra, grava nem armazena endereços de Protocolo de Internet ("IP"). Um endereço IP pode ser mantido brevemente na memória temporária apenas para limitar abusos, como tentativas repetidas de login malsucedidas, e nunca é gravado em nenhum log, banco de dados ou disco.
+1902	Free Life no recopila, solicita ni almacena direcciones de correo electrónico, y no registra identificadores de navegador ni de dispositivo.	A Free Life não coleta, solicita nem armazena endereços de e-mail, e não registra identificadores de navegador ou dispositivo.
+1903	4. Venta de Información Personal: No	4. Nenhuma Venda de Informações Pessoais
+1904	Free Life no vende, alquila, intercambia ni divulga de otra forma tu información personal a terceros por dinero ni por ninguna otra contraprestación valiosa, y nunca lo hará.	A Free Life não vende, aluga, troca nem divulga de outra forma suas informações pessoais a terceiros por dinheiro ou qualquer outra contrapartida valiosa, e nunca fará isso.
+1905	El Servicio usa una única cookie de sesión con el único propósito de mantenerte conectado. Free Life no usa cookies publicitarias, rastreadores analíticos ni tecnologías de rastreo de terceros.	O Serviço usa um único cookie de sessão com o único propósito de manter você conectado. A Free Life não usa cookies de publicidade, rastreadores de análise nem tecnologias de rastreamento de terceiros.
+1906	6. Enlaces de Terceros	6. Links de Terceiros
+1907	El Servicio puede enlazar a comunidades de terceros como Discord y Reddit. Esos servicios se rigen por sus propias políticas de privacidad, y Free Life no es responsable de sus prácticas.	O Serviço pode ter links para comunidades de terceiros, como Discord e Reddit. Esses serviços são regidos por suas próprias políticas de privacidade, e a Free Life não se responsabiliza por suas práticas.
+1908	7. Cambios a Esta Política	7. Alterações a Esta Política
+1909	Podemos actualizar esta Política de Privacidad de vez en cuando. Los cambios entran en vigor al publicarse, y la fecha de vigencia indicada arriba se actualizará en consecuencia. Seguir usando el Servicio después de publicados los cambios implica aceptar la política revisada.	Podemos atualizar esta Política de Privacidade de tempos em tempos. As alterações entram em vigor assim que publicadas, e a data de vigência acima será atualizada de acordo. Continuar usando o Serviço após a publicação das alterações significa aceitar a política revisada.
+1910	Volver al juego	Voltar ao jogo
+1911	Guardando tus datos...	Salvando seus dados...
+1912	No se pudieron guardar tus datos en tu cuenta, así que no se cerró tu sesión. Intenta de nuevo.	Não foi possível salvar seus dados na conta, então você não foi desconectado. Tente de novo.
+1913	splash	splash
+1914	pingüino	pinguim
+1915	Asociación de Baloncesto de BitLife	Associação de Basquete de BitLife
+1916	Los Angeles Lickers	Los Angeles Lickers
+1917	Golden State Fighters	Golden State Fighters
+1918	Los Angeles Snippers	Los Angeles Snippers
+1919	New Orleans Pelicons	New Orleans Pelicons
+1920	New York Knickers	New York Knickers
+1921	Oklahoma City Thunderclaps	Oklahoma City Thunderclaps
+1922	San Antonio Spurts	San Antonio Spurts
+1923	un esguince de tobillo	uma torção no tornozelo
+1924	un dedo atorado	um dedo travado
+1925	un tirón en los isquiotibiales	uma distensão nos isquiotibiais
+1926	una rodilla golpeada	um joelho machucado
+1927	una fractura por estrés	uma fratura por estresse
+1928	un hombro dislocado	um ombro deslocado
+1929	una hernia de disco	uma hérnia de disco
+1930	un tendón de Aquiles roto	um tendão de Aquiles rompido
+1931	baloncesto	basquete
+1932	escenario	cenário
+1933	tight	tight
+1934	green	green
+1936	descartar	dispensar
+1937	equipo	time
+1938	span	span
+1939	El entrenador del equipo {1} en tu {2} te pidió que fueras capitán del equipo.	O técnico do time {1} no seu {2} pediu pra você ser capitão do time.
+1941	Acepta ser capitán	Aceite ser capitão
+1942	Me convertí en capitán del {1} en mi {2}.	Virei capitão do {1} no meu {2}.
+1943	¡Ahora eres el capitán del {1}!	Agora você é o capitão do {1}!
+1944	Rechacé la oportunidad de ser capitán del {1}.	Recusei a chance de ser capitão do {1}.
+1945	Años en el equipo	Anos no time
+1946	Entrena más duro	Treine mais duro
+1947	Entrené más duro con el {1}.	Treinei mais duro com o {1}.
+1949	Sin energía	No limite
+1950	Empezaste a entrenar más duro con el {1}.	Você começou a treinar mais duro com o {1}.
+1951	Entrenaste otra vez, pero ya estás agotado.	Você treinou de novo, mas já tá exausto.
+1952	Dejar el equipo	Sair do time
+1953	¿Seguro que quieres dejar el {1}?	Tem certeza de que quer sair do {1}?
+1954	Dejé el {1}.	Saí do {1}.
+1956	Un cazatalentos universitario está en las gradas del partido de {1} de esta noche.	Um olheiro universitário está na arquibancada do jogo de {1} de hoje à noite.
+1957	Dalo todo	Dê tudo de si
+1958	Jugué el partido de mi vida frente a un cazatalentos universitario.	Joguei o jogo da minha vida na frente de um olheiro universitário.
+1959	Intenté impresionar a un cazatalentos universitario, pero tuve una mala noche.	Tentei impressionar um olheiro universitário, mas tive uma noite ruim.
+1960	Llamando la atención	Chamando atenção
+1961	Mala noche	Noite ruim
+1962	El cazatalentos estuvo tomando notas todo el partido.	O olheiro ficou anotando o jogo inteiro.
+1963	Te esforzaste demasiado y fallaste la mayoría de tus tiros.	Você se esforçou demais e errou a maioria dos arremessos.
+1964	Juega normal	Jogue normal
+1965	Jugué mi juego de siempre con un cazatalentos mirando.	Joguei o meu jogo de sempre com um olheiro olhando.
+1966	Tus notas están bajando y el entrenador del {1} está preocupado de que no puedas jugar.	Suas notas estão caindo, e o técnico do {1} tá preocupado que você fique inelegível pra jogar.
+1967	Estudia más	Estude mais
+1968	Le prometí al entrenador que estudiaría más.	Prometi pro técnico que ia estudar mais.
+1969	Dándole a los libros	Caindo nos livros
+1970	Te pusiste las pilas con la escuela para seguir en el equipo.	Você se dedicou aos estudos pra continuar no time.
+1971	Me echaron del {1} por mis notas.	Me tiraram do {1} por causa das minhas notas.
+1972	Te echaron del {1} por tus notas.	Te tiraram do {1} por causa das suas notas.
+1973	Ignoré la advertencia del entrenador sobre mis notas.	Ignorei o aviso do técnico sobre minhas notas.
+1974	celoso	ciumento
+1975	Tu compañero {1} está celoso de la atención que recibes en el {2}.	Seu companheiro {1} tá com ciúme da atenção que você recebe no {2}.
+1976	Le di un cumplido a mi compañero celoso, {1}.	Elogiei meu companheiro com ciúme, {1}.
+1977	Buen compañero	Bom companheiro
+1978	Le dijiste a {1} que el equipo no podía ganar sin {2}.	Você disse pro {1} que o time não ganharia sem {2}.
+1979	Insulté a mi compañero, {1}.	Xinguei meu companheiro, {1}.
+1980	Drama en el vestuario	Drama no vestiário
+1981	Tú y {1} ya no se pasan la pelota.	Você e {1} não se passam mais a bola.
+1982	Ignoré a mi compañero celoso, {1}.	Ignorei meu companheiro com ciúme, {1}.
+1983	tobillo	tornozelo
+1984	rodilla	joelho
+1985	muñeca	pulso
+1986	espalda	costas
+1987	Te lastimaste el {1} durante el entrenamiento de {2}.	Você machucou o {1} no treino de {2}.
+1988	Busca tratamiento	Procure tratamento
+1989	Traté mi lesión de entrenamiento.	Tratei a lesão do treino.
+1990	Recuperándose	Se recuperando
+1991	Estuviste fuera de un par de partidos, pero te recuperaste bien.	Você ficou fora de alguns jogos, mas se recuperou direito.
+1992	Juega aguantando el dolor	Jogue aguentando a dor
+1993	Jugué aguantando el dolor.	Joguei aguentando a dor.
+1994	Duro como un clavo	Duro na queda
+1995	Jugaste aguantando el dolor y al entrenador le encantó.	Você jogou aguentando a dor e o técnico adorou.
+1996	Jugué con una lesión y la empeoré.	Joguei machucado e piorei a lesão.
+1998	Jugar lastimado empeoró mucho tu lesión.	Jogar machucado piorou muito sua lesão.
+1999	pelota	bola
+2000	¡Recibiste una beca deportiva completa para jugar baloncesto en la universidad!	Você recebeu uma bolsa de estudos esportiva integral pra jogar basquete na faculdade!
+2001	Elige tu carrera:	Escolha seu curso:
+2002	Acéptala y empieza la universidad	Aceite e comece a faculdade
+2003	Aceptaste una beca deportiva completa. ¡Tu matrícula está cubierta!	Você aceitou a bolsa esportiva integral. Sua mensalidade está paga!
+2004	Acepté una beca deportiva para jugar baloncesto en {1}.	Aceitei uma bolsa esportiva pra jogar basquete em {1}.
+2005	Acepta una beca deportiva	Aceite uma bolsa esportiva
+2007	Rechacé una beca deportiva para tomarme un tiempo libre.	Recusei uma bolsa esportiva pra dar um tempo.
+2008	Tiempo libre	Um tempo
+2009	Rechazaste la beca para tomarte un tiempo libre.	Você recusou a bolsa pra dar um tempo.
+2010	Recházala y busca un trabajo	Recuse e procure um emprego
+2011	Rechacé una beca deportiva para buscar trabajo.	Recusei uma bolsa esportiva pra procurar emprego.
+2012	Los cazatalentos profesionales te han estado observando dominar el baloncesto de secundaria, y ahora tienes la oportunidad de declararte elegible para el draft profesional.	Olheiros profissionais vêm acompanhando você dominar o basquete do colégio, e agora você tem a chance de se declarar elegível para o draft profissional.
+2013	Completaste cuatro temporadas jugando baloncesto a nivel universitario y ahora tienes la oportunidad de declararte elegible para el draft profesional.	Você completou quatro temporadas jogando basquete no nível universitário e agora tem a chance de se declarar elegível para o draft profissional.
+2014	Soy elegible para el draft	Sou elegível pro draft
+2015	Declaré mi elegibilidad para el draft de baloncesto profesional.	Declarei minha elegibilidade para o draft de basquete profissional.
+2016	No me seleccionaron en el draft de baloncesto profesional de este año.	Não fui selecionado no draft de basquete profissional deste ano.
+2018	No te seleccionaron en el draft de baloncesto profesional de este año.	Você não foi selecionado no draft de basquete profissional deste ano.
+2019	Me seleccionaron en la {1} ronda del draft de baloncesto profesional por los {2}.	Fui selecionado na {1} rodada do draft de basquete profissional pelo {2}.
+2020	¡Te seleccionaron en la {1} ronda del draft de baloncesto profesional por los {2}!	Você foi selecionado na {1} rodada do draft de basquete profissional pelo {2}!
+2021	primera	primeira
+2022	segunda	segunda
+2023	No quiero ser profesional	Não quero ser profissional
+2024	Decidí no entrar al draft profesional.	Decidi não entrar no draft profissional.
+2025	prueba	teste
+2026	¡Tu contrato con el {1} expiró y los {2} te quieren firmar!	Seu contrato com o {1} expirou, e o {2} quer te contratar!
+2027	{1}Te ofrecieron un contrato para jugar baloncesto profesional con los {2}.	{1}Você recebeu uma oferta de contrato pra jogar basquete profissional pelo {2}.
+2028	Negocia por más dinero	Negocie por mais dinheiro
+2029	Negocié una mejor oferta de contrato con el {1}.	Negociei uma oferta de contrato melhor com o {1}.
+2030	El {1} retiró su oferta de contrato después de que intenté negociar.	O {1} retirou a oferta de contrato depois que tentei negociar.
+2032	Ahora eres agente libre.	Agora você é agente livre.
+2033	El {1} se levantó de la mesa de negociación.{2}	O {1} saiu da mesa de negociação.{2}
+2034	Rechacé una oferta de contrato del {1}.	Recusei uma oferta de contrato do {1}.
+2035	Agente libre	Agente livre
+2037	Rechazaste la oferta del {1}.{2}	Você recusou a oferta do {1}.{2}
+2038	Firmé un contrato de {1} años por {2} con el {3}.	Assinei um contrato de {1} anos, {2}, com o {3}.
+2040	{1} en {2} año{3}	{1} em {2} ano{3}
+2041	Ponte a trabajar	Vá trabalhar
+2042	Me convertí en un atleta famoso.	Virei um atleta famoso.
+2043	famoso	famoso
+2044	¡Oficialmente eres un atleta famoso!	Oficialmente você é um atleta famoso!
+2045	Ya no soy famoso.	Não sou mais famoso.
+2046	Ya no es famoso	Não é mais famoso
+2047	Ya no eres famoso. Desde que te retiraste del baloncesto, la gente dejó de reconocerte.	Você não é mais famoso. Desde que se aposentou do basquete, as pessoas pararam de te reconhecer.
+2048	horario	cronograma
+2049	¿Qué tan duro quieres trabajar esta temporada?	Quanto você quer se dedicar nesta temporada?
+2050	Elige tu horario:	Escolha sua rotina:
+2051	Ligero (20 horas)	Leve (20 horas)
+2052	Normal (30 horas)	Normal (30 horas)
+2053	Intenso (45 horas)	Intenso (45 horas)
+2054	Fijar horario	Definir rotina
+2055	normal	normal
+2056	intenso	intenso
+2057	Cambié a un horario de entrenamiento {1}.	Mudei para uma rotina de treino {1}.
+2058	liga	liga
+2059	Ver la tabla de la liga	Ver a classificação da liga
+2060	Consigue un impulso químico	Tome um impulso químico
+2061	Busca tratamiento para una lesión	Procure tratamento pra uma lesão
+2062	Trabaja en tus habilidades	Trabalhe suas habilidades
+2063	retirarse	aposentar-se
+2064	Colgar los tenis	Pendurar as chuteiras
+2065	estadísticas	estatísticas
+2066	Ver tus estadísticas históricas	Ver suas estatísticas históricas
+2067	cirugía	cirurgia
+2068	Someterse a cirugía por una lesión	Fazer cirurgia numa lesão
+2069	traspaso	troca
+2070	Pide un traspaso	Peça uma troca
+2071	entrenar	treinar
+2072	Trabaja tu condición física	Trabalhe seu condicionamento físico
+2073	Un entrenador turbio del gimnasio te ofrece un potenciador de rendimiento. Está prohibido por la liga.	Um treinador suspeito da academia te oferece um estimulante de desempenho. É proibido pela liga.
+2075	Tomé un potenciador de rendimiento.	Tomei um estimulante de desempenho.
+2076	Con todo	Turbinado
+2077	Te sientes más fuerte y rápido que nunca. Ojalá nadie te haga un control.	Você se sente mais forte e rápido do que nunca. Tomara que ninguém te teste.
+2078	No tienes lesiones que necesiten tratamiento.	Você não tem nenhuma lesão que precise de tratamento.
+2079	Mi fisioterapeuta me ayudó a recuperarme de {1}.	Meu fisioterapeuta me ajudou a me recuperar de {1}.
+2080	Como nuevo	Novinho em folha
+2081	La fisioterapia te ayudó a recuperarte de {1}.	A fisioterapia te ajudou a se recuperar de {1}.
+2082	La fisioterapia no arregló mi {1}.	A fisioterapia não resolveu meu {1}.
+2083	Todavía duele	Ainda dói
+2084	Tu fisioterapeuta dice que {1} probablemente necesita cirugía.	Seu fisioterapeuta diz que {1} provavelmente precisa de cirurgia.
+2085	La fisioterapia todavía no ha arreglado {1}.	A fisioterapia ainda não resolveu {1}.
+2086	¡Trabaja en tus habilidades de baloncesto hoy!	Trabalhe suas habilidades de basquete hoje!
+2087	Elige tu enfoque:	Escolha seu foco:
+2088	Practiqué mi {1}.	Treinei meu {1}.
+2089	En el gimnasio	Na academia
+2090	Practicaste tu {1}.	Você treinou seu {1}.
+2091	Practicaste tu {1} otra vez, pero no mejoraste mucho.	Você treinou seu {1} de novo, mas não melhorou muito.
+2092	¿Seguro que quieres retirarte del baloncesto profesional?	Tem certeza de que quer se aposentar do basquete profissional?
+2093	Me retiré del baloncesto profesional después de {1} temporada{2}.	Me aposentei do basquete profissional depois de {1} temporada{2}.
+2094	con el {1}	com o {1}
+2095	Te retiraste del baloncesto profesional después de {1} temporada{2}{3}.	Você se aposentou do basquete profissional depois de {1} temporada{2}{3}.
+2096	Aún no hay temporadas	Ainda não há temporadas
+2097	Juega una temporada primero	Jogue uma temporada primeiro
+2098	Tu temporada {1} como jugador de baloncesto profesional ({2}).	Sua temporada {1} como jogador de basquete profissional ({2}).
+2099	{1} de 30	{1} de 30
+2100	Asistencias por partido	Assistências por jogo
+2101	Tapones por partido	Bloqueios por jogo
+2102	Puntos por partido	Pontos por jogo
+2103	Rebotes por partido	Rebotes por jogo
+2104	Robos por partido	Roubos de bola por jogo
+2105	No tienes lesiones que necesiten cirugía.	Você não tem nenhuma lesão que precise de cirurgia.
+2106	El médico del equipo dice que {1} no necesita cirugía. Prueba con fisioterapia.	O médico do time diz que {1} não precisa de cirurgia. Tente fisioterapia.
+2107	¿Seguro que quieres operarte de {1}?	Tem certeza de que quer operar {1}?
+2108	Me operé con éxito de {1}.	Fiz uma cirurgia bem-sucedida em {1}.
+2109	Cirugía exitosa	Cirurgia bem-sucedida
+2110	La cirugía de {1} fue un éxito.	A cirurgia de {1} foi um sucesso.
+2111	Hubo complicaciones durante mi cirugía de {1}.	Houve complicações durante minha cirurgia de {1}.
+2112	Hubo complicaciones durante tu cirugía. Necesitarás más tiempo para recuperarte.	Houve complicações durante sua cirurgia. Você vai precisar de mais tempo pra se recuperar.
+2113	Mi cirugía de {1} no funcionó.	Minha cirurgia de {1} não funcionou.
+2114	La cirugía no arregló {1}.	A cirurgia não resolveu {1}.
+2115	Ya pediste un traspaso este año.	Você já pediu uma troca este ano.
+2116	Me traspasaron del {1} al {2}.	Fui trocado do {1} pro {2}.
+2117	¡El {1} te traspasó al {2}!	O {1} te trocou pro {2}!
+2118	El {1} rechazó mi solicitud de traspaso.	O {1} negou meu pedido de troca.
+2119	Solicitud denegada	Pedido negado
+2120	El {1} rechazó tu solicitud de traspaso.	O {1} negou seu pedido de troca.
+2121	¡Trabaja tu condición física hoy!	Trabalhe seu condicionamento físico hoje!
+2122	Trabajé en mi entrenamiento de {1}.	Trabalhei no meu treino de {1}.
+2123	Siente el ardor	Sente a queimação
+2124	Hiciste algo de entrenamiento de {1}.	Você fez um treino de {1}.
+2125	Entrenaste tu {1} otra vez, pero tu cuerpo necesita descanso.	Você treinou seu {1} de novo, mas seu corpo precisa de descanso.
+2126	Sufriste {1}.	Você sofreu {1}.
+2127	Haz una prueba para el equipo	Faça um teste pro time
+2128	Estás prohibido de por vida en el {1} por amañar partidos. Ningún equipo puede firmarte.	Você está banido pra sempre do {1} por manipulação de partidas. Nenhum time pode te contratar.
+2129	Estás suspendido del {1} hasta los {2} años.	Você está suspenso do {1} até os {2} anos.
+2130	Acabas de retirarte. Dale un tiempo antes de intentar volver.	Você acabou de se aposentar. Dê um tempo antes de tentar voltar.
+2131	El {1} ya te rechazó este año.	O {1} já te recusou este ano.
+2132	El {1} no te dará una prueba con tu salud actual.	O {1} não vai te dar um teste com sua saúde atual.
+2133	Hice una prueba para el {1}.	Fiz um teste pro {1}.
+2134	El {1} decidió no firmarte después de tu prueba.	O {1} decidiu não te contratar depois do teste.
+2135	Pedir unirse al equipo	Pedir pra entrar no time
+2136	Le pedí al {1} que me traspasara.	Pedi pro {1} me contratar por troca.
+2137	El {1} rechazó mi solicitud para unirme.	O {1} recusou meu pedido pra entrar no time.
+2138	El {1} no está interesado en incluirte en su plantilla por ahora.	O {1} não tá interessado em te colocar no elenco agora.
+2139	El {1} aceptó mi solicitud y me traspasó desde el {2}.	O {1} aceitou meu pedido e me trocou do {2}.
+2140	¡El {1} aceptó tu solicitud! Te traspasaron desde el {2}.	O {1} aceitou seu pedido! Te trocaram do {2}.
+2141	{1}/año, quedan {2} año{3}	{1}/ano, faltam {2} ano{3}
+2142	Ya juegas para el {1}.	Você já joga pelo {1}.
+2143	Debes tener al menos 18 años para hacer una prueba en un equipo profesional.	Você precisa ter pelo menos 18 anos pra fazer teste em time profissional.
+2144	especial	especial
+2145	Me suspendieron por el resto de la temporada.	Fui suspenso pelo resto da temporada.
+2146	Terminé mi temporada {1} como jugador de baloncesto profesional, promediando {2} puntos, {3} rebotes y {4} asistencias con el {5} ({6}-{7}, {8} en el {9}).	Terminei minha temporada {1} como jogador de basquete profissional, com média de {2} pontos, {3} rebotes e {4} assistências pelo {5} ({6}-{7}, {8} na {9}).
+2147	Novato del Año	Novato do Ano
+2148	Jugador Más Valioso	Jogador Mais Valioso
+2149	Jugador Ofensivo del Año	Jogador Ofensivo do Ano
+2150	Jugador Defensivo del Año	Jogador Defensivo do Ano
+2151	Sexto Hombre del Año	Sexto Homem do Ano
+2152	Jugador Más Mejorado	Jogador que Mais Evoluiu
+2153	Me nombraron {2} del {1}.	Fui nomeado o {2} do {1}.
+2154	¡Acabas de terminar tu primera temporada como jugador de baloncesto profesional!	Você acabou de terminar sua primeira temporada como jogador de basquete profissional!
+2155	Acabas de terminar tu temporada {1} como jugador de baloncesto profesional.	Você acabou de terminar sua temporada {1} como jogador de basquete profissional.
+2156	medalla	medalha
+2157	¡Te nombraron {2} del {1} en la temporada {3}!	Você foi nomeado o {2} do {1} na temporada {3}!
+2158	¡Ayudaste a llevar al {1} a un campeonato de {2}!	Você ajudou a levar o {1} a um campeonato de {2}!
+2159	¡Te entregaron un anillo de campeonato!	Você recebeu um anel de campeonato!
+2160	Terminaste la temporada con {1}. Deberías tratarlo.	Você terminou a temporada com {1}. Devia tratar isso.
+2161	Mi contrato con el {1} expiró y nadie me ofreció uno nuevo.	Meu contrato com o {1} expirou, e ninguém me ofereceu um novo.
+2162	Tu contrato con el {1} expiró y ningún equipo quiso firmarte por cómo has estado jugando. Ahora eres agente libre.	Seu contrato com o {1} expirou, e nenhum time quis te contratar pelo jeito que você vinha jogando. Agora você é agente livre.
+2163	Mi contrato con el {1} expiró y el {2} me ofreció uno nuevo.	Meu contrato com o {1} expirou, e o {2} me ofereceu um novo.
+2164	Los oficiales antidopaje de la liga quieren que te hagas un control.	Os oficiais antidoping da liga querem que você faça um exame.
+2166	Diste positivo por una sustancia prohibida	Você deu positivo pra uma substância proibida
+2167	Pasé un control antidopaje de la liga.	Passei no exame antidoping da liga.
+2168	Pasaste el control antidopaje.	Você passou no exame antidoping.
+2169	Cambia la muestra	Troque a amostra
+2170	Cambié mi muestra del control por una limpia.	Troquei minha amostra do exame por uma limpa.
+2171	Cambiaste la muestra por una limpia. Nadie lo notó.	Você trocou por uma amostra limpa. Ninguém percebeu.
+2172	Te pillaron cambiando tu muestra del control	Te pegaram trocando sua amostra do exame
+2173	Niégate al control	Recuse o exame
+2174	Te negaste a hacerte el control antidopaje de la liga	Você se recusou a fazer o exame antidoping da liga
+2175	{1} y fue suspendido del {2} por {3} temporadas.	{1} e foi suspenso do {2} por {3} temporadas.
+2176	{1}. El {2} te suspendió por {3} temporadas.	{1}. O {2} te suspendeu por {3} temporadas.
+2177	Salón de la Fama	Hall da Fama
+2178	¡Fuiste incluido en el Salón de la Fama del {1}!	Você foi incluído no Hall da Fama do {1}!
+2179	Asiste a la ceremonia	Vá à cerimônia
+2180	Asistí a mi ingreso al Salón de la Fama del {1}.	Fui à minha cerimônia de entrada no Hall da Fama do {1}.
+2181	Diste un discurso lleno de lágrimas en tu ceremonia de ingreso al Salón de la Fama.	Você fez um discurso emocionado na sua cerimônia de entrada no Hall da Fama.
+2182	Sáltate la ceremonia	Falte à cerimônia
+2183	Me salté mi ceremonia de ingreso al Salón de la Fama del {1}.	Faltei à minha cerimônia de entrada no Hall da Fama do {1}.
+2184	No se presentó	Não apareceu
+2185	Te saltaste tu ceremonia del Salón de la Fama.	Você faltou à sua cerimônia do Hall da Fama.
+2186	Me quedé fuera de la temporada cumpliendo mi suspensión de la liga.	Fiquei fora da temporada cumprindo minha suspensão da liga.
+2187	{1}, un jugador del equipo rival, dice que no perteneces a la liga profesional.	{1}, um jogador do time adversário, diz que você não tem lugar na liga profissional.
+2188	Responde con insultos	Responda com provocação
+2189	Intercambié insultos con {1}.	Troquei provocações com {1}.
+2191	Tú y {1} se tiraron pullas todo el partido.	Você e {1} trocaram provocações o jogo inteiro.
+2192	Me alejé de los insultos de {1}.	Me afastei das provocações de {1}.
+2193	Más grande que eso	Mais maduro
+2194	Te alejaste. Los fanáticos respetaron tu compostura.	Você se afastou. Os torcedores respeitaram sua postura.
+2195	Lanza un beso	Mande um beijo
+2196	Le lancé un beso a {1}.	Mandei um beijo pra {1}.
+2197	Le lanzaste un beso a {1}. La multitud enloqueció.	Você mandou um beijo pra {1}. A torcida foi à loucura.
+2198	Empujé a {1} y me suspendieron.	Empurrei {1} e fui suspenso.
+2199	Empujaste a {1} y la liga te suspendió por algunos partidos.	Você empurrou {1} e a liga te suspendeu por alguns jogos.
+2200	Empujé a {1} y me expulsaron.	Empurrei {1} e fui expulso.
+2201	Empujaste a {1} y te expulsaron del partido.	Você empurrou {1} e foi expulso do jogo.
+2202	Tu entrenador te acusa de jugar pésima defensa.	Seu técnico te acusa de jogar uma defesa péssima.
+2203	Me disculpé con mi entrenador y trabajé en mi defensa.	Pedi desculpas ao meu técnico e trabalhei na minha defesa.
+2204	Lección aprendida	Lição aprendida
+2205	Te disculpaste y pasaste tiempo extra en ejercicios defensivos.	Você pediu desculpas e passou um tempo extra nos treinos defensivos.
+2206	Discute con el entrenador	Discuta com o técnico
+2207	Discutí con mi entrenador.	Discuti com meu técnico.
+2208	Tu pelea a gritos con el entrenador está en todas las noticias deportivas.	Seu bate-boca com o técnico tá em todas as notícias esportivas.
+2209	Ignoré las críticas de mi entrenador.	Ignorei as críticas do meu técnico.
+2210	Un fanático sentado junto a la cancha grita que eres el jugador más sobrevalorado de la liga.	Um torcedor sentado na beira da quadra grita que você é o jogador mais superestimado da liga.
+2212	Ignoré a un provocador de la cancha.	Ignorei um provocador da beira da quadra.
+2213	Insúltalo	Xingue ele
+2214	Insulté a un provocador.	Xinguei um provocador.
+2215	Mic drop	Mic drop
+2216	Tu respuesta se volvió viral, pero la liga no está nada contenta.	Sua resposta viralizou, mas a liga não achou graça.
+2218	Hice un gesto grosero a un provocador y me multaron.	Fiz um gesto grosseiro pra um provocador e fui multado.
+2219	La liga te multó por tu gesto.	A liga te multou pelo seu gesto.
+2220	Ataca a ese tipo	Ataque ele
+2221	Me metí en las gradas y ataqué a un provocador.	Invadi a arquibancada e ataquei um provocador.
+2222	agresión	agressão
+2223	A las gradas	Na arquibancada
+2224	Atacaste a un fanático. La liga te suspendió y el equipo está furioso.	Você atacou um torcedor. A liga te suspendeu e o time tá furioso.
+2225	Caes mal después de un rebote y te torciste el tobillo.	Você cai torto depois de um rebote e torce o tornozelo.
+2226	Descánsalo	Descanse
+2227	Descansé mi tobillo lastimado.	Descansei meu tornozelo machucado.
+2228	Descansando	Descansando
+2229	Estuviste fuera unas semanas y tu tobillo sanó.	Você ficou fora umas semanas e seu tornozelo sarou.
+2230	Visita al médico del equipo	Visite o médico do time
+2231	Hice que el médico del equipo revisara mi tobillo.	Pedi pro médico do time olhar meu tornozelo.
+2232	Vendado	Enfaixado
+2233	El médico del equipo te vendó. Te perdiste algunos partidos.	O médico do time te enfaixou. Você perdeu alguns jogos.
+2234	Jugué aguantando una lesión de tobillo.	Joguei aguentando uma lesão no tornozelo.
+2235	Jugaste aguantando el dolor y la afición te adoró.	Você jogou aguentando a dor e a torcida adorou.
+2236	un ligamento desgarrado en el tobillo	um ligamento rompido no tornozelo
+2237	Jugué con una lesión de tobillo y la empeoré mucho.	Joguei com uma lesão no tornozelo e piorei muito.
+2238	Jugar con el tobillo convirtió una torcedura en un ligamento desgarrado. Te perderás gran parte de la temporada.	Jogar com o tornozelo transformou uma torção em ligamento rompido. Você vai perder grande parte da temporada.
+2239	Un periodista pregunta si tu equipo puede ganar el campeonato esta temporada.	Um repórter pergunta se seu time pode ganhar o campeonato esta temporada.
+2240	Elogia a mis compañeros	Elogie meus companheiros
+2241	Elogié a mis compañeros en una entrevista después del partido.	Elogiei meus companheiros numa entrevista depois do jogo.
+2242	Presume de mí mismo	Se gabe
+2243	Me jacté de mí mismo en una entrevista después del partido.	Me gabei numa entrevista depois do jogo.
+2244	Mucho alarde	Muita lábia
+2245	Tu fanfarronería es la noticia deportiva principal de la semana.	Sua fanfarronice é a principal notícia esportiva da semana.
+2246	Declina hacer comentarios	Recuse comentar
+2247	Decliné comentar en una entrevista después del partido.	Recusei comentar numa entrevista depois do jogo.
+2248	Un joven fanático llamado {1} se acerca después del partido y te pide un autógrafo.	Um jovem torcedor chamado {1} se aproxima depois do jogo e pede um autógrafo.
+2249	Firmé un autógrafo para un joven fanático llamado {1}.	Dei um autógrafo pra um jovem torcedor chamado {1}.
+2250	Tómate una foto con él	Tire uma foto com ele
+2251	Me tomé una foto con un joven fanático llamado {1}.	Tirei uma foto com um jovem torcedor chamado {1}.
+2252	Favorito de la afición	Favorito da torcida
+2253	{1} nunca lo olvidará.	{1} nunca vai esquecer.
+2254	Me alejé de un joven fanático que pedía un autógrafo.	Me afastei de um jovem torcedor que pedia um autógrafo.
+2255	Un video tuyo alejándote de un niño llorando está circulando en internet.	Um vídeo seu se afastando de uma criança chorando tá circulando na internet.
+2256	Pescaste a tu compañero {1} usando una sustancia prohibida en el vestuario.	Você pegou seu companheiro {1} usando uma substância proibida no vestiário.
+2257	Confronté a mi compañero {1} por dopaje.	Confrontei meu companheiro {1} sobre doping.
+2258	De corazón a corazón	Papo sincero
+2259	{1} prometió parar.	{1} prometeu parar.
+2260	Denuncié a mi compañero {1} por dopaje.	Denunciei meu companheiro {1} por doping.
+2261	{1} fue suspendido. Algunos compañeros piensan que eres un soplón.	{1} foi suspenso. Alguns companheiros acham que você é um X-9.
+2262	Pide compartir	Peça pra dividir
+2263	Le pedí a mi compañero {1} que compartiera {2} sustancias prohibidas.	Pedi pro meu companheiro {1} dividir {2} substâncias proibidas.
+2264	Cómplices	Parceiros do crime
+2265	{1} te dio algunas. Ojalá nadie te haga un control.	{1} te deu algumas. Tomara que ninguém te teste.
+2266	Ignoré a mi compañero {1} que se dopaba.	Ignorei meu companheiro {1} se dopando.
+2267	Bebida del compañero	Bebedeira do companheiro
+2268	Tu compañero {1} ha estado llegando borracho a los entrenamientos.	Seu companheiro {1} tem aparecido no treino bêbado.
+2269	Habla con {1}	Fale com {1}
+2270	Hablé con mi compañero {1} sobre su consumo de alcohol {2}.	Conversei com meu companheiro {1} sobre o consumo de álcool {2}.
+2271	Buen compañero	Bom companheiro
+2272	{1} aceptó buscar ayuda.	{1} concordou em buscar ajuda.
+2273	Dile al entrenador	Conte pro técnico
+2274	Le conté al entrenador sobre la bebida de {1}.	Contei pro técnico sobre a bebedeira de {1}.
+2275	Ignoré el problema de alcohol de mi compañero.	Ignorei o problema de bebida do meu companheiro.
+2276	Me fui de tragos con mi compañero {1}.	Saí pra beber com meu companheiro {1}.
+2277	Llegaste al siguiente entrenamiento con resaca.	Você apareceu no treino seguinte de ressaca.
+2278	Tu compañero {1} está haciendo una gran fiesta en la casa de {2}.	Seu companheiro {1} tá dando uma festa enorme na casa de {2}.
+2279	Ve a la fiesta	Vá pra festa
+2280	Fui a la fiesta de {1}, y fotos mías acabaron en internet.	Fui à festa de {1}, e fotos minhas acabaram na internet.
+2281	Fotos vergonzosas tuyas de la fiesta terminaron en internet.	Fotos constrangedoras suas da festa acabaram na internet.
+2282	Fui a la fiesta de mi compañero {1}.	Fui à festa do meu companheiro {1}.
+2283	Unión de equipo	Integração do time
+2284	Te divertiste muchísimo con tus compañeros.	Você se divertiu muito com seus companheiros.
+2285	Me salté la fiesta de mi compañero {1}.	Faltei à festa do meu companheiro {1}.
+2286	El {1} está interesado en firmarte.	O {1} tá interessado em te contratar.
+2287	Escúchalos	Ouça eles
+2288	Rechacé el interés del {1}.	Recusei o interesse do {1}.
+2289	Tu agente cree que deberías pedir un traspaso.	Seu agente acha que você devia pedir uma troca.
+2290	Quédate con mi equipo	Fique com meu time
+2291	Me mantuve leal a mi equipo.	Fiquei leal ao meu time.
+2292	Un hombre sospechoso que dice tener conexiones con un sindicato del crimen organizado se te acercó afuera del estadio.	Um homem suspeito, que diz ter ligações com uma organização criminosa, se aproximou de você do lado de fora da arena.
+2293	Te ofrece {1} para que juegues mal a propósito en el próximo partido de tu equipo. Te advierte que no le digas a nadie sobre el trato.	Ele está oferecendo {1} pra você jogar mal de propósito no próximo jogo do seu time. Ele avisa pra você não contar a ninguém sobre o acordo.
+2294	Acepta el {1}	Aceite o {1}
+2295	Acepté {1} de un sindicato del crimen organizado para perder un partido de baloncesto a propósito.	Aceitei {1} de uma organização criminosa pra perder um jogo de basquete de propósito.
+2296	Amañar puntos	Manipular os pontos
+2297	Te guardaste {1} y fallaste todos los tiros a propósito.	Você embolsou {1} e errou todos os arremessos de propósito.
+2298	Rechaza la oferta	Recuse a oferta
+2299	Rechacé un soborno para perder un partido.	Recusei um suborno pra perder um jogo.
+2301	Le dijiste al hombre que no te interesaba. Se fue sin decir nada más.	Você disse ao homem que não tinha interesse. Ele foi embora sem dizer mais nada.
+2302	Rechaza y denuncia a las autoridades	Recuse e denuncie às autoridades
+2303	Denuncié un intento de sobornarme con {1} ante las autoridades.	Denunciei às autoridades uma tentativa de me subornar com {1}.
+2304	Denunciaste al hombre sospechoso a las autoridades. La policía empezó a investigar la operación de amaño de partidos.	Você denunciou o homem suspeito às autoridades. A polícia começou a investigar a tentativa de manipulação de partidas.
+2305	Miembros del sindicato del crimen que denuncié me atacaron después del entrenamiento.	Membros da organização criminosa que denunciei me atacaram depois do treino.
+2306	Al salir del entrenamiento, te acorralaron dos miembros de la organización criminal que denunciaste. Te atacaron y te dejaron herido en la acera.	Ao sair do treino de basquete, você foi encurralado por dois membros da organização criminosa que denunciou. Eles te atacaram e te deixaram machucado na calçada.
+2307	una herida de bala	um ferimento de bala
+2308	Un miembro del sindicato del crimen que denuncié me disparó. Apenas sobreviví.	Um membro da organização criminosa que denunciei atirou em mim. Mal sobrevivi.
+2309	Un miembro de la organización criminal que denunciaste te localizó y te disparó. De alguna forma, sobreviviste.	Um membro da organização criminosa que você denunciou te encontrou e atirou em você. De algum jeito, você sobreviveu.
+2310	Un miembro del sindicato del crimen que denuncié me localizó y me disparó.	Um membro da organização criminosa que denunciei me encontrou e atirou em mim.
+2311	Un miembro de la organización criminal que denunciaste te localizó y te disparó.	Um membro da organização criminosa que você denunciou te encontrou e atirou em você.
+2312	Oficiales de la liga descubrieron actividad sospechosa alrededor de tu partido reciente.	Oficiais da liga descobriram atividade suspeita em torno do seu jogo recente.
+2313	Los investigadores creen que aceptaste dinero de un sindicato del crimen organizado para perder a propósito.	Os investigadores acreditam que você aceitou dinheiro de uma organização criminosa pra perder de propósito.
+2314	Soborno aceptado	Suborno aceito
+2315	Sobornos registrados	Subornos registrados
+2316	La liga archivó su investigación de amaño de partidos contra mí.	A liga arquivou a investigação de manipulação de partidas contra mim.
+2317	Caso cerrado	Caso encerrado
+2318	La liga archivó la investigación por falta de pruebas. Aun así, la gente sigue cuchicheando sobre ti.	A liga arquivou a investigação por falta de provas. Mesmo assim, o pessoal ainda fala de você pelas costas.
+2319	Me suspendieron del {1} por {2} temporadas por amañar partidos.	Fui suspenso do {1} por {2} temporadas por manipulação de partidas.
+2320	El {1} te suspendió por {2} temporadas por amañar partidos.	O {1} te suspendeu por {2} temporadas por manipulação de partidas.
+2321	El {1} rescindió mi contrato y el {2} me prohibió de por vida por amañar partidos.	O {1} rescindiu meu contrato, e o {2} me baniu pra sempre por manipulação de partidas.
+2322	Prohibido de por vida	Banido pra sempre
+2323	El {1} rescindió tu contrato y el {2} te prohibió de por vida por amañar partidos.	O {1} rescindiu seu contrato, e o {2} te baniu pra sempre por manipulação de partidas.
+2324	Los fiscales me acusaron de amañar partidos.	Os promotores me acusaram de manipulação de partidas.
+2325	Los fiscales te acusaron de amañar partidos.	Os promotores te acusaram de manipulação de partidas.
+2326	Se están difundiendo rumores en internet de que aceptaste un soborno para perder un partido, y los fanáticos se están volteando contra ti.	Estão se espalhando rumores na internet de que você aceitou suborno pra perder um jogo, e os torcedores estão virando as costas pra você.
+2327	¿Cómo vas a responder a las críticas?	Como você vai responder às críticas?
+2328	Los fanáticos del baloncesto de todo el país están furiosos tras reportes de que aceptaste un soborno para perder a propósito un partido profesional.	Torcedores de basquete do país inteiro estão furiosos depois que surgiram reportagens de que você aceitou suborno pra perder de propósito um jogo profissional.
+2329	Analistas deportivos piden una prohibición de por vida, y miles de tus antiguos seguidores te critican en internet.	Analistas esportivos pedem banimento vitalício, e milhares dos seus antigos apoiadores estão criticando você na internet.
+2330	Pide disculpas al público	Peça desculpas ao público
+2331	Me disculpé públicamente por el escándalo de amaño de partidos, y algunos fanáticos me perdonaron.	Pedi desculpas publicamente pelo escândalo de manipulação de partidas, e alguns torcedores me perdoaram.
+2332	Disculpa aceptada	Desculpas aceitas
+2333	Algunos fanáticos valoraron tu disculpa.	Alguns torcedores aceitaram suas desculpas.
+2334	Me disculpé públicamente por el escándalo de amaño de partidos, pero pocos me creyeron.	Pedi desculpas publicamente pelo escândalo de manipulação de partidas, mas poucas pessoas acreditaram em mim.
+2335	Muy poco, muy tarde	Tarde demais
+2336	La mayoría de los fanáticos no se tragó tu disculpa.	A maioria dos torcedores não comprou suas desculpas.
+2337	Denuncia las críticas	Denuncie as críticas
+2338	Denuncié públicamente a quienes me criticaban por el escándalo de amaño de partidos.	Denunciei publicamente quem me criticava pelo escândalo de manipulação de partidas.
+2339	Denunciaste públicamente a tus críticos.	Você denunciou publicamente seus críticos.
+2340	Tu decisión de criticar públicamente a quienes cuestionan tu integridad ha causado aún más indignación.	Sua decisão de criticar publicamente quem questiona sua integridade causou ainda mais revolta.
+2341	Varios patrocinadores cortaron lazos contigo, y tus antiguos compañeros se niegan a hablarte.	Vários patrocinadores cortaram laços com você, e seus antigos companheiros se recusam a falar com você.
+2342	Los patrocinadores me abandonaron después de que denuncié a mis críticos.	Os patrocinadores me abandonaram depois que denunciei meus críticos.
+2344	Me mantuve en silencio sobre el escándalo de amaño de partidos.	Fiquei em silêncio sobre o escândalo de manipulação de partidas.
+2345	Te negaste a comentar. El escándalo no se va a ir.	Você se recusou a comentar. O escândalo não vai embora.
+2346	un coleccionista de recuerdos deportivos	um colecionador de memorabilia esportiva
+2347	un superfan adinerado	um superfã rico
+2348	una casa de subastas	uma casa de leilões
+2349	un museo deportivo	um museu esportivo
+2350	un gestor de fondos de cobertura que colecciona anillos	um gestor de fundos hedge que coleciona anéis
+2351	el dueño de un equipo rival	o dono de um time rival
+2352	¡El {1} entrega a cada jugador un anillo de campeonato para celebrar la victoria en el campeonato {2}!	O {1} está entregando um anel de campeonato a cada jogador pra comemorar a vitória no campeonato {2}!
+2353	Acepta el anillo	Aceite o anel
+2354	Recibí mi anillo del campeonato {1} del {2}.	Recebi meu anel do campeonato {1} do {2}.
+2355	Te pusiste tu anillo del campeonato {1} en el dedo.	Você colocou seu anel do campeonato {1} no dedo.
+2356	Rechaza el anillo	Recuse o anel
+2357	Rechacé mi anillo de campeonato del {1}.	Recusei meu anel de campeonato do {1}.
+2358	Rechazaste tu anillo de campeonato. Tus compañeros piensan que fue raro.	Você recusou seu anel de campeonato. Seus companheiros acharam estranho.
+2359	Empéñalo ya	Penhore agora
+2360	Empeñé mi anillo del campeonato {1} por {2}.	Penhorei meu anel do campeonato {1} por {2}.
+2361	Empeñaste tu anillo de campeonato por {1}. Los fanáticos no están impresionados.	Você penhorou seu anel de campeonato por {1}. Os torcedores não ficaram impressionados.
+2362	Tu anillo del campeonato {1} {2} del {3}.	Seu anel do campeonato {1} {2} do {3}.
+2363	Empéñalo	Penhore
+2364	¿Seguro que quieres empeñar tu anillo del campeonato {1}?	Tem certeza de que quer penhorar seu anel do campeonato {1}?
+2365	La casa de empeño te dio {1} por tu anillo de campeonato.	A casa de penhores te deu {1} pelo seu anel de campeonato.
+2366	Dónalo al Salón de la Fama	Doe pro Hall da Fama
+2367	¿Seguro que quieres donar tu anillo del campeonato {1} al Salón de la Fama del {2}?	Tem certeza de que quer doar seu anel do campeonato {1} pro Hall da Fama do {2}?
+2368	Doné mi anillo del campeonato {1} al Salón de la Fama del {2}.	Doei meu anel do campeonato {1} pro Hall da Fama do {2}.
+2369	Tu anillo del campeonato {1} ahora está exhibido en el Salón de la Fama del {2}. A los fanáticos les encantó.	Seu anel do campeonato {1} agora está exposto no Hall da Fama do {2}. Os torcedores adoraram.
+2370	Usé mi anillo del campeonato {1} por la ciudad.	Usei meu anel do campeonato {1} pela cidade.
+2371	Usaste tu anillo de campeonato por la ciudad. La gente no dejaba de mirarte.	Você usou seu anel de campeonato pela cidade. As pessoas não paravam de olhar.
+2372	¡Intenta vender tu anillo del campeonato {1} a un coleccionista hoy!	Tente vender seu anel do campeonato {1} pra um colecionador hoje!
+2373	Elige tu precio:	Escolha seu preço:
+2374	Ponlo en subasta	Coloque em leilão
+2375	Nadie pujó por mi anillo de campeonato en {1}.	Ninguém deu lance no meu anel de campeonato em {1}.
+2377	Nadie pujó por tu anillo de campeonato en {1}. Prueba con un precio más bajo.	Ninguém deu lance no seu anel de campeonato em {1}. Tente um preço mais baixo.
+2378	Vendí mi anillo del campeonato {1} a {2} por {3}.	Vendi meu anel do campeonato {1} pra {2} por {3}.
+2379	Vendiste tu anillo del campeonato {1} a {2} por {3}.	Você vendeu seu anel do campeonato {1} pra {2} por {3}.
+2380	Anillo de Campeonato {1}	Anel de Campeonato {1}
+2381	Tienes el balón en la cabeza de la zona con solo {1} segundos restantes en un empate contra el {2}.	Você tem a bola no topo do garrafão com só {1} segundos restantes em um empate contra o {2}.
+2382	Ve por el clavado	Vá pro enterrada
+2383	¡Tiro ganador!	Cesta da vitória!
+2384	¡Rompiste la defensa y clavaste el tiro ganador en la bocina!	Você cortou a defesa e enterrou a cesta da vitória na buzina!
+2385	Fuiste por el clavado, pero te la taparon en el aro cuando se acabó el tiempo.	Você foi pra enterrada, mas levou toco no aro quando o tempo acabou.
+2386	Pasa a un jugador libre	Passe pra um jogador livre
+2387	¡Encontraste a un compañero libre que metió el tiro ganador!	Você achou um companheiro livre, que acertou o arremesso da vitória!
+2388	Te interceptaron el pase y el partido fue a tiempo extra.	Seu passe foi interceptado, e o jogo foi pra prorrogação.
+2389	Haz un pick-and-roll	Faça um pick-and-roll
+2390	Ejecución perfecta	Execução perfeita
+2391	¡El pick-and-roll funcionó perfecto y anotaste la canasta ganadora!	O pick-and-roll funcionou perfeitamente e você marcou a cesta da vitória!
+2392	Desbaratado	Desmontado
+2393	La defensa desbarató el pick-and-roll y se acabó el tiempo.	A defesa desmontou o pick-and-roll, e o tempo acabou.
+2394	Prueba el alley-oop	Tente o alley-oop
+2395	¡La lanzaste alto y tu compañero encestó el alley-oop ganador!	Você lançou alto e seu companheiro enterrou o alley-oop da vitória!
+2396	Fuera del aro	Fora do aro
+2397	El lob del alley-oop salió demasiado alto y rebotó en el tablero.	O lançamento do alley-oop saiu alto demais e bateu na tabela.
+2398	Tienes el balón en el poste bajo, abajo por uno, con solo {1} segundos restantes en un partido contra el {2}.	Você está com a bola no garrafão, perdendo por um, com só {1} segundos restantes num jogo contra o {2}.
+2399	Puro aro	Só rede
+2400	¡Tu tiro de fadeaway entró limpio. ¡Se acabó el partido!	Seu arremesso de fadeaway foi perfeito. Fim de jogo!
+2401	Tu fadeaway se quedó corto.	Seu fadeaway ficou faltando um pouco.
+2402	Drop step	Drop step
+2403	¡Y falta!	E falta!
+2404	¡Hiciste drop step, anotaste la canasta del adelanto y te cobraron falta!	Você fez o drop step, marcou a cesta da virada e sofreu a falta!
+2405	El defensor leyó tu drop step y mandó el tiro de vuelta.	O defensor leu seu drop step e tocou o arremesso pra longe.
+2406	Lo engañaste	Enganou ele
+2407	¡Tu up-and-under engañó al defensor y metiste la canasta ganadora!	Seu up-and-under enganou o defensor, e você fez a cesta da vitória!
+2408	El árbitro te cobró pasos en el up-and-under.	O árbitro marcou passos seu no up-and-under.
+2409	Giro rápido	Giro rápido
+2411	¡Tu giro rápido dejó a tu defensor en el polvo y anotaste la bandeja ganadora!	Seu giro rápido deixou o defensor pra trás e você fez a bandeja da vitória!
+2412	Giraste directo contra un defensor estático y te marcaron falta de ataque.	Você girou direto num defensor parado e levou falta de ataque.
+2413	Tu equipo pierde por un punto con solo {1} segundos restantes en un partido contra el {2} cuando robas el balón. Llevas el balón al otro campo, pero un defensor se metió entre tú y la canasta.	Seu time tá perdendo por um ponto, com só {1} segundos restantes num jogo contra o {2}, quando você rouba a bola. Você avança com a bola, mas um defensor se meteu entre você e a cesta.
+2414	Movimiento de giro	Movimento de giro
+2415	¡Tiro sobre la bocina!	Cesta no buzzer!
+2416	¡Tu giro dejó congelado al defensor y anotaste justo cuando sonó la bocina!	Seu movimento de giro paralisou o defensor, e você marcou quando a buzina tocou!
+2417	La perdiste	Perdeu a bola
+2418	Perdiste el control del balón en tu giro y se acabó el tiempo.	Você perdeu o controle da bola no movimento de giro e o tempo acabou.
+2419	¡Paraste y enterraste el tiro ganador!	Você parou e enterrou o arremesso da vitória!
+2420	Tu tiro de parada salió del aro.	Seu arremesso de parada bateu no aro.
+2421	Tobillos rotos	Tornozelos quebrados
+2422	¡Tu dribling por detrás de la espalda le rompió los tobillos y terminaste la bandeja ganadora!	Seu drible por trás das costas quebrou os tornozelos dele, e você fez a bandeja da vitória!
+2423	El defensor te robó el balón en el dribling por detrás de la espalda.	O defensor roubou a bola do seu drible por trás das costas.
+2424	Pásala a un compañero que viene atrás	Passe pra um companheiro que vem atrás
+2425	¡Tu compañero que venía atrás metió el tiro ganador!	Seu companheiro que vinha atrás acertou o arremesso da vitória!
+2426	Tu compañero falló el tiro libre en la bocina.	Seu companheiro errou o arremesso livre na buzina.
+2427	Tu equipo gana por un punto con solo {1} segundos en el reloj contra el {2}. El jugador que marcas recibe un pase de saque y ataca la canasta.	Seu time tá ganhando por um ponto, com só {1} segundos no relógio contra o {2}. O jogador que você marca recebe o passe de saque e ataca a cesta.
+2428	Ve por el tapón	Vá pro toco
+2429	¡Mandaste su tiro a las gradas para asegurar la victoria!	Você mandou o arremesso dele pra arquibancada e garantiu a vitória!
+2430	Lo faltaste en el intento de tapón, y él metió ambos tiros libres para ganar.	Você faltou nele na tentativa de toco, e ele acertou os dois lances livres pra virar.
+2431	Recibe la falta de ataque	Tome a falta de ataque
+2432	¡Plantaste los pies y te cobraron la falta ofensiva que cerró el partido!	Você firmou os pés e sofreu a falta ofensiva que fechou o jogo!
+2433	Falta de bloqueo	Falta de bloqueio
+2434	El árbitro te cobró una falta de bloqueo y ganaron en la línea de tiros libres.	O árbitro marcou falta de bloqueio em você, e eles venceram na linha de lance livre.
+2435	Defiende de frente	Defenda de frente
+2436	Te quedaste delante de él y forzaste el fallo. ¡Tu equipo ganó!	Você ficou na frente dele e forçou o erro. Seu time venceu!
+2437	Demasiado rápido	Rápido demais
+2438	Te pasó volando para la bandeja ganadora.	Ele passou voando por você e fez a bandeja da vitória.
+2439	Falta a él	Faça falta nele
+2440	Lo faltaste y él falló ambos tiros libres. ¡Tu equipo aguantó!	Você fez falta nele, e ele errou os dois lances livres. Seu time aguentou!
+2441	Frío como el hielo	Frio como gelo
+2442	Lo faltaste y él metió ambos tiros libres con calma para ganar el partido.	Você fez falta nele, e ele acertou os dois lances livres com calma pra ganhar o jogo.
+2443	El partido contra el {1} está empatado con solo {2} segundos restantes, y la defensa manda a un segundo jugador a doblarte.	O jogo contra o {1} tá empatado com só {2} segundos restantes, e a defesa manda um segundo jogador pra te marcar em dobra.
+2444	¡Te elevaste por encima de la doble marca para un clavado ganador!	Você subiu acima da marcação dupla e enterrou a cesta da vitória!
+2446	Jugada inteligente	Jogada inteligente
+2447	¡Encontraste al hombre libre y metió el tiro ganador!	Você achou o cara livre, e ele acertou o arremesso da vitória!
+2448	Fuera de objetivo	Fora do alvo
+2449	Tu pase salió fuera de la cancha.	Seu passe saiu pela lateral.
+2450	Tira por encima de ellos	Arremesse por cima deles
+2451	¡Te elevaste sobre ambos defensores y lo metiste!	Você subiu sobre os dois defensores e enterrou!
+2452	Tu tiro marcado fue un airball. La multitud te cantó.	Seu arremesso marcado foi um airball. A torcida cantou pra você.
+2453	Divide la doble marca	Passe pela marcação dupla
+2454	Por el hueco	Pelo buraco
+2455	¡Dividiste la doble marca y anotaste la bandeja ganadora!	Você passou pela marcação dupla e fez a bandeja da vitória!
+2456	Intentaste dividir la doble marca y te quitaron el balón.	Você tentou passar pela marcação dupla e perdeu a bola.
+2457	Estás en la línea de tiros libres con tu equipo abajo por uno y sin tiempo en el reloj contra el {1}. Tienes dos tiros.	Você está na linha de lance livre com seu time perdendo por um e sem tempo no relógio contra o {1}. Você tem dois arremessos.
+2458	Tómate tu tiempo	Tome seu tempo
+2459	Hielo en las venas	Gelo nas veias
+2460	¡Metiste ambos tiros libres con calma para ganar el partido!	Você acertou os dois lances livres com calma e ganhou o jogo!
+2461	Salió del aro	Bateu no aro
+2462	Metiste el primero, pero el segundo salió del aro. Tiempo extra.	Você acertou o primeiro, mas o segundo bateu no aro. Prorrogação.

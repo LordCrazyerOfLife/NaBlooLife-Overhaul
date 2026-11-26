@@ -1,0 +1,800 @@
+13024	un canal de YouTube vinculado	um canal do YouTube vinculado
+13025	un usuario reutilizado en otra página	um nome de usuário reaproveitado em outro site
+13026	una base de datos filtrada de una filtración antigua	um banco de dados vazado de um vazamento antigo
+13027	una foto etiquetada	uma foto marcada
+13028	Descubrí que {1} es dueño de @{2} en {3}, y conseguí su correo.	Descobri que {1} é dono de @{2} no {3}, e consegui o e-mail dessa pessoa.
+13029	Encontrados	Encontrados
+13030	A través de {1}, descubriste que @{2} pertenece a {3}.	Através de {1}, você descobriu que @{2} pertence a {3}.
+13031	@{1} pertenece a {2}. Ni siquiera responde su equipo.	@{1} pertence a {2}. Nem a equipe responde.
+13032	{1} te bloqueó después de que insistieras con @{2}.	{1} te bloqueou depois que você insistiu com @{2}.
+13033	Hazle una oferta a {1} por su cuenta {2} @{3}.	Faça uma oferta pela conta {2} @{3} de {1}.
+13034	Elige tu oferta:	Escolha sua oferta:
+13035	Enviar oferta	Enviar oferta
+13036	Le escribí a {1} ofreciendo {2} por @{3} en {4}. Nunca respondió.	Mandei um e-mail para {1} oferecendo {2} por @{3} no {4}. Nunca respondeu.
+13037	{1} nunca respondió tu correo sobre @{2}.	{1} nunca respondeu seu e-mail sobre @{2}.
+13038	Sinceramente, me vendría bien la plata ahorita. {1} me sirve, trato hecho.	Sinceramente, eu preciso do dinheiro agora. {1} serve, fechado.
+13039	@{1} vale mucho más que eso. Lo soltaría por {2}, ni un centavo menos.	@{1} vale bem mais que isso. Eu venderia por {2}, nem um centavo a menos.
+13040	{1} respondió por correo: "@{2} vale mucho más que eso. Lo soltaría por {3}, ni un centavo menos."	{1} respondeu por e-mail: "@{2} vale bem mais que isso. Eu venderia por {3}, nem um centavo a menos."
+13041	Eso es mucho más de lo que vale este año. ¿Qué vas a hacer?	Isso é muito mais do que vale este ano. O que você vai fazer?
+13042	{1} quería {2} por @{3} en {4}. Lo ignoré.	{1} queria {2} por @{3} no {4}. Eu ignorei.
+13043	Le ofrecí a {1} {2} por @{3} en {4}. Me pidió que dejara de escribirle.	Ofereci a {1} {2} pela conta @{3} no {4}. Me pediram pra parar de mandar mensagem.
+13044	Deja de escribirme	Para de me mandar mensagem
+13045	Te bloquearon.	Te bloquearam.
+13046	{1} no vende @{2} y te pidió que dejaras de escribirle.{3}	{1} não vende @{2} e pediu pra você parar de entrar em contato.{3}
+13047	{1} no acepta {2} por @{3}, pero dice que la soltaría por {4}.	{1} não aceita {2} por @{3}, mas diz que venderia por {4}.
+13048	{1} quería {2} por @{3} en {4}. Me alejé.	{1} queria {2} por @{3} no {4}. Eu desisti.
+13049	Rechazaste su contraoferta.	Você recusou a contraproposta.
+13050	Le ofrecí a {1} {2} por @{3} en {4}, pero dijo que no.	Ofereci a {1} {2} pela conta @{3} no {4}, mas recusaram.
+13051	{1} no quiere vender @{2}.	{1} não quer vender @{2}.
+13052	Compré la cuenta {1} @{2} de {3} por {4}.	Comprei a conta {1} @{2} de {3} por {4}.
+13053	{1} te vendió @{2} por {3}. Ya está en tus cuentas, con sus {4} {5}.	{1} te vendeu @{2} por {3}. Agora ela está nas suas contas, com {4} {5}.
+13054	Año genial	Ano ótimo
+13055	Buen año	Bom ano
+13056	Año regular	Ano mediano
+13057	Año lento	Ano fraco
+13058	Aún no hay {1}	Ainda não há {1}
+13060	Pidiendo {1} en {2} · publicada {3}	Pedindo {1} em {2} · anunciada {3}
+13061	Publica una cuenta	Anunciar uma conta
+13062	Vende una de tus cuentas por cripto	Venda uma das suas contas por cripto
+13063	En venta {1}	À venda {1}
+13064	resplandor	resplendor
+13065	centelleo	cintilação
+13066	baneado	banido
+13067	en caja	na caixa
+13068	vacío	vazio
+13069	solar	solar
+13070	apollo	apollo
+13071	El {2} REAL de {1} @{3} | {4} seguidores | Solo compradores serios	O {2} REAL de {1} @{3} | {4} seguidores | Só compradores sérios
+13072	{1} verificado @{2} ({3}) | Acceso total	{1} verificado @{2} ({3}) | Acesso total
+13073	[{1}] @{2} | {3} | Sacado del equipo, no preguntes	[{1}] @{2} | {3} | Tirado do time, não pergunte
+13074	{1} de celebridad @{2} | Check azul | Solo con escrow	{1} de celebridade @{2} | Selo azul | Só com escrow
+13075	{1} preverificado @{2} | Check azul incluido	{1} pré-verificado @{2} | Selo azul incluso
+13076	Cuenta {1} verificada @{2} | {3} seguidores	Conta {1} verificada @{2} | {3} seguidores
+13077	[{1}] Check azul @{2} | Barato	[{1}] Selo azul @{2} | Barato
+13078	OG {1}@{2} | {3} | Entrega inmediata	OG {1}@{2} | {3} | Entrega imediata
+13079	{1}{2} @{3} | acceso total, correo cambiable	{1}{2} @{3} | acesso total, e-mail trocável
+13080	[{1}] @{2} | Dueño original | Acepto intermediario	[{1}] @{2} | Dono original | Aceito intermediário
+13081	Usuario {1} raro @{2} | Historial limpio	Usuário {1} raro @{2} | Histórico limpo
+13082	Vendo @{1} ({2}) | Precio en el texto	Vendo @{1} ({2}) | Preço na descrição
+13083	Cuenta @{1} {2} | Venta rápida	Conta @{1} {2} | Venda rápida
+13084	{1} OG @{2} | Vendedor avalado	{1} OG @{2} | Vendedor com avais
+13085	hace {1} minutos	há {1} minutos
+13086	hace {1} horas	há {1} horas
+13087	hace {1} días	há {1} dias
+13088	Vendo @{1} en {2}.	Vendo @{1} no {2}.
+13089	Disponible: @{1} en {2}.	Disponível: @{1} no {2}.
+13090	Soltando @{1} ({2}).	Largando @{1} ({2}).
+13091	Dueño original, acceso total al correo, nada turbio.	Dono original, acesso total ao e-mail, nada suspeito.
+13092	Nombre limpio, nunca baneado, nunca reportado.	Nome limpo, nunca banido, nunca denunciado.
+13093	La tengo desde el día uno, solo que ya no la uso.	Tenho desde o primeiro dia, só que não uso mais.
+13094	Viene con el correo original, lo cambio al tuyo.	Vem com o e-mail original, eu troco pro seu.
+13095	Nada de regateos, sé cuánto vale.	Nada de propostas baixas, sei quanto vale.
+13096	El precio es fijo.	O preço é fixo.
+13097	Acepto ofertas razonables, pero no me hagas perder el tiempo.	Aceito ofertas razoáveis, mas não perca meu tempo.
+13098	Primero que llega, se lo lleva.	Quem chegar primeiro leva.
+13099	Acepto intermediario.	Aceito intermediário.
+13100	Avales en mi perfil.	Avais no meu perfil.
+13101	Solo cripto.	Só cripto.
+13102	Pago yo primero si no tienes avales.	Pago primeiro se você não tiver avais.
+13103	Escríbeme por DM, respondo rápido.	Me chama no DM, respondo rápido.
+13104	{1} cuentas · {2} · {3} hilos	{1} contas · {2} · {3} tópicos
+13105	Todavía no hay hilos. Vuelve el próximo año.	Ainda não há tópicos. Volte no ano que vem.
+13106	La cuenta verificada de {1}	A conta verificada de {1}
+13107	Cuenta verificada	Conta verificada
+13108	. Te llevas la cuenta completa, seguidores y check azul. Lo que pase después es tu problema.	. Você leva a conta inteira, seguidores e selo azul. O que acontecer depois é problema seu.
+13109	{1} · Se unió {2} · {3} publicaciones	{1} · Entrou em {2} · {3} publicações
+13110	Precio pedido	Preço pedido
+13111	Volver a los hilos	Voltar aos tópicos
+13112	Elige una cuenta para vender. Luego pones el precio.	Escolha uma conta para vender. Depois você define o preço.
+13113	Nada para vender	Nada para vender
+13114	No tienes cuentas para publicar.	Você não tem contas para anunciar.
+13115	Todavía no hay cripto	Ainda não há cripto
+13116	Los compradores del mercado pagan en Bitcoin o Ethereum, y ninguno existe todavía.	Os compradores do mercado pagam em Bitcoin ou Ethereum, e nenhum dos dois existe ainda.
+13117	Pon un precio. Si pides mucho, puede quedarse años; si pides poco, se vende rápido.	Defina um preço. Se pedir demais, pode ficar parada por anos; se pedir pouco, vende rápido.
+13118	Precio y moneda:	Preço e moeda:
+13119	Publicar	Anunciar
+13120	Publiqué mi cuenta {1} @{2} en el Username Market por {3}.	Anunciei minha conta {1} @{2} no Username Market por {3}.
+13121	@{1} está a la venta por {2} en {3}. Puede que aparezcan compradores en los próximos años.	@{1} está à venda por {2} em {3}. Compradores podem aparecer nos próximos anos.
+13122	Tu publicación en el Username Market.	Seu anúncio no Username Market.
+13123	Retirar del mercado	Retirar do mercado
+13124	Saqué @{1} del Username Market.	Tirei @{1} do Username Market.
+13125	minutos después de publicarla	minutos depois de anunciar
+13126	Vendí mi cuenta {1} @{2} en el Username Market por {3} ({4}){5}.	Vendi minha conta {1} @{2} no Username Market por {3} ({4}){5}.
+13127	¡Vendido al instante!	Vendido na hora!
+13128	Cuenta vendida	Conta vendida
+13129	@{1} se vendió en cuanto la publicaste. Alguien se lanzó a ese precio.	@{1} vendeu no momento em que você anunciou. Alguém pulou em cima desse preço.
+13130	Un comprador se llevó @{1} en {2}.	Um comprador levou @{1} no {2}.
+13131	Te pagaron {1} ({2}). Ahora está en tu cripto (Activos → Inversiones).	Você recebeu {1} ({2}). Agora está na sua cripto (Ativos → Investimentos).
+13132	Solo cripto	Só cripto
+13133	El Username Market solo acepta {1}. Compra en Activos → Inversiones → Cripto primero.	O Username Market só aceita {1}. Compre antes em Ativos → Investimentos → Cripto.
+13134	No tienes suficiente cripto	Cripto insuficiente
+13135	@{1} cuesta {2}. No tienes tanto {3}.	@{1} custa {2}. Você não tem tanto {3}.
+13136	Compra el usuario {1} @{2} en el Username Market.	Compre o nome de usuário {1} @{2} no Username Market.
+13137	Paga con y pon en:	Pague com e coloque em:
+13138	una cuenta {1} nueva	uma conta {1} nova
+13139	Ya no tienes suficiente {1}.	Você não tem mais {1} suficiente.
+13140	Compré la cuenta {2} de {1} @{3} en el Username Market por {4} ({5}).	Comprei a conta {2} de {1} @{3} no Username Market por {4} ({5}).
+13141	verificada	verificada
+13142	Compré el {1}{2} {3} @{4} en el Username Market por {5} ({6}).	Comprei o {1}{2} {3} @{4} no Username Market por {5} ({6}).
+13143	Ya es tuya	Agora é sua
+13144	Pagaste {1} por la cuenta verificada {3} de {2}, @{4}, con {5} seguidores.	Você pagou {1} pela conta {3} verificada de {2}, @{4}, com {5} seguidores.
+13145	El equipo de {1} la va a estar buscando.	A equipe de {1} vai estar procurando.
+13146	Tu cuenta @{1} ahora es @{2}.	Sua conta @{1} agora é @{2}.
+13147	, con check azul y todo	, com selo azul e tudo
+13148	Está en una cuenta {1} nueva{2}.	Está numa conta {1} nova{2}.
+13149	Pagaste {1} por @{2}.{3}	Você pagou {1} por @{2}.{3}
+13150	Parte de ese {1} vino de tu SIM swap. Los investigadores pueden seguirlo hasta @{2} y luego hasta el correo donde esté.	Parte desse {1} veio do seu SIM swap. Os investigadores podem rastrear até @{2} e depois até o e-mail onde ele estiver.
+13151	Dueño de servidor asociado	Dono de servidor parceiro
+13152	Gold Bug Hunter	Gold Bug Hunter
+13153	Desarrollador de bot verificado temprano	Desenvolvedor de bot verificado inicial
+13154	Exalumno de los programas de moderación	Ex-aluno dos programas de moderação
+13155	Conocido originalmente como	Conhecido originalmente como
+13156	Completó una misión	Completou uma missão
+13157	rubí	rubi
+13158	esmeralda	esmeralda
+13159	platino	platina
+13160	bronce	bronze
+13161	staff	staff
+13162	temprano	inicial
+13163	Nitro {1} ({2} meses)	Nitro {1} ({2} meses)
+13164	nitro	nitro
+13165	Nitro ({1} meses)	Nitro ({1} meses)
+13166	Impulsor de servidor ({1} meses)	Impulsionador de servidor ({1} meses)
+13167	misión	missão
+13168	Turbo Builders Club	Turbo Builders Club
+13169	Outrageous Builders Club	Outrageous Builders Club
+13170	año	ano
+13171	mes	mês
+13172	Casco de Builders Club	Capacete do Builders Club
+13173	Casco de Turbo Builders Club	Capacete do Turbo Builders Club
+13174	Casco de Outrageous Builders Club	Capacete do Outrageous Builders Club
+13175	Lo conseguiste en {1}	Você conseguiu em {1}
+13176	Llega en {1}	Chega em {1}
+13177	Robux · compra más	Robux · compre mais
+13178	Cambia Tix por Robux ({1} Tix = R$ 1)	Troque Tix por Robux ({1} Tix = R$ 1)
+13179	club	clube
+13180	Suscríbete a Premium	Assine o Premium
+13181	Únete a Builders Club	Entre no Builders Club
+13182	Tienes R$ {1}.	Você tem R$ {1}.
+13183	¡Compra más Robux hoy!	Compre mais Robux hoje!
+13184	Elige un paquete:	Escolha um pacote:
+13185	Necesitas {1} para R$ {2}.	Você precisa de {1} para R$ {2}.
+13186	Compré R$ {1} en Roblox por {2}.	Comprei R$ {1} no Roblox por {2}.
+13187	Compraste R$ {1}. Ahora tienes R$ {2}.	Você comprou R$ {1}. Agora você tem R$ {2}.
+13188	Tienes {1} Tix. La tasa de este año es {2} Tix por R$ 1.	Você tem {1} Tix. A taxa deste ano é {2} Tix por R$ 1.
+13189	Cambiar todos mis Tix	Trocar todos os meus Tix
+13190	No tienes suficientes Tix	Tix insuficientes
+13191	Necesitas al menos {1} Tix para obtener R$ 1.	Você precisa de pelo menos {1} Tix para ganhar R$ 1.
+13192	Cambié mis Tix por R$ {1} en Roblox.	Troquei meus Tix por R$ {1} no Roblox.
+13193	Cambiaste {1} Tix por R$ {2}.	Você trocou {1} Tix por R$ {2}.
+13194	Eres miembro {1} de por vida ({2}), transferido de tu Lifetime Builders Club.	Você é membro {1} vitalício ({2}), transferido do seu Lifetime Builders Club.
+13195	Eres miembro {1} ({2}). Se renueva cada año por {3}.	Você é membro {1} ({2}). Renova todo ano por {3}.
+13196	Cancelar membresía	Cancelar assinatura
+13197	Cancelé mi membresía {1}.	Cancelei minha assinatura {1}.
+13198	Ya no eres miembro {1}.	Você não é mais membro {1}.
+13199	Suscríbete a Roblox Premium y recibe Robux cada mes.	Assine o Roblox Premium e receba Robux todo mês.
+13200	Elige una membresía:	Escolha uma assinatura:
+13201	Necesitas {1}.	Você precisa de {1}.
+13202	Me uní a {1} en Roblox y obtuve el {2}.	Entrei no {1} no Roblox e ganhei o {2}.
+13203	Ahora eres miembro {1}. Recibiste R$ {2} este año, y el {3} está en tu inventario.	Agora você é membro {1}. Você recebeu R$ {2} este ano, e o {3} está no seu inventário.
+13204	de por vida	vitalício
+13205	lugares	lugares
+13206	equipamiento	equipamento
+13207	Equipo de bonificación	Item de equipamento bônus
+13208	bono	bônus
+13209	100 R$ por la compra inicial	100 R$ pela compra inicial
+13210	grupos	grupos
+13211	unirse	entrar
+13212	insignias	emblemas
+13213	beta	beta
+13214	Funciones beta de BC	Recursos beta do BC
+13215	Para más información, lee nuestras	Para mais informações, leia nossas
+13216	Preguntas frecuentes de Builders Club	Perguntas frequentes do Builders Club
+13217	Todos los artículos y equipamiento son virtuales.	Todos os itens e equipamentos são virtuais.
+13218	Todas las ventas son definitivas. Consulta nuestras	Todas as vendas são finais. Veja nossas
+13219	para más información.	para mais informações.
+13220	clásico	clássico
+13221	turbo	turbo
+13222	descarado	absurdo
+13223	Bono de registro*	Bônus de inscrição*
+13224	Mejora a ROBLOX Builders Club	Faça upgrade para o ROBLOX Builders Club
+13225	* El bono de registro es solo para la primera compra de membresía.	* O bônus de inscrição vale só para a primeira compra de assinatura.
+13226	Eres un	Você é um
+13227	Tu membresía nunca vence.	Sua assinatura nunca expira.
+13228	Termina en tu próximo cumpleaños.	Termina no seu próximo aniversário.
+13229	Se renueva en tu próximo cumpleaños por {1}.	Renova no seu próximo aniversário por {1}.
+13230	Cancelar renovación	Cancelar renovação
+13231	Desactivé la renovación de mi membresía {1}.	Desativei a renovação da minha assinatura {1}.
+13232	Tu {1} no se renovará. Termina en tu próximo cumpleaños.	Seu {1} não vai renovar. Termina no seu próximo aniversário.
+13233	Ya eres miembro	Você já é membro
+13234	Ya tienes {1} ({2}).	Você já tem {1} ({2}).
+13235	Miembro de por vida	Membro vitalício
+13236	Ya tienes {1} de por vida. Nunca vence.	Você já tem {1} vitalício. Nunca expira.
+13237	Esto reemplaza tu {1} ({2}). Las membresías no son reembolsables.	Isso substitui seu {1} ({2}). Assinaturas não são reembolsáveis.
+13238	¿Comprar {1} ({2}) por {3}?{4}	Comprar {1} ({2}) por {3}?{4}
+13239	Necesitas {1} para {2} ({3}).	Você precisa de {1} para {2} ({3}).
+13240	Compré {1} ({2}) en Roblox por {3} y obtuve el {4}.	Comprei {1} ({2}) no Roblox por {3} e ganhei o {4}.
+13241	¡Bienvenido a Builders Club!	Bem-vindo ao Builders Club!
+13242	(incluido el bono de registro de R$ 100)	(incluindo o bônus de inscrição de R$ 100)
+13243	Ahora eres miembro {1} ({2}).	Agora você é membro {1} ({2}).
+13244	Recibiste R$ {1}{2}, y el {3} está en tu inventario.	Você recebeu R$ {1}{2}, e o {3} está no seu inventário.
+13245	alquilar	alugar
+13246	DVD ilimitados (3 a la vez)	DVDs ilimitados (3 por vez)
+13247	DVD ilimitados + Ver al instante	DVDs ilimitados + Assistir na hora
+13248	Harry Potter and the Sorcerer's Stone	Harry Potter and the Sorcerer's Stone
+13249	The Return of the King	The Return of the King
+13250	Pirates of the Caribbean	Pirates of the Caribbean
+13251	The Dark Knight	The Dark Knight
+13252	House of Cards	House of Cards
+13253	Orange Is the New Black	Orange Is the New Black
+13254	The Queen's Gambit	The Queen's Gambit
+13255	KPop Demon Hunters	KPop Demon Hunters
+13256	Hulu (gratis con anuncios)	Hulu (grátis com anúncios)
+13257	plus	plus
+13258	Hulu (con anuncios)	Hulu (com anúncios)
+13259	Saturday Night Live	Saturday Night Live
+13260	The Handmaid's Tale	The Handmaid's Tale
+13261	Only Murders in the Building	Only Murders in the Building
+13262	The Lion King	The Lion King
+13263	Avengers: Infinity War	Avengers: Infinity War
+13264	Toy Story 4	Toy Story 4
+13265	Inside Out 2	Inside Out 2
+13266	Daredevil: Born Again	Daredevil: Born Again
+13267	No suscrito	Não assinado
+13268	Tu cuenta	Sua conta
+13269	· miembro desde {1}	· membro desde {1}
+13270	plan	plano
+13271	· se renueva en tu cumpleaños	· renova no seu aniversário
+13272	ver	assistir
+13273	Transmite una película o serie	Assista a um filme ou série
+13274	Recibe un DVD por correo	Receba um DVD pelo correio
+13275	Suscríbete primero	Assine primeiro
+13276	Estás en {1} ({2}).	Você está no {1} ({2}).
+13277	Tu membresía fue cancelada	Sua assinatura foi cancelada
+13278	Lamentamos verte partir. Puedes reactivar tu membresía cuando quieras.	Lamentamos sua saída. Você pode reativar sua assinatura a qualquer momento.
+13279	Tu membresía {1} fue cancelada.	Sua assinatura {1} foi cancelada.
+13280	Ahora pagas por el año.	Agora você paga pelo ano.
+13281	Reactivar membresía	Reativar assinatura
+13282	Necesitas {1} para un año de {2}.	Você precisa de {1} para um ano de {2}.
+13283	Reactivé mi membresía {1}.	Reativei minha assinatura {1}.
+13284	Tu membresía {1} está activa otra vez. ¡Disfrútala!	Sua assinatura {1} está ativa de novo. Aproveite!
+13285	({1} por el año)	({1} pelo ano)
+13286	Tu membresía {1} está activa otra vez{2}.	Sua assinatura {1} está ativa de novo{2}.
+13287	Vi {1} en {2}.	Assisti {1} no {2}.
+13288	Netflix y chill	Netflix e chill
+13289	Hora del maratón	Hora da maratona
+13290	Viste {1} en {2}.	Você assistiu {1} no {2}.
+13291	Alquilé {1} en {2}. El DVD llegó por correo y lo vi.	Aluguei {1} na {2}. O DVD chegou pelo correio e eu assisti.
+13292	Noche de película	Noite de filme
+13293	El DVD de {1} llegó en su sobre rojo. Lo viste y lo devolviste por correo.	O DVD de {1} chegou no envelope vermelho. Você assistiu e mandou de volta pelo correio.
+13294	El primer mes es gratis.	O primeiro mês é grátis.
+13295	Me suscribí a {1} ({2}).{3}	Me inscrevi no {1} ({2}).{3}
+13296	Agrega películas a tu cola y te enviamos DVDs.	Adicione filmes à sua fila e enviaremos DVDs pelo correio.
+13297	Empieza a ver en cualquier pantalla.	Comece a assistir em qualquer tela.
+13298	Tu mes gratis de {1} empieza hoy. Después cuesta {2}. {3}	Seu mês grátis de {1} começa hoje. Depois custa {2}. {3}
+13299	{1} está listo. Empieza a ver en cualquier pantalla.	{1} está pronto. Comece a assistir em qualquer tela.
+13300	¡Te extrañamos!	Sentimos sua falta!
+13301	Vuelve a {1}. {2} te está esperando.	Volte para {1}. {2} está esperando por você.
+13302	Mi membresía {1} se canceló porque falló mi pago.	Minha assinatura {1} foi cancelada porque meu pagamento falhou.
+13303	Tu pago fue rechazado	Seu pagamento foi recusado
+13304	No pudimos cobrar tu tarjeta, así que tu membresía está en pausa. Actualiza tu pago para seguir viendo.	Não conseguimos cobrar seu cartão, então sua assinatura está suspensa. Atualize o pagamento para continuar assistindo.
+13305	Cambios en tu plan	Mudanças no seu plano
+13306	Los DVDs ya no están incluidos.	DVDs não estão mais incluídos.
+13307	¡Ahora puedes ver al instante en tu computadora!	Agora você pode assistir na hora no seu computador!
+13308	Ahora estás en {1}{2}.{3}	Agora você está no {1}{2}.{3}
+13310	{1} se va a {2}.	{1} vai para {2}.
+13311	Nuevo en {1}	Novidade no {1}
+13312	{1} ya está en streaming. Míralo esta noche.	{1} já está no ar. Assista hoje à noite.
+13313	{1}, elegimos algo para ti	{1}, escolhemos algo pra você
+13314	Creemos que te va a encantar {1}.	Achamos que você vai amar {1}.
+13315	Tu recibo de {1}	Seu recibo do {1}
+13316	Gracias por ser miembro. Se te cobraron {1} este mes.	Obrigado por ser membro. Você foi cobrado em {1} neste mês.
+13317	Tu DVD ya fue enviado	Seu DVD foi enviado
+13318	{1} va en camino. Debería llegar en 1-2 días hábiles.	{1} está a caminho. Deve chegar em 1 a 2 dias úteis.
+13319	Recibimos tu DVD	Recebemos seu DVD
+13320	Recibimos {1}. Tu siguiente película se envía hoy.	Recebemos {1} de volta. Seu próximo filme é enviado hoje.
+13321	Tu cuenta {1} es para ti y las personas con las que vives.	Sua conta {1} é para você e para as pessoas com quem você mora.
+13322	¿Compartes fuera de tu casa? Agrega un miembro extra a tu plan.	Compartilhar fora da sua casa? Adicione um membro extra ao seu plano.
+13323	¡Llegó Builders Club!	Chegou o Builders Club!
+13324	16 de agosto de 2007	16 de agosto de 2007
+13325	Esta es la actualización más grande que ROBLOX ha tenido. Nuestros jugadores de siempre saben que llevamos meses construyendo Builders Club, y hoy por fin está abierto para todos.	Esta é a maior atualização que o ROBLOX já teve. Nossos jogadores de longa data sabem que estamos construindo o Builders Club há meses, e hoje ele finalmente está aberto para todos.
+13326	ROBLOX sigue siendo gratis, y puedes pasarla genial sin gastar nada. Builders Club es nuestra membresía premium para quienes quieren hacer más.	O ROBLOX continua grátis, e você pode se divertir muito sem gastar nada. O Builders Club é nossa assinatura premium para quem quer fazer mais.
+13327	El gran beneficio: hasta 10 lugares en una cuenta. También puedes poner tus creaciones (camisetas, por ahora) en el Catálogo y venderlas. Los miembros reciben 15 ROBUX cada día y nunca ven anuncios externos en ROBLOX.com. Si cancelas o se vence, conservas los 10 lugares.	O grande benefício: até 10 lugares em uma conta. Você também pode colocar suas criações (camisetas, por enquanto) no Catálogo e vendê-las. Os membros recebem 15 ROBUX por dia e nunca veem anúncios externos no ROBLOX.com. Se você cancelar ou deixar expirar, mantém os 10 lugares.
+13328	Para más detalles, revisa el	Para mais detalhes, confira o
+13329	¿Por qué unirse a Builders Club?	Por que entrar no Builders Club?
+13330	Hasta 10 lugares en una cuenta	Até 10 lugares em uma conta
+13331	Vende tus creaciones en el Catálogo de ROBLOX	Venda suas criações no Catálogo do ROBLOX
+13332	Sin anuncios externos en ROBLOX.com	Sem anúncios externos no ROBLOX.com
+13333	El casco de construcción exclusivo de Builders Club	O capacete de construção exclusivo do Builders Club
+13334	También agregamos	Também adicionamos
+13335	15 sombreros nuevos	15 chapéus novos
+13336	al Catálogo, la mayor cantidad que hemos lanzado de una vez. ¡Disfruten!	ao Catálogo, a maior quantidade que já lançamos de uma vez. Aproveitem!
+13337	Gracias a todos los que han estado con nosotros desde el principio. Viene mucho más pronto, así que sigan enviando sus	Obrigado a todos que estão com a gente desde o início. Muito mais está chegando em breve, então continuem enviando seus
+13338	comentarios	feedback
+13339	- El equipo de ROBLOX	- Equipe do ROBLOX
+13340	news@roblox.com	news@roblox.com
+13341	Mi membresía {1} {2}.	Minha assinatura {1} {2}.
+13342	terminó	acabou
+13343	se venció porque no pude pagar	acabou porque eu não consegui pagar
+13344	Roblox descontinuó Builders Club. Mi {1} se convirtió en Roblox {2}.	O Roblox descontinuou o Builders Club. Meu {1} virou Roblox {2}.
+13345	Builders Club desapareció	O Builders Club acabou
+13346	, gratis de por vida	, grátis para sempre
+13347	Roblox descontinuó Builders Club. Tu membresía {1} ahora es Roblox {2}{3}.	O Roblox descontinuou o Builders Club. Sua assinatura {1} agora é Roblox {2}{3}.
+13348	Mi Roblox Premium se venció porque no pude pagar.	Meu Roblox Premium acabou porque eu não consegui pagar.
+13349	Roblox quitó los Tix. Mis {1} Tix se convirtieron en R$ {2}.	O Roblox removeu os Tix. Meus {1} Tix viraram R$ {2}.
+13350	Roblox eliminó los Tix. Tus {1} Tix se convirtieron en R$ {2}.	O Roblox acabou com os Tix. Seus {1} Tix foram convertidos em R$ {2}.
+13351	perfil	perfil
+13352	Perfil e insignias	Perfil e emblemas
+13353	{1} insignias · valen ~{2}	{1} emblemas · valem ~{2}
+13354	Llega en 2017	Chega em 2017
+13355	Suscrito · {1} meses	Assinante · {1} meses
+13356	Suscríbete a Nitro	Assine o Nitro
+13357	impulso	impulso
+13358	Llega en 2019	Chega em 2019
+13359	Impulsando · {1} meses	Impulsionando · {1} meses
+13360	Impulsa un servidor	Impulsione um servidor
+13361	Crea un bot	Crie um bot
+13362	{1} (verificado · {2} servidores)	{1} (verificado · {2} servidores)
+13363	· verifica antes de {1} para la insignia temprana	· verifique antes de {1} para o emblema inicial
+13364	Crea un bot (verifícalo antes de {1} para una insignia rara)	Crie um bot (verifique antes de {1} para um emblema raro)
+13365	Crea un bot de Discord	Crie um bot do Discord
+13366	{1} error{2} encontrado	{1} bug{2} encontrado
+13367	Abre en {1}	Abre em {1}
+13368	El programa Bug Hunter cerró en {1}	O programa Bug Hunter fechou em {1}
+13369	Busca bugs (hasta {1})	Caça bugs (até {1})
+13370	El programa terminó en {1}	O programa acabou em {1}
+13371	Haz el curso de moderación (hasta {1})	Faça o curso de moderação (até {1})
+13372	hype	hype
+13373	Únete a una casa de HypeSquad	Entre numa casa do HypeSquad
+13374	Llega en 2024	Chega em 2024
+13375	un impulso de servidor	um impulso de servidor
+13376	Estás suscrito. Se renueva cada año por {1}.	Você está assinando. Renova todo ano por {1}.
+13377	Tu insignia de Nitro evoluciona mientras la mantengas.	Seu emblema Nitro evolui quanto mais tempo você mantiver a assinatura.
+13378	Tu insignia evoluciona mientras la mantengas.	Seu emblema evolui quanto mais tempo você mantiver a assinatura.
+13379	Suscríbete a {1} por {2} al año.{3}	Assine o {1} por {2} por ano.{3}
+13380	Cancelar suscripción	Cancelar assinatura
+13381	Suscribirse ({1}/año)	Assinar ({1}/ano)
+13382	Cancelé mi {1} de Discord.	Cancelei meu {1} do Discord.
+13383	Tu suscripción fue cancelada. Tus meses hasta ahora cuentan si vuelves.	Sua assinatura foi cancelada. Seus meses até agora ainda contam se você voltar.
+13384	Me suscribí a {1} de Discord por {2}.	Assinei o {1} do Discord por {2}.
+13385	Te suscribiste por {1}. Se renueva cada año mientras puedas pagarlo.	Você assinou por {1}. Renova todo ano enquanto você puder pagar.
+13386	Ya estás programando	Já programando
+13387	Ya trabajaste en tu bot este año.	Você já trabalhou no seu bot este ano.
+13388	Necesitas tener al menos 13 años para crear un bot de Discord.	Você precisa ter pelo menos 13 anos para criar um bot do Discord.
+13389	Está verificado.	Está verificado.
+13390	Los bots en más de 75 servidores pueden solicitar verificación.	Bots em mais de 75 servidores podem pedir verificação.
+13391	Tu bot está en {1} servidores.{2}	Seu bot está em {1} servidores.{2}
+13392	Trabájalo	Trabalhe nele
+13393	Solicita verificación	Solicite verificação
+13394	¡Mi bot de Discord {1} fue verificado!	Meu bot do Discord {1} foi verificado!
+13395	Bot verificado	Bot verificado
+13396	Ganaste la insignia de Desarrollador de bot verificado temprano.	Você ganhou o emblema de Desenvolvedor de bot verificado inicial.
+13397	{1} ya es un bot verificado.{2}	{1} agora é um bot verificado.{2}
+13398	Discord rechazó la verificación de mi bot {1}.	O Discord recusou a verificação do meu bot {1}.
+13399	Discord rechazó tu solicitud de verificación. Intenta otra vez el próximo año.	O Discord recusou seu pedido de verificação. Tente de novo no ano que vem.
+13400	Trabajé en mi bot de Discord {1}. Ahora está en {2} servidores.	Trabalhei no meu bot do Discord {1}. Agora ele está em {2} servidores.
+13401	Lanzaste una actualización	Você lançou uma atualização
+13402	{1} creció a {2} servidores.	{1} cresceu para {2} servidores.
+13403	Bot de música	Bot de música
+13404	Bot de moderación	Bot de moderação
+13405	Bot de niveles	Bot de níveis
+13406	Bot de soporte por tickets	Bot de suporte por tickets
+13407	Bot de chat con IA	Bot de chat com IA
+13408	Bot de juego de economía	Bot de jogo de economia
+13409	Bot de memes	Bot de memes
+13410	Bot de precios de cripto	Bot de preço de cripto
+13411	Bot de batallas de mascotas	Bot de batalhas de mascotes
+13412	Bot de recordatorios	Bot de lembretes
+13413	Piensa en una idea para un bot de Discord. Una buena idea en el año correcto despega.	Pense numa ideia pra um bot do Discord. Uma boa ideia no ano certo decola.
+13414	Elige tu idea:	Escolha sua ideia:
+13415	Construí un {1} de Discord llamado {2}. Está en {3} servidores.	Criei um {1} do Discord chamado {2}. Ele está em {3} servidores.
+13416	Despegó	Decolou
+13417	¡Puedes solicitar verificación!	Você pode pedir verificação!
+13418	Creaste {1}, un {2}. Está en {3} servidores.{4}	Você criou {1}, um {2}. Ele está em {3} servidores.{4}
+13419	El programa Bug Hunter va de {1} a {2}.	O programa Bug Hunter vai de {1} a {2}.
+13420	Ya buscaste	Já procurou
+13421	Ya buscaste bugs este año.	Você já caçou bugs este ano.
+13422	Encontré un bug en Discord y lo reporté.	Encontrei um bug no Discord e reportei.
+13423	¡Gané la insignia Gold Bug Hunter!	Ganhei o emblema Gold Bug Hunter!
+13424	¡Gané la insignia Bug Hunter!	Ganhei o emblema Bug Hunter!
+13425	Encontraste un bug real y lo reportaste a Discord. ¡Ganaste la insignia {1}Bug Hunter!	Você encontrou um bug real e reportou ao Discord. Você ganhou o emblema {1}Bug Hunter!
+13426	Pasé horas buscando bugs en Discord, pero no encontré nada.	Passei horas procurando bugs no Discord, mas não achei nada.
+13427	Buscaste durante horas pero no encontraste bugs que valieran la pena reportar.	Você procurou por horas, mas não achou nenhum bug que valesse a pena reportar.
+13428	Ya aprobaste el curso de moderación.	Você já passou no curso de moderação.
+13429	La Academia de Moderadores fue de {1} a {2}.	A Academia de Moderadores foi de {1} a {2}.
+13430	El próximo año	Ano que vem
+13431	Puedes repetir el curso el próximo año.	Você pode fazer o curso de novo no ano que vem.
+13432	Aprobé el curso de la Academia de Moderadores de Discord.	Passei no curso da Academia de Moderadores do Discord.
+13433	¡Aprobaste el curso de moderación y ganaste la insignia de Exalumno de los programas de moderación!	Você passou no curso de moderação e ganhou o emblema de Ex-aluno dos programas de moderação!
+13434	Reprobé el curso de moderación de Discord.	Reprovei no curso de moderação do Discord.
+13435	Reprobaste el examen de moderación. Puedes intentarlo el próximo año.	Você foi reprovado no exame de moderação. Pode tentar de novo no ano que vem.
+13436	Haz el quiz y únete a una casa de HypeSquad.	Faça o quiz e entre numa casa do HypeSquad.
+13437	Elige tu casa:	Escolha sua casa:
+13438	Unirse a la casa	Entrar na casa
+13439	brillantez	brilhantismo
+13440	equilibrio	equilíbrio
+13441	Me uní a HypeSquad {1} en Discord.	Entrei no HypeSquad {1} no Discord.
+13442	Te uniste a {1}.	Você entrou no {1}.
+13444	Ya completaste una misión este año.	Você já completou uma missão este ano.
+13445	Completé una misión de Discord jugando {1}.	Completei uma missão do Discord jogando {1}.
+13446	Misión completada	Missão concluída
+13447	Completaste una misión.	Você completou uma missão.
+13448	¡Ganaste la insignia de misión!	Você ganhou o emblema de missão!
+13449	¡Ganaste la insignia de Aprendiz de Orbs!	Você ganhou o emblema de Aprendiz de Orbs!
+13450	Todavía no hay insignias	Ainda não há emblemas
+13451	Miembro desde:	Membro desde:
+13452	Solicitudes de amistad:	Pedidos de amizade:
+13453	Valor de la cuenta:	Valor da conta:
+13454	Discord cambió a nombres de usuario únicos.	O Discord mudou para nomes de usuário únicos.
+13455	Alguien con una cuenta más antigua se quedó con @{1}, así que ahora soy @{2}.	Alguém com uma conta mais antiga pegou @{1}, então agora sou @{2}.
+13456	Nombres de usuario únicos	Nomes de usuário únicos
+13457	¡Conservaste @{1}!	Você manteve @{1}!
+13458	Alguien con una cuenta más antigua se quedó primero con @{1}, así que eres @{2}.	Alguém com uma conta mais antiga pegou @{1} primeiro, então você é @{2}.
+13459	Discord eliminó las etiquetas #1234. {1}	O Discord acabou com as tags #1234. {1}
+13460	Este año los nombres raros están disponibles. Cambia tu nombre de usuario antes de que se acaben.	Este ano os nomes raros estão disponíveis. Mude seu nome de usuário antes que acabem.
+13461	Mi {1} de Discord se venció porque no pude pagar.	Meu {1} do Discord acabou porque eu não consegui pagar.
+13462	Mi servidor de Discord fue aceptado en el Programa de Socios.	Meu servidor do Discord foi aceito no Programa de Parceiros.
+13463	Trabajar en Discord me dio la insignia de Staff y {1} seguidores nuevos en @{2}.	Trabalhar no Discord me deu o emblema de Staff e {1} seguidores novos em @{2}.
+13464	Nombres de usuario anteriores:	Nomes de usuário anteriores:
+13465	Sobre mí:	Sobre mim:
+13466	Ganancias totales:	Ganhos totais:
+13467	Años activo:	Anos ativo:
+13468	Salud mental	Saúde mental
+13469	Tu salud mental lleva años baja. Cada vez cuesta más sentirte mejor en cualquier cosa.	Sua saúde mental está baixa há anos. Está cada vez mais difícil se sentir bem em qualquer coisa.
+13470	La terapia puede ayudar (Actividades → Terapia).	A terapia pode ajudar (Atividades → Terapia).
+13471	Tu mente se está yendo. Tu salud lo está sufriendo.	Sua mente está escapando. Sua saúde está sofrendo por isso.
+13472	La terapia es lo único que de verdad lo puede bajar.	A terapia é a única coisa que realmente vai fazer isso baixar.
+13473	Tu {1} ya dijo que no este año. Pregunta otra vez el próximo año.	Seu {1} já disse não este ano. Pergunte de novo no ano que vem.
+13474	terapeuta	terapeuta
+13475	psiquiatra	psiquiatra
+13476	No se te cobrará (salud pública)	Você não será cobrado (saúde pública)
+13477	No se te cobrará	Você não será cobrado
+13478	Sin cargo (salud pública)	Sem custo (saúde pública)
+13479	Pide a tus papás que te lleven con alguien. ¿A quién quieres ver?	Peça aos seus pais pra te levarem a alguém. Quem você quer ver?
+13480	¿Con qué profesional local te vas a ver?	Com qual profissional da região você vai se consultar?
+13481	Le pedí a mi {1} que me llevara a terapia, pero {2} dijo que no la necesitaba.	Pedi pro meu {1} me levar pra terapia, mas {2} disse que eu não precisava.
+13482	{1} dijo que no necesitas terapia.	{1} disse que você não precisa de terapia.
+13483	Mis papás no podían pagar para llevarme a terapia.	Meus pais não podiam pagar pra me levar à terapia.
+13484	No me alcanza	Não dá pra pagar
+13485	{1} no puede pagar la terapia ahora mismo.	{1} não pode pagar a terapia agora.
+13486	No te alcanza para una sesión.	Você não pode pagar uma sessão.
+13487	Mis papás me llevaron a ver a {1}, un {2}.	Meus pais me levaram para ver {1}, um {2}.
+13488	Fui a ver a {1}, un {2}.	Fui ver {1}, um {2}.
+13489	{1} no ayudó mucho.	{1} não ajudou muito.
+13490	{1} ayudó un poco.	{1} ajudou um pouco.
+13491	{1} ayudó de verdad.	{1} ajudou de verdade.
+13492	Otra sesión este año no ayudó tanto como la primera.	Outra sessão este ano não ajudou tanto quanto a primeira.
+13494	¿Cuándo vas a conseguir trabajo? No puedes vivir de nosotros para siempre.	Quando você vai arranjar um emprego? Não dá pra viver às nossas custas pra sempre.
+13495	Tu primo ya tiene trabajo. ¿Cuál es tu excusa?	Seu primo já tem emprego. Qual é a sua desculpa?
+13496	Ya no pagamos todo. Busca trabajo.	Não vamos pagar tudo mais. Arranja um trampo.
+13497	Te imprimí unas ofertas de trabajo. Están en tu cama.	Imprimi umas vagas de emprego pra você. Estão na sua cama.
+13498	Duermes hasta el mediodía todos los días. ¡Consigue trabajo!	Você dorme até o meio-dia todo dia. Arranja um emprego!
+13499	Ya tienes edad para manejar. ¿Por qué todavía no tienes licencia?	Você já tem idade pra dirigir. Por que ainda não tem carteira?
+13500	Ya no te llevo a todos lados. Ve a sacar tu licencia.	Não vou mais te levar pra todo lado. Vai tirar sua carteira.
+13501	Todos los chamacos de tu edad ya manejan. Agenda el examen ya.	Todo mundo da sua idade já dirige. Marca logo o exame.
+13502	¿Cuándo vas a traer a alguien a casa para conocerlo?	Quando você vai trazer alguém pra casa pra gente conhecer?
+13503	Tu hermana ya está casada. ¿Ni siquiera sales con alguien?	Sua irmã já é casada. Você nem namora?
+13504	Ya no soy joven. ¡Quiero nietos!	Eu não tô ficando mais novo. Quero netos!
+13505	Quizás deja de encerrarte en tu cuarto y ve a conocer a alguien.	Talvez para de ficar trancado no quarto e vai conhecer alguém.
+13506	licencia	carteira
+13507	consigue trabajo	arranja um emprego
+13508	saca tu licencia de manejo	tira sua carteira de motorista
+13509	encuentra pareja	arranja um parceiro
+13510	Ordena tu vida	Organize sua vida
+13511	Tu {1}, {2}, te está presionando para que {3}.	Seu {1}, {2}, está pressionando você pra {3}.
+13512	Prometer hacerlo	Prometer fazer
+13513	Mi {1} me presionó para {2}. Le prometí que lo haría.	Meu {1} me pressionou pra {2}. Prometi que faria.
+13514	Dile a {1} que se calme	Manda {1} parar de encher
+13515	Mi {1} me presionó para {2}, y le dije a {3} que se calmara.	Meu {1} me pressionou pra {2}, e eu mandei {3} parar de encher.
+13516	{1} salió furioso de tu cuarto.	{1} saiu bufando do seu quarto.
+13517	Mi {1} seguía presionándome para {2}. Lo ignoré.	Meu {1} não parava de pressionar pra {2}. Eu ignorei.
+13518	Mis papás me echaron de la casa. Ahora estoy sin hogar.	Meus pais me botaram pra fora de casa. Agora estou sem-teto.
+13519	Ya eres adulto. Empaca tus cosas y vete.	Você é adulto. Arrume suas coisas e vá embora.
+13520	Te lo hemos dicho cien veces. Tienes que irte.	Já falamos mil vezes. Você precisa sair.
+13521	No vuelvas hasta que tengas trabajo.	Não volte até arranjar um emprego.
+13522	Tu {1}, {2}, ya se cansó. "{3}"	Seu {1}, {2}, já cansou. "{3}"
+13523	Tus papás oficialmente te echaron. Estás sin hogar hasta que puedas comprarte un lugar propio.	Seus pais oficialmente te botaram pra fora. Você fica sem-teto até conseguir comprar um lugar só seu.
+13524	Por fin tengo techo otra vez.	Finalmente tenho um teto de novo.
+13525	Por fin en casa	Enfim em casa
+13526	Tienes tu propio hogar. Ya no estás sin hogar.	Você tem a sua própria casa. Não está mais sem-teto.
+13527	Volví a dormir en una banca del parque.	Dormi de novo num banco de praça.
+13528	Pasé otra noche fría en un albergue.	Passei mais uma noite fria num abrigo.
+13529	Le pedí monedas a desconocidos.	Pedi trocado pra estranhos.
+13530	{1} cerró, y mi cuenta @{2} desapareció con él.	{1} fechou, e minha conta @{2} foi junto.
+13531	{1} está cerrando	{1} está fechando
+13532	Gracias por ser parte de {1}. A partir de {2}, el servicio está cerrado y cuentas como @{3} ya no están disponibles.	Obrigado por fazer parte do {1}. A partir de {2}, o serviço está encerrado e contas como @{3} não estão mais disponíveis.
+13533	pan	pão
+13534	manzanas	maçãs
+13535	zanahorias	cenouras
+13536	huevos	ovos
+13537	leche	leite
+13538	maíz	milho
+13539	duraznos	pêssegos
+13540	mantequilla	manteiga
+13541	queso	queijo
+13542	pescado	peixe
+13543	estofado	ensopado
+13544	pollo	frango
+13545	carne	carne
+13546	tocino	bacon
+13547	galletas	biscoitos
+13548	maní	amendoim
+13549	dulces	doces
+13550	chocolate	chocolate
+13551	pastel	bolo
+13552	café	café
+13553	vino	vinho
+13554	whisky	whisky
+13555	sal	sal
+13556	conejo	coelho
+13557	venado	veado
+13558	Dura 1 año	Dura 1 ano
+13559	Dura {1} años	Dura {1} anos
+13560	Comida y bebida	Comida e bebida
+13561	ese	esse
+13562	esos	esses
+13563	Necesitas {1} para comprar {2}.	Você precisa de {1} para comprar {2}.
+13564	Compré {1} {2} en el mercado.	Comprei {1} {2} no mercado.
+13565	Compraste {1} × {2} por {3}. Encontrarás {4} en tu despensa, en Activos.	Você comprou {1} × {2} por {3}. Você vai encontrar {4} na sua despensa, em Ativos.
+13566	Toca para comer · {1}	Toque para comer · {1}
+13567	Toma uno	Tome um
+13568	Come uno	Coma um
+13569	bebió	bebeu
+13570	Tira uno	Jogue um fora
+13571	Tiré algo de {1}.	Joguei fora um pouco de {1}.
+13572	de tiro	de tração
+13573	Un caballo de trabajo grande y fuerte para el arado y la carreta	Um cavalo de trabalho grande e forte para o arado e a carroça
+13574	mustang	mustang
+13575	Un caballo resistente y de pisada firme del campo abierto	Um cavalo resistente e de passo firme da pradaria
+13576	Una raza estadounidense versátil, buena para montar o para tiro	Uma raça americana versátil, boa pra sela ou pra tração
+13577	pura sangre	puro-sangue
+13578	Un caballo de carreras rápido y nervioso	Um cavalo de corrida rápido e nervoso
+13579	Un caballo raro y hermoso con gran resistencia	Um cavalo raro e bonito, com muita resistência
+13580	En venta · alimento y establo {1}+ al año cada uno	À venda · ração e estábulo {1}+ por ano cada
+13581	{1} · {2} · {3} años · salud {4}%	{1} · {2} · {3} anos · saúde {4}%
+13582	montar	cavalgada
+13583	Compra este caballo	Compre este cavalo
+13584	Debes tener al menos 12 años para comprar un caballo.	Você precisa ter pelo menos 12 anos para comprar um cavalo.
+13585	Compré un {1} llamado {2}.	Comprei um {1} chamado {2}.
+13586	Caballo nuevo	Cavalo novo
+13587	Compraste {1}, un {2}, por {3}.	Você comprou {1}, um {2}, por {3}.
+13589	Ya hiciste eso con {1} este año.	Você já fez isso com {1} este ano.
+13590	Sal a pasear	Dê uma volta
+13591	pisó un hoyo de tuza en el paseo, se rompió una pata y hubo que sacrificarlo	pisou numa toca de roedor no passeio, quebrou uma perna e teve que ser sacrificado
+13592	Di un largo paseo en {1}.	Dei um longo passeio no {1}.
+13593	Cepilla y cuida	Escove e cuide
+13594	cepillar	escovar
+13595	Pasé la tarde cepillando a {1}.	Passei a tarde escovando {1}.
+13596	Participa en la carrera del condado ({1})	Participe da corrida do condado ({1})
+13597	carrera	corrida
+13598	No te alcanza para la inscripción.	Você não pode pagar a inscrição.
+13599	¡{1} ganó la carrera del condado! Me llevé {2}.	{1} ganhou a corrida do condado! Levei {2} pra casa.
+13600	cayó en una curva de la carrera del condado, se rompió una pata y hubo que sacrificarlo	caiu numa curva da corrida do condado, quebrou uma perna e teve que ser sacrificado
+13601	{1} terminó {2} en la carrera del condado.	{1} terminou em {2} na corrida do condado.
+13602	¿Vender {1} por {2}?	Vender {1} por {2}?
+13603	Vendí mi caballo {1} por {2}.	Vendi meu cavalo {1} por {2}.
+13604	Mi caballo {1} {2}.	Meu cavalo {1} {2}.
+13605	Tuve que seguir la cacería a pie.	Tive que continuar a caçada a pé.
+13606	{1} está revolcándose en el suelo, pateando la barriga y sudando. Es cólico, y puede matar a un caballo en una noche.	{1} está rolando no chão, chutando a barriga e suando. É cólica, e pode matar um cavalo numa noite.
+13607	Llama al veterinario de caballos	Chame o veterinário de cavalos
+13608	Acompáñalo toda la noche	Fique com ele a noite toda
+13609	murió de cólico	morreu de cólica
+13610	muermo	garrotilho
+13611	{1} tiene fiebre e inflamación de glándulas bajo la mandíbula. Parece garrotilho, y se contagia.	{1} está com febre e glândulas inchadas embaixo da mandíbula. Parece garrotilho, e se espalha.
+13612	Sepáralo y cuídalo	Separe e cuide dele
+13613	murió de muermo	morreu de garrotilho
+13614	{1} pisó un clavo oxidado, y ahora la mandíbula está trabada. Es tétanos.	{1} pisou num prego enferrujado, e agora a mandíbula travou. É tétano.
+13615	Mantenlo en un establo oscuro y tranquilo	Mantenha ele num estábulo escuro e quieto
+13616	murió de tétanos	morreu de tétano
+13617	El veterinario dice que {1} tiene muermo. No tiene cura, puede contagiar a personas, y la ley dice que el caballo debe ser sacrificado.	O veterinário diz que {1} tem mormo. Não tem cura, pode passar pra pessoas, e a lei diz que o cavalo tem que ser sacrificado.
+13618	Escóndelo y trata de cuidarlo	Esconda ele e tente cuidar dele
+13619	tenía muermo y murió	tinha mormo e morreu
+13620	laminitis	laminite
+13621	{1} está parado con las patas traseras hacia atrás, demasiado adolorido para caminar. Las pezuñas se han hundido.	{1} está parado com as patas traseiras jogadas pra trás, dolorido demais pra andar. Os cascos afundaram.
+13622	Llama al herrero de caballos	Chame o ferrador
+13623	Déjalo descansar en paja suave	Deixe ele descansar em palha macia
+13624	tuvo laminitis tan grave que hubo que sacrificarlo	teve laminite tão grave que teve que ser sacrificado
+13625	{1} pisó una tuza en el potrero y escuchaste cómo se quebraba el hueso.	{1} pisou numa toca de roedor no pasto e você ouviu o osso estalar.
+13626	Intenta entablillar la pata	Tente imobilizar a perna
+13627	se rompió una pata y hubo que sacrificarlo	quebrou uma perna e teve que ser sacrificado
+13628	El veterinario quiere {1}.	O veterinário quer {1}.
+13629	Mi caballo {1} superó un episodio de {2}.	Meu cavalo {1} superou um episódio de {2}.
+13630	Salió adelante	Se recuperou
+13631	{1} sobrevivió al {2}, aunque le costó mucho.	{1} sobreviveu ao {2}, mas custou muito pra ele.
+13632	contrajo muermo y hubo que sacrificarlo	pegou mormo e teve que ser sacrificado
+13633	Sacrifícalo	Sacrifique ele
+13634	tenía muermo y fue sacrificado	tinha mormo e foi sacrificado
+13635	fue sacrificado después de	foi sacrificado depois de
+13636	romperse una pata	quebrar uma perna
+13637	un episodio de {1}	um episódio de {1}
+13638	No me alcanzaba para alimento y establo de mi caballo{1}.	Não consegui pagar a ração e o estábulo do meu cavalo{1}.
+13639	murió de hambre porque no me alcanzaba para alimentarlo	morreu de fome porque eu não consegui pagar a ração
+13640	murió por mala salud a los {1} años	morreu de saúde debilitada aos {1} anos
+13641	murió de viejo a los {1}	morreu de velhice aos {1}
+13642	lo mató un rayo en el potrero	foi atingido por um raio no pasto
+13643	lo mordió una serpiente de cascabel y murió	foi picado por uma cascavel e morreu
+13644	fue derribado y matado por lobos durante la noche	foi derrubado e morto por lobos durante a noite
+13645	comió hierbas venenosas en el potrero y murió	comeu ervas venenosas no pasto e morreu
+13646	se ahogó cruzando un río crecido	se afogou atravessando um rio cheio
+13647	murió en un incendio del establo	morreu num incêndio no estábulo
+13648	murió congelado en una tormenta de invierno	morreu congelado numa nevasca de inverno
+13649	lo pateó otro caballo, se rompió una pata y hubo que sacrificarlo	foi chutado por outro cavalo, quebrou uma perna e teve que ser sacrificado
+13650	Ladrones de caballos robaron mi caballo {1} durante la noche.	Ladrões de cavalos roubaram meu cavalo {1} durante a noite.
+13651	¡Caballo robado!	Cavalo roubado!
+13652	Ladrones de caballos entraron al establo y se fueron con {1}. Nunca más los volviste a ver.	Ladrões de cavalos invadiram o estábulo e fugiram com {1}. Você nunca mais os viu.
+13653	matar a un agente de la ley	matar um xerife
+13654	el campamento minero	o acampamento de mineração
+13655	el puerto fluvial	o porto fluvial
+13656	el pueblo del mercado	a cidade do mercado
+13657	el paso de montaña	a passagem da montanha
+13658	la aldea fronteriza	o vilarejo da fronteira
+13659	el campamento maderero	o acampamento madeireiro
+13660	el pueblo del carbón	a cidade do carvão
+13661	el puerto pesquero	o porto pesqueiro
+13662	revólver	revólver
+13663	Día {1} de {2} · en {3}	Dia {1} de {2} · em {3}
+13664	Carteles de se busca · {1} capturados · {2} cacerías restantes este año	Cartazes de procurados · {1} capturados · {2} caçadas restantes este ano
+13665	Vivo o muerto	Vivo ou morto
+13666	Solo vivo	Só vivo
+13667	Continúa la cacería	Continue a caçada
+13668	Ya estás en una cacería	Já está numa caçada
+13669	Acepta la recompensa	Aceite a recompensa
+13670	Visto por última vez cerca de {1} · Peligro {2}{3}	Visto pela última vez perto de {1} · Perigo {2}{3}
+13671	Ya estás cazando	Já está caçando
+13672	Termina primero la cacería de {1}.	Termine antes a caçada de {1}.
+13673	Suficiente por un año	Já basta por um ano
+13674	Cada cacería toma semanas en el camino. Ya tomaste todas las recompensas que podías manejar este año. Habrá más carteles el próximo año.	Cada caçada leva semanas na trilha. Você já pegou todas as recompensas que dava conta este ano. Mais cartazes vão aparecer no ano que vem.
+13675	Acepté la recompensa por {1}, buscado por {2}.	Aceitei a recompensa de {1}, procurado por {2}.
+13676	El rastro de {1} se enfrió.	A pista de {1} esfriou.
+13677	Pista fría	Pista fria
+13678	Perdiste el rastro de {1}. Quizás otra vez.	Você perdeu a pista de {1}. Quem sabe outra vez.
+13679	{1} dice que {2} fue visto cabalgando hacia {3}.	{1} diz que {2} foi visto cavalgando em direção a {3}.
+13680	{1} escuchó que {2} se esconde cerca de {3}.	{1} ouviu que {2} está escondido perto de {3}.
+13681	Según {1}, {2} tiene amigos en {3}.	Segundo {1}, {2} tem amigos em {3}.
+13682	{1} · {2} · día {3} de {4}	{1} · {2} · dia {3} de {4}
+13683	Estás en {1}	Você está em {1}
+13684	saloon	saloon
+13685	Pregunta en el saloon	Pergunte no saloon
+13686	Invita un trago a {1} y pregunta por ahí	Pague uma bebida pra {1} e pergunte por aí
+13687	sheriff	xerife
+13688	Interroga al sheriff	Interrogue o xerife
+13689	La ley suele saber algo	A lei geralmente sabe de alguma coisa
+13690	establo	estábulo
+13691	Revisa el establo	Verifique o estábulo
+13692	informante	informante
+13693	Paga a un informante	Pague um informante
+13694	{1} por información confiable	{1} por informação confiável
+13695	Busca el escondite de {1} aquí	Procure o esconderijo de {1} aqui
+13696	Cabalga a otro pueblo	Cavalgue até outra cidade
+13697	Toma un día en {1}	Leva um dia de {1}
+13698	Sin caballo, caminar toma dos días	Sem cavalo, a pé leva dois dias
+13699	Abandona la cacería	Desista da caçada
+13700	Deja que otro cobre esta recompensa	Deixe outra pessoa pegar essa recompensa
+13701	cartel	cartaz
+13702	¿Abandonar la cacería de {1}?	Desistir da caçada de {1}?
+13703	Abandoné la cacería de {1}.	Desisti da caçada de {1}.
+13704	Cabalgar hasta...	Cavalgar até...
+13705	¿A dónde cabalgarás?	Pra onde você vai cavalgar?
+13706	galope	galope
+13707	me dispararon el caballo cuando la banda de {1} me emboscó	atiraram no meu cavalo quando a gangue de {1} me emboscou
+13708	La banda de {1} me emboscó en el camino a {2}.	A gangue de {1} me emboscou na estrada para {2}.
+13709	Se rumora que {1} supo que alguien preguntaba y se fue.	Dizem que {1} ficou sabendo que alguém estava perguntando e saiu de fininho.
+13710	Nada aquí	Nada aqui
+13711	Recorriste {1} de punta a punta, pero no había rastro de {2}.	Você vasculhou {1} de ponta a ponta, mas não havia sinal de {2}.
+13712	Un borracho en el saloon	Um bêbado no saloon
+13713	El sheriff	O xerife
+13714	El mozo de establo	O ajudante do estábulo
+13715	Tu informante	Seu informante
+13716	Un amigo de {1} empezó una pelea conmigo en el saloon.	Um amigo de {1} começou uma briga comigo no saloon.
+13717	{1} no sabía nada útil.	{1} não sabia de nada útil.
+13718	recibir un disparo mientras cazabas a un forajido	levar um tiro enquanto caçava um foragido
+13719	disparo	tiro
+13721	{1} me disparó en un tiroteo.	{1} atirou em mim num tiroteio.
+13722	{1} escapó después de dispararme.	{1} escapou depois de atirar em mim.
+13723	Encuentras a {1} escondido en {2}. {3} te ve y la mano de {4} se dirige hacia su arma.	Você encontra {1} escondido em {2}. {3} vê você e a mão de {4} se aproxima do revólver.
+13724	Saca tu arma	Saque seu revólver
+13725	Ordena la rendición	Ordene a rendição
+13726	¡{1} se rió y corrió a buscar su caballo!	{1} riu e correu pro cavalo!
+13727	Acércate sigilosamente y átalo	Chegue de mansinho e amarre ele
+13728	¡{1} te oyó venir y huyó a caballo!	{1} ouviu você chegando e fugiu a cavalo!
+13729	Maté a {1}, pero la recompensa era solo con vida, así que no gané nada.	Matei {1}, mas a recompensa era só vivo, então não ganhei nada.
+13730	Sin recompensa	Sem recompensa
+13731	{1} está muerto, pero el cartel decía	{1} está morto, mas o cartaz dizia
+13732	vivo	vivo
+13733	. El sheriff se negó a pagar.	. O xerife se recusou a pagar.
+13734	disparé y maté a {1}	atirei e matei {1}
+13735	herí y capturé a {1}	feri e capturei {1}
+13736	capturé vivo a {1}	capturei {1} vivo
+13737	Yo {1} y cobré la recompensa de {2}.	Eu {1} e recebi a recompensa de {2}.
+13738	El sheriff te pagó la recompensa de {1}.	O xerife pagou a você a recompensa de {1}.
+13739	recibir un disparo de un forajido	levar um tiro de um foragido
+13740	{1} escapó a caballo mientras yo estaba a pie.	{1} escapou a cavalo enquanto eu estava a pé.
+13741	No tienes caballo de montar, así que {1} escapó.	Você não tem cavalo de montaria, então {1} escapou.
+13742	Espolea a {1}	Esporeie {1}
+13743	Atraviesa el matorral	Corte pelo mato
+13744	Dispara a {1}	Atire em {1}
+13745	espuela	espora
+13746	lo cabalgué más allá del agotamiento en una persecución y cayó muerto debajo de mí	foi cavalgado além do limite numa perseguição e caiu morto debaixo de mim
+13747	Espoleas a {1} y te acercas.	Você esporeia {1} e se aproxima.
+13748	¡Atraviesas el matorral y ganas terreno!	Você corta pelo mato e ganha terreno!
+13749	¡{1} tropezó en el matorral y tú saliste volando!	{1} tropeçou no mato e você foi arremessado!
+13750	una caída de caballo durante una persecución	uma queda do cavalo durante uma perseguição
+13751	disparar	atirar
+13752	Derribé a {1} de su caballo durante una persecución.	Derrubei {1} do cavalo durante uma perseguição.
+13753	¡Tu disparo se fue por la izquierda!	Seu tiro saiu errado!
+13754	¡{1} responde el disparo y te roza!	{1} revida e te acerta de raspão!
+13755	recibir un disparo de {1}	levar um tiro de {1}
+13756	Alcancé a {1} a caballo.	Alcancei {1} a cavalo.
+13757	{1} escapó de tu persecución y huyó a quién sabe dónde.	{1} escapou da sua perseguição e sumiu no mapa.
+13758	{1} me ganó a caballo.	{1} me deixou pra trás a cavalo.
+13760	{1} te ganó y desapareció tras las colinas.	{1} te deixou pra trás e sumiu atrás das colinas.
+13761	{1} ¡Saltas a tu caballo y sales en persecución!	{1} Você pula no cavalo e sai em perseguição!
+13762	Visita el mercado	Visite o mercado
+13763	Compra mercancía, comida y lo necesario	Compre mercadorias, comida e itens essenciais
+13764	caballos	cavalos
+13765	Visita el mercado de caballos	Visite o mercado de cavalos
+13766	Reza, busca guía, mejora tu respeto	Reze, busque orientação, melhore seu respeito
+13767	Las campanas de la iglesia suenan por todo el pueblo. ¿Cómo vas a pasar el servicio?	Os sinos da igreja tocam pela vila. Como você vai passar o culto?
+13768	Reza en silencio	Reze em silêncio
+13769	Recé en silencio en la iglesia y me sentí en paz.	Rezei em silêncio na igreja e me senti em paz.
+13770	Canta los himnos	Cante os hinos
+13771	Canté los himnos en la iglesia y la congregación me sonrió.	Cantei os hinos na igreja e a congregação sorriu pra mim.
+13772	Canté los himnos tan mal que el cura hizo una mueca.	Cantei os hinos tão mal que o padre fez careta.
+13773	Confiesa mis pecados	Confesse meus pecados
+13774	Confesé mis pecados al cura y me sentí más liviano.	Confessei meus pecados ao padre e me senti mais leve.
+13775	Chismea en los bancos	Fofoque nos bancos
+13776	Susurré chismes en los bancos durante el sermón.	Sussurrei fofocas nos bancos durante o sermão.
+13777	Me pescaron chismeando en la iglesia y me regañaron frente a todos.	Fui pego fofocando na igreja e levei bronca na frente de todo mundo.
+13778	Sal a montar a caballo	Vá andar a cavalo
+13779	Cabalga por diversión o por habilidad	Cavalgue por lazer ou habilidade
+13780	El mozo te ensilla un caballo. ¿Cómo vas a cabalgar?	O ajudante do estábulo sela um cavalo pra você. Como você vai cavalgar?
+13781	Da un paseo tranquilo	Dê um passeio tranquilo
+13782	Di un paseo tranquilo por el campo.	Dei um passeio tranquilo pelo campo.
+13783	Galopa por los campos	Galope pelos campos
+13784	¡Galopé por los campos con el viento en el pelo!	Galopei pelos campos com o vento no cabelo!
+13785	Me tiraron del caballo mientras galopaba y me lastimé la espalda.	Fui jogado do cavalo durante o galope e machuquei as costas.
+13786	Practica saltar cercas	Pratique saltar cercas
+13787	Practiqué saltar cercas a caballo y mejoré bastante.	Pratiquei saltar cercas a cavalo e melhorei muito.
+13788	Mi caballo se negó a saltar una cerca y caí en el lodo.	Meu cavalo recusou uma cerca e eu caí na lama.
+13789	cortejar	cortejar
+13790	Busca una relación romántica	Busque um relacionamento romântico
+13791	Lee el periódico	Leia o jornal
+13792	Mantente informado de los eventos locales y mundiales	Fique informado sobre os eventos locais e mundiais
+13793	¡Ferrocarril llega al condado en primavera!	Ferrovia chega ao condado na primavera!
+13794	¡Brote de cólera en la ciudad!	Surto de cólera na cidade!
+13795	¡Precios del grano bajan otra vez!	Preço do grão cai de novo!
+13796	¡Nuevo vapor cruza el océano en tiempo récord!	Novo navio a vapor cruza o oceano em tempo recorde!
+13797	¡Asaltantes de bancos siguen prófugos!	Assaltantes de banco ainda foragidos!
+13798	¡Obreros de fábrica se van a huelga por mejor pago!	Operários de fábrica entram em greve por salário melhor!
+13799	¡Línea de telégrafo abre hacia la capital!	Linha de telégrafo abre pra capital!
+13800	El vendedor de periódicos grita "{1}". Un ejemplar cuesta {2}.	O vendedor de jornais grita "{1}". Um exemplar custa {2}.
+13801	Lee la portada	Leia a primeira página
+13802	Leí la portada del periódico y me enteré del mundo.	Li a primeira página do jornal e fiquei sabendo do mundo.
+13803	Lee las páginas sociales	Leia as colunas sociais
+13804	Leí las páginas sociales y me reí de los escándalos.	Li as colunas sociais e ri dos escândalos.
+13805	Lee los anuncios clasificados	Leia os classificados
+13806	Leí los clasificados y vi algunos trabajos a los que podría postular.	Li os classificados e vi algumas vagas pra que eu poderia me candidatar.
+13807	extra	extra
+13808	Trabaja horas extra	Faça horas extras
+13809	Gana más dinero	Ganhe mais dinheiro
+13810	taberna	taberna
+13811	Visita una taberna	Visite uma taberna
+13812	Bebe, socializa y conoce gente de cerca o de lejos	Beba, socialize e conheça gente de perto ou de longe
+13813	madera	madeira
+13814	Tala árboles y vende la madera	Derrube árvores e venda a madeira
+13815	granja	fazenda
+13816	Compra tierra, siembra cultivos y cría ganado	Compre terra, plante lavouras e crie gado
+13817	Negocios e industria	Negócios e indústria
+13818	Funda una empresa, contrata trabajadores y construye una fortuna	Abra uma empresa, contrate trabalhadores e construa uma fortuna
+13819	inventar	inventar
+13820	Trastea en tu taller y patenta tus inventos	Mexa na sua oficina e patenteie suas invenções
+13821	minar	minerar
+13822	Encuentra cuevas, excava mineral y vende lo que encuentres	Encontre cavernas, escave minério e venda o que achar
+13823	cazar	caçar
+13824	Caza y pesca	Caça e pesca
+13825	Caza, pesca y vende lo que atrapes	Caçe, pesque e venda o que pegar
+13826	Haz o repara ropa	Faça ou conserte roupas
+13827	Buscas tu aguja e hilo. ¿Qué vas a coser?	Você pega sua agulha e linha. O que você vai costurar?
+13828	Remendar mi ropa	Remendar minhas roupas
+13829	Remendé los agujeros de mi ropa. Ahora me veo mucho más arreglado.	Remendei os buracos das minhas roupas. Fiquei bem mais arrumado.
+13830	Cose algo para vender	Costure algo pra vender

@@ -1,0 +1,800 @@
+3294	Nobody is looking at you.
+3295	detective
+3296	Bribe a detective
+3297	A detective loses some files. Heat goes down a lot.
+3298	payroll
+3299	Put a cop on the payroll
+3300	For the rest of the year you get pulled over less, and bribes work more often.
+3301	witness
+3302	Intimidate a witness
+3303	Free, but they might go to the police.
+3304	evidence
+3305	Burn the evidence
+3306	Get rid of phones, ledgers and anything with your name on it.
+3307	Each of these works once a year.
+3308	Done this year
+3310	That costs {1}. You have {2}.
+3311	The detective took your money straight to internal affairs. Your heat went up instead.
+3312	A detective I tried to bribe reported me.
+3313	The detective "misplaces" a box of evidence. Your heat dropped by {1}.
+3314	I bribed a detective.
+3315	On the Payroll
+3316	A patrol sergeant is on the cartel's payroll now. Traffic stops will be rarer this year, and bribes will stick.
+3317	I put a cop on the cartel's payroll.
+3318	A witness I threatened went to the police.
+3319	The witness suddenly can't remember a thing. Your heat dropped by {1}.
+3320	I intimidated a witness.
+3321	Phones, ledgers and a laptop go into a barrel fire. Your heat dropped by {1}.
+3322	I burned evidence.
+3323	Cartel del Sur
+3324	La Línea
+3325	Your plaza income:
+3326	You start earning from plazas at {1}
+3327	{1} controls {2} of {3} plazas
+3328	You already pushed here this year
+3329	Contested by {1}
+3330	{1} is fighting {2} for {3}. You control {4}% of it.
+3331	How will you push into {1}?
+3332	Make your move
+3333	I was killed in a turf war with {1} in {2}.
+3334	a cartel turf war in {1}
+3335	wounds from a turf war in {1}
+3336	I was arrested during a turf war in {1}.
+3337	You {1}. {2} now controls {3}% of {4}.
+3338	You {1}, but {2} held their ground.
+3339	I {1}, but it didn't work.
+3340	Bribe the local police
+3341	Undercut their prices
+3342	flooded {c} with cheaper product
+3343	Cut a deal with the local gang
+3344	Send in the sicarios
+3345	Hit their stash houses
+3346	A rival cartel ambushes your crew outside a stash house.
+3347	I was killed in a shootout with a rival cartel.
+3348	a shootout with a rival cartel
+3349	Held the Line
+3350	You and your crew drove them off. {1} noticed.
+3351	I fought off an ambush by a rival cartel.
+3352	You got out alive. Your crew won't forget that you ran.
+3353	I ran from a rival cartel ambush.
+3354	a seafood restaurant on the coast
+3355	a car wash after hours
+3356	an empty warehouse
+3357	{1} summons you to {2}.
+3358	{1} had questions about your loyalty. {2} made the point with {3} fists.
+3359	{1} roughed me up.
+3360	{1} just wanted to look you in the eye.
+3361	I met with {1}.
+3362	You didn't show up. {1} noticed.
+3363	I skipped a meeting with {1}.
+3364	{1} gave me a {2} bonus for a good year.
+3365	{1} had a good year and sent you an envelope with {2} in it.
+3366	I heard the DEA has been asking questions about me.
+3367	A friend tells you DEA agents have been asking around about you. Your heat is up.
+3368	Your plazas paid you {1} this year.
+3369	The businesses under your protection paid you {1}.
+3370	{1} stopped paying for protection.
+3371	died of natural causes
+3372	was killed in cartel violence
+3373	{1} is now {2} of {3}.
+3374	The DEA arrested me in a raid on {1}.
+3375	DEA agents raid a stash house and you're caught inside.
+3376	{1} stopped giving me work.
+3377	{1} has no more use for you.
+3378	{1} called me in to say I'd had a great year, and gave me {2}.
+3379	Meeting with the Boss
+3380	{1} calls you in. "Every load on time. Nothing lost. People like you are why this cartel works."
+3381	{1} slides an envelope across the table.
+3382	{1} demoted me from {2} to {3}.
+3383	You keep losing our product.
+3384	You're not pulling your weight.
+3385	{1} calls you in, and doesn't offer you a seat. "{2} You're going back to {3}."
+3386	New rank
+3387	They took back
+3388	child
+3389	parent
+3390	{1} {2}, {3}, couldn't be bothered to attend {4} funeral.
+3391	wife
+3392	husband
+3393	girlfriend
+3394	boyfriend
+3395	daughter
+3396	half
+3397	step
+3398	sister
+3399	brother
+3400	surrender
+3401	Tragically, {1} surrendered at the age of {2}.
+3402	the young age
+3403	{1} passed away at {2} of {3}.
+3404	{1} services were attended by {2}.
+3405	Nobody attended {1} services.
+3406	{1} worked as {2} {3}{4}.
+3407	{1} retired from {2}.
+3408	{1} managed to avoid getting a job {2} whole life.
+3409	{1} was famous, and fans left flowers at {2} grave for weeks.
+3410	Friends recall {1} infectious laugh.
+3411	Friends recall {1} family's pride when {2} graduated.
+3413	Friends recall {1} terrible jokes.
+3414	{1} never missed a chance to tell a story.
+3415	Friends say {1} could light up any room.
+3416	Years in Prison:
+3417	Net Worth:
+3418	could not save time machine snapshots
+3419	cemetery record failed
+3420	Undo death with the Time Machine!
+3421	There are no saved moments to travel back to yet. Age up at least once to give the Time Machine somewhere to go.
+3422	Undo death by traveling back in time!
+3423	Do it!
+3424	blood
+3425	drop
+3426	fade
+3427	died
+3428	legacy
+3429	ribbon
+3430	kids
+3431	lovers
+3432	{1} {2} passed away at the age of {3}.
+3433	Sort by:
+3434	long
+3435	Nobody is buried here yet.
+3436	The Journal of
+3437	The pages of this journal are blank.
+3438	Are you sure you want to bulldoze this grave?
+3439	sounds/a16_sndBulldoze.wav
+3440	doze
+3441	hidden
+3442	contain
+3443	cover
+3444	Giovanni Maria Mastai-Ferretti
+3445	Vincenzo Gioacchino Pecci
+3446	Giacomo della Chiesa
+3447	Angelo Giuseppe Roncalli
+3448	Giovanni Battista Montini
+3449	Karol Wojtyła
+3450	resigned
+3451	Jorge Mario Bergoglio
+3452	Robert Francis Prevost
+3453	caring for the poor
+3454	dialogue with other faiths
+3455	reforming the Curia
+3456	Church unity
+3457	reform
+3458	reigning
+3459	seminary
+3460	deacon
+3461	priest
+3462	bishop
+3463	archbishop
+3464	cardinal
+3465	pope
+3466	St. Joseph
+3467	St. Mary
+3468	St. Anthony
+3469	St. Patrick
+3470	St. Francis of Assisi
+3471	St. Michael
+3472	Our Lady of Grace
+3473	St. Teresa
+3474	St. Peter
+3475	St. Jude
+3476	St. Monica
+3477	St. Augustine
+3478	Christ the King
+3479	St. Catherine
+3480	St. Benedict
+3481	St. Luke
+3482	Bishop of {1}
+3483	Archbishop of {1}
+3484	Diocese of {1}
+3485	Archdiocese of {1}
+3486	College of Cardinals
+3487	{1} ran a background check and declined your application.
+3488	Criminal record ({1})
+3489	{1} declined your application after reviewing your history with the police.
+3490	Repeated arrests
+3491	{1} does not believe you are ready for the academic demands of seminary study.
+3492	Academic record too weak
+3493	The psychological evaluation raised concerns about your emotional well-being. {1} asked you to reapply once you are in a better place.
+3494	Psychological evaluation
+3495	The medical evaluation found you are not healthy enough for the demands of priestly life right now.
+3496	Medical evaluation
+3497	{1}'s vocations director felt you have not yet discerned a true calling to the priesthood.
+3498	Discernment not complete
+3499	You are already following a career in the Catholic Church.
+3500	The seminary will not readmit you after your dismissal.
+3501	You must be at least 18 to enter the seminary.
+3502	The Catholic Church only ordains men to the priesthood.
+3503	You cannot enter the seminary from prison.
+3504	Catholic priests must be unmarried. A married man cannot enter the seminary for the priesthood.
+3505	Finish {1} before entering the seminary.
+3506	You can't attend {1} and the seminary at the same time. Finish or leave your studies first.
+3507	Seminaries require a high school diploma. Finish high school (or get a GED) before applying.
+3508	college
+3509	{1} Major Seminary
+3510	{1} College Seminary
+3511	2 years of pre-theology (philosophy), then 4 years of theology
+3512	4 years of college seminary (B.A. in Philosophy), then 4 years of theology
+3513	The Catholic Church
+3514	{1}Devote your life to God and the Catholic Church. Rise through the ranks, gain influence, and you may even one day have the chance to become the Pope.
+3515	High school diploma, background check, psychological and medical evaluation, unmarried and celibate
+3516	Your religion/philosophy degree will help your application
+3517	Apply to the seminary
+3518	Entering the seminary means leaving your job as {1}. Continue?
+3519	Seminarians live a celibate life. Entering the seminary will end your current relationship. Continue?
+3520	I left my job as {1} {2} to enter the seminary.
+3521	I ended my relationship with {1} to enter the seminary.
+3522	I entered {1} to study for the priesthood.
+3523	Welcome to the Seminary
+3524	You arrived at {1} with a single suitcase. Your spiritual director, {2}, greeted you at the gate and showed you to your small room.
+3525	Tomorrow your formation for the priesthood begins.
+3526	{1} has already reviewed your application this year. You can reapply next year.
+3527	I applied to {1}, but I wasn't accepted.
+3528	Enter the Seminary?
+3529	You have been accepted into {1}, a Catholic seminary. This will begin your journey toward becoming a priest.
+3530	Your formation: {1}.
+3531	Join the Seminary
+3532	I was accepted into {1}, but decided to wait.
+3533	Maybe later
+3534	"Don't worry, nobody knows the responses their first week. Just move your lips."
+3535	"Sit up straight. The rector notices everything."
+3536	"Welcome, brother. The first year is the hardest. After that it's only very hard."
+3537	"Stay close to {1}. He looks stern, but he's the kindest man here."
+3538	I attended my first Mass at the seminary.
+3539	Your First Mass
+3540	The next morning you walked into the seminary chapel for your first Mass. Candles flickered along the walls as the other seminarians filed into the pews in silence.
+3541	As you took your seat, an older seminarian, {1}, leaned over and whispered, {2}
+3542	I attended my first meeting of the College of Cardinals.
+3543	Your First Day
+3544	The next morning you started your first day as a cardinal. Dressed in scarlet for the first time, you took your seat among cardinals from {1} countries for your first meeting of the College, beneath the papal banners.
+3545	{1} of {2} leaned over and whispered, "Welcome, brother. The first meeting is always the longest."
+3546	Deepen your knowledge of the faith
+3547	Study Church History
+3548	Learn from two thousand years
+3549	mass
+3550	Attend Religious Services
+3551	Grow in your spiritual life
+3552	volunteer
+3553	Volunteer at a Parish
+3554	Help out at a local church
+3555	Meet Your Instructor
+3556	Talk with your spiritual director
+3557	speak
+3558	Practice preaching
+3559	The language of the Church
+3560	charity
+3561	Serve the poor
+3562	Preach a Homily
+3563	Preach at Sunday Mass
+3564	baptize
+3565	Conduct a Baptism
+3566	Welcome a child into the Church
+3567	Prepare for ordination
+3568	Ask to be ordained a priest
+3569	Lead your congregation
+3570	sermon
+3571	Deliver a Sermon
+3572	Preach to your parish
+3573	confess
+3574	Offer the sacrament of reconciliation
+3575	Welcome new members
+3576	wedding
+3577	Marry a couple
+3578	funeral
+3579	Lay someone to rest
+3580	sick
+3581	Visit the Sick
+3582	Bring comfort to the hospital
+3583	Organize a Charity Event
+3584	Raise money for the needy
+3585	counsel
+3586	Listen and guide
+3587	transfer
+3588	Request a Transfer
+3589	Ask for a new parish
+3590	Meet the Bishop
+3591	See your superior
+3592	gather
+3593	Meet the other priests
+3594	visit
+3595	Tour your diocese
+3596	appoint
+3597	Assign priests to parishes
+3598	clergy
+3599	Meet With Clergy
+3600	Listen to your priests
+3601	finance
+3602	Review the diocese budget
+3603	dispute
+3604	Address Local Disputes
+3605	Settle a conflict
+3606	events
+3607	Organize Religious Events
+3608	Lead a celebration
+3609	recommend
+3610	Put someone forward for leadership
+3611	conference
+3612	Bishops' Conference
+3613	Meet the bishops of your country
+3614	Lead the Archdiocese
+3615	Govern your archdiocese
+3616	Meet Church leaders abroad
+3617	advise
+3618	Advise Vatican Officials
+3619	Share your experience with Rome
+3620	seniors
+3621	Meet Senior Cardinals
+3622	Build friendships in Rome
+3623	ceremony
+3624	Represent the Church
+3625	Lead a major ceremony
+3626	meeting
+3627	Attend Vatican Meetings
+3628	Help govern the Church
+3629	discuss
+3630	Debate the future of the Church
+3631	abroad
+3632	Visit Other Countries
+3633	Travel on Church business
+3634	Preach to the world
+3635	Meet the other cardinals
+3636	Advise the Pope
+3637	Request an audience
+3638	Take part in a great celebration
+3639	Discuss how the Curia works
+3640	decree
+3641	Issue a Decree
+3642	Make official Church decisions
+3643	address
+3644	Address the Public
+3645	Give speeches to the world
+3646	cardinals
+3647	Choose new cardinals
+3648	Canonize a Saint
+3649	Declare someone a saint
+3650	trip
+3651	Visit countries and meet followers
+3652	leaders
+3653	Meet World Leaders
+3654	Have diplomatic meetings
+3655	manage
+3656	Manage the Vatican
+3657	Oversee Vatican City and finances
+3658	scandals
+3659	Deal with internal Church issues
+3660	Step down from the papacy
+3661	blessing
+3662	Deliver a Papal Blessing
+3663	Bless the city and the world
+3664	bishops
+3665	Fill vacant dioceses
+3666	audience
+3667	Hold a Papal Audience
+3668	Meet pilgrims
+3669	Publish an Encyclical
+3670	Teach the whole Church
+3671	Discuss Church Reform
+3672	Change how the Church works
+3673	officials
+3674	Meet Church Officials
+3675	Run the Curia
+3676	Bring comfort to a hospital
+3677	missions
+3678	Support Charitable Missions
+3679	Fund the Church's charities
+3680	crisis
+3681	Address a Crisis
+3682	Respond to world events
+3683	Hold a Religious Ceremony
+3684	Celebrate a great feast
+3685	diplomats
+3686	Welcome ambassadors
+3687	pray
+3688	A quiet life of prayer
+3689	write
+3690	Work on your memoirs
+3691	visitors
+3692	Welcome old friends
+3693	Papal Career Expansion is turned off (Settings → Mod Workshop). Your career is saved and will continue when you turn it back on.
+3694	The papacy is vacant. The conclave is in session.
+3695	info
+3696	The Holy See
+3697	{1} · Age {2} · Pope since {3}
+3698	The papacy is vacant
+3699	path
+3700	See the path to becoming Pope
+3701	{1} cardinal electors
+3702	You are taking time away from ministry this year
+3703	Submit your resignation (75+)
+3704	Leave the Seminary
+3705	Leave the Priesthood
+3706	Give up your studies
+3707	Return to lay life
+3708	None (your needs are provided for)
+3709	{1} of about 6
+3710	No (over 80)
+3711	The Holy See is vacant. The cardinals are preparing to elect a new Pope.
+3712	Leave the seminary and give up on becoming a priest?
+3713	Leave the priesthood and return to lay life? This ends your career in the Church.
+3714	You spent long nights with Aquinas and Augustine. Your understanding of theology deepened.
+3715	You studied theology again, but you are running out of steam.
+3716	I studied theology.
+3717	Council of Trent
+3718	Second Vatican Council
+3719	You studied the history of the Church, from the early martyrs to the {1}.
+3720	I studied Church history.
+3721	disc
+3723	I attended religious services.
+3724	You spent the weekend helping at {1} Parish.
+3726	thinks highly of you and
+3727	{1} {2} encouraged you to keep growing in prayer and humility.
+3728	I met with my spiritual director, {1}.
+3729	Your practice homily held the room. Your instructors were impressed.
+3730	You practiced preaching. You still stumble over your words, but you are improving.
+3731	I practiced public speaking.
+3732	Augustine's Confessions
+3733	You translated a passage of the {1}. Ecclesiastical Latin is starting to make sense.
+3734	I studied Latin.
+3735	You served meals at a {1} with the other seminarians.
+3736	I did charitable work.
+3737	Your homily moved the congregation. Several people thanked you afterwards.
+3738	Your homily was forgettable. Someone in the front row fell asleep.
+3739	I preached a homily.
+3740	You baptized a baby girl. Her family cried with joy.
+3741	I conducted a baptism.
+3742	You organized a clothing drive for families in need.
+3743	You prepared for ordination with your bishop's reading list.
+3744	You must be at least 25 years old to be ordained a priest. You are {1}.
+3745	Transitional deacons serve at least a year before priestly ordination.
+3746	The church was packed.
+3747	Only the regulars came, but they were grateful.
+3748	A choir from another parish sang.
+3749	You celebrated Mass at {1}. {2}
+3750	I celebrated Mass.
+3751	Your sermon was powerful. People were still talking about it after Mass.
+3752	Your sermon fell flat. People checked their watches.
+3753	Your sermon was solid, if not memorable.
+3754	I delivered a sermon.
+3755	You heard confessions for {1} hours. What was said stays between the penitents and God.
+3756	I heard confessions.
+3757	You baptized {1} babies this weekend.
+3758	I conducted baptisms.
+3759	a young couple
+3760	two high school sweethearts
+3761	an elderly widow and widower
+3762	You married {1} in front of {2} guests.
+3763	I officiated a wedding.
+3764	a beloved parishioner
+3765	a local war veteran
+3766	a young man who died far too soon
+3767	You conducted the funeral of {1}.
+3768	I conducted a funeral.
+3769	Visiting the Sick
+3770	You brought communion to patients at the local hospital.
+3771	I visited the sick.
+3772	Your parish {1} raised {2} for families in need.
+3773	Your charity event was poorly attended and barely covered its costs.
+3774	I organized a charity event.
+3775	a painful divorce
+3776	the loss of a child
+3777	a crisis of faith
+3778	You helped a parishioner through {1}.
+3779	Your advice to a struggling parishioner backfired, and they stopped coming to Mass.
+3780	I counseled parishioners.
+3781	You already asked for a transfer this year.
+3782	Your bishop
+3783	{1} wants you to stay where you are.
+3784	I was transferred from {1} to {2}.
+3785	You have been transferred to {1}.
+3786	Meeting the Bishop
+3787	praised your work and said he is keeping an eye on you
+3788	listened to your concerns about the parish
+3789	You attended the yearly gathering of the diocese's priests and made some useful friends.
+3790	I attended a diocesan gathering.
+3791	You visited {1} parishes across your diocese.
+3792	I visited the parishes of my diocese.
+3793	{1} Parish in {2} needs a new pastor. Who will you appoint?
+3794	I appointed {1} as a parish priest.
+3796	Poor choice
+3797	{1} is thriving in his new parish.
+3798	{1} has struggled, and parishioners are complaining.
+3799	You listened to your priests' worries about overwork and shrinking congregations.
+3800	I met with my clergy.
+3801	You found savings in the diocese budget without cutting any charitable work.
+3802	The numbers did not add up. The diocese is spending more than it takes in.
+3803	I reviewed the diocese finances.
+3804	a church closure
+3805	a parish school
+3806	You settled a bitter dispute over {1}.
+3807	Your ruling in a local dispute angered both sides.
+3808	I addressed a local dispute.
+3809	Corpus Christi procession
+3810	Marian pilgrimage
+3811	diocesan youth day
+3812	Easter vigil
+3813	You led a {1} attended by thousands.
+3814	I organized a religious event.
+3815	You recommended Father {1} to Rome as a future bishop.
+3817	You attended the national bishops' conference and spoke about {1}.
+3818	I attended the bishops' conference.
+3819	You presided over the archdiocese's {1}.
+3820	I led my archdiocese.
+3821	You traveled to {1} for a gathering of Church leaders.
+3822	I attended an international gathering.
+3823	You shared your experience with a Vatican dicastery.
+3824	I advised Vatican officials.
+3825	You had dinner with {1} of {2}.
+3826	a national day of mourning
+3827	the consecration of a cathedral
+3828	a state funeral
+3829	a centennial celebration
+3830	You represented the Church at {1}.
+3831	I represented the Church at a ceremony.
+3832	Dicastery for Bishops
+3833	Council of Cardinals
+3834	Dicastery for Evangelization
+3835	Secretariat for the Economy
+3836	You attended a meeting of the {1}.
+3837	I attended a Vatican meeting.
+3838	You found a lot of common ground.
+3839	You did not agree on much.
+3840	You debated {1} with {2}. {3}
+3841	I took part in Church discussions.
+3842	You visited the Church in {1}.
+3843	Your sermon was broadcast around the world and widely praised.
+3844	Your sermon was translated into a dozen languages, but it did not make much of an impression.
+3845	I delivered an international sermon.
+3846	There is no Pope to advise right now.
+3847	{1} listened carefully to your advice on {2}.
+3848	Easter Mass in St. Peter's Square
+3849	the canonization of two new saints
+3850	Christmas Mass at the Vatican
+3851	You concelebrated {1}.
+3852	I took part in a major ceremony.
+3853	You argued for a simpler, more transparent Curia.
+3854	I discussed Church administration.
+3855	You spent the day in quiet prayer in the Vatican Gardens.
+3856	You worked on a book about your years as Pope.
+3857	I worked on my memoirs.
+3858	An old friend
+3859	{1} came to visit you.
+3860	I received visitors.
+3861	Professor of Theology
+3862	Secretary of State
+3863	Study and prepare for priesthood
+3864	One step from ordination
+3865	Serve your community
+3866	Lead a diocese
+3867	Oversee multiple dioceses
+3868	Member of the College of Cardinals
+3869	Leader of the Catholic Church
+3870	Skipped (optional)
+3871	summons
+3872	Have a conversation
+3873	I had a long conversation with {1}.
+3874	You and {1} talked about {2}.
+3875	Discuss the future of the Church
+3876	I discussed the future of the Church with {1}.
+3877	Common ground
+3878	Different views
+3879	{1} found a lot to agree with in your ideas.
+3880	{1} politely made it clear he sees things differently.
+3881	Left the Church's ministry as {1} ({2})
+3882	I left the seminary.
+3883	I left the priesthood after serving as {1}.
+3884	Left the Seminary
+3885	You left the seminary and returned to ordinary life.
+3886	You were released from your clerical duties and returned to lay life.
+3887	Submit your resignation to the Pope and retire from active office?
+3888	{1} Emeritus of {2}
+3889	Retired from active office ({1})
+3890	I retired from active office.
+3891	{1} accepted your resignation. You are now {2}.
+3892	After years of religious study and spiritual preparation, you have completed the required seminary training and are ready to advance toward ordination.
+3893	Continue toward ordination
+3894	I completed my seminary training at {1}.
+3895	You finished seminary, but transitional deacons must be at least 23. You'll be ordained a deacon at 23.
+3896	Request additional training
+3897	I asked for another year of seminary training.
+3898	The rector agreed to give you another year of formation.
+3899	Leave religious service
+3900	theology
+3901	I graduated from {1} with a B.A. in Philosophy.
+3902	I completed pre-theology at {1}.
+3903	College Seminary Graduation
+3904	After four years of philosophy, prayer and community life, you received your B.A. in Philosophy from {1}.
+3905	This fall you move to {1} to begin four years of theology.
+3906	You finished two years of philosophy and spiritual formation at {1}.
+3907	Now the real study begins: four years of theology at {1}.
+3908	I was ordained a transitional deacon for the Diocese of {1}.
+3909	{1} ordained you a transitional deacon. Ordination to the priesthood is the next step.
+3910	Ordained a Deacon
+3911	In the seminary chapel, {1} laid his hands on you and ordained you a transitional deacon. Your family watched from the front pew.
+3912	One more step, and you will be a priest.
+3913	You have completed your studies and are ready to be ordained a priest!
+3914	{1} asks if you are prepared to dedicate your life to God and the Church.
+3915	Yes, I am ready
+3916	I was ordained a Catholic priest by {1}.
+3917	You are now Father {1}, a Catholic priest.
+3918	The day after your ordination you celebrated your first Mass at {1} Parish in the Diocese of {2}. The church was full, and your family could not stop smiling.
+3919	I need more time
+3920	I asked for more time before my ordination.
+3921	{1} agreed to wait. You can request ordination again when you are ready.
+3922	A Letter from Rome
+3923	the Holy See
+3924	the Holy Father, {1},
+3925	You have received an official letter informing you that {1} has appointed you Bishop of {2}. Your years of service have attracted the attention of Church leadership.
+3926	Accept the appointment
+3927	I was ordained Bishop of {1}.
+3928	You were ordained a bishop and installed as Bishop of {1}. You now lead the diocese.
+3929	Installed as Bishop
+3930	In a packed cathedral you were ordained a bishop and given the mitre, the crozier and the ring.
+3931	The people of {1} applauded as you walked to the bishop's chair for the first time.
+3932	Request time for reflection
+3933	I asked for time to reflect before accepting appointment as a bishop.
+3934	Time to Reflect
+3935	The nuncio agreed to give you time. The offer may not stay open forever.
+3936	Decline the appointment
+3937	I declined appointment as a bishop.
+3938	You declined the appointment and remain a parish priest.
+3939	The Vatican has announced that you have been selected to lead the Archdiocese of {1}, one of the region's most important ecclesiastical jurisdictions.
+3940	Metropolitan of the province, oversees neighboring dioceses
+3941	About {1} million
+3942	I was installed as Archbishop of {1}.
+3944	In St. Peter's Basilica the Pope placed the pallium, the woolen band worn by archbishops, on your shoulders.
+3945	Back home, the Archdiocese of {1} gave you a hero's welcome.
+3946	I declined appointment as an archbishop.
+3947	You chose to remain bishop of your diocese.
+3948	Request more information
+3949	Elevated to Cardinal
+3950	Pope {1} has announced that you will be created a Cardinal of the Roman Catholic Church in recognition of your distinguished years of service.
+3951	Accept with gratitude
+3952	Request a private audience
+3953	I had a private audience with {1} before my elevation.
+3954	{1} spoke with you warmly about what the red hat means: a willingness to serve "even to the shedding of blood".
+3955	I declined to be made a cardinal.
+3956	You asked the Pope to give the red hat to someone else. You remain in your current office.
+3957	I was created a cardinal by {1}.
+3958	The Pope has appointed you as a Cardinal!
+3959	You are now a member of the College of Cardinals and will have a say in the next papal conclave.
+3960	Arrival in Rome
+3961	You arrived in Vatican City for the consistory. In St. Peter's Basilica, {1} placed the red biretta on your head and gave you your cardinal's ring.
+3962	You are now a member of the College of Cardinals.
+3963	dismissed
+3964	I was dismissed from {1}.
+3965	studies
+3966	discipline
+3967	After repeated warnings about your {1}, the rector of {2} has dismissed you from the seminary.
+3968	I received a formal warning from the rector of {1}.
+3969	academic progress is too slow
+3970	discipline is not acceptable
+3971	This is your final warning.
+3972	The rector warned you that your {1}. {2}
+3973	I was named pastor of {1} Parish.
+3974	{1} has named you pastor of {2} Parish. The parish is now yours to lead.
+3975	{1} was named a bishop instead of me.
+3976	{1}, a priest from another parish, was appointed Bishop of {2}. Your time may still come.
+3977	unity
+3978	approval
+3979	{1} of {2} died at {3}.
+3980	deceased
+3981	vacant
+3982	Pope {1} died at the age of {2}.
+3983	Pope {1} resigned from the papacy.
+3984	After {1} ballot{2}, Cardinal {3} {4} of {5} was elected Pope and took the name {6}.
+3985	A New Pope
+3986	{1}After {2} rounds of voting, Cardinal {3} {4} of {5} has received the necessary majority and accepted his election as Pope {6}.
+3987	The Pope Has Died
+3988	The Pope Has Resigned
+3989	Pope {1} has passed away at the age of {2}, bringing an end to his {3}-year pontificate.
+3990	Pope {1} has stepped down from the papacy at the age of {2}, after {3} years as Pope.
+3991	{1}{2} Cardinals from around the world gathered in Vatican City to elect his successor.
+3992	Because you are over 80, you could not vote in the conclave.
+3993	Pope {1} has announced his resignation at the age of {2}, after {3} years as Pope.
+3994	{1}{2} Cardinals from around the world are preparing to gather in Vatican City to elect his successor.
+3995	Participate in the Conclave
+3996	I chose not to take part in the conclave.
+3997	Summoned to the Vatican
+3998	You have received an official summons to Vatican City following the vacancy of the Holy See. As a cardinal elector, you are expected to participate in the upcoming papal conclave inside the Sistine Chapel.
+3999	Travel to Vatican City
+4000	I traveled to Vatican City for the conclave.
+4001	Review the other cardinals
+4002	Request medical assistance
+4003	Vatican doctors treated me before the conclave.
+4004	The Vatican's doctors treated you. You are well enough to take part.
+4005	enter
+4006	In the days before the conclave, the cardinals meet every morning. {1} of {2} asks what you think the Church needs most right now.
+4007	Discuss Church priorities
+4008	I discussed the Church's priorities with the other cardinals.
+4009	You and {1} talked late into the evening about {2}.
+4010	Listen to the other cardinals
+4011	I listened carefully to the other cardinals.
+4012	You said little and listened a great deal. Several cardinals noticed your humility.
+4013	Support diplomatic cooperation
+4014	I spoke in favor of diplomatic cooperation.
+4015	Your call for a Church that builds bridges was well received.
+4016	Express a reform-oriented outlook
+4017	I argued that the Church needs reform.
+4018	Reform-minded cardinals nodded along. Traditionalists exchanged worried glances.
+4019	Express a tradition-oriented outlook
+4020	I spoke about the importance of tradition.
+4021	Traditional cardinals were reassured. Some reformers looked disappointed.
+4022	Avoid expressing a preference
+4023	I kept my views to myself before the conclave.
+4024	You kept your own counsel. Nobody can accuse you of campaigning.
+4025	The Conclave Begins
+4026	{1}You have entered the Sistine Chapel alongside the other cardinal electors. The doors have been closed, and the sacred task of choosing the next Pope is about to begin.
+4027	Pray silently
+4028	sealed
+4029	Reflect on the candidates
+4030	The names most often mentioned in the corridors: {1}.
+4031	Prepare to cast your vote
+4032	Inside the Conclave
+4033	{1}You have entered the Sistine Chapel with the other cardinals. The doors have been sealed and voting will begin. "Extra omnes!"
+4034	ballot
+4035	I cast my secret ballot in round {1} of the conclave.
+4036	Voting (Ballot {1})
+4037	Round {1} of voting has begun.
+4038	The first round of voting has begun.
+4039	Who will you vote for?
+4040	You must cast your secret ballot for the next Pope. Several respected cardinals are being discussed as possible successors.
+4041	Vote for Myself
+4042	Vote for Cardinal {1} ({2})
+4043	Choose from the candidate list
+4044	Eligo in Summum Pontificem… Write the name of the cardinal you are voting for.
+4045	Pick a candidate:
+4046	Cast your ballot
+4047	I abstained in round {1} of the conclave.
+4048	Some cardinals have begun writing your name on their ballots.
+4049	Talk among the electors suggests {1} has the most support, though well short of two-thirds.
+4050	Another Failed Ballot
+4051	Black smoke has risen above the Sistine Chapel. The cardinals have failed to elect a new Pope, and another round of voting will be required.
+4052	The latest ballot has ended without a successful election. Black smoke rises over Vatican City as the cardinals prepare to continue their deliberations.
+4053	Ballots So Far
+4054	In the Chapel
+4055	Continue to the next ballot
+4056	Reflect on the result
+4057	consensus
+4058	A Growing Consensus
+4059	During private discussions, several cardinals have expressed admiration for your years of service and believe you may be capable of leading the Catholic Church.
+4060	Respond with humility
+4061	Emphasize Church unity
+4062	Express uncertainty about leadership
+4063	reflect
+4064	A Moment of Reflection
+4065	Several cardinals appear to be taking your leadership qualities increasingly seriously. You begin to realize that you could be asked to assume responsibility for the entire Catholic Church.
+4066	Remain humble
+4067	Seek spiritual guidance
+4068	Reflect privately
+4069	Express willingness to serve
+4070	{1} {2} and asks what qualities you believe the next Pope should possess.
+4071	Diplomatic leadership
+4072	Dedication to tradition
+4073	Commitment to reform
+4074	campaign
+4075	Other cardinals are asking for your support. {1} offers to back you in exchange for a future position in the Vatican.
+4076	Agree to support him
+4077	Word Got Out
+4078	Other electors heard about your arrangement with {1}. Some think less of you for it.
+4079	You and {1} reached a quiet understanding.
+4080	You refused to make deals in the conclave. A few electors admire your integrity.
+4081	{1} promised to speak well of you to the electors who trust him.
+4082	{1} was offended. "This is a conclave, not a marketplace."
+4083	break
+4084	A Day of Prayer
+4085	After so many inconclusive ballots, the voting pauses for a day of prayer, free discussion among the electors and a spiritual exhortation from the senior cardinal deacon.
+4086	final
+4087	You Have Been Elected Pope!
+4088	After {1} round{2} of voting, the College of Cardinals has reached a decision. You have received the necessary two-thirds majority and have been canonically elected as the next Supreme Pontiff of the Roman Catholic Church.
+4089	The senior cardinal asks whether you accept your canonical election as Supreme Pontiff. The other electors wait silently for your answer.
+4090	Accept the election
+4091	I accepted my election as Pope.
+4092	name
+4093	Decline the election
+4094	I declined my election as Pope.
+4095	You declined. The ballot is void, and the cardinals will vote again.
+4096	Choose Your Papal Name
+4097	You have accepted your election as Pope. Before the world is informed, you must choose the name by which you will be known throughout your pontificate.
+4098	Pick your papal name:
+4099	Custom papal name…
+4100	Take this name

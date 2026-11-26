@@ -1,0 +1,800 @@
+33191	La sorpresa funciona. El rehén está a salvo.	O elemento surpresa funciona. O refém está seguro.
+33192	Trasladan al rehén antes de que llegues.	Mudam o refém antes de você chegar.
+33193	Encuentras un punto de entrada mejor. Éxito.	Você acha um ponto de entrada melhor. Sucesso.
+33194	Ejecutan al rehén. Brutal.	Executam o refém. Brutal.
+33195	Un comandante aliado quiere que tu equipo apoye un asalto a una aldea. Tu asesor legal dice que la lista de objetivos es dudosa. ¿Qué decides?	Um comandante aliado quer que sua equipe apoie um assalto a uma vila. Seu assessor jurídico diz que a lista de alvos é duvidosa. O que você decide?
+33196	No apoyes	Não apoie
+33197	Cancelan el asalto. Después se comprueba que la lista estaba casi toda mal.	O assalto é cancelado. Depois se descobre que a lista estava quase toda errada.
+33198	Apoya con límites	Apoie com limites
+33199	Solo enfrentas a combatientes confirmados. Operación limpia.	Você só enfrenta combatentes confirmados. Operação limpa.
+33200	Ignoran los límites en cuanto empieza el tiroteo.	Os limites são ignorados assim que o tiroteio começa.
+33201	Apoya sin límites	Apoie sem limites
+33202	La inteligencia tenía razón.	A inteligência estava certa.
+33203	Los investigadores llegan en menos de una semana.	Os investigadores chegam em menos de uma semana.
+33204	Tu equipo ha hecho incursiones cinco noches seguidas. Los mandos quieren otra esta noche. Tus Marines están cometiendo errores. ¿Qué haces?	Sua equipe fez incursões cinco noites seguidas. O comando quer mais uma hoje. Seus Marines estão cometendo erros. O que você faz?
+33205	Pide una noche de descanso	Peça uma noite de descanso
+33206	Aprobado. La siguiente incursión es impecable.	Aprovado. A próxima incursão é impecável.
+33207	Denegado. Vas de todos modos, agotado.	Negado. Você vai mesmo assim, cansado.
+33208	Ve esta noche	Vá hoje à noite
+33209	La adrenalina te sostiene. Otro éxito.	A adrenalina te sustenta. Mais um sucesso.
+33210	Un error por cansancio te deja herido.	Um erro por cansaço te deixa ferido.
+33211	Diriges una visita, abordaje, registro y decomiso de un dhow sospechoso de traficar armas, de noche. La tripulación está nerviosa. ¿Cómo abordas?	Você lidera uma inspeção, abordagem, revista e apreensão de um dhow suspeito de tráfico de armas, à noite. A tripulação está nervosa. Como você aborda?
+33212	Rápido y ruidoso	Rápido e barulhento
+33213	La tripulación se rinde al instante. Encuentran cohetes en la bodega.	A tripulação se rende na hora. Acham foguetes no porão.
+33214	Un tripulante dispara desde la cabina de mando.	Um tripulante atira da cabine de comando.
+33215	Llama y negocia	Chame e negocie
+33216	Obedecen. Armas decomisadas.	Eles obedecem. Armas apreendidas.
+33217	Tiran la carga por la borda mientras hablas.	Jogam a carga ao mar enquanto você conversa.
+33218	Como {rank}, mandas un batallón Raider. El Congreso quiere recortar MARSOC para ahorrar dinero. Te piden testificar. ¿Qué destacas?	Como {rank}, você comanda um batalhão Raider. O Congresso quer cortar a MARSOC para economizar. Pedem que você testemunhe. O que você destaca?
+33219	Presupuesto salvado. Los senadores elogian a los Raiders.	Orçamento salvo. Os senadores elogiam os Raiders.
+33220	Los recortes se aprueban igual.	Os cortes passam de qualquer jeito.
+33221	Historial de combate	Histórico de combate
+33222	Testimonio sólido. Financiación conservada.	Testemunho sólido. Financiamento preservado.
+33223	Un senador lo llama 'diplomacia vaquera'.	Um senador chama isso de 'diplomacia de cowboy'.
+33224	Te piden pasar a los Raiders del contraterrorismo a la competencia entre grandes potencias. Algunos veteranos se resisten. ¿Cómo lideras el cambio?	Pedem que você mude os Raiders do contraterrorismo para a competição entre grandes potências. Alguns veteranos resistem. Como você lidera a mudança?
+33225	Explica el porqué	Explique o porquê
+33226	La fuerza se adapta. La historia te lo agradecerá.	A força se adapta. A história vai agradecer.
+33227	La resistencia lo retrasa.	A resistência atrasa.
+33228	Impónlo	Imponha
+33229	Hecho rápido.	Feito rápido.
+33230	La moral se desploma. Cae la retención.	O moral desaba. A retenção cai.
+33231	Visitas a la familia de un Raider muerto bajo tu mando. Su padre está enfadado y te culpa. ¿Qué dices?	Você visita a família de um Raider morto sob seu comando. O pai está furioso e te culpa. O que você diz?
+33232	Escucha y comparte el duelo con él	Ouça e compartilhe o luto com ele
+33233	Se calma. Siguen en contacto durante años.	Ele se acalma. Vocês mantêm contato por anos.
+33234	No quiere oírlo. Todavía no.	Ele não quer ouvir. Ainda não.
+33235	Un reportaje revela mala conducta de Raiders bajo tu mando. Tu jefe quiere saber cómo responderás. ¿Cuál es tu plan?	Uma reportagem revela má conduta de Raiders sob seu comando. Seu chefe quer saber como você vai responder. Qual é o seu plano?
+33236	Haces limpieza. La confianza se recupera despacio.	Você faz limpeza interna. A confiança volta devagar.
+33237	Minimízalo	Minimize
+33238	Pasó sin más.	Passou.
+33239	Salen más historias. Te relevan del mando.	Surgem mais reportagens. Você é afastado do comando.
+33240	Representas a las operaciones especiales de EE. UU. en una cumbre aliada. Un general extranjero propone una misión conjunta con condiciones arriesgadas. ¿Qué dices?	Você representa as operações especiais dos EUA numa cúpula aliada. Um general estrangeiro propõe uma missão conjunta com termos arriscados. O que você diz?
+33241	Acepta con condiciones	Aceite com condições
+33242	Sigue una misión conjunta exitosa.	Segue-se uma missão conjunta bem-sucedida.
+33243	La misión va mal por un mando poco claro.	A missão vai mal por causa de comando confuso.
+33244	Las relaciones se enfrían, pero se evita el riesgo.	As relações esfriam, mas o risco é evitado.
+33245	Tras 26 años, te consideran para general. Tu cuerpo está destrozado y tu familia quiere que vuelvas a casa. ¿Qué haces?	Depois de 26 anos, você está na disputa para general. Seu corpo está acabado e sua família quer você em casa. O que você faz?
+33246	Busca ser general	Busque ser general
+33247	Te ponen la estrella.	Você recebe a estrela.
+33248	No te eligen. Hora de planear el retiro.	Não foi selecionado. Hora de planejar a aposentadoria.
+33249	Cuelgas el uniforme con honores.	Você pendura o uniforme com honras.
+33250	Te piden inaugurar un monumento a los Raiders caídos, incluidos algunos que enviaste al combate. ¿Qué dices?	Pedem que você inaugure um memorial aos Raiders mortos, inclusive alguns que você enviou para a batalha. O que você diz?
+33251	Tarda mucho. Nadie se va.	Demora muito. Ninguém sai.
+33252	Discurso breve	Discurso curto
+33253	Digno y breve.	Digno e breve.
+33254	Las tasas de lesiones de tu batallón suben y los operadores se queman. El ritmo de entrenamiento tiene la culpa. ¿Qué haces?	As taxas de lesões do seu batalhão sobem e os operadores estão se esgotando. A culpa é do ritmo de treino. O que você faz?
+33255	Baja el ritmo	Reduza o ritmo
+33256	Bajan las lesiones. La preparación mejora de verdad.	As lesões caem. A prontidão até melhora.
+33257	Trae especialistas en rendimiento	Traga especialistas em desempenho
+33258	Los entrenadores de fuerza y fisioterapeutas hacen milagros.	Os treinadores de força e fisioterapeutas fazem milagres.
+33259	Deniegan la financiación.	O financiamento é negado.
+33260	Informas a altos mandos sobre una operación delicada en {country}. Uno te pregunta algo que no puedes responder. ¿Qué haces?	Você informa altos comandantes sobre uma operação delicada em {country}. Um pergunta algo que você não pode responder. O que você faz?
+33261	'Lo averiguaré'	'Vou descobrir'
+33262	La honestidad se valora a este nivel.	A honestidade é valorizada nesse nível.
+33263	Nadie se da cuenta.	Ninguém percebe.
+33264	Alguien sabe la respuesta real. Vergonzoso.	Alguém sabe a resposta real. Vergonhoso.
+33265	Llama un excompañero	Velho companheiro liga
+33266	Un ex Raider con el que serviste de capitán te llama a medianoche. Ya no está en el servicio y suena como si estuviera en crisis. ¿Qué haces?	Um ex-Raider com quem você serviu como capitão liga à meia-noite. Ele já não está na ativa e parece estar em crise. O que você faz?
+33267	Anda a verlo en coche	Vá vê-lo de carro
+33268	Lo metes en un programa de Veterans Affairs. Años después sigue vivo.	Você o coloca num programa do VA. Anos depois ele ainda está vivo.
+33269	Te lo agradece sin emoción. Te preocupas semanas.	Ele agradece sem emoção. Você se preocupa por semanas.
+33270	En una reunión familiar, tu tío insiste en que los Raiders son solo 'quieren ser Navy SEAL'. Todos miran. ¿Qué haces?	Numa reunião de família, seu tio insiste que os Raiders são só 'querem ser Navy SEAL'. Todo mundo olhando. O que você faz?
+33271	Explica con cortesía	Explique com cortesia
+33272	No escucha, pero tu tía queda impresionada.	Ele não escuta, mas sua tia fica impressionada.
+33273	Rétalo a hacer flexiones	Desafie-o a fazer flexões
+33274	Se rinde en 12. Tú haces 80.	Ele desiste em 12. Você faz 80.
+33275	Se lesiona un músculo. Ahora es tu culpa.	Ele machuca um músculo. Agora a culpa é sua.
+33276	Te comes la ensalada de papa en paz.	Você come a salada de batata em paz.
+33277	{buddy} quiere que el equipo junte dinero para un gran bote de la lotería. Todos entran. ¿Tú?	{buddy} quer que a equipe junte dinheiro para um grande prêmio da loteria. Todo mundo entra. E você?
+33278	Pon $20	Coloque $20
+33279	¡Ganas una pequeña parte de verdad!	Você ganha uma parte pequena de verdade!
+33280	Nada. Claro.	Nada. Claro.
+33281	Nadie gana. Te crees el más listo.	Ninguém ganha. Você se acha o espertinho.
+33282	El equipo ve una película de acción militar. Está llena de errores. {buddy} le grita a la pantalla. ¿Te unes?	A equipe assiste a um filme de ação militar. Está cheio de erros. {buddy} grita com a tela. Você se junta?
+33283	Grita también	Grite junto
+33284	La mejor noche de cine de todas.	A melhor noite de cinema de todas.
+33285	Guardas una lista mental de errores.	Você guarda uma lista mental de erros.
+33286	Una familia Gold Star organiza una marcha conmemorativa. Son 22 millas en un fin de semana. ¿Vas?	Uma família Gold Star organiza uma marcha em memória. São 22 milhas num fim de semana. Você vai?
+33287	Haz la marcha	Faça a marcha
+33288	Tienes los pies destrozados. El corazón lleno.	Seus pés estão acabados. O coração cheio.
+33289	La familia envía una nota de agradecimiento.	A família envia um bilhete de agradecimento.
+33290	Un niño en un desfile del Día de los Veteranos te pregunta si alguna vez tuviste miedo. ¿Qué le dices?	Uma criança num desfile do Dia dos Veteranos pergunta se você já teve medo. O que você diz a ele?
+33291	'Siempre'	'O tempo todo'
+33292	Su padre asiente. El niño se queda asombrado.	O pai dele acena. A criança fica impressionada.
+33293	Cree que eres un superhéroe. Es una mentira.	Ele acha que você é um super-herói. É uma mentira.
+33294	Un influencer de un gimnasio local te reta a un concurso de dominadas frente a la cámara. ¿Aceptas?	Um influencer de academia local te desafia para um concurso de barra fixa em vídeo. Você aceita?
+33295	Ganas. El video se vuelve viral.	Você ganha. O vídeo viraliza.
+33296	Él gana. El video igual se vuelve viral.	Ele ganha. O vídeo viraliza mesmo assim.
+33297	Sin cámaras. OPSEC intacto.	Sem câmeras. OPSEC intacta.
+33298	Primer día del RASP	Primeiro dia do RASP
+33299	Primer día del RASP en Fort Moore. Un instructor grita que la mitad abandonará antes del viernes. Te está mirando. ¿Qué haces?	Primeiro dia do RASP em Fort Moore. Um instrutor grita que metade vai desistir até sexta. Ele está olhando pra você. O que você faz?
+33300	Te haces mueble. A los muebles no los hacen sudar. Casi.	Você vira móvel. Móvel não é castigado. Quase.
+33301	Responde en voz alta	Responda bem alto
+33302	'HOOAH, SARGENTO!' Sigue de largo, casi impresionado.	'HOOAH, SARGENTO!' Ele vai embora, quase impressionado.
+33303	No te hizo una pregunta. Lo aprendes en posición de flexión.	Ele não te perguntou nada. Você aprende isso na posição de flexão.
+33304	La prueba del Credo	O teste do Credo
+33305	Un instructor exige que recites el Credo del Ranger, las seis estrofas, ahora mismo. Solo sabes cinco. ¿Qué haces?	Um instrutor exige que você recite o Credo do Ranger, todas as seis estrofes, agora. Você sabe cinco. O que você faz?
+33306	La sexta estrofa te vuelve a mitad de frase. Los Rangers abren el camino.	A sexta estrofa volta no meio da frase. Os Rangers abrem o caminho.
+33307	Te quedas en blanco en 'Readily will I display...' y pasas una hora recordándolo en el barro.	Você trava no 'Readily will I display...' e passa uma hora lembrando disso na lama.
+33308	Admite que no lo sabes	Admita que não sabe
+33309	La honestidad te gana flexiones y la tarea de recitarlo 50 veces esta noche.	A honestidade rende flexões e a tarefa de recitar 50 vezes hoje à noite.
+33310	Marcha de 12 millas del RASP, 3 horas para lograrlo. En la milla 9 tienes las piernas de cemento. ¿Qué haces?	Marcha de 12 milhas do RASP, 3 horas para conseguir. Na milha 9 suas pernas são de concreto. O que você faz?
+33311	Cruzas con cuatro minutos de sobra y te tiras a la gravilla al instante.	Você cruza com quatro minutos de sobra e cai na brita na hora.
+33312	Se te contrae el tendón de la corva. Pierdes el tiempo límite.	Seu tendão da coxa trava. Você perde o tempo limite.
+33313	Ritmo constante	Ritmo constante
+33314	El ritmo constante gana. Por poco.	O ritmo constante vence. Por pouco.
+33315	El ritmo constante fue 90 segundos demasiado lento.	O ritmo constante foi 90 segundos lento demais.
+33316	Supervivencia acuática de combate del RASP. Con los ojos vendados, equipo completo y caminar desde el trampolín alto. ¿Qué haces?	Sobrevivência aquática de combate do RASP. De olhos vendados, equipamento completo e caminhar do trampolim alto. O que você faz?
+33317	Da el paso	Dê o passo
+33318	Chapuzón, sueltas el equipo que no es el fusil y nadas a orilla. Fácil. Más o menos.	Splash, solte o equipamento sem o fuzil e nade para fora. Fácil. Mais ou menos.
+33319	Entras en pánico bajo el agua. Los buzos te sacan.	Você entra em pânico debaixo d'água. Os mergulhadores te tiram.
+33320	El instructor te ayuda a salir. Con la bota.	O instrutor te ajuda a sair. Com a bota.
+33321	Repetir o abandonar	Reciclar ou desistir
+33322	Tercera semana del RASP. Tienes fracturas por estrés en las espinillas. Sanidad te ofrece repetir el curso. ¿Qué haces?	Terceira semana do RASP. Suas canelas têm fraturas por estresse. O serviço médico oferece reciclagem. O que você faz?
+33323	Acepta repetir	Aceite a reciclagem
+33324	Seis semanas curándote y vuelves a hacerlo todo. Más listo esta vez.	Seis semanas se curando e você faz tudo de novo. Mais esperto dessa vez.
+33325	Ocúltalo y sigue	Esconda e siga
+33326	Te gradúas con las piernas rotas. Legendario, y estúpido.	Você se forma com as pernas quebradas. Lendário, e idiota.
+33327	Una espinilla se rompe en una carrera. Baja médica.	Uma canela quebra na corrida. Baixa médica.
+33328	Graduación del RASP. Un Ranger te pone la boina color arena. {buddy} no lo logró. ¿Qué haces?	Formatura do RASP. Um Ranger coloca o boina cor areia na sua cabeça. {buddy} não conseguiu. O que você faz?
+33329	{buddy} dice que volverá en el próximo curso. Te lo crees.	{buddy} diz que volta na próxima turma. Você acredita.
+33330	Celebra en Columbus	Celebre em Columbus
+33331	Un bistec grande, una cuenta de bar más grande. Vale la pena.	Um bife grande, uma conta de bar maior. Valeu a pena.
+33332	{buddy}, de una unidad de infantería normal, dice que los Rangers son 'solo infantería con buen marketing'. ¿Qué haces?	{buddy} de uma unidade de infantaria comum diz que os Rangers são 'só infantaria com bom marketing'. O que você faz?
+33333	Le invitas a una cerveza. Confianza tranquila.	Você paga uma cerveja pra ele. Confiança tranquila.
+33334	Rétalo a una marcha	Desafie-o para uma marcha
+33335	Lo dejas atrás en 10 millas. Él paga la cerveza.	Você o supera em 10 milhas. Ele paga a cerveja.
+33336	Es maratonista. Humillante.	Ele é maratonista. Humilhante.
+33337	Formación del lunes. Tu corte tiene tres días y el sargento primero dice que es 'lujoso'. ¿Qué haces?	Formação de segunda. Seu corte tem três dias e o primeiro sargento diz que está 'luxuoso'. O que você faz?
+33338	Córtatelo al almuerzo	Corte no almoço
+33339	Rapado arriba y ajustado, de vuelta al estándar.	Cortado rente e apertado, de volta ao padrão.
+33340	Discute el estándar	Discuta o padrão
+33341	Pierdes. Esta siempre la pierdes.	Você perde. Essa você sempre perde.
+33342	Entrega después del campo de tiro. El armero rechaza tu fusil por cuarta vez. 'Carbono en el portador del cerrojo.' ¿Qué haces?	Devolução depois do estande. O armeiro rejeita seu fuzil pela quarta vez. 'Carbono no ferrolho.' O que você faz?
+33343	Límpialo otra vez	Limpe de novo
+33344	A quinta es la vencida. Son las 2200.	A quinta é a certa. São 2200.
+33345	Cámbialo por uno limpio	Troque por um limpo
+33346	Nadie revisa los números de serie. Libre.	Ninguém confere os números de série. Você está livre.
+33347	Revisan los números de serie. Artículo 15.	Conferem os números de série. Artigo 15.
+33348	Carga la 240	Carregue a 240
+33349	Tu líder de escuadra te da la ametralladora M240 para una marcha de 15 millas. Nadie más la quiere. ¿Qué haces?	Seu líder de esquadra te entrega a metralhadora M240 para uma marcha de 15 milhas. Ninguém mais quer. O que você faz?
+33350	Cárgala todo el camino	Carregue o tempo todo
+33351	Tus hombros te odian. Tu líder de escuadra lo recuerda.	Seus ombros te odeiam. Seu líder de esquadra lembra.
+33352	Pide rotarla	Peça para alternar
+33353	Razonable. La escuadra rota cada 3 millas.	Razoável. A esquadra alterna a cada 3 milhas.
+33354	Alguien dejó una puerta sin cerrar. Todo el pelotón está pagando. {buddy} susurra que fuiste tú. ¿Qué haces?	Alguém deixou uma porta destrancada. Todo o pelotão está sendo castigado. {buddy} sussurra que foi você. O que você faz?
+33355	Da un paso al frente	Dê um passo à frente
+33356	Lo asumes. El castigo termina antes. Ganas respeto.	Você assume. O castigo acaba mais rápido. Ganha respeito.
+33357	Todos sufren más tiempo. {buddy} lo sabe.	Todo mundo sofre mais. {buddy} sabe.
+33358	Escuela Ranger, fase Darby. Te evalúan como líder de patrulla y tu escuadra tropieza en la oscuridad. ¿Qué haces?	Escola Ranger, fase Darby. Você é avaliado como líder de patrulha e sua esquadra tropeça no escuro. O que você faz?
+33359	Control estricto	Controle rígido
+33360	Llegas al objetivo a tiempo. GO.	Você chega ao objetivo no tempo. GO.
+33361	Tu escuadra se pierde. NO-GO.	Sua esquadra se perde. NO-GO.
+33362	Confía en tus líderes de equipo	Confie nos seus líderes de equipe
+33363	Ellos asumen. GO.	Eles assumem. GO.
+33364	Nadie asume. NO-GO.	Ninguém assume. NO-GO.
+33365	Escuela Ranger, montañas del norte de Georgia. Lluvia helada, mochila de 90 libras, tres horas de sueño en cuatro días. ¿Qué haces?	Escola Ranger, montanhas do norte da Geórgia. Chuva congelante, mochila de 90 libras, três horas de sono em quatro dias. O que você faz?
+33366	Sigue cargando	Continue carregando
+33367	Llegas a la fase de Florida.	Você chega à fase da Flórida.
+33368	Hipotermia. Repetición médica.	Hipotermia. Reciclagem médica.
+33369	Ayuda al más débil	Ajude o mais fraco
+33370	Tus compañeros te clasifican alto. Eso cuenta.	Seus colegas te classificam alto. Isso conta.
+33371	Fase de Florida. Pantano hasta la cintura de noche. Algo grande acaba de salpicar cerca. ¿Qué haces?	Fase da Flórida. Pântano até a cintura à noite. Algo grande acabou de espirrar perto. O que você faz?
+33372	Sigue avanzando	Continue avançando
+33373	Seguramente era un tronco. Seguramente.	Provavelmente era um tronco. Provavelmente.
+33374	No era un tronco. Mordedura de caimán.	Não era um tronco. Mordida de jacaré.
+33375	Quiédate quieto y escucha	Fique parado e escute
+33376	La escuadra choca contigo. Siguen los insultos.	A esquadra bate em você. Seguem os palavrões.
+33377	Día 50 de la Escuela Ranger. Ves una máquina de refrescos en el bosque e intentas comprarle una a un árbol. ¿Qué haces?	Dia 50 da Escola Ranger. Você vê uma máquina de refrigerantes na floresta e tenta comprar um de uma árvore. O que você faz?
+33378	Vuelve en ti	Volte a si
+33379	{buddy} te da una bofetada. 'Es un árbol, tío.' Te ríes como un loco.	{buddy} te dá um tapa. 'É uma árvore, cara.' Você ri como um louco.
+33381	El RI lo escribe para un informe posterior de risa.	O RI escreve isso num relatório pós-ação hilariante.
+33382	Evaluaciones entre pares de la Escuela Ranger. Tu escuadra quiere 'peer' al que se duerme en la guardia. ¿Qué haces?	Avaliações entre pares da Escola Ranger. Sua esquadra quer 'peer' o cara que dorme na sentinela. O que você faz?
+33383	Evalúalo con honestidad	Avalie-o com honestidade
+33384	Lo hacen repetir. Duro, pero ponía en peligro la patrulla.	Ele é reciclado. Duro, mas ele punha a patrulha em risco.
+33385	Protégelo	Proteja-o
+33386	Se queda. Te lo agradece. Vuelve a dormirse.	Ele fica. Agradece. Adormece de novo.
+33387	Graduación de la Escuela Ranger. Tu mamá te pone la insignia en el hombro. Has perdido 30 libras. ¿Qué haces?	Formatura da Escola Ranger. Sua mãe prende a insígnia no seu ombro. Você perdeu 30 libras. O que você faz?
+33388	Come todo	Coma tudo
+33389	Dos pizzas, un pastel y un galón de leche. Tu estómago se rebela.	Duas pizzas, um bolo e um galão de leite. Seu estômago se rebela.
+33390	Abraza a tu mamá	Abraçe sua mãe
+33391	Llora. Tú casi también.	Ela chora. Você quase também.
+33392	Escuela Ranger. Encuentras una barra de granola en una vieja trinchera. Comerla es una 'falta grave'. ¿Qué haces?	Escola Ranger. Você acha uma barra de granola numa trincheira velha. Comê-la é um 'desconto grave'. O que você faz?
+33393	La mejor barra de granola de tu vida.	A melhor barra de granola da sua vida.
+33394	Un RI ve el envoltorio. Falta grave.	Um RI vê a embalagem. Desconto grave.
+33395	Sueñas con ella durante semanas.	Você sonha com isso por semanas.
+33396	Primera incursión nocturna	Primeira incursão noturna
+33397	Primer despliegue en {country}. Tu primera incursión nocturna. El corazón te late fuerte mientras el helicóptero desciende. ¿Qué haces?	Primeiro desdobramento em {country}. Sua primeira incursão noturna. Seu coração bate forte enquanto o helicóptero desce. O que você faz?
+33398	Haz tu trabajo	Faça seu trabalho
+33399	Te apilas, avanzas, despejas tu esquina. Igual que en el entrenamiento.	Você se posiciona, avança, limpa seu canto. Exatamente como no treino.
+33400	Te hieren en el brazo durante la entrada.	Você leva um tiro no braço na arrombagem.
+33401	Te quedas quieto un momento.	Você trava por um momento.
+33402	Un líder de equipo te empuja hacia adelante. Te recuperas. Serás mejor.	Um líder de equipe te empurra pra frente. Você se recupera. Vai ser melhor.
+33403	Despejando un complejo en {country}, entras solo en una habitación. Un hombre mete la mano bajo un colchón. ¿Qué haces?	Ao limpar um complexo em {country}, você entra sozinho num quarto. Um homem alcança algo sob o colchão. O que você faz?
+33404	Grita órdenes	Grite ordens
+33405	Se queda quieto. Era un teléfono celular. Lo hiciste bien.	Ele congela. Era um celular. Você fez certo.
+33406	muerto al despejar una habitación en una incursión nocturna	morto ao limpar um quarto numa incursão noturna
+33407	Era una pistola.	Era uma pistola.
+33408	Tenía una granada. Salvaste al equipo.	Ele tinha uma granada. Você salvou a equipe.
+33409	Era un teléfono. Investigación.	Era um telefone. Investigação.
+33410	Salto de combate sobre un aeródromo en {country}. 500 pies, de noche, y tu línea está enredada con otro paracaidista. ¿Qué haces?	Salto de combate numa pista em {country}. 500 pés, à noite, e sua fita está emaranhada com outro paraquedista. O que você faz?
+33411	Libérate	Livre-se
+33412	Libre. El paracaídas se abre. Caes en la pista y ruedas.	Livre. O paraquedas abre. Você cai na pista e rola.
+33413	Caes con fuerza sobre el asfalto. Pierna rota.	Você cai com força no asfalto. Perna quebrada.
+33414	Abre el reserva	Abra o reserva
+33415	El reserva se abre. Caes fuera del objetivo, pero vivo.	O reserva abre. Você cai fora do alvo, mas vivo.
+33416	muerto en un accidente de paracaídas en combate	morto num acidente de paraquedas em combate
+33417	El reserva también se enreda.	O reserva também se emaranha.
+33418	Toma del aeródromo. Tu tarea: despejar la pista de vehículos y obstáculos antes de que aterrice el primer C-17 en 30 minutos. ¿Qué haces?	Captura da pista. Sua missão: limpar a pista de veículos e obstáculos antes do primeiro C-17 pousar em 30 minutos. O que você faz?
+33419	Puentea un camión	Ligue um caminhão direto
+33420	Sacas el camión de la pista. Los aviones aterrizan a tiempo.	Você tira o caminhão da pista. Os aviões pousam no horário.
+33421	El camión no arranca. Lo empujas.	O caminhão não pega. Você empurra.
+33422	Empuja con el equipo	Empurre com a equipe
+33423	Lento, pero funciona.	Lento, mas funciona.
+33424	Pulgas de arena de Hunter	Pulgas de areia de Hunter
+33425	Ejercicios de campo en Hunter Army Airfield. Las pulgas de arena te están comiendo vivo. ¿Qué haces?	Treino de campo em Hunter Army Airfield. As pulgas de areia estão te comendo vivo. O que você faz?
+33426	Tu líder de equipo asiente. Te picas por una semana.	Seu líder de equipe acena. Você coça por uma semana.
+33427	Acaparar repelente	Acumular repelente
+33428	Escondes el repelente. {buddy} se da cuenta.	Você esconde o repelente. {buddy} percebe.
+33429	Joint Base Lewis-McChord. Han llovido 40 días seguidos. Tu equipo huele a pantano. ¿Qué haces?	Joint Base Lewis-McChord. Choveu 40 dias seguidos. Seu equipamento cheira a pântano. O que você faz?
+33430	Seca todo	Seque tudo
+33431	Tu cuarto del cuartel se vuelve una lavandería.	Seu quarto no quartel vira uma lavanderia.
+33432	Acepta el moho	Aceite o mofo
+33433	El pie de trinchera es muy real.	O pé de trincheira é bem real.
+33434	Viernes por la noche en Savannah. {buddy} quiere conducir de vuelta a Hunter después de seis cervezas. ¿Qué haces?	Sexta à noite em Savannah. {buddy} quer dirigir de volta para Hunter depois de seis cervejas. O que você faz?
+33435	Quítale las llaves	Tire as chaves dele
+33436	Vais en Uber. {buddy} se enfada y luego lo agradece.	Vocês vão de Uber. {buddy} fica bravo, depois agradece.
+33437	Ve con él	Vá com ele
+33438	Llegáis de vuelta. Prometes que nunca más.	Vocês chegam de volta. Você promete nunca mais.
+33439	Choca contra un coche aparcado. Policía Militar.	Ele bate num carro estacionado. Polícia Militar.
+33440	Baja por estándares	Baixa por padrões
+33441	Fallaste un examen de preparación física por 3 puntos y el batallón amenaza con darte de baja. ¿Qué haces?	Você falhou no teste de educação física por 3 pontos e o batalhão ameaça te dispensar. O que você faz?
+33442	Entrena duro y repite	Treine duro e refaça
+33443	Arrasas en el repetido. Te quedas en el batallón.	Você arrasa no reteste. Fica no batalhão.
+33444	Vuelves a fallar. De vuelta al Ejército regular.	Você falha de novo. Volta para o Exército regular.
+33445	Suplica a tu líder de escuadra	Implore seu líder de esquadra
+33446	Te consigue una segunda oportunidad.	Ele te consegue uma segunda chance.
+33447	'Los estándares son estándares.'	'Padrões são padrões.'
+33448	Llevas la carga de apertura. La puerta es metálica y más gruesa de lo esperado. ¿Qué haces?	Você carrega a carga de arrombamento. A porta é de metal e mais grossa do que o esperado. O que você faz?
+33449	Dobla la carga	Dobre a carga
+33450	Puerta fuera. También el marco. Suficiente.	Porta fora. Também o batente. Bom o bastante.
+33451	La sobrepresión te agita el cerebro. TBI leve.	A sobrepressão sacode seu cérebro. TCE leve.
+33452	Usa la carga estándar	Use a carga padrão
+33453	La puerta salta. Limpio.	A porta explode. Limpo.
+33454	La puerta aguanta. El equipo va a una ventana.	A porta aguenta. A equipe vai para uma janela.
+33455	Torneo de combate cuerpo a cuerpo. Te toca contra un exluchador universitario. ¿Qué haces?	Torneio de combate corporal. Você enfrenta um ex-lutador universitário. O que você faz?
+33456	Busca el estrangulamiento	Busque o estrangulamento
+33457	Estrangulamiento por la espalda. Se rinde. La compañía enloquece.	Mata-leão. Ele desiste. A companhia vai à loucura.
+33458	Te hace un suplex. Tu compañía se estremece.	Ele te dá um suplex. Sua companhia estremece.
+33459	Sobrevive a las rondas	Sobreviva aos rounds
+33460	No ganas, pero no te rindes.	Você não ganha, mas não desiste.
+33461	Te rindes de todos modos.	Você desiste mesmo assim.
+33462	{buddy} metió una botella de whisky al cuartel a escondidas. El alcohol está prohibido. La inspección es mañana. ¿Qué haces?	{buddy} enfiou uma garrafa de uísque no quartel escondido. Álcool é proibido. A inspeção é amanhã. O que você faz?
+33463	Tírala	Jogue fora
+33464	{buddy} llora el whisky. Ambos pasan la inspección.	{buddy} chora o uísque. Os dois passam na inspeção.
+33465	Bébelo ahora	Beba agora
+33466	Mejor noche. Nadie te descubre.	Melhor noite. Ninguém te pega.
+33467	El oficial de servicio lo huele. Artículo 15.	O oficial de serviço sente o cheiro. Artigo 15.
+33468	JMPI antes de un salto de entrenamiento. Te das cuenta de que la manija del reserva está mal asegurada con una goma. ¿Qué haces?	JMPI antes de um salto de treino. Você percebe que a alça do reserva está presa com elástico do jeito errado. O que você faz?
+33469	Avisa al jefe de salto	Avise o chefe de salto
+33470	Lo arregla. Te agradece por estar atento.	Ele arruma. Agradece por você ter prestado atenção.
+33471	Salta igual	Pule mesmo assim
+33472	El principal abre bien. No hace falta el reserva.	O principal abre bem. Reserva não foi preciso.
+33473	Falla el principal. Falla el reserva.	O principal falha. O reserva falha.
+33474	{buddy} está a punto de fallar el examen de navegación terrestre y te pide seguirte. Es una prueba individual. ¿Qué haces?	{buddy} está prestes a falhar no teste de navegação terrestre e pede para seguir você. É um evento individual. O que você faz?
+33475	{buddy} falla. Te sabe mal, pero es su responsabilidad.	{buddy} falha. Você fica mal, mas a culpa é dele.
+33476	Déjalo seguirte	Deixe-o seguir
+33477	Ambos aprobáis. Nadie lo vio.	Vocês dois passam. Ninguém viu.
+33478	Un RI lo vio. Violación de la integridad para ambos.	Um RI viu. Violação de integridade para os dois.
+33479	Dormirse de guardia	Dormir na sentinela
+33480	Base de patrulla, 0400. Has dormido 2 horas en 3 días. Se te cierran los ojos al revisar el sector. ¿Qué haces?	Base de patrulha, 0400. Você dormiu 2 horas em 3 dias. Seus olhos fecham no meio da varredura do setor. O que você faz?
+33481	Levántate	Levante-se
+33482	De pie te mantienes despierto. Apenas.	Em pé você fica acordado. Mal.
+33483	Descansa los ojos	Descanse os olhos
+33484	Despiertas y nadie se ha dado cuenta.	Você acorda e ninguém percebeu.
+33485	Tu líder de equipo te encuentra dormido. Artículo 15.	Seu líder de equipe te acha dormindo. Artigo 15.
+33486	Un veterano de cabello gris de la batalla de Mogadiscio de 1993 habla a tu compañía. Pregunta si alguien tiene dudas. ¿Qué haces?	Um veterano de cabelo cinza da batalha de Mogadíscio de 1993 fala para sua companhia. Ele pergunta se alguém tem perguntas. O que você faz?
+33487	Pregunta por el miedo	Pergunte sobre o medo
+33488	Dice que el miedo nunca se fue, solo dejó de escucharlo. Lo escribes.	Ele diz que o medo nunca foi embora, só parou de ouvi-lo. Você anota.
+33489	Escuchas. La sala está en silencio total.	Você escuta. A sala fica em silêncio total.
+33490	{country}. Tu escuadra está rodeada por fuego desde un tejado. Tu líder de equipo grita 'Suprime!'. ¿Qué haces?	{country}. Sua esquadra está presa sob fogo de um telhado. Seu líder de equipe grita 'Suprima!'. O que você faz?
+33491	Fuego rápido	Fogo rápido
+33492	Tus disparos los mantienen agachados. La escuadra maniobra.	Seus tiros os mantêm abaixados. A esquadra manobra.
+33493	Expuesto. Te hieren.	Exposto. Você é atingido.
+33494	Lanzagranadas	Lança-granadas
+33495	Tu 40 mm cae justo en el tejado. Silencio.	Seu 40 mm cai bem no telhado. Silêncio.
+33496	Fallos. Te pasas.	Erra. Passa do ponto.
+33497	Como líder de equipo, un soldado raso no deja de fallar los estándares. Es un buen chico. El sargento de pelotón te pregunta por el RFS. ¿Qué haces?	Como líder de equipe, um soldado raso não para de falhar os padrões. Ele é um bom garoto. O sargento do pelotão pergunta sua opinião sobre a baixa. O que você faz?
+33498	Va a la 82. Allí le irá bien.	Ele vai para a 82ª. Lá vai bem.
+33499	Pelea por él	Lute por ele
+33500	Se queda y mejora.	Ele fica e melhora.
+33501	Vuelve a fallar. Cuestionan tu criterio.	Ele falha de novo. Seu julgamento é questionado.
+33502	Te haces líder de escuadra. El anterior era muy querido. Tus hombres no dejan de compararte. ¿Qué haces?	Você vira líder de esquadra. O anterior era muito querido. Seus homens não param de comparar você. O que você faz?
+33503	Gánatelo poco a poco	Ganhe isso aos poucos
+33504	Seis meses después, comparan al siguiente contigo.	Seis meses depois, comparam o próximo com você.
+33505	Mano dura	Mão firme
+33506	Se ponen en fila.	Eles entram na linha.
+33507	Aires de motín. Interviene el sargento de pelotón.	Clima de motim. O sargento do pelotão intervém.
+33508	Incursión nocturna en {country}. Tu equipo se apila ante una puerta. Oyes a una mujer y niños dentro. ¿Qué haces?	Incursão noturna em {country}. Sua equipe se posiciona numa porta. Você ouve uma mulher e crianças dentro. O que você faz?
+33509	El intérprete los llama. Salen mujeres y niños. Limpio.	O intérprete os chama. Mulheres e crianças saem. Limpo.
+33510	Un combatiente los usó de escudo.	Um combatente os usou como escudo.
+33511	Entra rápido	Entre rápido
+33512	Entrada rápida. Nadie herido.	Entrada rápida. Ninguém ferido.
+33513	Un niño resulta herido al entrar.	Uma criança se fere na entrada.
+33514	Un combatiente atrincherado en una habitación ya ha herido a un Ranger. ¿Qué haces?	Um combatente entrincheirado num quarto já feriu um Ranger. O que você faz?
+33515	Llama a rendirse	Chame para se render
+33516	Se rinde a los 20 minutos.	Ele se rende depois de 20 minutos.
+33517	Se niega. Ahora necesitas otro plan.	Ele recusa. Agora você precisa de outro plano.
+33518	Granada y asalto	Granada e assalto
+33519	Asalto limpio. Estrella de Bronce con V.	Assalto limpo. Estrela de Bronze com V.
+33520	muerto al asaltar a un tirador atrincherado	morto ao assaltar um atirador entrincheirado
+33521	Está esperando.	Ele está esperando.
+33522	Tu escuadra encuentra al objetivo de alto valor escondido en un agujero. Está suplicando. ¿Qué haces?	Sua esquadra encontra o alvo de alto valor escondido num buraco. Ele está implorando. O que você faz?
+33523	Captúralo	Capture-o
+33524	Bote. La inteligencia fluye durante meses.	Bingo. A inteligência flui por meses.
+33525	Nadie lo ve.	Ninguém vê.
+33526	asalto a un detenido	assalto a um detido
+33527	Imágenes de la cámara del casco.	Imagens da câmera do capacete.
+33528	Perro de trabajo militar	Cão de trabalho militar
+33529	El perro asignado a tu escuadra marca una pared. El guía dice que 'hay algo ahí'. ¿Qué haces?	O cão designado para sua esquadra marca uma parede. O condutor diz que 'tem algo ali'. O que você faz?
+33530	Escondite de armas. Buen perro.	Esconderijo de armas. Bom cão.
+33531	Era una rata.	Era um rato.
+33532	Un combatiente sale de un escondite detrás de ti.	Um combatente aparece de um esconderijo atrás de você.
+33533	El Chinook que lleva a tu escuadra aterriza con fuerza. La cabina se llena de humo. Dos Rangers no se mueven. ¿Qué haces?	O Chinook que leva sua esquadra pousa com força. A cabine enche de fumaça. Dois Rangers não se movem. O que você faz?
+33534	Sácalos arrastrando	Tire-os para fora
+33535	Todos fuera antes del incendio. Mención honorífica.	Todo mundo fora antes do incêndio. Menção honrosa.
+33536	Inhalación de humo y quemaduras.	Inalação de fumaça e queimaduras.
+33537	Asegura el perímetro	Garanta o perímetro
+33538	Otros se encargan de los heridos. El perímetro aguanta.	Outros cuidam dos feridos. O perímetro resiste.
+33539	Eres líder de un equipo de francotiradores. Un hombre en un tejado habla por radio y observa a tu fuerza de asalto. ¿Qué haces?	Você é líder de uma equipe de atiradores de elite. Um homem num telhado fala no rádio e observa sua força de assalto. O que você faz?
+33540	Informa y observa	Informe e observe
+33541	Se va. La fuerza de asalto se ajusta.	Ele vai embora. A força de assalto se ajusta.
+33542	Llamó a un equipo de RPG.	Ele chamou uma equipe de RPG.
+33543	Pide permiso para disparar	Peça permissão para atirar
+33544	Aprobado. Observador eliminado.	Aprovado. Observador eliminado.
+33545	Denegado. Intención hostil insuficiente.	Negado. Intenção hostil insuficiente.
+33546	Tu médico Ranger está caído y {buddy} sangra mucho. Todos en el regimiento están entrenados en primeros auxilios. ¿Qué haces?	Seu médico Ranger está caído e {buddy} sangra muito. Todo mundo no regimento é treinado em primeiros socorros. O que você faz?
+33547	Torniquete, sello de pecho, descompresión con aguja. {buddy} sobrevive.	Torniquete, selo de peito, descompressão com agulha. {buddy} sobrevive.
+33548	Haces todo bien. {buddy} no lo logra.	Você faz tudo certo. {buddy} não sobrevive.
+33549	Levanta al médico	Levante o médico
+33550	El médico solo está aturdido. Toma el mando.	O médico só está atordoado. Ele assume.
+33551	Doce despliegues en nueve años. Te tiemblan las manos cuando no estás trabajando. ¿Qué haces?	Doze desdobramentos em nove anos. Suas mãos tremem quando você não está trabalhando. O que você faz?
+33552	Empiezas a dormir. Tu escuadra nota que estás más tranquilo.	Você começa a dormir. Sua esquadra nota que você está mais calmo.
+33553	Decimotercer despliegue. Los temblores empeoran.	Décimo terceiro desdobramento. Os tremores pioram.
+33554	Deja el batallón	Saia do batalhão
+33555	Te pasas a una unidad de entrenamiento. El silencio es raro.	Você vai para uma unidade de treino. O silêncio é estranho.
+33556	Tras años como especialista en arrombamiento, olvidas palabras y tienes dolor de cabeza a diario. ¿Qué haces?	Depois de anos como especialista em arrombamento, você esquece palavras e tem dor de cabeça todo dia. O que você faz?
+33557	Hazte revisar	Faça uma avaliação
+33558	Diagnóstico de TBI. El tratamiento ayuda. Sales del equipo de arrombamiento.	Diagnóstico de TCE. O tratamento ajuda. Você sai da equipe de arrombamento.
+33559	Los dolores de cabeza empeoran.	As dores de cabeça pioram.
+33560	Tu batallón os elige a ti y a {buddy} para el concurso Best Ranger. 60 horas de pruebas sin parar. ¿Qué haces?	Seu batalhão escolhe você e {buddy} para a competição Best Ranger. 60 horas de provas sem parar. O que você faz?
+33561	Entrena seis meses	Treine seis meses
+33562	Quedas entre los tres primeros. Legendario.	Você fica entre os três primeiros. Lendário.
+33563	Terminas, pero en la mitad de la tabla.	Você termina, mas no meio da turma.
+33564	Tu sargento mayor está decepcionado.	Seu sargento-mor está decepcionado.
+33565	'Nunca dejaré a un compañero caído.' El cuerpo de un Ranger está en un edificio que aún recibe disparos. ¿Qué haces?	'Nunca vou deixar um companheiro caído.' O corpo de um Ranger está num prédio que ainda leva fogo. O que você faz?
+33566	Recupéralo	Recupere-o
+33567	Lo traes de vuelta. Estrella de Plata.	Você o traz de volta. Estrela de Prata.
+33568	muerto al recuperar a un Ranger caído	morto ao recuperar um Ranger caído
+33569	Te hieren dentro del edificio.	Você é atingido dentro do prédio.
+33570	Espera a que cesen los disparos	Espere os disparos pararem
+33571	Suprimen el edificio. La recuperación funciona.	O prédio é suprimido. A recuperação dá certo.
+33572	El cuerpo se pierde durante 2 días.	O corpo fica perdido por 2 dias.
+33573	Asalto a la casa equivocada	Incursão na casa errada
+33574	Tu escuadra asalta un complejo. Coordenadas equivocadas. Es una familia de granjeros. Todos aterrorizados. ¿Qué haces?	Sua esquadra invade um complexo. Coordenadas erradas. É uma família de fazendeiros. Todos aterrorizados. O que você faz?
+33575	Pide perdón y paga	Peça desculpa e pague
+33576	Consigues dinero para la familia. Lo aceptan.	Você arranja dinheiro de condolência. A família aceita.
+33577	Vete rápido	Vá embora rápido
+33578	El pueblo se vuelve contra ti.	A vila se volta contra você.
+33579	Un combatiente enemigo herido yace en el patio. Tu médico está ocupado. ¿Qué haces?	Um combatente inimigo ferido está no pátio. Seu médico está ocupado. O que você faz?
+33580	Sobrevive y se vuelve una fuente valiosa.	Ele sobrevive e vira uma fonte valiosa.
+33581	Déjalo	Deixe-o
+33582	Muere. ¿Fue tu decisión?	Ele morre. Foi sua decisão?
+33583	El helicóptero de extracción recibe disparos. Los pilotos dicen 60 segundos o se van. Dos siguen despejando. ¿Qué haces?	O helicóptero de exfiltração leva fogo. Os pilotos dizem 60 segundos ou vão embora. Dois ainda estão limpando. O que você faz?
+33584	Ve a buscarlos	Vá buscá-los
+33585	Los traes de vuelta en 55 segundos.	Você os traz de volta em 55 segundos.
+33586	muerto durante una extracción bajo fuego	morto durante uma exfiltração sob fogo
+33587	Te hieren al volver corriendo.	Você é atingido na volta correndo.
+33588	Avísalos por radio	Avise-os pelo rádio
+33589	Se apresuran. Todos a bordo.	Eles se apressam. Todo mundo a bordo.
+33590	Uno pierde el helicóptero. Hace falta una segunda extracción.	Um perde o helicóptero. É preciso uma segunda exfiltração.
+33591	Pillas a un Ranger de tu escuadra vendiendo munición sobrante a un contacto civil en la base. ¿Qué haces?	Você pega um Ranger da sua esquadra vendendo munição extra para um contato civil na base. O que você faz?
+33592	Lo dan de baja del Ejército.	Ele é dispensado do Exército.
+33593	Resuélvelo internamente	Resolva internamente
+33594	Lo deja.	Ele para.
+33595	Se descubre después. Os castigan a los dos.	Isso vem à tona depois. Vocês dois são punidos.
+33596	No dejas de decir '¿qué?'. Tu esposa dice que la tele está muy alta. ¿Qué haces?	Você não para de dizer 'o quê?'. Sua esposa diz que a TV está muito alta. O que você faz?
+33597	Ve al audiólogo	Vá ao audiologista
+33598	Audífonos. Molestos, pero útiles.	Aparelhos auditivos. Chatos, mas úteis.
+33599	Empeora.	Piora.
+33600	Eres el nuevo sargento de pelotón. Tu teniente sale de la Escuela Ranger y está muy seguro de sí. ¿Qué haces?	Você é o novo sargento do pelotão. Seu tenente saiu da Escola Ranger e está muito confiante. O que você faz?
+33601	Acompáñalo en silencio	Oriente-o discretamente
+33602	Se convierte en un gran oficial y años después te lo agradece.	Ele vira um grande oficial e anos depois credita você.
+33603	Aprende a base de golpes. El pelotón sufre.	Ele aprende do jeito difícil. O pelotão sofre.
+33604	Los papeles del divorcio llegan por correo mientras estás en {country}. Tu equipo te necesita esta noche. ¿Qué haces?	Os papéis do divórcio chegam por e-mail enquanto você está em {country}. Sua equipe precisa de você hoje à noite. O que você faz?
+33605	Haces la misión. Te desmoronas después.	Você faz a missão. Desaba depois.
+33607	Te escucha. Ayuda un poco.	Ele escuta. Ajuda um pouco.
+33608	En medio del tiroteo, un combatiente sale con las manos en alto. {buddy} levanta su arma. ¿Qué haces?	No meio do tiroteio, um combatente sai com as mãos levantadas. {buddy} levanta a arma. O que você faz?
+33609	Lo hacen prisionero. Se respetan las leyes de la guerra.	Ele é feito prisioneiro. As leis da guerra são respeitadas.
+33610	Nadie lo vio. Tú lo sabrás siempre.	Ninguém viu. Você sempre vai saber.
+33611	Cámara del casco. Consejo de guerra.	Câmera do capacete. Tribunal militar.
+33612	Encuentras una laptop y efectivo en el objetivo. Un compañero sugiere quedarse el dinero. ¿Qué haces?	Você acha um notebook e dinheiro no objetivo. Um colega sugere ficar com o dinheiro. O que você faz?
+33613	Guarda todo	Guarde tudo
+33614	A los analistas les encanta la laptop.	Os analistas adoram o notebook.
+33615	Quédate algo de dinero	Fique com um pouco de dinheiro
+33616	Nadie lo cuenta.	Ninguém conta.
+33617	hurto	furto
+33618	Fotografiaron el dinero en el lugar.	O dinheiro foi fotografado no local.
+33619	Tu sección de morteros de 60 mm debe disparar a menos de 30 metros de tropas amigas. El cálculo está justo. ¿Qué haces?	Sua seção de morteiros de 60 mm precisa atirar a menos de 30 metros de forças amigas. A conta está apertada. O que você faz?
+33620	Dispara con cuidado	Atire com cuidado
+33621	Impactos en el objetivo. Se reanuda el asalto.	Tiros no alvo. O assalto recomeça.
+33622	Un disparo corto. Bajas amigas.	Um tiro curto. Baixas amigas.
+33623	Rechaza la misión	Recuse a missão
+33624	La fuerza de asalto te tilda de cauteloso.	A força de assalto te chama de cauteloso.
+33625	Un soldado de tu escuadra es detenido por conducir ebrio en el centro. El sargento primero te pregunta si sabías que tenía un problema. ¿Qué haces?	Um soldado da sua esquadra é preso por dirigir bêbado no centro. O primeiro sargento pergunta se você sabia que ele tinha problema. O que você faz?
+33626	Admite que lo sospechabas	Admita que desconfiava
+33627	Respuesta honesta. Todos aprenden la lección.	Resposta honesta. Todos aprendem a lição.
+33628	Nadie insiste.	Ninguém insiste.
+33629	Otros soldados dicen que lo sabías.	Outros soldados dizem que você sabia.
+33630	Tu pelotón está acorralado. El AC-130 dice que los impactos caerían a 40 metros de ustedes. ¿Qué haces?	Seu pelotão está preso. O AC-130 diz que os tiros cairiam a 40 metros de vocês. O que você faz?
+33631	Pide los disparos	Peça os tiros
+33632	Disparos perfectos. Pelotón salvado. Estrella de Plata.	Tiros perfeitos. Pelotão salvo. Estrela de Prata.
+33633	muerto por disparos de apoyo demasiado cercanos	morto por tiros de apoio muito próximos
+33634	Los impactos caen demasiado cerca.	Os tiros caem perto demais.
+33635	Maniobra para salir	Manobre para sair
+33636	Flanqueas y ganas.	Você flanqueia e vence.
+33637	muerto al maniobrar bajo fuego	morto ao manobrar sob fogo
+33638	El flanco queda expuesto.	O flanco fica exposto.
+33639	Una granada cae en la habitación con tu equipo de fuego. No hay donde devolverla. ¿Qué haces?	Uma granada cai no quarto com sua equipe de fogo. Não há para onde jogá-la de volta. O que você faz?
+33640	Tírate sobre la granada	Jogue-se sobre a granada
+33641	La espoleta de la granada estaba parcialmente defectuosa. Vives, muy herido. Medalla de Honor.	O estopim da granada estava parcialmente defeituoso. Você sobrevive, muito ferido. Medalha de Honra.
+33642	muerto al proteger a sus compañeros de una granada	morto ao proteger os colegas de uma granada
+33643	Tu equipo sobrevive gracias a ti.	Sua equipe sobrevive por causa de você.
+33644	Estalla afuera.	Explode do lado de fora.
+33645	Mantén la esquina	Mantenha o canto
+33646	Tu equipo sostiene una esquina del edificio mientras el pelotón evacúa a los heridos. Los combatientes se concentran. ¿Qué haces?	Sua equipe segura um canto do prédio enquanto o pelotão evacua os feridos. Os combatentes estão se concentrando. O que você faz?
+33647	Resiste hasta el final	Resista até o fim
+33648	Resistes hasta que sale el último helicóptero. Cruz de Servicio Distinguido.	Você resiste até o último helicóptero ir embora. Cruz de Serviço Distinto.
+33649	muerto al defender una esquina durante la evacuación	morto ao defender um canto durante a evacuação
+33650	Tu posición cae.	Sua posição cai.
+33651	Retírate por tramos	Recue por trechos
+33653	Te hieren durante el retroceso.	Você é atingido durante o recuo.
+33654	Otra vez la Escuela Ranger	Escola Ranger de novo
+33655	Tu líder de escuadra dice que necesitas la insignia para seguir ascendiendo. La has estado posponiendo. ¿Qué haces?	Seu líder de esquadra diz que você precisa da insígnia para continuar subindo. Você tem adiado. O que você faz?
+33656	Insignia conseguida. Ascenso asegurado.	Insígnia conquistada. Promoção vem a seguir.
+33657	Repetiste dos veces. Te dan de baja.	Você foi reciclado duas vezes. É dispensado.
+33658	Tu carrera se estanca.	Sua carreira estagna.
+33659	El funeral de tu hermano	O funeral do seu irmão
+33660	{buddy} murió en el último despliegue. Su familia te pide hablar en el funeral. ¿Qué haces?	{buddy} morreu no último desdobramento. A família pede que você fale no funeral. O que você faz?
+33661	Cuentas cómo {buddy} te cargó en el RASP. Todos lloran.	Você conta como {buddy} te carregou no RASP. Todo mundo chora.
+33662	No puedes. Te quedas al fondo.	Você não consegue. Fica no fundo.
+33663	Suboficial de salto en combate	Suboficial de salto em combate
+33664	Salto de combate. Tu escuadra cae dispersa por la zona de aterrizaje. Disparos enemigos desde la torre. ¿Qué haces?	Salto de combate. Sua esquadra cai espalhada pela zona de queda. Fogo inimigo vindo da torre. O que você faz?
+33665	Reagrupa a todos en tu posición	Reagrupe todos em sua posição
+33667	Te hieren al reagrupar.	Você é atingido ao reagrupar.
+33668	Avanzas hacia el objetivo	Avançe até o objetivo
+33669	Los grupos pequeños convergen. Objetivo asegurado.	Os grupos pequenos convergem. Objetivo garantido.
+33670	Desorganizados. Misión retrasada.	Desorganizados. Missão atrasada.
+33671	Como sargento primero, debes decidir si apruebas a un soldado con un test de drogas positivo para la Escuela Ranger. ¿Qué haces?	Como primeiro sargento, você precisa decidir se aprova um soldado com teste de drogas positivo para a Escola Ranger. O que você faz?
+33672	Expúlsalo	Expulse-o
+33673	Se mantienen los estándares.	Os padrões são mantidos.
+33674	Se convierte en un gran suboficial.	Ele vira um grande suboficial.
+33675	Vuelve a fallar. Cuestionan tu criterio.	Ele falha de novo. Seu julgamento é questionado.
+33676	Tu primer día como líder de pelotón Ranger. Tu sargento de pelotón tiene 9 despliegues de combate; tú, cero. ¿Qué haces?	Seu primeiro dia como líder de pelotão Ranger. Seu sargento de pelotão tem 9 desdobramentos de combate; você, zero. O que você faz?
+33677	Pídele que te enseñe	Peça que ele te ensine
+33678	Te respeta por eso. Se forma una alianza.	Ele te respeita por isso. Surge uma parceria.
+33679	Demuéstrate	Demonstre seu valor
+33680	Dejas a todos atrás en la carrera. Respeto a regañadientes.	Você supera todo mundo na corrida. Respeito relutante.
+33681	Ponen los ojos en blanco a tus espaldas.	Eles reviram os olhos pelas suas costas.
+33682	Te asignan una incursión con 3 horas para el despegue. La inteligencia es escasa. ¿Qué haces?	Você recebe uma missão de incursão com 3 horas para o lançamento. A inteligência é escassa. O que você faz?
+33683	Plan rápido y despega	Plano rápido e decole
+33684	Rápido, violento, exitoso.	Rápido, violento, bem-sucedido.
+33685	muerto en una incursión precipitada	morto numa incursão apressada
+33686	Huecos en el plan.	Buracos no plano.
+33687	Pide más tiempo	Peça mais tempo
+33688	Aprobado. El objetivo se mueve.	Concedido. O alvo se move.
+33690	Rápido y sorprendente. Aeródromo tomado en 20 minutos.	Rápido e surpreendente. Pista tomada em 20 minutos.
+33691	El viento dispersa a los paracaidistas.	O vento espalha os paraquedistas.
+33692	Más limpio. Los aviones entran.	Mais limpo. Os aviões entram.
+33693	El primer avión recibe disparos en la pista.	O primeiro avião leva fogo na pista.
+33694	Informe de la Fuerza de Tarea	Briefing da Força-Tarefa
+33695	Informas a un general de dos estrellas sobre el plan de incursión de esta noche. Quiere 'más agresividad'. ¿Qué haces?	Você informa um general de duas estrelas sobre o plano de incursão de hoje à noite. Ele quer 'mais agressividade'. O que você faz?
+33696	Defiende tu plan	Defenda seu plano
+33697	Asiente. 'Bien. Ejecuta.'	Ele acena. 'Bom. Execute.'
+33698	Añade agresividad	Adicione agressividade
+33699	Más riesgo. Sale bien.	Mais risco. Dá certo.
+33700	El tiempo está justo para la infiltración en helicóptero. El objetivo solo está ahí esta noche. ¿Qué haces?	O tempo está limite para a infiltração de helicóptero. O alvo só está lá hoje à noite. O que você faz?
+33701	Vuelo brusco, pero exitoso.	Voo turbulento, mas bem-sucedido.
+33702	Poeira espessa. Aterrizaje brusco.	Poeira espessa. Pouso brusco.
+33703	A salvo. El objetivo escapa.	Seguro. O alvo escapa.
+33704	El AC-130 sobrevuela e informa de 'squirters' que huyen del objetivo. Algunos podrían ser civiles. ¿Qué haces?	O AC-130 acima reporta 'squirters' fugindo do alvo. Alguns podem ser civis. O que você faz?
+33705	Síguelos, no dispares	Acompanhe, não atire
+33706	Los sigues hasta un segundo complejo. Objetivo extra.	Você os segue até um segundo complexo. Alvo extra.
+33707	Estaban armados.	Estavam armados.
+33708	Eran pastores.	Eram pastores.
+33709	Programa de Orientación Ranger para oficiales. Entre tus compañeros hay un primer capitán de West Point y un exatleta universitario. ¿Qué haces?	Programa de Orientação Ranger para oficiais. Entre seus colegas estão um primeiro capitão de West Point e um ex-atleta universitário. O que você faz?
+33710	Supéralos trabajando más	Supere-os trabalhando mais
+33711	Quedas el primero de la clase.	Você fica em primeiro na turma.
+33712	Te quemas a mitad.	Você se esgota no meio.
+33713	Únete a ellos	Junte-se a eles
+33714	Todos aprobáis. Amigos para siempre.	Vocês todos passam. Amigos para sempre.
+33715	Tienes que llamar a los padres de un soldado muerto en tu incursión. ¿Qué haces?	Você precisa ligar para os pais de um soldado morto na sua incursão. O que você faz?
+33716	Llama tú mismo	Ligue pessoalmente
+33717	La llamada más difícil de tu vida. El padre te lo agradece.	A ligação mais difícil da sua vida. O pai agradece.
+33718	Escribe una carta	Escreva uma carta
+33719	Querían oír tu voz.	Eles queriam ouvir sua voz.
+33720	Un soldado de tu pelotón hizo algo heroico. Los mandos quieren rebajar la condecoración. ¿Qué haces?	Um soldado do seu pelotão fez algo heroico. O comando quer rebaixar a condecoração. O que você faz?
+33721	Pelea por ello	Lute por isso
+33722	Recibe la Estrella de Plata que se ganó.	Ele recebe a Estrela de Prata que mereceu.
+33723	La bajan a Bronce. Lo intentaste.	Rebaixada para Bronze. Você tentou.
+33724	Recibe una mención.	Ele recebe uma menção.
+33725	La inteligencia dice que no hay civiles en el complejo objetivo. Tu instinto dice lo contrario. ¿Qué haces?	A inteligência diz que não há civis no complexo-alvo. Seu instinto diz o contrário. O que você faz?
+33726	Pide más ISR	Peça mais ISR
+33727	El dron detecta una boda. Incursión pospuesta. Buena decisión.	O drone detecta um casamento. Incursão adiada. Boa decisão.
+33728	Confía en la inteligencia	Confie na inteligência
+33729	La inteligencia tenía razón.	A inteligência estava certa.
+33730	Bajas civiles. Investigación.	Baixas civis. Investigação.
+33731	Tomas el mando de una compañía de fusileros Ranger. Al anterior lo destituyeron. ¿Qué haces?	Você assume o comando de uma companhia de fuzileiros Ranger. O anterior foi demitido. O que você faz?
+33732	Averiguas qué salió mal. Lo arreglas.	Você descobre o que deu errado. Conserta.
+33733	Haz limpieza	Faça limpeza
+33734	Nuevos líderes, energía renovada.	Novos líderes, energia renovada.
+33735	Despides a quienes no debías.	Você demite as pessoas erradas.
+33737	Usa mensajeros	Use mensageiros
+33738	La vieja escuela funciona.	A velha escola funciona.
+33739	Los mensajeros se pierden.	Os mensageiros se perdem.
+33740	Misión cancelada.	Missão cancelada.
+33741	Una oficial que se ganó su insignia llega a tu compañía. Algunos suboficiales refunfuñan. ¿Qué haces?	Uma oficial que conquistou sua insígnia chega à sua companhia. Alguns suboficiais reclamam. O que você faz?
+33742	El estándar es el estándar. Ella se ganó la insignia. Se acabaron las quejas.	Padrão é padrão. Ela conquistou a insígnia. As reclamações param.
+33743	Las quejas empeoran.	As reclamações pioram.
+33744	Eres el S3 del batallón (oficial de operaciones). Tres misiones, dos helicópteros. ¿Qué haces?	Você é o S3 do batalhão (oficial de operações). Três missões, dois helicópteros. O que você faz?
+33745	Primero el objetivo de mayor valor.	Primeiro o alvo de maior valor.
+33746	Divide los recursos	Divida os recursos
+33747	Apenas suficiente.	Mal suficiente.
+33748	Las tres salen mal.	As três saem mal.
+33749	Un contratista estadounidense está retenido en {country}. A tu compañía le asignan la misión. ¿Qué haces?	Um contratado americano está detido em {country}. Sua companhia recebe a missão. O que você faz?
+33750	Asalto nocturno	Assalto noturno
+33751	Rehén rescatado. Estrella de Bronce.	Refém resgatado. Estrela de Bronze.
+33752	Espera la confirmación	Espere a confirmação
+33753	Trasladan al rehén. Se pierde la oportunidad.	O refém é movido. Perde-se a janela.
+33754	Tu comandante de batallón te clasifica segundo entre seis capitanes. Quieres el primer lugar. ¿Qué haces?	Seu comandante de batalhão te classifica em segundo entre seis capitães. Você quer o primeiro lugar. O que você faz?
+33755	Primer lugar en la próxima evaluación.	Primeiro lugar na próxima avaliação.
+33756	El comandante de batallón te cala.	O comandante do batalhão percebe.
+33757	Salto de entrenamiento de noche. Vientos por encima del límite. Tus hombres quieren saltar. ¿Qué haces?	Salto de treino à noite. Ventos acima do limite. Seus homens querem pular. O que você faz?
+33758	Bien hecho. En tierra hay demasiado viento.	Inteligente. Em terra tem vento demais.
+33759	Brusco, pero todos bien.	Brusco, mas todo mundo bem.
+33760	Varios heridos. Investigación.	Vários feridos. Investigação.
+33761	Un Ranger de tu compañía es acusado de mala conducta en el despliegue. Es de los mejores. ¿Qué haces?	Um Ranger da sua companhia é acusado de má conduta no desdobramento. Ele é dos melhores. O que você faz?
+33762	Los hechos son los hechos.	Os fatos são os fatos.
+33763	Resuélvelo en privado	Resolva discretamente
+33764	El Inspector General se entera.	O Inspetor Geral descobre.
+33765	Tu compañía ha hecho 40 incursiones en 60 días. Los hombres están agotados. Los mandos quieren más. ¿Qué haces?	Sua companhia fez 40 incursões em 60 dias. Os homens estão esgotados. O comando quer mais. O que você faz?
+33766	Conceden un descanso.	Pausa concedida.
+33767	'Busca la forma.'	'Arranje um jeito.'
+33768	Empiezan a pasar errores.	Os erros começam a acontecer.
+33769	Un equipo documental quiere filmar a tu compañía. PAO lo aprueba. ¿Qué haces?	Uma equipe de documentário quer filmar sua companhia. O PAO aprova. O que você faz?
+33770	Permítelo	Permita
+33771	Gran película. El reclutamiento se dispara.	Ótimo filme. O recrutamento dispara.
+33772	PAO está molesto.	O PAO está irritado.
+33773	Tus detenidos serán trasladados a una cárcel aliada conocida por la tortura. ¿Qué haces?	Seus detidos serão transferidos para uma prisão aliada conhecida por tortura. O que você faz?
+33774	Reporta tus dudas	Relate suas preocupações
+33775	Traslado detenido a la espera de revisión.	Transferência suspensa até revisão.
+33776	Transfiérelos igual	Transfira mesmo assim
+33777	Tu conciencia sufre.	Sua consciência sofre.
+33778	Curso de Líderes Ranger	Curso de Líderes Ranger
+33779	Te eligen para enseñar a tenientes jóvenes. Un alumno claramente lo está pasando mal. ¿Qué haces?	Você é escolhido para ensinar tenentes jovens. Um aluno está claramente com dificuldade. O que você faz?
+33780	Aprueba y te lo agradece.	Ele passa e agradece.
+33781	Suspéndelo	Reprove-o
+33782	Se mantienen los estándares.	Os padrões são mantidos.
+33783	El convoy de vehículos de tu compañía cae en una emboscada. El primer vehículo está ardiendo. ¿Qué haces?	O comboio de veículos da sua companhia cai numa emboscada. O primeiro veículo está queimando. O que você faz?
+33784	Asalta la emboscada	Assalte a emboscada
+33785	Los flanqueas y los destruyes. Estrella de Bronce con V.	Você os flanqueia e os destrói. Estrela de Bronze com V.
+33786	muerto al liderar un contraataque	morto ao liderar um contra-ataque
+33787	Fuego intenso.	Fogo intenso.
+33788	Junta de ascenso a mayor. Tu expediente es bueno, pero no sobresaliente. Un mentor se ofrece a llamar al presidente de la junta. ¿Qué haces?	Banca de promoção a major. Seu histórico é bom, mas não ótimo. Um mentor se oferece para ligar ao presidente da banca. O que você faz?
+33789	Te sostienes en tu historial.	Você aposta no seu histórico.
+33790	Se ve mal.	Parece mal.
+33791	Tu cónyuge dice que te has perdido todos sus cumpleaños durante cuatro años. ¿Qué haces?	Seu cônjuge diz que você perdeu todos os aniversários por quatro anos. O que você faz?
+33792	Pide un puesto de Estado Mayor	Peça um cargo de Estado-Maior
+33793	Mejora el tiempo en familia.	O tempo em família melhora.
+33794	Tu cónyuge se va de casa.	Seu cônjuge sai de casa.
+33795	Tomas el mando del 75.º Regimiento Ranger. El ritmo operativo es agobiante. ¿Qué haces?	Você assume o comando do 75º Regimento Ranger. O ritmo operacional está esmagador. O que você faz?
+33796	Protege a la fuerza	Proteja a força
+33797	Te opones a algunas misiones. La preparación aumenta.	Você resiste a algumas missões. A prontidão aumenta.
+33798	Di que sí a todo	Diga sim para tudo
+33799	Las misiones florecen. Los suicidios aumentan.	As missões florescem. Os suicídios aumentam.
+33800	Un Ranger murió por fuego amigo. Los mandos quieren informarlo como acción enemiga. ¿Qué haces?	Um Ranger morreu por fogo amigo. O comando quer registrar como ação inimiga. O que você faz?
+33801	La familia se entera de la verdad. Mantienes la integridad.	A família sabe a verdade. Você mantém a integridade.
+33802	Nadie se entera.	Ninguém descobre.
+33803	Se descubre.	Vem à tona.
+33804	El Pentágono quiere recortar el presupuesto del regimiento. ¿Qué haces?	O Pentágono quer cortar o orçamento do regimento. O que você faz?
+33805	Presupuesto salvado.	Orçamento salvo.
+33806	Generales molestos.	Generais irritados.
+33807	Acepta los recortes	Aceite os cortes
+33808	El entrenamiento sufre.	O treino sofre.
+33809	Los medios quieren tu opinión sobre Mogadiscio en el aniversario. ¿Qué haces?	A mídia quer sua opinião sobre Mogadíscio no aniversário. O que você faz?
+33810	Honra a los caídos	Homenageie os mortos
+33811	Discurso emotivo. Los veteranos te lo agradecen.	Discurso emocionante. Os veteranos agradecem.
+33812	PAO está decepcionado.	O PAO está decepcionado.
+33813	Tres Rangers se quitaron la vida este año. ¿Qué haces?	Três Rangers tiraram a própria vida este ano. O que você faz?
+33814	Impulso de salud mental	Campanha de saúde mental
+33815	Psicólogos integrados en cada batallón.	Psicólogos integrados em cada batalhão.
+33816	Informe en PowerPoint	Apresentação em PowerPoint
+33817	Nada cambia.	Nada muda.
+33818	El Pentágono quiere más Rangers. Sugieren bajar los estándares del RASP. ¿Qué haces?	O Pentágono quer mais Rangers. Sugerem baixar os padrões do RASP. O que você faz?
+33819	La calidad baja.	A qualidade cai.
+33820	El Congreso pregunta si los Rangers están siendo desplegados en exceso. ¿Qué haces?	O Congresso pergunta se os Rangers estão sendo desdobrados em excesso. O que você faz?
+33821	Sé sincero	Seja franco
+33822	Dices la verdad. Algunos generales molestos.	Você diz a verdade. Alguns generais irritados.
+33823	Mantén el guion	Mantenha a linha
+33824	Respuesta segura.	Resposta segura.
+33825	El Memorial Ranger suma nuevos nombres este año. Tú das el discurso. ¿Qué haces?	O Memorial Ranger recebe novos nomes este ano. Você faz o discurso. O que você faz?
+33826	Lee cada nombre	Leia cada nome
+33827	Veinte minutos. El silencio es profundo.	Vinte minutos. O silêncio é profundo.
+33828	Eficiente. Las familias querían más.	Eficiente. As famílias queriam mais.
+33829	Tu sargento mayor de mando discrepa en público de tu nueva política. ¿Qué haces?	Seu sargento-mor de comando discorda publicamente da sua nova política. O que você faz?
+33830	Habla en privado	Converse em privado
+33831	Llegáis a un acuerdo. Alianza más fuerte.	Vocês chegam a um acordo. Parceria mais forte.
+33832	Recházalo en público	Rejeite publicamente
+33833	El cuerpo de suboficiales refunfuña.	O corpo de suboficiais reclama.
+33834	Aparece un informe sobre acoso en un batallón. ¿Qué haces?	Surge um relatório sobre bullying num batalhão. O que você faz?
+33835	Doloroso, pero se mantiene la credibilidad.	Doloroso, mas a credibilidade é mantida.
+33836	Se vuelve viral. Te relevan.	Viraliza. Você é afastado.
+33837	Tras 26 años, te ofrecen un último mando o el retiro. ¿Qué haces?	Depois de 26 anos, oferecem um último comando ou a aposentadoria. O que você faz?
+33838	Boina color arena guardada. Una vida tranquila.	Boina cor areia guardada. Uma vida tranquila.
+33839	Un mando más	Mais um comando
+33840	El Ejército te retiene.	O Exército te mantém.
+33841	Encuentro de Rangers en Fort Moore. Rangers viejos, Rangers jóvenes, cerveza. ¿Qué haces?	Encontro de Rangers em Fort Moore. Rangers velhos, Rangers jovens, cerveja. O que você faz?
+33842	Intercambia historias	Troque histórias
+33843	Conoces a un Ranger de Vietnam. Te paga la cerveza.	Você conhece um Ranger do Vietnã. Ele paga sua cerveja.
+33844	Compite en las pruebas	Compita nas provas
+33845	Ganas la prueba de camilla.	Você vence a prova de maca.
+33846	San Patricio	São Patrício
+33847	Día de San Patricio en Savannah. Toda la ciudad está verde y {buddy} también. ¿Qué haces?	Dia de São Patrício em Savannah. A cidade inteira está verde e {buddy} também. O que você faz?
+33848	{buddy} llega a casa. Eres un héroe.	{buddy} chega em casa. Você é um herói.
+33849	Noche legendaria.	Noite lendária.
+33850	La Policía Militar te pilla.	A Polícia Militar te pega.
+33851	Huracán en Hunter	Furacão em Hunter
+33852	Un huracán se acerca a Hunter Army Airfield. ¿Qué haces?	Um furacão se aproxima de Hunter Army Airfield. O que você faz?
+33853	Ayuda a evacuar	Ajude a evacuar
+33854	Abuelas, perros, un loro rescatados.	Vovós, cachorros, um papagaio resgatados.
+33855	Asegura a tu familia	Garanta sua família
+33856	Noche de karaoke. {buddy} te reta a recitar el Credo del Ranger sobre una balada potente. ¿Qué haces?	Noite de karaokê. {buddy} te desafia a recitar o Credo do Ranger em cima de uma balada poderosa. O que você faz?
+33857	Ovación de pie de Rangers borrachos.	Ovação de pé de Rangers bêbados.
+33858	{buddy} lo hace solo. Legendario.	{buddy} faz isso sozinho. Lendário.
+33859	Una clase de tercer grado envía tarjetas y dulces. Una dice 'Por favor, no mueras'. ¿Qué haces?	Uma turma do terceiro ano envia cartões e doces. Um diz 'Por favor, não morra'. O que você faz?
+33860	La clase se vuelve loca.	A turma vai à loucura.
+33861	Comparte los dulces	Compartilhe os doces
+33862	La moral del equipo se dispara.	O moral da equipe dispara.
+33863	Te lesionas la espalda levantando peso máximo. ¿Qué haces?	Você machuca as costas num levantamento máximo. O que você faz?
+33865	Totalmente recuperado.	Totalmente recuperado.
+33866	Se cura.	Ele sarou.
+33867	Hernia de disco.	Hérnia de disco.
+33868	Los Rangers abren el camino	Os Rangers abrem o caminho
+33869	Un niño en el aeropuerto ve tu boina color arena y te pregunta si eres un superhéroe. ¿Qué haces?	Uma criança no aeroporto vê sua boina cor areia e pergunta se você é um super-herói. O que você faz?
+33870	'No, solo un soldado que entrena duro.' Te saluda.	'Não, só um soldado que treina duro.' Ele te saúda.
+33871	Le das un parche con el lema. Lo recordará siempre.	Você dá a ele um patch com o lema. Ele vai lembrar para sempre.
+33872	Eres aviador en una estación aérea esperando una plaza en la A-School. Los nadadores de allí hacen un entrenamiento brutal de preparación y te invitan. ¿Vas?	Você é um aviador numa estação aérea esperando uma vaga na A-School. Os nadadores de lá fazem um treino de preparação brutal e te convidam. Você vai?
+33873	Entrena con ellos a diario	Treine com eles todo dia
+33874	Cuando llegan tus órdenes, puedes hacer la prueba de piscina dormido.	Quando suas ordens chegam, você faz o teste da piscina dormindo.
+33875	Te pasas y te lesionas un hombro.	Você exagera e machuca um ombro.
+33876	Entrena por tu cuenta	Treine por conta própria
+33877	Te pones en forma, pero te pierdes sus trucos.	Você fica em forma, mas perde os truques deles.
+33878	Los nadadores dejan de invitarte. Mala señal.	Os nadadores param de te convidar. Sinal ruim.
+33879	Primer día de la A-School de Técnico de Supervivencia Aviatoria en Elizabeth City. El instructor dice que la mayoría no se graduará. ¿Cuál es tu plan?	Primeiro dia da A-School de Técnico de Sobrevivência Aeronáutica em Elizabeth City. O instrutor diz que a maioria não vai se formar. Qual é o seu plano?
+33880	Sé el hombre gris	Seja o homem cinza
+33881	Nunca primero, nunca último. Sobrevives a la primera semana.	Nunca primeiro, nunca último. Você sobrevive à primeira semana.
+33882	Lidera desde el frente	Lidere de frente
+33883	Los instructores notan tu esfuerzo y liderazgo.	Os instrutores notam seu esforço e liderança.
+33884	Te quemas para el jueves y los instructores también lo notan.	Você se esgota até quinta e os instrutores notam isso também.
+33885	Busca un compañero de estudio	Arranje um colega de estudo
+33886	Tú y {buddy} se preguntan cada noche.	Você e {buddy} perguntam um ao outro toda noite.
+33887	Los instructores simulan supervivientes en pánico en la piscina. Uno se sube a tu cabeza y te hunde. Tus pulmones arden. ¿Qué haces?	Os instrutores simulam sobreviventes em pânico na piscina. Um sobe na sua cabeça e te empurra para baixo. Seus pulmões ardem. O que você faz?
+33888	Húndete y escapa	Afunde e escape
+33889	Bajas, él suelta, te pones detrás. De manual.	Você desce, ele solta, você vai por trás. De manual.
+33890	Tragas media piscina y te sacan.	Você engole meia piscina e é tirado de lá.
+33891	Lucha por salir a la superficie	Lute para chegar à superfície
+33892	Te abres paso a la fuerza para respirar. No es bonito.	Você se abre à força para respirar. Não é bonito.
+33893	Te hunde de nuevo. Fallido.	Ele te afunda de novo. Falhou.
+33894	Ríndete	Desista
+33895	Vives para repetir, pero los instructores lo recuerdan.	Você sobrevive para refazer, mas os instrutores lembram.
+33896	Durante un ejercicio de remolque en pareja, a {buddy} le da un calambre y se queda flácido de verdad, no es actuación. Los instructores no se han dado cuenta. ¿Qué haces?	Durante um exercício de reboque em dupla, {buddy} tem uma cãibra e fica mole de verdade, não é encenação. Os instrutores não perceberam. O que você faz?
+33897	Grita 'es de verdad'	Grite 'é de verdade'
+33898	Los instructores se lanzan de inmediato. Está bien. Respetan tu aviso.	Os instrutores entram na hora. Ele está bem. Respeitam o aviso.
+33899	Remolcalo tú	Reboque-o você
+33900	Lo llevas hasta la pared. Te lo debe para siempre.	Você o leva até a parede. Ele te deve para sempre.
+33901	Los dos os hundís. Los instructores os sacan.	Vocês dois afundam. Os instrutores tiram vocês.
+33902	Las ganas de abandonar	A vontade de desistir
+33903	Cuarta semana de la A-School. Apenas puedes levantar los brazos. Un reclutador menciona una especialidad más fácil con bono de ingreso. ¿Abandonas?	Quarta semana da A-School. Você mal consegue levantar os braços. Um recrutador menciona uma especialidade mais fácil com bônus de alistamento. Você desiste?
+33904	Decides que prefieres ahogarte antes que abandonar. Dramático, pero eficaz.	Você decide que prefere se afogar a desistir. Dramático, mas eficaz.
+33905	Vas a un puesto de oficina. Lo piensas a menudo.	Você vai para um cargo de escritório. Pensa nisso com frequência.
+33906	Llama a casa primero	Ligue para casa primeiro
+33907	Tu papá dice: 'Nunca abandonas nada'. Te quedas.	Seu pai diz: 'Você nunca desiste de nada'. Você fica.
+33908	Tu familia te dice que vuelvas a casa. Te conmueve.	Sua família pede que você volte para casa. Isso te abala.
+33909	La mitad de la A-School es armar paracaídas y coser. Tus puntadas parecen hechas por un niño pequeño. Al instructor no le impresiona. ¿Qué haces?	Metade da A-School é montar paraquedas e costurar. Seus pontos parecem feitos por uma criancinha. O instrutor não fica impressionado. O que você faz?
+33910	Practica después de horas	Pratique depois do horário
+33911	Tus costuras salen rectas. Ahora puedes doblar el bajo de tus propios pantalones.	Suas costuras ficam retas. Agora você consegue bainhar suas próprias calças.
+33912	Siguen torcidas. Pero menos.	Ainda tortas. Mas menos tortas.
+33913	'Tu equipo mantiene personas con vida', dice el instructor sin emoción.	'Seu equipamento mantém pessoas vivas', diz o instrutor sem emoção.
+33914	La parte de EMT del entrenamiento es pura memorización. Tu examen nacional es mañana. Vas flojo en cardíaco. ¿Qué haces?	A parte de EMT do treino é pura memorização. Seu exame nacional é amanhã. Você está fraco em cardíaco. O que você faz?
+33915	Quédate estudiando	Fique estudando
+33916	Apruebas con holgura.	Você passa com folga.
+33917	Agotado, empiezas a dudar. Necesitas repetir.	Esgotado, você começa a duvidar. Precisa refazer.
+33918	Duerme bien	Durma bem
+33919	Cerebro descansado, respuestas claras. Aprobado.	Cérebro descansado, respostas claras. Passou.
+33920	Las preguntas de cardíaco te hunden. Repetición.	As questões de cardíaco te afundam. Refazer.
+33921	Te gradúas en la A-School como Técnico de Supervivencia Aviatoria. Tu familia condujo 10 horas para verte. ¿Cómo lo celebras?	Você se forma na A-School como Técnico de Sobrevivência Aeronáutica. Sua família dirigiu 10 horas para assistir. Como você celebra?
+33922	Cena con la familia	Jantar com a família
+33923	Tu abuela le dice al camarero que eres 'salvavidas de barcos'. Casi.	Sua avó diz ao garçom que você é 'salvavidas de barcos'. Quase.
+33924	Salida nocturna con la clase	Saída à noite com a turma
+33925	Noche legendaria. Todos llegan puntuales al día siguiente.	Noite lendária. Todo mundo chega no horário no dia seguinte.
+33926	Alguien se pelea con el portero. Todos estáis en problemas.	Alguém briga com o segurança. Vocês todos estão encrencados.
+33927	Duerme un día entero	Durma um dia inteiro
+33928	Te lo has ganado.	Você mereceu.
+33929	Llegan tus órdenes. Puedes ordenar tu preferencia de estaciones aéreas. ¿Qué pones primero?	Suas ordens chegam. Você pode ordenar sua preferência de estações aéreas. O que coloca primeiro?
+33930	Kodiak, Alaska	Kodiak, Alaska
+33931	Mar de Bering, barcos de cangrejos, frío brutal. Aprenderás rápido.	Mar de Bering, barcos de caranguejo, frio brutal. Você vai aprender rápido.
+33932	Estación en Florida	Estação na Flórida
+33933	Agua caliente, migrantes, huracanes. Nunca aburre.	Água quente, migrantes, furacões. Nunca é chato.
+33934	Pequeña estación en los Grandes Lagos	Pequena estação nos Grandes Lagos
+33935	Tranquila, hasta que empiezan los rescates en hielo.	Tranquila, até começarem os resgates no gelo.
+33936	Tu primer izado real desde un velero. El mástil se balancea 15 pies a cada lado. El mecánico de vuelo te está mirando. ¿Qué haces?	Seu primeiro içamento real de um veleiro. O mastro balança 15 pés para cada lado. O mecânico de voo está te observando. O que você faz?
+33937	Entra al agua primero	Entre na água primeiro
+33938	Inteligente. Evitas el mástil y izar al marinero desde el agua.	Inteligente. Você evita o mastro e iça o marinheiro da água.
+33939	Despliega directo a la cubierta	Desça direto para o convés
+33940	Aterizas en la cubierta perfectamente.	Você pousa no convés perfeitamente.
+33941	El mástil te alcanza en el vaivén.	O mastro te pega no balanço.
+33942	Un patrón de búsqueda largo con aire brusco. Estás a punto de vomitar en el helicóptero y la tripulación nunca te lo va a olvidar. ¿Qué haces?	Um padrão de busca longo com ar brusco. Você está prestes a vomitar no helicóptero e a tripulação nunca vai esquecer. O que você faz?
+33943	Coge una bolsa con discreción	Pegue uma sacola discretamente
+33944	Se dan cuenta igual. Eres 'Chum' durante un mes.	Eles percebem mesmo assim. Você é 'Chum' por um mês.
+33945	Te aguantas. Apenas.	Você se segura. Mal.
+33946	Pierdes la batalla. Todo sobre tus aletas.	Você perde a luta. Tudo nas suas nadadeiras.
+33947	Pide la ventana	Peça a janela
+33948	El aire fresco ayuda. Pequeña victoria.	O ar fresco ajuda. Pequena vitória.
+33949	Sacas a una kayakista de agua a 45 grados. Tiembla violentamente y está confundida. El vuelo de regreso dura 30 minutos. ¿Qué haces?	Você tira uma caiaquista da água a 45 graus. Ela treme violentamente e está confusa. O voo de volta dura 30 minutos. O que você faz?
+33950	Aísla con cuidado	Isolate com cuidado
+33951	Quitar la ropa mojada, poner mantas, tratarla con cuidado. Habla antes de aterrizar.	Tirar a roupa molhada, colocar cobertores, manusear com cuidado. Ela já fala na aterrissagem.
+33952	Deja de temblar. Eso es malo. El hospital la salva.	Ela para de tremer. Isso é ruim. O hospital a salva.
+33953	Frotarle los brazos para calentarla	Esfregar os braços dela para aquecê-la
+33954	Se salva.	Ela sobrevive.
+33955	La sangre fría le llega al centro del cuerpo. Su ritmo cardíaco se descompone.	O sangue frio chega ao centro do corpo dela. O ritmo cardíaco se desregula.
+33956	Aburrimiento de guardia nocturna	Tédio na guarda noturna
+33957	Son las 0200 en una noche de guardia tranquila. {buddy} quiere escaparse por pizza. Si cae un caso, tienes 30 minutos para despegar. ¿Qué haces?	São 0200 numa noite de serviço tranquila. {buddy} quer sair escondido pra comer pizza. Se cair um caso, você tem 30 minutos para decolar. O que você faz?
+33958	Cae un caso a las 0230. Estás listo.	Cai um caso às 0230. Você está pronto.
+33959	Ve por la pizza	Vá buscar a pizza
+33960	La mejor pizza de tu vida. Nadie se enteró.	A melhor pizza da sua vida. Ninguém percebeu.
+33961	Suena la alarma mientras estás en la caja. El despegue se retrasa.	O alarme toca enquanto você está no balcão. A decolagem atrasa.
+33962	Pide a domicilio	Peça entrega
+33963	El repartidor está confundido por el hangar. Vale la pena.	O entregador fica confuso com o hangar. Valeu a pena.
+33964	Incendio en un barco pesquero	Incêndio num barco de pesca
+33965	Un barco pesquero arde frente a la costa. La tripulación saltó. Ves tres cabezas en el agua y un cuarto hombre aún a bordo. ¿Qué haces?	Um barco de pesca está queimando ao largo da costa. A tripulação pulou. Você vê três cabeças na água e um quarto homem ainda a bordo. O que você faz?
+33966	Primero a los nadadores	Primeiro os nadadores
+33967	Tres fuera del agua. El cuarto salta también y lo agarras.	Três fora da água. O quarto pula também e você o pega.
+33968	Agarras a tres. Nunca encuentran al cuarto.	Você pega três. O quarto nunca é encontrado.
+33969	Sube al barco en llamas	Suba no barco em chamas
+33970	Lo sacas segundos antes de que se encienda el combustible.	Você o tira segundos antes do combustível pegar fogo.
+33971	Quemaduras en los brazos. Igual lo sacas.	Queimaduras nos braços. Mesmo assim você o tira.
+33972	Con fuerte oleaje durante un rescate, pierdes una aleta. El superviviente está a 30 yardas y deriva hacia las rocas. ¿Qué haces?	Num resgate com mar bravo, você perde uma nadadeira. O sobrevivente está a 30 jardas e deriva para as pedras. O que você faz?
+33973	Nada con una aleta	Nade com uma nadadeira
+33974	Más lento, pero llegas antes de las rocas.	Mais lento, mas você chega antes das pedras.
+33975	El oleaje os estrella a ambos contra las rocas.	A onda joga vocês dois contra as pedras.
+33976	Pide otro izado	Peça outro içamento
+33977	El helicóptero se reposiciona y te deja más cerca. Funciona.	O helicóptero reposiciona e te deixa mais perto. Funciona.
+33978	Revisión de equipo descuidada	Checagem de equipamento descuidada
+33979	Vas tarde al despegue y te saltas parte de la revisión del arnés. Tu mecánico de vuelo te pregunta si estás bien. ¿Qué dices?	Você está atrasado para a decolagem e pula parte da checagem do arnês. Seu mecânico de voo pergunta se está tudo bem. O que você diz?
+33980	Admítelo y revisa rápido	Admita e verifique rápido
+33981	Una correa estaba torcida. La arreglas. El mecánico asiente.	Uma faixa estava torcida. Você arruma. O mecânico acena.
+33982	No sale nada mal. Esta vez.	Nada dá errado. Dessa vez.
+33983	La correa se resbala con la carga. Quedas colgado de lado.	A faixa escorrega com a carga. Você fica pendurado de lado.
+33984	Recuperas a un adolescente que se ahogó cerca de una playa. Es tu primer cuerpo. La familia está en la orilla. ¿Qué haces después?	Você recupera um adolescente que se afogou perto de uma praia. É seu primeiro corpo. A família está na areia. O que você faz depois?
+33985	Ayuda decirlo en voz alta.	Ajuda dizer em voz alta.
+33986	Finge que está bien	Finja que está bem
+33987	Ves su cara cuando cierras los ojos.	Você vê o rosto dele quando fecha os olhos.
+33988	Gimnasio hasta que no puedas pensar	Academia até não conseguir pensar
+33989	Ayuda un poco. No suficiente.	Ajuda um pouco. Não o suficiente.
+33990	Un vuelo de entrenamiento con un piloto nuevo. Tu posición en suspensión se desvía y te arrastran por el agua. ¿Qué haces?	Um voo de treino com um piloto novo. Sua posição no pairar está desviando e você está sendo arrastado pela água. O que você faz?
+33991	Haz la señal de parar	Faça o sinal de parar
+33992	El piloto ajusta. El entrenamiento es para aprender.	O piloto ajusta. Treino é para aprender.
+33993	Agárrate	Segure-se
+33994	Se estabiliza.	Estabiliza.
+33995	Tragas un montón del Atlántico.	Você engole muito do Atlântico.
+33996	Un video de tu rescate se vuelve viral. Desconocidos te reconocen en el supermercado. {buddy} te está fastidiando. ¿Qué haces?	Um vídeo do seu resgate viraliza. Desconhecidos te reconhecem no supermercado. {buddy} está te zoando. O que você faz?
+33997	Desvías todos los elogios. A la gente le gustas más.	Você desvia todos os elogios. As pessoas gostam mais de você.

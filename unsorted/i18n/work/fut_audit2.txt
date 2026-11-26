@@ -1,0 +1,152 @@
+== futbol.js: 729 strings, 150 missing
+    use strict
+    Premier League
+    Champions League
+    Manchester City
+    Aston Villa
+    Crystal Palace
+    Nottingham Forest
+    Leeds United
+    Hull City
+    Coventry City
+    Birmingham City
+    Blackburn Rovers
+    Sheffield United
+    Norwich City
+    West Bromwich Albion
+    Stoke City
+    Swansea City
+    Preston North End
+    Bristol City
+    Real Zaragoza
+    Sporting Gijón
+    Racing Santander
+    Deportivo La Coruña
+    Real Oviedo
+    UD Las Palmas
+    Granada CF
+    Cádiz CF
+    Levante UD
+    Hamburger SV
+    Schalke 04
+    Hertha BSC
+    Werder Bremen
+    1. FC Köln
+    Fortuna Düsseldorf
+    Hannover 96
+    Karlsruher SC
+    Greuther Fürth
+    Czech Republic
+    United States
+    Costa Rica
+    El Salvador
+    Unknown FC
+    European Championship
+    Copa América
+    Gold Cup
+    Erling Haaland
+    Phil Foden
+    Bernardo Silva
+    Rúben Dias
+    Joško Gvardiol
+    Bruno Fernandes
+    Kobbie Mainoo
+    Lisandro Martínez
+    André Onana
+    Rasmus Højlund
+    Mason Mount
+    Mohamed Salah
+    Virgil van Dijk
+    Dominik Szoboszlai
+    Alexis Mac Allister
+    Luis Díaz
+    Bukayo Saka
+    Martin Ødegaard
+    Declan Rice
+    William Saliba
+    Gabriel Magalhães
+    Kai Havertz
+    Cole Palmer
+    Enzo Fernández
+    Moisés Caicedo
+    Reece James
+    Nicolas Jackson
+    Marc Cucurella
+    Kylian Mbappé
+    Vinícius Júnior
+    Jude Bellingham
+    Thibaut Courtois
+    Federico Valverde
+    Lamine Yamal
+    Robert Lewandowski
+    Marc-André ter Stegen
+    Antoine Griezmann
+    Julián Álvarez
+    Jan Oblak
+    Samuel Lino
+    José María Giménez
+    Harry Kane
+    Jamal Musiala
+    Joshua Kimmich
+    Manuel Neuer
+    Leroy Sané
+    Alphonso Davies
+    Julian Brandt
+    Karim Adeyemi
+    Gregor Kobel
+    Serhou Guirassy
+    Nico Schlotterbeck
+    Marcel Sabitzer
+    Ousmane Dembélé
+    Gianluigi Donnarumma
+    Achraf Hakimi
+    Khvicha Kvaratskhelia
+    Lautaro Martínez
+    Nicolò Barella
+    Alessandro Bastoni
+    Yann Sommer
+    Marcus Thuram
+    Hakan Çalhanoğlu
+    Rafael Leão
+    Mike Maignan
+    Theo Hernández
+    Christian Pulisic
+    Tijjani Reijnders
+    Fikayo Tomori
+    Dušan Vlahović
+    Kenan Yıldız
+    Gleison Bremer
+    Michele Di Gregorio
+    Manuel Locatelli
+    Andrea Cambiaso
+    Romelu Lukaku
+    Giovanni Di Lorenzo
+    Alex Meret
+    André-Frank Zambo Anguissa
+    Alessandro Buongiorno
+    Matteo Politano
+    Ángel Di María
+    Nicolás Otamendi
+    Anatoliy Trubin
+    Fredrik Aursnes
+    Vangelis Pavlidis
+    Viktor Gyökeres
+    Pedro Gonçalves
+    Morten Hjulmand
+    Gonçalo Inácio
+    Rui Silva
+    Jordan Henderson
+    Kenneth Taylor
+    Jorrel Hato
+    Remko Pasveer
+    Bertrand Traoré
+    Kopa Trophy
+    Yashin Trophy
+    Rival FC
+    [futbol] step
+    .fb-tabs button
+    10px 14px
+    [futbol] special menu
+    [futbol] resume
+    [futbol] yearTick
+TOTAL 729 strings, 150 missing (79.4% covered)

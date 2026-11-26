@@ -1,0 +1,800 @@
+21915	el rayo es cinco veces más caliente que la superficie del sol	o raio é cinco vezes mais quente que a superfície do sol
+21916	un campo de batalla histórico	um campo de batalha histórico
+21917	murieron más soldados por enfermedad que en batalla	morreram mais soldados por doença do que em batalha
+21918	el zoológico local	o zoológico local
+21919	los flamencos son rosados por lo que comen	os flamingos são cor-de-rosa por causa do que comem
+21920	una planta de tratamiento de agua	uma estação de tratamento de água
+21921	probablemente bebiste agua que un dinosaurio bebió alguna vez	você provavelmente bebeu água que um dinossauro bebeu um dia
+21922	Tu maestro, {1}, lleva a la clase de excursión a {2}.	Seu professor, {1}, está levando a turma numa excursão para {2}.
+21923	Haz el tonto	Enrole a cabeça
+21924	hacer el tonto en una excursión	enrolar a cabeça numa excursão
+21925	Hice el tonto durante la excursión de mi clase a {1}, y mi maestro me mandó al director.	Enrolei a cabeça durante a excursão da minha turma para {1}, e meu professor me mandou para a direção.
+21926	Hice el tonto durante la excursión de mi clase a {1}.	Enrolei a cabeça durante a excursão da minha turma para {1}.
+21927	Hiciste el tonto durante la excursión de tu clase a {1}.	Você enrolou a cabeça durante a excursão da sua turma para {1}.
+21928	Me quedé en casa en vez de ir a la excursión de mi clase a {1}.	Fiquei em casa em vez de ir na excursão da minha turma para {1}.
+21929	Día libre	Dia de folga
+21930	Te quedaste en casa en vez de ir a la excursión de tu clase a {1}.	Você ficou em casa em vez de ir na excursão da sua turma para {1}.
+21931	Presta atención	Preste atenção
+21932	Presté atención durante la excursión de mi clase a {1}. Aprendí que {2}.	Prestei atenção durante a excursão da minha turma para {1}. Aprendi que {2}.
+21933	Aprendí algo nuevo	Aprendi algo novo
+21934	Prestaste atención durante la excursión de tu clase a {1}.	Você prestou atenção durante a excursão da sua turma para {1}.
+21935	Aprendiste que {1}.	Você aprendeu que {1}.
+21936	Socialicé con mis compañeros durante nuestra excursión a {1}.	Socializei com meus colegas durante a nossa excursão para {1}.
+21937	Mariposa social	Borboleta social
+21938	Pasaste la excursión de tu clase a {1} socializando con tus compañeros.	Você passou a excursão da sua turma para {1} socializando com seus colegas.
+21939	Estás empezando {1}.	Você está começando {1}.
+21940	Hacer malabares con {1}{2}{3} y la escuela me estresó, y mis notas bajaron.	Fazer malabarismo com {1}{2}{3} e a escola me estressou, e minhas notas caíram.
+21941	No me gradué de {1} a tiempo porque falté mucho a clases.	Não me formei em {1} em tempo porque faltei muito às aulas.
+21942	Faltaste mucho a clases para graduarte de {1} a tiempo. Tendrás que terminar otro año.	Você faltou muito às aulas para se formar em {1} em tempo. Terá que terminar mais um ano.
+21943	Demasiadas ausencias	Muitas faltas
+21944	¡Me gradué de {1} a los {2}!	Me formei em {1} aos {2}!
+21945	Me gradué de {1}.	Me formei em {1}.
+21946	Después de ser expulsado de {1}, empecé de cero en {2}.	Depois de ser expulso de {1}, comecei do zero em {2}.
+21947	Empecé {1} en {2}{3}.	Comecei {1} em {2}{3}.
+21948	¡Me gradué de {1} con un título en {2}!	Me formei em {1} com um diploma em {2}!
+21949	¡Te graduaste de {1} con un título en {2}!	Você se formou em {1} com um diploma em {2}!
+21950	¡Conseguí una beca académica para la universidad!	Consegui uma bolsa de estudos acadêmica para a universidade!
+21951	¡Tus notas y tu esfuerzo te consiguieron una beca académica! Cubrirá tu matrícula universitaria.	Suas notas e seu esforço lhe renderam uma bolsa de estudos acadêmica! Ela cobrirá sua mensalidade universitária.
+21952	Años estudiando más	Anos estudando mais
+21953	Instituto de Tecnología	Instituto de Tecnologia
+21954	Diploma dorado	Diploma dourado
+21955	¡Recibí un diploma dorado!	Recebi um diploma dourado!
+21956	¡Recibiste un diploma dorado! Tu Inteligencia está al máximo.	Você recebeu um diploma dourado! Sua Inteligência está no máximo.
+21957	Solicita admisión a la universidad	Se inscreva na universidade
+21958	Busca un trabajo	Procure um emprego
+21959	Decidí buscar un trabajo.	Decidi procurar um emprego.
+21960	Tómate un tiempo libre	Tire um tempo livre
+21961	Decidí tomarme un tiempo libre después de la secundaria.	Decidi tirar um tempo depois do ensino médio.
+21962	Decidiste tomarte un tiempo libre para averiguar qué hacer después.	Você decidiu tirar um tempo para descobrir o que fazer a seguir.
+21963	Te graduaste de la secundaria.	Você se formou no ensino médio.
+21964	¿Qué harás ahora?	O que você vai fazer agora?
+21965	Solicité admisión en {1}.	Me inscrevi em {1}.
+21966	Me rechazaron de {1}.	Fui rejeitado por {1}.
+21967	Tu solicitud a {1} fue rechazada.	Sua inscrição em {1} foi rejeitada.
+21968	¡Te aceptaron en {1}!	Você foi aceito em {1}!
+21969	¿Cómo pagarás tu educación?	Como você vai pagar sua educação?
+21970	Pedir a mis padres que paguen	Pedir aos meus pais que paguem
+21971	Mis padres aceptaron pagar mi educación en {1}.	Meus pais aceitaram pagar minha educação em {1}.
+21972	¡Tus padres aceptaron pagar tu matrícula!	Seus pais aceitaram pagar sua mensalidade!
+21973	Mis padres se negaron a pagar mi educación.	Meus pais se recusaram a pagar minha educação.
+21974	Tus padres se negaron a pagar tu educación.	Seus pais se recusaram a pagar sua educação.
+21975	Pedir préstamos estudiantiles	Fazer empréstimos estudantis
+21976	Pedí {1} en préstamos estudiantiles.	Fiz {1} em empréstimos estudantis.
+21977	Pediste {1} en préstamos estudiantiles.	Você fez {1} em empréstimos estudantis.
+21978	Pagar yo mismo	Pagar eu mesmo
+21979	No tienes suficiente dinero para pagar la universidad tú mismo.	Você não tem dinheiro suficiente para pagar a universidade sozinho.
+21980	Pagaste {1} por la universidad tú mismo.	Você pagou {1} pela universidade sozinho.
+21981	Empecé a estudiar {1} en {2}.	Comecei a estudar {1} em {2}.
+21982	Ahora estás estudiando {1} en {2}.	Agora você está estudando {1} em {2}.
+21983	¿Cómo pagarás {1}?	Como você vai pagar {1}?
+21984	Decidí no ir a {1}.	Decidi não ir para {1}.
+21985	Tomar algunas clases locales	Fazer algumas aulas locais
+21986	¡Inscríbete en un colegio comunitario hoy!	Se inscreva em uma faculdade comunitária hoje!
+21987	Conseguir un título universitario	Conseguir um diploma universitário
+21988	¡Solicita admisión a la universidad hoy!	Se inscreva na universidade hoje!
+21989	Continúa tu enfoque universitario	Continue seu foco universitário
+21990	¡Solicita admisión a la escuela de posgrado hoy!	Se inscreva na pós-graduação hoje!
+21991	Maestría	Mestrado
+21992	Estudiar para ser líder empresarial	Estudar para ser líder empresarial
+21993	¡Solicita admisión a la escuela de negocios hoy!	Se inscreva na escola de negócios hoje!
+21994	Estudiar para ser dentista	Estudar para ser dentista
+21995	¡Solicita admisión a la escuela de odontología hoy!	Se inscreva na faculdade de odontologia hoje!
+21996	Estudiar para ser abogado	Estudar para ser advogado
+21997	¡Solicita admisión a la escuela de derecho hoy!	Se inscreva na faculdade de direito hoje!
+21998	Estudiar para ser médico	Estudar para ser médico
+21999	¡Solicita admisión a la escuela de medicina hoy!	Se inscreva na faculdade de medicina hoje!
+22000	Estudiar para ser enfermero	Estudar para ser enfermeiro
+22001	¡Solicita admisión a la escuela de enfermería hoy!	Se inscreva na escola de enfermagem hoje!
+22002	Estudiar para ser farmacéutico	Estudar para ser farmacêutico
+22003	¡Solicita admisión a la escuela de farmacia hoy!	Se inscreva na faculdade de farmácia hoje!
+22004	Estudiar para ser veterinario	Estudar para ser veterinário
+22005	¡Solicita admisión a la escuela de veterinaria hoy!	Se inscreva na faculdade de veterinária hoje!
+22006	Formarse para ser maestro	Se formar para ser professor
+22007	¡Formate para ser maestro!	Se forme para ser professor!
+22008	{1} Colegio Comunitario	{1} Faculdade Comunitária
+22009	Ya estás inscrito en {1}.	Você já está inscrito em {1}.
+22010	Primero necesitas terminar la secundaria.	Você precisa terminar o ensino médio primeiro.
+22011	Primero necesitas un título universitario.	Você precisa de um diploma universitário primeiro.
+22012	Necesitas un diploma de secundaria para eso.	Você precisa de um diploma do ensino médio para isso.
+22013	Princeton (College of New Jersey)	Princeton (College of New Jersey)
+22014	University of Pennsylvania	University of Pennsylvania
+22015	University of Virginia	University of Virginia
+22016	New York University	New York University
+22017	University of Michigan	University of Michigan
+22018	Massachusetts Institute of Technology	Massachusetts Institute of Technology
+22019	Johns Hopkins University	Johns Hopkins University
+22020	University of Oxford	University of Oxford
+22021	University of Cambridge	University of Cambridge
+22022	University of Edinburgh	University of Edinburgh
+22023	University of Glasgow	University of Glasgow
+22024	University of St Andrews	University of St Andrews
+22025	University College London	University College London
+22026	King's College London	King's College London
+22027	Trinity College Dublin	Trinity College Dublin
+22028	Médico, Cirujano	Médico, Cirurgião
+22029	Clérigo, Sacerdote	Clérigo, Sacerdote
+22030	Ingeniero civil, Topógrafo	Engenheiro civil, Topógrafo
+22031	Científico, Conferencista	Cientista, Palestrante
+22032	Topógrafo, Conferencista	Topógrafo, Palestrante
+22033	Tutor, Conferencista, Maestro	Tutor, Palestrante, Professor
+22034	Profesor, Conferencista	Professor, Palestrante
+22035	Historiador, Maestro	Historiador, Professor
+22036	Químico, Farmacéutico, Científico	Químico, Farmacêutico, Cientista
+22037	Tutor, Profesor	Tutor, Professor
+22038	Universidad de {1}	Universidade de {1}
+22039	{1} no otorgará títulos a las mujeres hasta {2}.	{1} não concederá diplomas às mulheres até {2}.
+22040	{1} no admite mujeres hasta {2}.	{1} não admite mulheres até {2}.
+22041	{1} no admite mujeres.	{1} não admite mulheres.
+22042	una materia académica	uma matéria acadêmica
+22043	Para trabajar como {1} {2} necesitas un título universitario en {3}. Solicítalo en Ocupación → Educación.	Para trabalhar como {1} {2} você precisa de um diploma universitário em {3}. Se inscreva em Ocupação → Educação.
+22044	No puedes trabajar como {1} {2} sin un caballo de montar. Cómpralo en el mercado de caballos.	Você não pode trabalhar como {1} {2} sem um cavalo de montaria. Compre um no mercado de cavalos.
+22045	No puedes cultivar la tierra sin un caballo de tiro que jale el arado. Compra un caballo de tiro, un mustang o un Morgan en el mercado de caballos.	Você não pode cultivar sem um cavalo de tração para puxar o arado. Compre um cavalo de tração, um mustangue ou um Morgan no mercado de cavalos.
+22046	Ninguna compañía minera contrata a un minero que se presenta sin pico. Cómpralo en Actividades → Minería y Prospección.	Nenhuma empresa mineradora contrata um minerador que aparece sem picareta. Compre uma em Atividades → Mineração e Prospecção.
+22047	Nadie contrata a {1} {2} que no haya hecho un aprendizaje. Busca un maestro en Ocupación → Educación.	Ninguém contrata {1} {2} que não tenha feito um aprendizado. Encontre um mestre em Ocupação → Educação.
+22048	Las escuelas solo contratan maestros que terminaron la formación docente o tienen un título universitario. Busca en Ocupación → Educación.	As escolas só contratam professores que concluíram a formação docente ou têm um diploma universitário. Veja em Ocupação → Educação.
+22049	Certificado de enseñanza	Certificado de ensino
+22050	Universidades en {1} · {2}	Universidades em {1} · {2}
+22051	Desde {1} al año	A partir de {1} por ano
+22052	Sin matrícula	Sem mensalidade
+22053	Escuela de Formación Docente	Faculdade de Formação de Professores
+22054	Abre en 1839	Abre em 1839
+22055	2 años · {1} al año · te capacita para enseñar	2 anos · {1} por ano · te capacita para ensinar
+22056	En curso · quedan {1} año{2}	Em andamento · restam {1} ano{2}
+22057	, solo mujeres	, apenas mulheres
+22058	Edades {1}–{2}{3} · {4} años	Idades {1}–{2}{3} · {4} anos
+22059	Ya estás estudiando en {1}.	Você já está estudando em {1}.
+22060	Estás en medio de un aprendizaje de {1}.	Você está no meio de um aprendizado de {1}.
+22061	Debes tener al menos 15 años para solicitar admisión a la universidad.	Você deve ter pelo menos 15 anos para se inscrever na universidade.
+22062	¡Solicita admisión en {1}! Las tarifas dependen de la materia.	Se inscreva em {1}! As taxas dependem da matéria.
+22063	Solicité admisión en {1} para estudiar {2}.	Me inscrevi em {1} para estudar {2}.
+22064	Los examinadores creyeron que no eras lo suficientemente culto.	Os examinadores acharam que você não era culto o bastante.
+22065	{1} rechazó tu solicitud para estudiar {2}.{3}	{1} rejeitou sua inscrição para estudar {2}.{3}
+22066	¡{1} te aceptó para estudiar {2}!	{1} aceitou você para estudar {2}!
+22067	Aún no hay escuelas de formación docente. La primera abre en 1839.	Ainda não há escolas de formação de professores. A primeira abre em 1839.
+22068	Debes tener al menos 15 años para formarte como maestro.	Você deve ter pelo menos 15 anos para se formar como professor.
+22069	{1} Escuela Normal Estatal	{1} Escola Normal Estadual
+22070	{1} Escuela de Formación Docente	{1} Faculdade de Formação de Professores
+22071	{1} tiene un lugar para ti. Dos años de formación te capacitarán para enseñar.	{1} tem uma vaga para você. Dois anos de formação vão te capacitar para ensinar.
+22072	Dejé {1} temprano para ir a {2}.	Deixei {1} cedo para ir para {2}.
+22073	Inscribirse (sin matrícula)	Se inscrever (sem mensalidade)
+22074	{1} no cobra matrícula.	{1} não cobra mensalidade.
+22075	Solicitar una beca	Se inscrever para uma bolsa de estudos
+22076	Gané una beca para {1}.	Ganhei uma bolsa de estudos para {1}.
+22077	¡Ganaste una beca! Tus tarifas están pagas.	Você ganhou uma bolsa de estudos! Suas taxas estão pagas.
+22078	Sin beca	Sem bolsa de estudos
+22079	La beca fue para otra persona.	A bolsa de estudos foi para outra pessoa.
+22080	Pedir a la iglesia que me patrocine	Pedir à igreja que me patrocine
+22081	La iglesia aceptó patrocinar mis estudios en {1}.	A igreja aceitou patrocinar meus estudos em {1}.
+22082	La iglesia pagará tus tarifas a cambio de tu servicio.	A igreja pagará suas taxas em troca do seu serviço.
+22083	Pedir a mi familia que pague	Pedir à minha família que pague
+22084	Mi familia aceptó pagar mis estudios en {1}.	Minha família aceitou pagar meus estudos em {1}.
+22085	Tu familia aceptó pagar tus tarifas cada año.	Sua família aceitou pagar suas taxas todos os anos.
+22086	Tu familia se negó a pagar.	Sua família se recusou a pagar.
+22087	Pagar yo mismo ({1} al año)	Pagar eu mesmo ({1} por ano)
+22088	El primer año cuesta {1}. Tienes {2}.	O primeiro ano custa {1}. Você tem {2}.
+22089	sí mismo	si mesmo
+22090	Pagaste las tarifas del primer año de {1}. Pagarás cada año siguiente.	Você pagou as taxas do primeiro ano de {1}. Pagará todos os anos seguintes.
+22091	Ya terminaste tu aprendizaje de {1}.	Você já terminou seu aprendizado de {1}.
+22092	Ya eres aprendiz de {1} {2}.	Você já é aprendiz de {1} {2}.
+22093	Estás estudiando en {1}.	Você está estudando em {1}.
+22094	Solo se aceptan mujeres como aprendices de partera.	Apenas mulheres são aceitas como aprendizes de parteira.
+22095	Los maestros solo aceptan aprendices de {1} de {2} a {3} años.	Os mestres só aceitam aprendizes de {1} de {2} a {3} anos.
+22096	Dejé la escuela para ser aprendiz.	Deixei a escola para ser aprendiz.
+22097	aprendiz	aprendiz
+22098	Me convertí en aprendiz de {1} {2}.	Virei aprendiz de {1} {2}.
+22099	Mi {1} pagó la cuota por mi aprendizaje.	Meu {1} pagou a taxa do meu aprendizado.
+22100	{1} me eximió de la cuota por mi aprendizaje.	{1} isentou a taxa do meu aprendizado.
+22101	{1} no te aceptará sin la cuota de {2}.	{1} não vai te aceitar sem a taxa de {2}.
+22102	{1} te aceptará como aprendiz de {2}. Aprenderás el oficio durante {3} años a cambio de casa, comida y un sueldo mínimo.	{1} vai te aceitar como aprendiz de {2}. Você vai aprender o ofício durante {3} anos em troca de casa, comida e um salário mínimo.
+22103	Conviértete en aprendiz	Vire aprendiz
+22104	Convertirte en aprendiz significa dejar tu trabajo de {1}. ¿Continuar?	Virar aprendiz significa deixar seu emprego de {1}. Continuar?
+22105	Ya te graduaste	Você já se formou
+22106	¡Conviértete en un experto de la noche a la mañana en el campo de tus sueños!	Vire um especialista da noite para o dia na área dos seus sonhos!
+22107	Ya fuiste a la universidad.	Você já foi à universidade.
+22108	Ya te graduaste de {1}.	Você já se formou em {1}.
+22109	para estudiar {1}	para estudar {1}
+22110	Me inscribí en {1}{2}.	Me inscrevi em {1}{2}.
+22111	universidad, estudiando {1}	universidade, estudando {1}
+22112	{1}Ahora estás inscrito en {2}.	{1}Agora você está inscrito em {2}.
+22113	Inscríbeme	Inscreva-me
+22114	Mi familia ya no podía pagar mis tarifas, así que empecé a pagarlas yo mismo.	Minha família já não podia pagar minhas taxas, então comecei a pagá-las eu mesmo.
+22115	No pude pagar mis tarifas y tuve que dejar {1}.	Não consegui pagar minhas taxas e tive que sair de {1}.
+22116	Dejó la escuela	Saiu da escola
+22117	No podías pagar las tarifas de {1}, así que tuviste que dejar {2}.	Você não podia pagar as taxas de {1}, então teve que sair de {2}.
+22118	¡Terminé mi aprendizaje y me convertí en {1}!	Terminei meu aprendizado e virei {1}!
+22119	Aprendizaje completado	Aprendizado concluído
+22120	Tu sueldo ahora es de {1} al año.	Seu salário agora é de {1} por ano.
+22121	Cumpliste tu tiempo con {1} y ahora eres un {2} cualificado.{3}	Você cumpriu seu tempo com {1} e agora é um {2} qualificado.{3}
+22122	Abandoné mi aprendizaje de {1}.	Desisti do meu aprendizado de {1}.
+22123	Usar mi beca	Usar minha bolsa de estudos
+22124	Mi beca pagó mi educación en {1}.	Minha bolsa de estudos pagou minha educação em {1}.
+22125	¡Tu beca cubre tu matrícula!	Sua bolsa de estudos cobre sua mensalidade!
+22126	Pagaste {1} por {2} tú mismo.	Você pagou {1} por {2} sozinho.
+22127	Tus notas de la secundaria fueron demasiado bajas.	Suas notas do ensino médio foram baixas demais.
+22128	Tu solicitud a {1} fue rechazada.{2}	Sua inscrição em {1} foi rejeitada.{2}
+22129	¡Solicita admisión a la escuela de posgrado para seguir estudiando {1}!	Se inscreva na pós-graduação para continuar estudando {1}!
+22130	Solicitar admisión en {1}	Se inscrever em {1}
+22131	Elige tu título:	Escolha seu diploma:
+22132	Obtener mi diploma	Conseguir meu diploma
+22133	título de {1} en {2}	diploma de {1} em {2}
+22134	¡Recibí un diploma dorado: un {1}!	Recebi um diploma dourado: um {1}!
+22135	¡Recibiste un diploma dorado! Ahora tienes un {1}.	Você recebeu um diploma dourado! Agora você tem um {1}.
+22136	¿Seguro que quieres abandonar {1}?	Tem certeza de que quer abandonar {1}?
+22137	Abandonó los estudios	Abandonou os estudos
+22138	Elige tu horario de clases.	Escolha sua grade de horários.
+22139	Cambié a un horario de clases de tiempo completo.	Mudei para uma grade de horários integral.
+22140	Cambié a un horario de clases de medio tiempo.	Mudei para uma grade de horários parcial.
+22141	Reprobé mi último año en {1} y tuve que repetirlo.	Reprovei meu último ano em {1} e tive que repetir.
+22142	un título en {1}	um diploma em {1}
+22143	título	diploma
+22144	un título de asociado	um diploma de associado
+22145	¡Me gradué de {1} con {2}!	Me formei em {1} com {2}!
+22146	¡Te graduaste de {1} con {2}!	Você se formou em {1} com {2}!
+22147	sounds/a16_sndRace.wav	sounds/a16_sndRace.wav
+22148	Santa Anita Oaks	Santa Anita Oaks
+22149	Del Mar Downs	Del Mar Downs
+22150	Secretariat Jr.	Secretariat Jr.
+22151	Whinny the Pooh	Whinny the Pooh
+22152	Debes tener 18 años para ir a las carreras de caballos.	Você deve ter 18 anos para ir às corridas de cavalos.
+22153	¡Ve a las carreras de caballos hoy!	Vá às corridas de cavalos hoje!
+22154	No te alcanza para la entrada de $10.	Você não tem dinheiro para a entrada de $10.
+22155	Fui a las carreras de caballos en {1}.	Fui às corridas de cavalos em {1}.
+22156	Monto de la apuesta:	Valor da aposta:
+22157	Haz la apuesta	Faça a aposta
+22158	Elige tu caballo:	Escolha seu cavalo:
+22159	Solo quiero mirar	Só quero assistir
+22160	Tienes {1}	Você tem {1}
+22161	apostando por {1} para ganar.	apostando em {1} para ganhar.
+22162	¡Inicia la carrera!	Comece a corrida!
+22163	¡Ganaste!	Você ganhou!
+22164	¡Perdiste!	Você perdeu!
+22165	¡Aposté {1} por {2} y gané {3}!	Apostei {1} em {2} e ganhei {3}!
+22166	Aposté {1} por {2} y perdí.	Apostei {1} em {2} e perdi.
+22167	Vi a {1} ganar la carrera.	Vi {1} ganhar a corrida.
+22168	¡Ganador, ganador!	Vencedor, vencedor!
+22169	¡{1} ganó la carrera!	{1} ganhou a corrida!
+22170	Ganaste {1} apostando por {2}.	Você ganhou {1} apostando em {2}.
+22171	Maldito caballo	Maldito cavalo
+22172	Fábrica de pegamento	Fábrica de cola
+22173	Debería haberlo sabido	Devia ter sabido
+22174	Perdiste {1} apostando por {2}.	Você perdeu {1} apostando em {2}.
+22175	sounds/a16_sndThunder.wav	sounds/a16_sndThunder.wav
+22176	falló la instantánea de la máquina del tiempo	a captura da máquina do tempo falhou
+22177	¡Viaja al pasado hoy!	Viaje para o passado hoje!
+22178	¡Caí en un agujero de gusano y acabé de vuelta en el pasado!	Caí num buraco de minhoca e acabei de volta no passado!
+22179	¡Encontré una máquina del tiempo y viajé al pasado!	Encontrei uma máquina do tempo e viajei para o passado!
+22180	¡Me cayó un rayo y desperté en el pasado!	Levei um raio e acordei no passado!
+22181	¡Tropezcé en un portal brillante y salí en el pasado!	Tropecei num portal brilhante e saí no passado!
+22182	sounds/a16_sndRoyalTrumpet.wav	sounds/a16_sndRoyalTrumpet.wav
+22183	Su excelencia	Sua excelência
+22184	Su gracia	Sua graça
+22185	Su majestad	Sua majestade
+22186	Su alteza real	Sua alteza real
+22187	conde	conde
+22188	Nací en la realeza como {1}.	Nasci na realeza como {1}.
+22189	Mis padres son {1} y {2}.	Meus pais são {1} e {2}.
+22190	Me llamo {1} {2}. Tengo {3} años.	Meu nome é {1} {2}. Tenho {3} anos.
+22191	Free Life es un	Free Life é um
+22192	simulador de vida sin compras dentro del juego, hecho para el entretenimiento y muy inspirado en BitLife. Fue recodificado desde cero por una sola persona. Free Life no se hace con fines de lucro: lo financia una sola persona.	simulador de vida sem compras no jogo, feito para entretenimento e muito inspirado no BitLife. Foi recodificado do zero por uma única pessoa. O Free Life não é feito para lucro: é totalmente financiado por uma pessoa.
+22193	Free Life nunca te cobrará por funciones del juego ni mostrará anuncios. Si quieres apoyar el proyecto y poner tu nombre en la página y en el Discord, haz clic en el botón de abajo. También podrías acceder antes a las funciones en prueba.	O Free Life nunca vai te cobrar por recursos do jogo nem mostrar anúncios. Se você quiser apoiar o projeto e colocar seu nome no site e no Discord, clique no botão abaixo. Você também pode ter acesso antecipado a recursos em testes.
+22194	Apoya Free Life	Apoie o Free Life
+22195	Sucedí a mi {1} y me convertí en {2}.	Sucedi meu {1} e virei {2}.
+22196	Sucediste a tu {1} y te convertiste en {2}.	Você sucedeu seu {1} e virou {2}.
+22197	Conviértete en monarca	Vire monarca
+22198	denunciar a tus críticos	denunciar seus críticos
+22199	Logra un patrimonio neto de $20m	Alcance um patrimônio líquido de $20m
+22200	Renuncia a tu título	Renuncie ao seu título
+22201	celebridad	celebridade
+22202	Codéate con las estrellas	Misture-se com as estrelas
+22203	ejecutar	executar
+22204	Haz ejecutar a alguien	Mande executar alguém
+22205	Elige cómo quieres que te traten	Escolha como quer ser tratado
+22206	Apoya una nueva ley	Apoie uma nova lei
+22207	Posa para una revista	Pose para uma revista
+22208	Causa un poco de caos	Cause um pouco de caos
+22209	servicio	serviço
+22210	Cumple con los deberes reales	Cumpra os deveres reais
+22211	Aparece en un programa de entrevistas	Apareça em um talk show
+22213	Conviértete en autor real	Vire autor real
+22214	Attack of the Killer Tomatoes	Attack of the Killer Tomatoes
+22215	Plan 9 from Outer Space	Plan 9 from Outer Space
+22216	The Love Guru	The Love Guru
+22217	Proteger a Bigfoot de ser asesinado si alguna vez lo descubren	Proteger o Pé Grande de ser morto se um dia ele for descoberto
+22218	Prohibir editar las fotos de solicitudes de empleo con Photoshop	Proibir editar fotos de currículos com Photoshop
+22219	Exigir que los pasajeros de aerolíneas aplaudan cada aterrizaje seguro	Exigir que os passageiros de companhias aéreas aplaudam cada pouso seguro
+22220	Prohibir a los padres ponerles nombres inusuales o ridículos a sus hijos	Proibir os pais de darem nomes incomuns ou ridículos aos filhos
+22221	Exigir permiso del gobierno antes de reencarnar	Exigir permissão do governo antes de reencarnar
+22222	Prohibir la ropa con estampado de camuflaje	Proibir roupas com estampa de camuflagem
+22223	Exigir que los criminales avisen a la policía 24 horas antes de cometer un delito	Exigir que os criminosos avisem a polícia 24 horas antes de cometer um crime
+22224	Prohibir las groserías entre menores de ocho años	Proibir palavrões entre crianças menores de oito anos
+22225	Gravar con impuestos los puestos de limonada de niños	Cobrar imposto sobre os pontos de limonada de crianças
+22226	Prohibir compartir contraseñas de servicios de streaming	Proibir compartilhar senhas de serviços de streaming
+22227	Prohibir cierto vello facial los domingos	Proibir certo tipo de barba aos domingos
+22228	Hacer que olvidar el cumpleaños de un familiar directo sea un delito	Fazer de esquecer o aniversário de um familiar direto um crime
+22229	Exigir que las cafeterías sirvan solo descafeinado después de las 8 PM	Exigir que as cafeterias sirvam apenas descafeinado depois das 8 PM
+22230	Limitar las sesiones de juego en realidad virtual a seis horas consecutivas	Limitar as sessões de jogo em realidade virtual a seis horas consecutivas
+22231	Exigir que cada ciudadano done al menos una parte del cuerpo después de morir, cuando sea posible	Exigir que cada cidadão doe pelo menos uma parte do corpo após a morte, quando possível
+22232	mayor	major
+22233	Legalizar las drogas recreativas	Legalizar as drogas recreativas
+22234	Exigir que los hijos adultos visiten a sus padres cada semana	Exigir que os filhos adultos visitem os pais toda semana
+22235	Prohibir la película "{1}" en todo el país	Proibir o filme "{1}" em todo o país
+22236	Buen karma	Bom karma
+22237	Decretaste que todas las madres vivas sean honradas por todos sus hijos vivos al menos una vez por semana.	Você decretou que todas as mães vivas sejam honradas por todos os filhos vivos pelo menos uma vez por semana.
+22238	Una cálida bienvenida	Uma calorosa boas-vindas
+22239	Visitaste un hospital infantil y les leíste cuentos para dormir a los pacientes.	Você visitou um hospital infantil e leu histórias para dormir aos pacientes.
+22240	Corte de cinta	Corte de fita
+22241	Inauguraste oficialmente una biblioteca pública nueva.	Você inaugurou oficialmente uma biblioteca pública nova.
+22242	Alimentar a las masas	Alimentar as massas
+22243	Serviste sopa en un refugio para personas sin hogar durante la tarde.	Você serviu sopa num abrigo para sem-teto durante a tarde.
+22244	Pulgar verde	Dedo verde
+22245	Plantaste el primer árbol en un nuevo bosque nacional.	Você plantou a primeira árvore numa nova floresta nacional.
+22246	Visita real	Visita real
+22247	Recorriste una residencia de ancianos y estrechaste la mano de cada residente.	Você visitou uma casa de repouso e apertou a mão de cada residente.
+22248	Donaste un cuadro real para subastarlo con fines benéficos.	Você doou uma pintura real para ser leiloada em favor de caridade.
+22249	Homenaje a los héroes	Homenagem aos heróis
+22250	Entregaste medallas a los bomberos más valientes del país.	Você entregou medalhas aos bombeiros mais corajosos do país.
+22251	Un decreto real	Um decreto real
+22252	Decretaste que todas las escuelas tengan un día de helado gratis.	Você decretou que todas as escolas tenham um dia de sorvete grátis.
+22253	Santo patrón	Santo padroeiro
+22254	Te convertiste en el patrocinador real de una organización benéfica de rescate animal.	Você virou o patrocinador real de uma instituição de caridade de resgate animal.
+22255	Campeón del pueblo	Campeão do povo
+22256	Diste un discurso conmovedor en un monumento a los veteranos.	Você fez um discurso emocionante num memorial aos veteranos.
+22257	Sonríe para las cámaras	Sorria para as câmeras
+22258	Bautizaste un barco nuevo en el puerto con una botella de champán.	Você batizou um navio novo no cais com uma garrafa de champanhe.
+22259	Cortaste la cinta en la gran inauguración de un banco de esperma, ayudándolo a arrancar de forma explosiva. ¡Vino tanta gente!	Você cortou a fita na grande inauguração de um banco de sêmen, ajudando a começar com um estouro. Veio tanta gente!
+22260	cortar la cinta en la gran inauguración de un banco de esperma	cortar a fita na grande inauguração de um banco de sêmen
+22261	Nombraste caballero a tu pez dorado mascota en una ceremonia lujosa pagada por los contribuyentes.	Você nomeou seu peixinho dourado como cavaleiro numa cerimônia luxuosa paga pelos contribuintes.
+22262	nombrar caballero a un pez dorado con dinero de los contribuyentes	nomear um peixinho dourado como cavaleiro com dinheiro dos contribuintes
+22263	Apareciste en un funeral de Estado con una nariz de payaso.	Você apareceu num funeral de Estado com um nariz de palhaço.
+22264	usar una nariz de payaso en un funeral de Estado	usar um nariz de palhaço num funeral de Estado
+22265	Declaraste feriado nacional por tu propia resaca.	Você declarou feriado nacional por causa da sua própria ressaca.
+22266	declarar un feriado nacional por una resaca	declarar feriado nacional por uma ressaca
+22267	Cabalguiste un caballo por un restaurante de cinco estrellas durante el servicio de cena.	Você cavalgou um cavalo por um restaurante de cinco estrelas durante o jantar.
+22268	cabalgar un caballo por un restaurante lleno	cavalgar um cavalo por um restaurante lotado
+22269	Desafiaste a un embajador extranjero a una pelea de pulso en televisión en vivo.	Você desafiou um embaixador estrangeiro para uma disputa de braço na TV ao vivo.
+22270	desafiar a un embajador a una pelea de pulso en televisión en vivo	desafiar um embaixador para disputa de braço na TV ao vivo
+22271	Hiciste que los guardias del palacio bailaran la macarena para los turistas.	Você fez os guardas do palácio dançarem a macarena para os turistas.
+22272	hacer bailar a los guardias del palacio para los turistas	fazer os guardas do palácio dançarem para os turistas
+22273	Vendiste las joyas de la corona en un sitio de subastas en línea como "broma".	Você vendeu as joias da coroa num site de leilões online como "brincadeira".
+22274	poner en venta en línea las joyas de la corona	colocar à venda online as joias da coroa
+22275	Reemplazaste el himno nacional con una canción sobre ti por un día.	Você substituiu o hino nacional por uma música sobre você por um dia.
+22276	reemplazar el himno nacional con una canción sobre ti	substituir o hino nacional por uma música sobre você
+22277	rapero	rapper
+22278	supermodelo	supermodelo
+22279	ir a disparar unas rondas en un campo de tiro	ir dar uns tiros num clube de tiro
+22280	fue a un campo de tiro	foi a um clube de tiro
+22281	salir a navegar en yate por la costa	ir de iate pela costa
+22282	una proyección privada de su nueva película	uma exibição privada do novo filme deles
+22283	fue a una proyección privada de una película	foi a uma exibição privada de um filme
+22284	un partido de polo benéfico	uma partida de polo beneficente
+22285	fue a un partido de polo benéfico	foi a uma partida de polo beneficente
+22286	jugar una ronda de golf	jogar uma rodada de golfe
+22287	una fiesta exclusiva en una azotea	uma festa exclusiva num terraço
+22288	fue a una fiesta en una azotea	foi a uma festa num terraço
+22289	ir a pescar en alta mar	ir pescar em alto-mar
+22290	fue a pescar en alta mar	foi pescar em alto-mar
+22291	una cena de cinco estrellas	um jantar de cinco estrelas
+22292	tuvo una cena de cinco estrellas	teve um jantar de cinco estrelas
+22293	ir a un festival de música	ir a um festival de música
+22294	fue a un festival de música	foi a um festival de música
+22295	un viaje de esquí a los Alpes	uma viagem de esqui aos Alpes
+22296	fue a esquiar en los Alpes	foi esquiar nos Alpes
+22297	sugiere que {1}, autor de una serie de romances de vampiros más vendida, es tu autor favorito, y que concederás a {2} el mayor honor del país por {3} contribución a la literatura	sugere que {1}, autor de uma série de romances de vampiros mais vendida, é seu autor favorito, e que você concederá a {2} a maior honraria do país por {3} contribuição à literatura
+22298	afirma que duermes en secreto en un ataúd en el sótano del palacio	afirma que você dorme escondido num caixão no porão do palácio
+22299	sugiere que planeas reemplazar el himno nacional con una polca	sugere que você planeja substituir o hino nacional por uma polca
+22300	300 patitos de goma	300 patinhos de borracha
+22301	un suministro de purpurina de por vida	um suprimento de glitter para a vida toda
+22302	un caimán mascota	um jacaré de estimação
+22303	un inodoro bañado en oro	um vaso sanitário banhado a ouro
+22304	afirma que te vieron comprar {1} con dinero de los contribuyentes	afirma que você foi visto comprando {1} com dinheiro dos contribuintes
+22305	alege que todavía no sabes atarte los zapatos	alega que você ainda não sabe amarrar os próprios sapatos
+22306	sugiere que estás comprometido en secreto con {1}, una estrella de la televisión reality	sugere que você está noivo secretamente de {1}, uma estrela de reality show
+22307	afirma que haces que los corgis del palacio prueben tu comida para detectar veneno	afirma que você faz os corgis do palácio provarem sua comida para detectarem veneno
+22308	sugiere que sacaste adelante la escuela a base de trampas	sugere que você foi passando de ano colando
+22309	El {1} publicó una historia escandalosa en la que {2}.	O {1} publicou uma história escandalosa na qual {2}.
+22310	Encuentra y castiga al escritor	Encontre e puna o escritor
+22311	Hice castigar al autor de una historia en {1}.	Mandei punir o autor de uma história no {1}.
+22312	Mandaste encerrar al autor de la historia en la mazmorra durante una semana.	Você mandou jogar o autor da história na masmorra por uma semana.
+22313	Encuentra y ejecuta al escritor	Encontre e execute o escritor
+22314	Hice ejecutar al autor de una historia en {1}.	Mandei executar o autor de uma história no {1}.
+22315	¡Que le corten la cabeza!	Que cortem a cabeça!
+22316	Mandaste ejecutar al autor de la historia. Ahora la prensa te tiene miedo.	Você mandou executar o autor da história. Agora a imprensa está apavorada com você.
+22317	un periodista de {1}	um jornalista de {1}
+22318	Como agua en el lomo de un pato	Como água no dorso de um pato
+22319	Ignoraste la historia. Se olvidó en una semana.	Você ignorou a história. Foi esquecida em uma semana.
+22320	Insulta al escritor	Insulte o escritor
+22321	Insulté públicamente al autor de una historia en {1}.	Insultei publicamente o autor de uma história no {1}.
+22322	La pluma es más poderosa	A pena é mais poderosa
+22323	un chapucero sin talento	um incompetente sem talento
+22324	una rata de alcantarilla con un teclado	um rato de bueiro com um teclado
+22325	el peor escritor del reino	o pior escritor do reino
+22326	Llamaste al escritor {1} frente a las cámaras.	Você chamou o escritor de {1} na frente das câmeras.
+22327	Denuncia el periódico	Denuncie o jornal
+22328	Denuncié públicamente {1}.	Denunciei publicamente {1}.
+22329	Noticias falsas	Fake news
+22330	Efecto Streisand	Efeito Streisand
+22331	El público se puso de tu lado contra {1}.	O público ficou do seu lado contra {1}.
+22332	Denunciar a {1} solo hizo que más gente leyera la historia.	Denunciar {1} só fez mais gente ler a história.
+22333	Mientras veía un estreno en un teatro histórico	Enquanto assistia a uma estreia num teatro histórico
+22334	Mientras visitaba un hospital infantil	Enquanto visitava um hospital infantil
+22335	Durante un desfile real	Durante um desfile real
+22336	Mientras cortaba la cinta en un puente nuevo	Enquanto cortava a fita numa ponte nova
+22337	Al salir de un banquete de Estado	Ao sair de um banquete de Estado
+22338	Mientras saludaba desde el balcón del palacio	Enquanto acenava da varanda do palácio
+22339	gritó que eres el mejor {1} de todos los tiempos	gritou que você é o maior {1} de todos os tempos
+22340	Felicité a un plebeyo que me llamó el mejor {1} de todos los tiempos.	Elogiei um plebeu que me chamou de maior {1} de todos os tempos.
+22341	Felicité al plebeyo, que casi se desmayó.	Você elogiou o plebeu, que quase desmaiou.
+22342	Mi cumplido a un plebeyo se tomó de la manera equivocada.	Meu elogio a um plebeu foi levado do jeito errado.
+22343	Tu cumplido salió mal y la prensa dice que estabas coqueteando con un plebeyo.	Seu elogio saiu errado e a imprensa diz que você estava flertando com um plebeu.
+22344	Hice castigar a un plebeyo por llamarme el mejor {1} de todos los tiempos.	Mandei punir um plebeu por ter me chamado de maior {1} de todos os tempos.
+22345	Directo a la mazmorra	Direto para a masmorra
+22346	Mandaste encerrar al plebeyo en la mazmorra por hablar sin permiso.	Você mandou jogar o plebeu na masmorra por falar fora de hora.
+22347	Ignoré a un plebeyo que me alababa.	Ignorei um plebeu que me elogiava.
+22348	Ignoré a un plebeyo que me elogiaba y la prensa me llamó desalmado.	Ignorei um plebeu que me elogiava e a imprensa me chamou de sem coração.
+22349	La prensa te pilló ignorando a un plebeyo admirador y te llamó frío y desalmado.	A imprensa te pegou ignorando um plebeu adorador e te chamou de frio e sem coração.
+22350	Recompensé a un plebeyo que {1}.	Recompensei um plebeu que {1}.
+22351	Serás recompensado	Você será recompensado
+22352	un abrazo de oso gigante	um abraço de urso gigante
+22353	una bolsa de monedas de oro	um saco de moedas de ouro
+22354	un título de caballero real	um título de cavaleiro real
+22355	un recorrido por el palacio	um passeio pelo palácio
+22356	Recompensaste a un plebeyo con {1} después de {2} {3}.	Você recompensou um plebeu com {1} depois de {2} {3}.
+22357	Un plebeyo al que recompensé resultó ser un periodista de chismes.	Um plebeu que recompensei era repórter de fofocas.
+22358	Tomado por tonto	Levado por bobo
+22359	El plebeyo al que recompensaste resultó ser un periodista de chismes, y la historia te hizo quedar como un tonto.	O plebeu que você recompensou era repórter de fofocas, e a história te fez parecer um bobo.
+22360	¡Elige cómo quieres que te traten hoy!	Escolha como quer ser tratado hoje!
+22361	Elige tu tratamiento:	Escolha seu título de tratamento:
+22362	Eso suena bien	Isso parece certo
+22363	Pedí que me traten como "{1}".	Pedí que me chamassem de "{1}".
+22364	Delirios de grandeza	Delírios de grandeza
+22365	Como quieras	Como quiser
+22366	Exigiste que te llamen "{1}". La gente pone los ojos en blanco.	Você exigiu ser chamado de "{1}". As pessoas estão revirando os olhos.
+22367	A partir de ahora, todos te llamarán "{1}".	A partir de agora, todos vão te chamar de "{1}".
+22368	Ya opinaste sobre una ley propuesta este año.	Você já deu sua opinião sobre uma lei proposta este ano.
+22369	apoyado	apoiado
+22370	denunciado	denunciado
+22371	El público estuvo de acuerdo conmigo.	O público concordou comigo.
+22372	El público no estuvo de acuerdo conmigo.	O público discordou de mim.
+22373	Yo {1} una ley propuesta para {2}. {3}	Eu {1} uma lei proposta para {2}. {3}
+22374	Ofrece tu apoyo a una nueva ley que se ha propuesto en {1}.	Ofereça seu apoio a uma nova lei que foi proposta em {1}.
+22375	Apóyala	Apoie
+22376	Denúnciala	Denuncie
+22377	¿Seguro que quieres hacer un daño público?	Tem certeza de que quer fazer um desserviço público?
+22378	Viendo arder el mundo	Vendo o mundo queimar
+22379	Ya te codeaste con las estrellas este año.	Você já se misturou com as estrelas este ano.
+22380	{1} te invita a {2}.	{1} te convida para {2}.
+22381	¿Qué dirás?	O que você vai dizer?
+22382	Me encantaría	Eu adoraria
+22383	Yo {1} con {2} {3}.	Eu {1} com {2} {3}.
+22384	Nada de autógrafos, ¿vale?	Nada de autógrafos, tá?
+22385	Paparazzi por todas partes	Paparazzi em todo lugar
+22386	Viviendo el sueño	Vivendo o sonho
+22387	Un toque de fama	Um toque de fama
+22388	Tú {1} con {2}.	Você {1} com {2}.
+22389	Rechacé sin rodeos una invitación de {1}.	Recusei sem rodeios um convite de {1}.
+22390	Rechazaste la invitación de {1}.	Você recusou o convite de {1}.
+22391	Quizá otra vez	Talvez outra hora
+22392	Otra vez será	Fica pra próxima
+22393	Le dijiste a {1} que te encantaría otra vez.	Você disse a {1} que adoraria outra hora.
+22394	No hay nadie a quien puedas hacer ejecutar ahora mismo.	Não há ninguém que você possa mandar executar agora.
+22395	¿A quién quieres hacer ejecutar?	Quem você quer mandar executar?
+22396	¿Seguro que quieres hacer ejecutar a {1}?	Tem certeza de que quer mandar executar {1}?
+22397	Hice ejecutar a mi {1}, {2}.	Mandei executar meu {1}, {2}.
+22398	{1} fue ejecutado por orden de la corona.	{1} foi executado por ordem da coroa.
+22399	tu propio {1}, {2},	seu próprio {1}, {2},
+22400	¿Seguro que quieres abdicar de tu título?	Tem certeza de que quer abdicar do seu título?
+22401	Abdiqué de mi título de {1}.	Abdiquei do meu título de {1}.
+22402	Renunciaste a tu título. Ya no eres {1}.	Você renunciou ao seu título. Você não é mais {1}.
+22403	ejecución	execução
+22404	El público te denuncia por {1}.	O público te denuncia por {1}.
+22405	Periodistas de todo el país han hablado de ti por {1}.	Jornalistas de todo o país falaram sobre você por {1}.
+22406	Me disculpé públicamente y el público empezó a perdonarme.	Me desculpei publicamente e o público começou a me perdoar.
+22407	El público aceptó tu disculpa, pero ya se hizo algo de daño.	O público aceitou seu pedido de desculpas, mas algum dano já foi feito.
+22408	Me disculpé públicamente, pero nadie se lo creyó.	Me desculpei publicamente, mas ninguém acreditou.
+22409	Nadie creyó tu disculpa.	Ninguém acreditou no seu pedido de desculpas.
+22410	denunciar a quienes te criticaron	denunciar quem te criticou
+22411	Denuncié públicamente a mis críticos.	Denunciei publicamente meus críticos.
+22412	Nadie preguntó qué opinabas	Ninguém perguntou o que você achava
+22413	Denunciaste públicamente a tus críticos. El público está más enfadado que nunca.	Você denunciou publicamente seus críticos. O público está mais irritado do que nunca.
+22414	Tras las puertas del palacio	Por trás das portas do palácio
+22415	Coronado y confundido	Coroado e confuso
+22416	Mi vida de realeza	Minha vida real
+22417	El heredero suplente	O herdeiro reserva
+22418	Tiaras y lágrimas	Tiaras e lágrimas
+22419	¡Que les corten la cabeza!	Que cortem as cabeças!
+22420	El pequeño corgi que quería una corona	O corginho que queria uma coroa
+22421	La princesa Pepinillo va a la escuela	A princesa Pepino vai à escola
+22422	El libro real para dormir	O livro real para dormir
+22423	Ositos de peluche en el palacio	Ursos de pelúcia no palácio
+22424	Digno de un rey	Digno de um rei
+22425	La cocina del palacio	A cozinha do palácio
+22426	La hora del té en el castillo	A hora do chá no castelo
+22427	libro infantil	livro infantil
+22428	libro de cocina	livro de receitas
+22429	Publiqué un {1}, "{2}", y gané {3}.	Publiquei um {1}, "{2}", e ganhei {3}.
+22430	Tu {1}, "{2}", se publicó y te valió {3}.	Seu {1}, "{2}", foi publicado e te rendeu {3}.
+22431	Periodistas de todo el país te han criticado por sacar provecho de tu fama real con tu nuevo libro, "{1}".	Jornalistas de todo o país condenaram você por lucrar com sua celebridade real com o novo livro, "{1}".
+22432	Las editoriales hacen cola para contratar a un autor real.	As editoras estão na fila para contratar um autor real.
+22433	¿Qué tipo de libro escribirás?	Que tipo de livro você vai escrever?
+22434	Un libro de memorias revelador	Um livro de memórias revelador
+22435	Un libro infantil	Um livro infantil
+22437	desnudo	nu
+22438	elegante	elegante
+22439	una sesión de fotos desnudo	uma sessão de fotos nu
+22440	una sesión de fotos en traje de baño	uma sessão de fotos em maiô
+22441	un retrato real	um retrato real
+22442	Posé para {1} en {2} y me pagaron {3}.	Posei para {1} em {2} e recebi {3}.
+22443	Estrella de portada	Estrela de capa
+22444	Posaste para {1} en {2} y te pagaron {3}.	Você posou para {1} em {2} e recebeu {3}.
+22445	El público está indignado porque un miembro de la familia real posó desnudo en {1}.	O público está indignado porque um membro da família real posou nu em {1}.
+22446	El público cree que tu sesión en traje de baño en {1} está por debajo de un miembro de la familia real.	O público acha que sua sessão em maiô em {1} está abaixo da dignidade de um membro da família real.
+22448	¿Qué tipo de sesión harás?	Que tipo de sessão você vai fazer?
+22449	Un retrato real y elegante	Um retrato real e elegante
+22450	Una sesión en traje de baño	Uma sessão em maiô
+22451	Una sesión desnudo	Uma sessão nu
+22452	Nocturno en vivo	Noturno ao vivo
+22453	El sofá de la mañana	O sofá da manhã
+22454	Esta noche con Tyler	Hoje à noite com Tyler
+22455	El programa de charlas	O programa de conversas
+22456	La hora del chisme del fin de semana	A hora da fofoca do fim de semana
+22457	Charla del domingo por la noche	Conversa de domingo à noite
+22458	Te invitaron a aparecer en {1}.	Você foi convidado a aparecer em {1}.
+22459	¿De qué hablarás?	Sobre o que você vai falar?
+22460	Tu trabajo benéfico	Seu trabalho beneficente
+22461	Hablé de mi trabajo benéfico en {1}.	Falei do meu trabalho beneficente em {1}.
+22462	Buena prensa	Boa imprensa
+22463	Hablaste de tu trabajo benéfico. A los espectadores les encantó.	Você falou do seu trabalho beneficente. Os espectadores adoraram.
+22464	Historias reales vergonzosas	Histórias reais constrangedoras
+22465	Conté historias reales vergonzosas en {1}.	Contei histórias reais constrangedoras em {1}.
+22466	Oro en audiencia	Ouro em audiência
+22467	Contaste historias vergonzosas sobre la familia real. El público se rió a carcajadas, pero al palacio no le hace gracia.	Você contou histórias constrangedoras sobre a família real. A plateia riu muito, mas o palácio não achou graça.
+22468	Promociona tu agenda real	Promova sua agenda real
+22469	Promocioné mi agenda real en {1}.	Promovi minha agenda real em {1}.
+22470	Usaste tu tiempo en {1} para impulsar tu agenda real.	Você usou seu tempo em {1} para promover sua agenda real.
+22471	promocionar tu agenda real en un programa de entrevistas	promover sua agenda real num programa de entrevistas
+22472	tercero	terceiro
+22473	cuarto	quarto
+22474	quinto	quinto
+22475	. Es la {1} ejecución que has ordenado	. É a {1} execução que você ordenou
+22476	El público está horrorizado porque hiciste ejecutar a {1}{2}.	O público está horrorizado porque você mandou executar {1}{2}.
+22477	Larga vida a la corona	Longa vida à coroa
+22478	y exiliado de {1}	e exilado de {1}
+22479	Me derrocaron como {1}{2}.	Fui derrubado como {1}{2}.
+22480	{1} Te quitaron el título y la fortuna, y te exiliaron.	{1} Você foi despido do título e da fortuna e exilado.
+22481	{1} Te quitaron el título y casi toda tu fortuna.	{1} Você foi despido do título e da maior parte da fortuna.
+22482	¡Que te corten la cabeza!	Que cortem sua cabeça!
+22483	una turba enfurecida	uma multidão enfurecida
+22484	Una multitud de {1} ciudadanos enfurecidos ha rodeado el palacio. Exigen que entregues el poder de inmediato.	Uma multidão de {1} cidadãos enfurecidos cercou o palácio. Eles exigem que você entregue o poder imediatamente.
+22485	Me disculpé con mi pueblo desde el balcón del palacio y la multitud se fue a casa.	Me desculpei com meu povo da varanda do palácio e a multidão foi para casa.
+22486	Tu disculpa cayó en oídos sordos.	Seu pedido de desculpas caiu em ouvidos moucos.
+22487	Me disculpé con la turba, pero igual asaltaron el palacio.	Me desculpei com a multidão, mas eles invadiram o palácio mesmo assim.
+22488	Insulta al pueblo	Insulte o povo
+22489	Insulté a la turba desde el balcón y se asustaron tanto que se fueron.	Insultei a multidão da varanda e eles ficaram com tanto medo que foram embora.
+22490	Tus insultos solo enfurecieron más a la multitud.	Seus insultos só deixaram a multidão mais furiosa.
+22491	Insulté a la turba enfurecida y asaltaron el palacio.	Insultei a multidão enfurecida e eles invadiram o palácio.
+22492	Acepta tu destino	Aceite seu destino
+22493	Entregaste el trono sin pelear.	Você entregou o trono sem lutar.
+22494	Me rendí ante la turba, pero no tuvieron piedad de mí.	Me rendi à multidão, mas eles não tiveram piedade de mim.
+22495	un camarero llamado {1}	um garçom chamado {1}
+22496	un guardia del palacio llamado {1}	um guarda do palácio chamado {1}
+22497	un reportero llamado {1}	um repórter chamado {1}
+22498	un turista llamado {1}	um turista chamado {1}
+22499	un tendero llamado {1}	um lojista chamado {1}
+22500	el alcalde, {1}	o prefeito, {1}
+22501	En un banquete de Estado	Num banquete de Estado
+22502	Durante una ceremonia de corte de cinta	Durante uma cerimônia de corte de fita
+22503	Mientras visitaba una fábrica local	Enquanto visitava uma fábrica local
+22504	En un paseo real	Num passeio real
+22505	En una gala benéfica	Num gala beneficente
+22506	{1}, {2} te llamó "{3}" en vez de "{4}".	{1}, {2} te chamou de "{3}" em vez de "{4}".
+22507	Pasé por alto que alguien me llamara "{1}".	Deixei passar quando alguém me chamou de "{1}".
+22508	Pasaste por alto el error. {1} se sintió muy aliviado.	Você deixou o erro passar. {1} ficou muito aliviado.
+22509	Insulté a {1} por llamarme "{2}".	Insultei {1} por ter me chamado de "{2}".
+22510	Rabieta real	Birra real
+22511	tiene los modales de una cabra	tem os modos de uma cabra
+22512	debería volver a la escuela	deveria voltar para a escola
+22513	es una vergüenza para el reino	é uma vergonha para o reino
+22514	Le dijiste a {1} que {2} {3}.	Você disse a {1} que {2} {3}.
+22515	Haz encarcelar a {1}	Mande prender {1}
+22516	Hice encarcelar a {1} por llamarme "{2}".	Mandei prender {1} por ter me chamado de "{2}".
+22517	A la mazmorra	Para a masmorra
+22518	Mandaste encerrar a {1} en la mazmorra por equivocarse con tu título. La gente cree que eres un tirano.	Você mandou jogar {1} na masmorra por errar seu título. As pessoas acham que você é um tirano.
+22519	Haz ejecutar a {1}	Mande executar {1}
+22520	Hice ejecutar a {1} por llamarme "{2}".	Mandei executar {1} por ter me chamado de "{2}".
+22521	{1} fue ejecutado por equivocarse con tu título. Todo el reino está horrorizado.	{1} foi executado por errar seu título. Todo o reino está horrorizado.
+22522	{1} por equivocarse con tu título	{1} por errar seu título
+22523	eres el {1} más genial del mundo	você é o {1} mais legal do mundo
+22524	tienes la corona más bonita que {1} haya visto jamás	você tem a coroa mais bonita que {1} já viu
+22525	debe ser increíble ser un {1} de verdad	deve ser incrível ser um {1} de verdade
+22526	eres el miembro favorito de {1} en la familia real	você é o membro favorito de {1} na família real
+22527	eres mucho más inteligente que todos los demás en clase	você é muito mais inteligente que todo mundo na classe
+22528	Tu compañero de clase {1} te dijo que {2}.	Seu colega de classe {1} te disse que {2}.
+22529	Felicité a mi compañero de clase {1}.	Elogiei meu colega de classe {1}.
+22530	Real amable	Real simpático
+22531	tiene muy buen gusto	tem muito bom gosto
+22532	es muy amable	é muito gentil
+22533	es el mejor de la clase en arte	é o melhor da classe em arte
+22534	Le dijiste a {1} que {2} {3}. {4} sonrió todo el día.	Você disse a {1} que {2} {3}. {4} sorriu o dia inteiro.
+22535	Ignoré a mi compañero de clase {1}.	Ignorei meu colega de classe {1}.
+22536	Ignoré a mi compañero de clase {1} y todo el colegio me llamó presumido.	Ignorei meu colega de classe {1} e a escola inteira me chamou de metido.
+22537	Ignoraste a {1}. Ahora toda la escuela cree que eres presumido.	Você ignorou {1}. Agora a escola inteira acha que você é metido.
+22538	un paseo en el carruaje real	um passeio na carruagem real
+22539	un retrato real firmado	um retrato real assinado
+22540	Recompensé a mi compañero de clase {1} con {2}.	Recompensei meu colega de classe {1} com {2}.
+22541	Favor real	Favor real
+22542	Recompensaste a {1}. {2} les contó a todos en la escuela lo generoso que eres.	Você recompensou {1}. {2} contou para todo mundo na escola o quanto você é generoso.
+22543	Hice castigar a mi compañero de clase {1} por adularme.	Mandei punir meu colega de classe {1} por me bajular.
+22544	Mandaste a {1} a detención por "halagar a la familia real". Ahora los demás niños te tienen miedo.	Você mandou {1} para a detenção por "bajular a família real". Os outros alunos agora têm medo de você.
+22545	sounds/a16_sndGhost.wav	sounds/a16_sndGhost.wav
+22546	Sin propiedades	Sem propriedades
+22547	No tienes ninguna propiedad	Você não tem nenhum imóvel
+22548	Ver tu {1}br/{2}ba {3}	Ver seu {1}br/{2}ba {3}
+22549	comodidades	comodidades
+22550	Disfruta de las comodidades de tu ático	Aproveite as comodidades da sua cobertura
+22551	Haz una fiesta en casa	Faça uma festa em casa
+22552	renovar	reformar
+22553	Emprender un proyecto de renovación	Empreender um projeto de reforma
+22554	espíritus	espíritos
+22555	Ponerlo en venta	Colocar à venda
+22556	Calentarse junto a las llamas	Esquentar-se junto das chamas
+22557	Asaste malvaviscos junto al fuego bajo las estrellas.	Você assou marshmallows perto da fogueira sob as estrelas.
+22558	Te sentaste junto al fuego y viste bailar las llamas.	Você sentou perto da fogueira e viu as chamas dançarem.
+22559	Hacer ejercicio en tu gimnasio casero	Treinar na sua academia em casa
+22560	Te destrozaste en un entrenamiento en tu gimnasio casero.	Você mandou bem no treino na sua academia em casa.
+22561	Batiste un nuevo récord personal en el press de banca.	Você bateu um novo recorde pessoal no supino.
+22562	patio	pátio
+22563	Disfruta del exterior en tu patio	Aproveite o ar livre no seu pátio
+22564	Sorbiste limonada en tu patio y disfrutaste de la vista.	Você tomou limonada no seu pátio e aproveitou a vista.
+22565	Tomaste el brunch en el patio.	Você tomou brunch no pátio.
+22566	Sentarse a remojarse en el jacuzzi	Sentar e mergulhar na banheira de hidromassagem
+22567	Te remojaste en el jacuzzi hasta que se te arrugaron los dedos.	Você ficou na banheira de hidromassagem até os dedos enrugarem.
+22568	Te relajaste en el jacuzzi burbujeante.	Você relaxou na banheira de hidromassagem borbulhante.
+22569	Ver una película en casa	Assistir a um filme em casa
+22570	Viste un taquillazo en la pantalla grande de tu cine casero.	Você assistiu a um blockbuster na tela grande do seu home theater.
+22571	Hiciste una maratón de películas en tu cine casero.	Você fez uma maratona de filmes no seu home theater.
+22572	Ponerse zen en tu estudio de yoga	Entrar no zen no seu estúdio de ioga
+22573	Encontraste tu paz interior en tu estudio de yoga.	Você encontrou sua paz interior no seu estúdio de ioga.
+22574	Mantuviste la postura del árbol perfecta durante cinco minutos.	Você segurou a postura da árvore perfeita por cinco minutos inteiros.
+22575	piscina	piscina
+22576	Dar un chapuzón en tu piscina	Dar um mergulho na sua piscina
+22577	Nadaste vueltas en tu piscina.	Você nadou voltas na sua piscina.
+22578	Flotaste en tu piscina en un flamenco inflable.	Você flutuou na piscina num flamingo inflável.
+22579	estudio	estúdio
+22580	Grabar pistas en tu estudio casero	Gravar faixas no seu estúdio em casa
+22581	Grabaste una pista nueva en tu estudio de grabación.	Você gravou uma faixa nova no seu estúdio de gravação.
+22582	Pasaste la noche improvisando en tu estudio casero.	Você passou a noite improvisando no seu estúdio em casa.
+22583	Desafía a tus amigos a tus juegos favoritos	Desafie seus amigos para seus jogos favoritos
+22584	Desafiaste a tus amigos en la sala de juegos y ganaste.	Você desafiou seus amigos na sala de jogos e ganhou.
+22585	Pasaste horas jugando videojuegos en tu sala de juegos.	Você passou horas jogando videogames na sua sala de jogos.
+22586	Tirar canastas en tu cancha privada	Jogar basquete na sua quadra privada
+22587	Tiraste canastas en tu cancha privada.	Você jogou basquete na sua quadra privada.
+22588	Metiste un tiro sobre la chicharra en tu propia cancha.	Você acertou um tiro no estouro do cronômetro na sua própria quadra.
+22589	Practica tu saque en casa	Pratique seu saque em casa
+22590	Practicaste tu saque en tu cancha de tenis.	Você praticou seu saque na sua quadra de tênis.
+22591	Hiciste un ace en un partido amistoso en tu cancha.	Você fez um ace numa partida amistosa na sua quadra.
+22592	bolos	boliche
+22593	Tirar un strike en tu propio carril	Fazer um strike na sua própria pista
+22594	¡Tiraste un strike en tu bolera privada!	Você fez um strike na sua pista de boliche privada!
+22595	Jugaste algunas partidas de bolos en tu carril.	Você jogou algumas partidas de boliche na sua pista.
+22596	sauna	sauna
+22597	Relajarse en tu sauna privada	Relaxar na sua sauna privada
+22598	Sudaste el estrés en la sauna.	Você suou o estresse na sauna.
+22599	Te relajaste en tu sauna privada.	Você relaxou na sua sauna privada.
+22600	Perderse en un buen libro	Se perder num bom livro
+22601	Te perdiste en un buen libro en tu biblioteca.	Você se perdeu num bom livro na sua biblioteca.
+22602	Leíste una novela clásica de principio a fin en tu biblioteca.	Você leu um romance clássico de capa a capa na sua biblioteca.
+22603	Guarda tus vinos añejos favoritos	Guarde seus vinhos vintage favoritos
+22604	Descorchaste una botella añeja de tu bodega.	Você abriu uma garrafa vintage da sua adega.
+22605	Añadiste una botella rara a tu bodega.	Você adicionou uma garrafa rara à sua adega.
+22606	azotea	terraço
+22607	Relájate por encima de todo	Relaxe acima de tudo
+22608	Viste el atardecer desde tu salón en la azotea.	Você viu o pôr do sol do seu lounge no terraço.
+22609	Te relajaste por encima de las luces de la ciudad en tu salón en la azotea.	Você relaxou acima das luzes da cidade no seu lounge no terraço.
+22610	invernadero	estufa
+22611	Cultiva plantas todo el año	Cultive plantas o ano inteiro
+22612	Cuidaste de las plantas en tu invernadero.	Você cuidou das plantas na sua estufa.
+22613	Cosechaste tomates frescos en tu invernadero.	Você colheu tomates frescos na sua estufa.
+22614	acuario	aquário
+22615	Disfruta de tu propio mundo submarino	Aproveite seu próprio mundo submarino
+22616	Viste a los peces nadar en tu acuario.	Você viu os peixes nadarem no seu aquário.
+22617	Alimentaste a los peces en tu acuario.	Você alimentou os peixes no seu aquário.
+22618	Date un día de relajación	Se dê um dia de relaxamento
+22619	Te diste un día completo en tu spa privado.	Você se deu um dia inteiro no seu spa privado.
+22620	Te diste un masaje en tu spa privado.	Você ganhou uma massagem no seu spa privado.
+22621	Sin comodidades	Sem comodidades
+22622	Demoliste todas tus comodidades	Você demoliu todas as suas comodidades
+22623	Demoler comodidad...	Demolir comodidade...
+22624	Ya disfrutaste de tu {1} este año. ¡Inténtalo de nuevo el próximo!	Você já aproveitou seu {1} este ano. Tente de novo no próximo!
+22625	¿Qué comodidad quieres quitarle a tu {1}?	Qual comodidade você quer tirar da sua {1}?
+22626	¿Seguro que quieres demoler tu {1}? No se puede deshacer.	Tem certeza de que quer demolir sua {1}? Isso não pode ser desfeito.
+22627	sounds/a16_sndAmenityRenovation.wav	sounds/a16_sndAmenityRenovation.wav
+22628	Demolí el {1} en mi {2}.	Demoli o {1} na minha {2}.
+22629	Demoliste el {1} en tu {2}.	Você demoliu o {1} na sua {2}.
+22630	un capitán de mar retirado	um capitão de mar aposentado
+22631	un joven matrimonio de granjeros	um jovem casal de fazendeiros
+22632	un ferroviario	um ferroviário
+22633	una viuda con cinco hijos	uma viúva com cinco filhos
+22634	un comerciante adinerado	um comerciante rico
+22635	una pareja de recién casados	um casal recém-casado
+22636	un millonario de la fiebre del oro	um milionário da corrida do ouro
+22637	una familia de inmigrantes	uma família de imigrantes
+22638	un médico rural	um médico interiorano
+22639	un barón ganadero	um barão da pecuária
+22640	un jugador de barco de vapor	um jogador de barco a vapor
+22641	un pastor y su familia	um pastor e sua família
+22642	un dueño de molino	um dono de moinho
+22643	un especulador de tierras	um especulador de terras
+22644	un coronel retirado	um coronel aposentado
+22645	un operador de criptomonedas	um trader de cripto
+22646	un viejo jubilado	um velho aposentado
+22647	un jefe de la mafia	um chefe da máfia
+22648	una familia de 5	uma família de 5
+22649	un rapero famoso	um rapper famoso
+22650	un fundador de una startup tecnológica	um fundador de startup de tecnologia
+22651	un dentista divorciado	um dentista divorciado
+22652	un luchador profesional	um lutador de wrestling
+22653	una viuda y sus 3 gatos	uma viúva e seus 3 gatos
+22654	un especulador inmobiliario	um especulador imobiliário
+22655	un jugador de póker profesional	um jogador de pôquer profissional
+22656	una actriz de telenovelas	uma atriz de novelas
+22657	un multimillonario excéntrico	um bilionário excêntrico
+22658	un jugador de la NFL retirado	um jogador da NFL aposentado
+22659	un grupo de compañeros de universidad	um grupo de colegas de faculdade
+22660	un baterista de heavy metal	um baterista de heavy metal
+22661	un comprador primerizo nervoso	um comprador de primeira vez nervoso
+22662	un preparacionista del apocalipsis	um preparador para o apocalipse
+22663	una familia de 8	uma família de 8
+22664	un doble de acción de Hollywood	um dublê de Hollywood
+22665	una mujer misteriosa que pagó en efectivo	uma mulher misteriosa que pagou em dinheiro
+22666	un maestro jubilado	um professor aposentado
+22667	una estrella de reality shows	uma estrela de reality shows
+22668	un padre soltero de gemelos	um pai solteiro de gêmeos
+22669	un príncipe extranjero	um príncipe estrangeiro
+22670	un ganador de la lotería	um ganador da loteria
+22671	un líder de secta	um líder de seita
+22672	un pastor y su familia	um pastor e sua família
+22673	Vendí mi {1} en {2} a {3} por {4}.	Vendi minha {1} em {2} para {3} por {4}.
+22674	{1} fue a pagar la hipoteca.	{1} foi para pagar a hipoteca.
+22675	¡Vendiste tu {1} en {2} a {3} por {4}!{5}	Você vendeu sua {1} em {2} para {3} por {4}!{5}
+22676	Tu {1} está en venta por {2}. ¿Lo sacas del mercado?	Sua {1} está à venda por {2}. Tirar do mercado?
+22677	Saqué mi {1} del mercado.	Tirei minha {1} do mercado.
+22678	Hipoteca pendiente:	Hipoteca devida:
+22679	¡Vende tu {1}br/{2}ba {3} hoy!	Venda sua {1}br/{2}ba {3} hoje!
+22680	Precio de compra:	Preço de compra:
+22681	Ponerlo en venta	Colocar à venda
+22682	Puse mi {1} en {2} en venta por {3}.	Coloquei minha {1} em {2} à venda por {3}.
+22683	Pusiste tu {1} en venta por {2}.	Você colocou sua {1} à venda por {2}.
+22684	Tu agente inmobiliario te avisará cuando aparezca un comprador.	Seu corretor vai te avisar quando aparecer um comprador.
+22685	Eres demasiado joven para hacer una fiesta en casa.	Você é jovem demais para fazer uma festa em casa.
+22686	Ya hiciste una fiesta en tu {1} este año.	Você já fez uma festa na sua {1} este ano.
+22687	No puedes permitirte una fiesta ahora mismo.	Você não pode pagar uma festa agora.
+22688	{1} embrujó mi fiesta en casa y asustó a todos.	{1} assombrou minha festa em casa e assustou todo mundo.
+22689	Invitado indeseable	Convidado indesejado
+22690	{1} se coló en tu fiesta en {2} y tus invitados salieron corriendo gritando!	{1} invadeu sua festa na sua {2} e seus convidados saíram correndo gritando!
+22691	Hice una fiesta en mi {1}. ¡Vinieron {2} personas!	Fiz uma festa na minha {1}. Vieram {2} pessoas!
+22692	Éxito rotundo	Sucesso estrondoso
+22693	Qué noche	Que noite
+22694	Hiciste una fiesta en tu {1}. ¡Vinieron {2} personas y se lo pasaron genial!	Você fez uma festa na sua {1}. {2} pessoas apareceram e se divertiram muito!
+22695	Hice una fiesta en mi {1}, pero casi nadie vino.	Fiz uma festa na minha {1}, mas quase ninguém veio.
+22696	Aguafiestas	Desmancha-prazeres
+22697	Hiciste una fiesta en tu {1}, pero casi nadie apareció.	Você fez uma festa na sua {1}, mas quase ninguém apareceu.
+22698	Debes tener al menos 18 años para renovar una propiedad.	Você deve ter pelo menos 18 anos para reformar uma propriedade.
+22699	¡Renueva tu {1} hoy!	Reforme sua {1} hoje!
+22700	Elige tu presupuesto:	Escolha seu orçamento:
+22701	Renueva	Reforme
+22702	No puedes permitirte una renovación de {1}.	Você não pode pagar uma reforma de {1}.
+22703	Gasté {1} renovando mi {2}.	Gastei {1} reformando minha {2}.
+22704	La renovación de tu {1} terminó. Su estado pasó de {2}% a {3}%.	A reforma da sua {1} terminou. O estado foi de {2}% para {3}%.
+22705	{1} te ha ofrecido {2} por tu {3} en {4}.	{1} te ofereceu {2} pela sua {3} em {4}.
+22706	Tiempo en el mercado	Tempo no mercado
+22707	Contraofertar {1}	Contrapropor {1}
+22708	Contraoferté la oferta de {1} por mi {2} y se retiraron.	Contrapropus a oferta de {1} pela minha {2} e eles desistiram.
+22709	{1} se retiró del trato.	{1} desistiu do negócio.
+22710	Rechazarla	Rejeitar
+22711	Rechacé una oferta de {1} por mi {2}.	Recusei uma oferta de {1} pela minha {2}.
+22712	Mi {1} sigue en venta.	Minha {1} continua à venda.
+22713	La Dama Gris	A Dama Cinza
+22714	El Jinete sin Cabeza	O Cavaleiro Sem Cabeça
+22715	La Viuda Llorosa	A Viúva Chorosa
+22716	El viejo Withers	O velho Withers
+22717	El mayordomo fantasma	O mordomo fantasma

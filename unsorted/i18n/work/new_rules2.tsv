@@ -1,0 +1,3 @@
+^BIDDING WAR! (.+) bids (.+)\.$	¡GUERRA DE PUJAS! $1 puja $2.	GUERRA DE LANCES! $1 dá lance de $2.
+^Keeping up my lifestyle cost me (.+) this year \(staff, security, memberships\)\.$	Mantener mi estilo de vida me costó $1 este año (personal, seguridad, membresías).	Manter meu estilo de vida me custou $1 este ano (equipe, segurança, mensalidades).
+^Happiness \+(\d+)\.$	Felicidad +$1.	Felicidade +$1.

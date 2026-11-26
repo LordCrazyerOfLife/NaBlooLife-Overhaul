@@ -1,0 +1,800 @@
+4912	Write an honest memoir
+4913	I wrote an honest memoir of my years as Pope.
+4914	I refused to write a tell-all memoir.
+4915	An Unexpected Conversation
+4916	approaches you during an authorized period of discussion
+4917	A Walk in the Courtyard
+4918	falls into step beside you in the courtyard between ballots
+4919	Dinner at Santa Marta
+4920	sits beside you at dinner in the Casa Santa Marta
+4921	A Quiet Word in the Sacristy
+4922	finds you alone in the sacristy
+4923	temptation
+4924	A member of your congregation is showing romantic interest in you. How will you respond?
+4925	Maintain your celibacy
+4926	I kept my vow of celibacy when a parishioner showed interest in me.
+4927	Encourage them to stop
+4928	I gently asked a parishioner to stop pursuing me.
+4929	Give in to temptation
+4930	I gave in to temptation with a parishioner. Nobody found out.
+4931	I gave in to temptation with a parishioner, and it became a public scandal.
+4932	A parishioner is upset with your sermon and confronts you after Mass.
+4933	I stayed calm when an upset parishioner confronted me.
+4934	Defend your beliefs
+4935	I defended my beliefs and won the parishioner over.
+4936	I defended my beliefs, and the argument got heated.
+4937	I ignored an upset parishioner.
+4938	Rumors are spreading that you have been involved in financial misconduct.
+4939	Denounce the rumors
+4940	I publicly denounced false rumors of financial misconduct.
+4941	I denounced the rumors, but many people still believe them.
+4942	I ignored the rumors and they faded away.
+4943	I ignored the rumors and they kept spreading.
+4944	Pay for them to stop
+4945	I paid to make the rumors go away.
+4946	I paid to make the rumors stop. The payment leaked and made everything worse.
+4947	A wealthy donor offers a large donation, but they want special favors in return.
+4948	Accept the donation
+4949	I accepted a donation with strings attached, and the favors came to light.
+4950	I accepted a large donation with strings attached.
+4951	I politely declined a donation that came with conditions.
+4952	Report them to the Vatican
+4953	I reported a donor who wanted favors to the Vatican.
+4954	The Vatican is considering transferring you to a different diocese. Do you accept?
+4955	Accept the transfer
+4956	I accepted a transfer to the Diocese of {1}.
+4957	Request to stay
+4958	I asked to stay where I am, and the Vatican agreed.
+4959	I asked to stay, but the Vatican transferred me anyway.
+4960	I refused a transfer from the Vatican.
+4961	A controversial issue is being discussed within the Church. Which side do you support?
+4962	Traditional stance
+4963	I took the traditional side in a debate within the Church.
+4964	Progressive stance
+4965	I took the progressive side in a debate within the Church.
+4966	Remain neutral
+4967	I stayed neutral in a debate within the Church.
+4968	You are feeling unwell and your health is affecting your duties.
+4969	Rest and recover
+4970	I took time off to recover my health.
+4971	I kept working even though I was unwell.
+4972	Seek medical treatment
+4973	I went to see a doctor.
+4974	political
+4975	A government official asks for your support on a political issue in exchange for benefits.
+4976	Support them
+4977	I backed a politician in exchange for favors to the Church.
+4978	I declined to get involved in politics.
+4979	Report to the Vatican
+4980	I reported political pressure to the Vatican.
+4981	media
+4982	A journalist wants to interview you about a recent controversy. How will you respond?
+4983	My interview about the controversy went well.
+4984	My interview about the controversy went badly.
+4985	I said "no comment" to a journalist.
+4986	I refused to be interviewed by a journalist.
+4987	Join the Catholic Church
+4988	Join a Christian denomination
+4989	Join the Islamic faith
+4990	Join the Jewish faith
+4991	Join the Buddhist faith
+4992	Join the Hindu faith
+4993	Explore other faiths
+4994	I joined the {1} faith.
+4995	A New Outlook
+4996	A New Faith
+4997	You embraced {1}.
+4998	converted
+4999	the Catholic Church
+5000	You {1} into {2}.
+5001	Leaving the Catholic faith means leaving your career in the Church. Join {1}?
+5002	(Your Faith)
+5003	Explore the many other faiths of the world.
+5004	You already follow {1}.
+5006	career
+5007	Your Church Career
+5008	Begin your journey as a seminarian
+5009	acts
+5010	Participate in church life
+5011	study
+5012	Improve your religious knowledge
+5013	the Gospel of John
+5014	the documents of Vatican II
+5015	You read {1}. Your knowledge of the faith grew.
+5016	You studied theology again, but you didn't learn much new this year.
+5017	Go to church this Sunday
+5018	Go to Confession
+5019	Confess your sins
+5020	rosary
+5021	Pray the Rosary
+5022	A quiet hour of prayer
+5024	donate
+5025	Donate to the Church
+5026	Give to your parish
+5027	Join the Choir
+5028	Sing at Sunday Mass
+5029	pilgrim
+5030	Pilgrimage to Rome
+5031	Visit the Vatican
+5032	You attended Mass at {1} Parish.
+5033	I went to Mass.
+5034	You went to confession and felt a weight lift off your shoulders.
+5035	I went to confession.
+5036	You prayed the rosary in a quiet chapel.
+5037	I prayed the rosary.
+5038	You helped hand out food at the parish food bank.
+5039	I volunteered at my parish.
+5040	You sang with the parish choir at Sunday Mass.
+5041	I sang in the church choir.
+5042	You need {1} to donate.
+5043	You donated {1} to your parish.
+5044	I donated {1} to my parish.
+5045	A pilgrimage to Rome costs {1}.
+5046	St. Peter's Basilica
+5047	You made a pilgrimage to Rome and saw {1} in St. Peter's Square.
+5048	I made a pilgrimage to Rome.
+5049	Join a religious life
+5050	Pope Career (Special)
+5051	Rise through the Catholic Church
+5052	artsy
+5053	An artsy clique
+5054	You must have an artistic flair to join this creative clique.
+5055	The Artsy Kids asked what you've ever created. You didn't have an answer.
+5056	band
+5057	A geeky clique
+5058	You must play an instrument to join this geeky clique.
+5059	The Band Geeks asked why you'd want to join if you don't play an instrument.
+5060	brainy
+5061	You must have high smarts and grades to join this special clique.
+5062	The Brainy Kids told you to study harder before asking again.
+5063	The leader refused because your academic performance was embarrassing.
+5064	drama
+5065	A thespian clique
+5066	You must love the stage to join this thespian clique.
+5067	dance
+5068	The Drama Kids said they only hang out with people who perform.
+5069	gamers
+5070	A gamer clique
+5071	You must live and breathe video games to join this gamer clique.
+5072	The Gamers quizzed you on video games and you failed miserably.
+5073	A gothic clique
+5074	You must embrace the darkness to join this gothic clique.
+5075	The Goths told you that your cheerful personality didn't fit their image.
+5076	The Goths said you were way too mainstream for them.
+5077	hipsters
+5078	A hipster clique
+5079	You must be into things before they were cool to join this hipster clique.
+5080	The leader said nobody at school even knows who you are.
+5081	The Hipsters said you seemed too mainstream.
+5082	jocks
+5083	An athletic clique
+5084	You must be a star athlete to join this athletic clique.
+5085	The Jocks told you their clique is for guys only.
+5086	The Jocks laughed when they learned you don't play any sports.
+5087	An undesirable clique
+5088	You must be a true lone wolf to join this undesirable clique.
+5089	The Loners told you that you wouldn't fit in with them.
+5090	An elite female clique
+5091	You must engage in gossip and crave popularity to join this elite clique.
+5092	The Mean Girls rolled their eyes. Their clique is for girls only.
+5093	Their leader laughed at you and said that you weren't nearly popular enough to hang around with them.
+5094	The Mean Girls looked you up and down and said you weren't pretty enough.
+5095	nerds
+5096	An intellectual clique
+5097	You must love learning to join this intellectual clique.
+5098	The Nerds said you were too cool to hang out with them.
+5099	astronomy
+5100	tutoring
+5101	language
+5102	The Nerds told you to study harder before asking again.
+5103	A non-clique clique
+5105	The leader said they don't want to be associated with someone everyone avoids.
+5106	The Normals said you're way too popular to be normal.
+5107	popular
+5108	A popular clique
+5109	You must be one of the most popular kids in school to join this popular clique.
+5110	skaters
+5111	A skateboarding clique
+5112	You must shred on a skateboard to join this skateboarding clique.
+5113	skate
+5114	The Skaters laughed when you couldn't even ollie.
+5115	A chameleon clique
+5116	You must demonstrate an uncanny ability to slip in with different groups to join this clique.
+5117	talented
+5118	A multi-talented clique
+5119	You must excel in class and in activities to join this multi-talented clique.
+5120	The Talented Kids asked what activities you do. You didn't have any.
+5121	troublemakers
+5122	An instigator clique
+5123	You must have a rebellious streak to join this instigator clique.
+5124	The Troublemakers called you a goody two-shoes and walked off.
+5125	A weeb clique
+5126	You must be obsessed with anime to join this weeb clique.
+5127	The Weebs asked you to name your favorite anime. You froze.
+5128	Interact with the {1} at your {2} today!
+5129	Ask for permission to join them
+5130	Start hanging out with them
+5131	hang
+5132	Compliment their leader
+5133	You complimented the leader of the {1}. They appreciated it so much that they invited you to join!
+5134	I complimented the leader of the {1}, but they ignored me.
+5135	You complimented the leader of the {1}, but they ignored the compliment.
+5136	Insult their leader
+5137	I insulted the leader of the {1}. They ignored me.
+5138	You insulted the leader of the {1}, but they didn't even look up.
+5139	I insulted the leader of the {1}, and they roasted me in front of everyone.
+5140	You insulted the leader of the {1}, and they insulted you right back in front of the whole cafeteria.
+5141	I insulted the leader of the {1}, and the whole clique jumped me.
+5142	You insulted the leader of the {1}, and the whole clique ganged up on you after school.
+5144	Leave the clique
+5145	I left the {1}.
+5146	Going solo
+5147	You left the {1}.
+5148	I joined the {1}.
+5149	You asked the leader of the {1} if you could join their clique.
+5150	The leader welcomed you into the group and told you that you could start hanging out with them!
+5151	By Association!
+5152	You started hanging out with the {1} during lunch and joined their clique!
+5153	tried to hang out with
+5154	asked to join
+5155	I {1} the {2}, but they rejected me.
+5156	You tried to start hanging out with the {1}.
+5157	You asked the {1} if you could join them.
+5158	The leader reminded you that you'd already been rejected.
+5159	The leader said they aren't taking new members right now.
+5160	The group refused because you'd been causing problems with their members.
+5161	The leader refused because of a previous argument between you.
+5162	Join a school clique
+5163	View your clique
+5164	street
+5165	offset
+5166	passing counterfeit money
+5167	cart
+5168	A bargain-bin home printer. Streaky, slow and the ink smears if you look at it wrong.
+5169	A photo printer with six inks. Better colors, still flat paper.
+5170	toner
+5171	An office laser printer. Toner fuses into the paper instead of bleeding.
+5172	A high-end color laser. Sharp fine lines, but no raised texture.
+5173	Used Offset Press
+5174	industrial
+5175	A tired old commercial press from a closed-down print shop. Still gets the job done.
+5176	Offset Printing Press
+5177	A brand new commercial press. Proper colors and crisp fine lines.
+5178	The kind of press a real mint uses. Raised ink you can feel with your thumb.
+5179	Ink Cartridge Pack
+5180	A black and a color cartridge. Fits inkjet printers.
+5181	XL Ink Cartridges
+5182	Extra-large cartridges that last three times as long. Fits inkjet printers.
+5183	Color Toner Set
+5184	Cyan, magenta, yellow and black toner. Fits laser printers.
+5185	High-Yield Toner Set
+5186	High-yield toner for big runs. Fits laser printers.
+5187	drums
+5188	Press Ink Drums
+5189	Commercial offset ink by the drum. Fits printing presses.
+5190	copy
+5191	Copy Paper Box
+5192	Ten reams of plain printer paper. Feels like a receipt and fails every pen test.
+5193	resume
+5194	Cotton Résumé Paper
+5195	cotton
+5196	Fancy cotton paper for job applications. Close to the feel of real money.
+5197	Cotton-Linen Paper Pallet
+5198	The same 75/25 cotton-linen blend real money is printed on, by the pallet.
+5199	bleach
+5200	Bleached $1 Blanks
+5201	Real $1 bills washed blank with bleach. Real paper, real thread, ready to reprint.
+5202	Detector pens react to the starch in normal paper. This coating hides it.
+5203	Makes the security strip glow under a UV light like the real thing.
+5204	thread
+5205	Security Thread Kit
+5206	Embeds a plastic strip with tiny printing inside each bill.
+5207	mark
+5208	Presses a faint portrait into the paper that shows up against the light.
+5209	Holographic Foil Stamper
+5210	Adds the color-shifting ink and foil found on big bills.
+5211	Copy paper
+5212	Feels like a receipt. Fails a detector pen every time.
+5213	Cotton paper
+5214	Close to the cotton-linen blend real money uses.
+5215	Bleached $1 bills
+5216	Washed real bills. Real paper, real thread.
+5217	{1} Office Supply
+5218	Inkjet printers, cartridges and paper
+5219	Laser printers and toner
+5220	{1} Printing Equipment
+5221	Printing presses, press ink and bulk paper
+5222	The Back Room
+5223	The Engraver's Den
+5224	The Paper Trail
+5225	Ask no questions. Security features and the good stuff
+5226	Takes anything, pays almost nothing.
+5227	Moves bills through bars and truck stops.
+5228	Wants quality. Pays well for it.
+5229	Only buys big batches of near-perfect bills, the kind only an intaglio press makes.
+5230	a pack of gum
+5231	food
+5232	The {1} Tavern
+5233	a round of drinks
+5234	super
+5235	{1} Department Store
+5236	casino
+5237	{1} Savings Bank
+5238	Obvious fake
+5239	The Paper King
+5240	Mr. Benjamin
+5241	print
+5242	Print a batch
+5244	{1} · {2} for {3} · paper for {4}
+5245	You need a printer first. Visit a supply shop
+5246	Supply shops
+5247	Printers, ink, paper and security features
+5248	pass
+5249	Spend it at a store
+5250	Pick a store and pass bills for real change
+5251	You have no fake bills
+5252	move
+5253	Move a batch
+5254	Sell bills wholesale to a contact
+5255	test
+5256	Test a bill
+5257	Run your own pen and UV checks
+5258	contact
+5259	Find a contact
+5260	Unlock new buyers
+5261	stash
+5262	Your stash
+5263	Fake cash: {1}
+5265	You're already laying low this year
+5266	Stop for a year to cool the heat off
+5267	burn
+5268	Destroy your fake bills
+5269	Nothing to burn
+5271	Shut down your operation
+5272	rename
+5273	Choose your alias
+5274	Bill quality
+5275	Batches printed
+5276	Fake money printed
+5277	Fake money passed
+5278	Real money made
+5279	Stores that banned you
+5281	Out of {1}
+5282	You can't print without {1}. {2} sells what you need.
+5284	Which bill?
+5285	Bigger bills are worth more, but cashiers look a lot harder at a $100 than a $20.
+5286	What paper?
+5287	enough for {1} bills
+5288	How many bills?
+5289	Your {1} can run up to {2} bills at once. You have {3} for {4} and {5} for {6}.
+5290	{1} bills ({2} fake)
+5291	Your {1} is running {2} ${3} bills on {4}.
+5292	Collect the bills
+5293	Warming up...
+5295	Warming up the press...
+5296	Printing the fronts...
+5297	Printing the backs...
+5298	Drying the bleached bills...
+5299	Adding the security features...
+5300	Cutting the sheets...
+5301	Stacking the bills...
+5302	I printed {1} fake ${2} bills.
+5303	{1} fake ${2} bills ({3}) come off the press.
+5304	{1} came out smeared or misaligned and go in the trash.
+5305	paper
+5306	Stores this year
+5307	You're banned from here
+5308	return
+5309	· cash out chips
+5310	Takes up to ${1} ·
+5311	{1} won't take anything bigger than a ${2}. You don't have any bills small enough.
+5312	Buy {1} with fake bills, then return it for a real refund.
+5313	Buy chips with fake bills, play a little, and cash out clean money.
+5314	Deposit fake bills straight into your account. Banks check everything.
+5315	Buy {1} with a fake bill and keep the real change.
+5316	Cashiers here use {1}.
+5317	The staff here barely look at the money.
+5318	Cashiers only check a few bills in a stack, but the bigger the stack, the more they check.
+5319	You hit the register a few times, at different tills and different shifts.
+5320	You walk up to the cage with a stack of fake bills.
+5321	You fill out a deposit slip and walk up to the teller.
+5322	You walk in and grab {1}.
+5323	Waiting in line...
+5324	The cashier swipes it with a detector pen...
+5325	The cashier holds it under a UV light...
+5326	The bill goes through a counterfeit scanner...
+5327	The cashier looks the bill over...
+5328	Bill {1} of {2}: {3}
+5329	"Hold on... this ${1} doesn't look right."
+5330	"The pen mark turned black. Sir, I need to call my manager."
+5331	"This bill feels weird. Where'd you get it?"
+5332	"I'm gonna have to hold on to this one."
+5333	"Our scanner rejected this bill. Please wait here."
+5334	{1} bill{2} got through.
+5335	{1}Then the cashier stops.
+5336	Play dumb
+5337	dumb
+5338	Grab the money and run
+5339	Wait for the police
+5340	wait
+5341	Nobody noticed a thing.
+5342	I passed {1} fake ${2} bill{3} at {4} and walked out with {5} in real money.
+5343	Got Away With It
+5344	You return {1} the next day for a refund in real cash.
+5345	You play a few hands and cash your chips out clean.
+5346	The deposit clears.
+5347	You pocket the real change.
+5348	Real money:
+5349	A cashier at {1} caught me with a fake ${2} bill, but I got away.
+5350	You bolt out the door and don't stop running. {1} has your face on camera now, and you're banned for good.
+5351	The manager decides it's not worth the paperwork, keeps the bill and tells you to never come back.
+5352	"I got it from the ATM, I swear!" They keep the bill and ban you from {1} for life.
+5353	I was caught trying to pass a fake ${1} bill at {2}.
+5354	The police search you and find {1} in fake bills on you.
+5355	With a warrant, they raid your place too and seize your printer and everything in your stash.
+5356	You're banned from {1}.
+5357	counterfeiting
+5358	Move a Batch
+5359	Who's buying?
+5361	"I'm full up. Come back next year."
+5362	I only deal in batches of {1}+ bills, and they
+5363	{1} looks over your bills and shakes their head. "{2} have to be {3} or better."
+5364	They'll take up to {1} in face value this year.
+5365	The {1} I was selling fake money to was working with the Secret Service.
+5366	It's a Sting!
+5367	The {1} was wearing a wire. Secret Service agents swarm the meeting and seize the {2} in fake bills you brought.
+5368	I sold {1} fake ${2} bills to a {3} for {4}.
+5369	The {1} counts the stack, nods and hands you {2} in real cash.
+5370	Find a Contact
+5371	You already know every buyer worth knowing.
+5372	Who do you want to find?
+5373	Asking around costs money, and you never know who's an informant.
+5374	{1} to ask around
+5375	Asking around for a {1} costs {2}.
+5376	Someone I asked about selling fake money tipped off the police.
+5377	Someone you asked around with turned out to be an informant. Your heat just went way up.
+5378	I made contact with a {1} who buys fake money.
+5379	You've been introduced to a {1}. {2}
+5380	Nobody would point you to a {1}. Your money's gone.
+5381	Test a Bill
+5382	Which stack?
+5383	stays yellow (passes)
+5384	turns black (fails)
+5385	glows the right color (passes)
+5386	glows faintly (iffy)
+5387	stays dark (fails)
+5388	You run the same checks a cashier would.
+5389	passes
+5390	fails
+5391	Detector pen:
+5392	Look and feel:
+5393	Bill scanner:
+5394	Ink & Toner
+5395	You own this
+5396	Quality +{1} · up to {2} bills a run
+5397	Wrong printer
+5398	Enough for {1} bills{2}
+5399	Beats detector pens
+5400	Best it can ever do
+5401	Bills per run
+5402	Good for
+5403	You have
+5404	{1} bills' worth
+5405	No change
+5406	holding it up to the light
+5407	close looks at big bills
+5408	Trade in your {1}
+5410	This won't fit your printer.
+5411	You already own this.
+5412	That costs {1}. You only have {2}.
+5413	I bought {1}{2} at {3}.
+5414	You trade in your {1} and haul the {2} home.
+5415	You haul the {1} home.
+5416	{1} Your bills will now come out {2}.
+5417	You now have {1} bills.
+5418	Installed. Your bills now come out {1}.
+5419	{1} fake bills worth {2}.
+5420	No fake bills yet. Time to print.
+5421	Security features
+5422	I decided to lay low and stop counterfeiting for a while.
+5423	You pack the press away under a tarp and stay off the radar this year. Your heat will cool off faster.
+5424	Burn the Evidence?
+5425	This destroys all {1} fake bills ({2}).
+5426	Burn it all
+5427	I burned all of my counterfeit money.
+5428	You feed every last bill into a barrel fire. No evidence, no case.
+5429	Give Up?
+5430	You'll destroy your setup and every fake bill. Your heat won't disappear overnight.
+5432	I shut down my counterfeiting operation for good.
+5433	Out of the Game
+5434	You smash the printer, burn the plates and walk away from counterfeiting.
+5435	What should the street call you?
+5436	The Secret Service raided my counterfeiting operation.
+5437	Secret Service Raid
+5438	They haul away your {1}
+5439	They seize
+5440	{1} {2} in fake bills
+5441	Federal agents kick your door in at dawn.{1}{2}.
+5442	You're too young to start printing money.
+5443	You've read every article about how fake money gets made. Printing it takes a setup, ink, paper and nerve. Pick the name your operation will go by.
+5444	I started a counterfeiting operation. They call me "{1}."
+5445	Andorra la Vella
+5446	United Arab Emirates
+5447	San José
+5448	Papua New Guinea
+5449	It's {first}'s birthday and someone brought a cake.
+5450	Sing loudly
+5451	I sang happy birthday to {first}.
+5452	I gave {first} a birthday gift.
+5453	Skip the party
+5454	I skipped {first}'s birthday party.
+5455	{first} offers to grab you a coffee.
+5456	Say yes, thanks!
+5458	Offer to buy {his} too
+5459	I passed on a coffee from {first}.
+5460	{first} invites you to grab lunch together.
+5461	Go to lunch
+5462	I had lunch with my coworker {first}.
+5463	Bring my own and join
+5464	I ate lunch with {first} in the break room.
+5465	Eat alone
+5466	I ate lunch alone.
+5467	{first} leans in with juicy gossip about the boss.
+5468	Listen eagerly
+5469	{first} told me some juicy gossip.
+5471	I avoided office gossip with {first}.
+5472	Report it to the boss
+5473	I told the boss about {first}'s gossip.
+5474	You find {first} crying quietly in the break room.
+5475	I comforted {first} after a bad day.
+5476	I gave {first} some space.
+5478	{first} took credit for your work in front of the boss.
+5479	I confronted {first} for stealing credit.
+5480	Call {him} out publicly
+5481	I called out {first} in front of everyone.
+5482	Let it slide
+5483	I let {first} take credit for my work.
+5484	You think {first} has a crush on you.
+5485	{first} and I went on a date!
+5486	{first} turned me down. Awkward.
+5487	Keep it professional
+5488	I kept things professional with {first}.
+5489	{first} asks to borrow $50 until payday.
+5490	{first} never paid me back.
+5491	Say no politely
+5492	I didn't lend {first} money.
+5493	{first} begs you to cover their shift this weekend.
+5494	Cover it
+5495	I covered {first}'s weekend shift.
+5496	I wouldn't cover {first}'s shift.
+5497	{first} is asleep at their station.
+5498	I woke {first} before the boss saw.
+5499	Take a funny photo
+5500	I snapped a photo of {first} sleeping.
+5501	I reported {first} for sleeping on the job.
+5502	You drew {first} for Secret Santa.
+5503	Buy a thoughtful gift
+5504	I got {first} a thoughtful Secret Santa gift.
+5505	Regift something
+5506	I regifted something to {first} for Secret Santa.
+5507	Give a gag gift
+5508	I gave {first} a gag gift.
+5509	{first} didn't laugh at my gag gift.
+5510	{first} asks for your phone number.
+5511	Share it
+5512	I gave {first} my number.
+5513	Give a fake one
+5514	I gave {first} a fake phone number.
+5515	{first} keeps blasting music from their phone.
+5516	Ask nicely to turn it down
+5517	I asked {first} to turn down the music.
+5518	I sang along to {first}'s music.
+5519	Complain to the boss
+5520	I complained about {first}'s music.
+5521	{first} microwaved fish in the break room. The smell is unbearable.
+5522	Say something
+5523	I told {first} to stop microwaving fish.
+5524	Leave a passive-aggressive note
+5525	I left a note about the fish smell.
+5526	Suffer in silence
+5527	I suffered through the fish smell.
+5528	{first} shares a brilliant idea with you before a meeting.
+5529	Encourage {him} to share it
+5530	I encouraged {first} to pitch {his} idea.
+5531	Steal the idea
+5532	I pitched {first}'s idea as my own.
+5533	Everyone found out I stole {first}'s idea.
+5534	{first} lives nearby and suggests carpooling.
+5535	Carpool together
+5536	I started carpooling with {first}.
+5537	Keep driving alone
+5538	I kept driving to work alone.
+5539	{first} invites you to a pickup basketball game after work.
+5540	I played basketball with {first} after work.
+5541	I twisted my ankle playing basketball with {first}.
+5543	I skipped the after-work game.
+5544	{first} wants you to come to happy hour.
+5545	Go and have a few drinks
+5546	I went to happy hour with {first}.
+5547	Go but drink soda
+5548	I went to happy hour with {first} and drank soda.
+5549	I skipped happy hour.
+5550	Rumor About You
+5551	You hear {first} has been spreading rumors about you.
+5552	I confronted {first} about spreading rumors.
+5553	Confronting {first} turned into a shoving match.
+5554	Spread a rumor back
+5555	I spread a rumor about {first}.
+5556	Rise above it
+5557	{first} just started and looks totally lost.
+5558	I showed the new hire, {first}, around.
+5559	Let {him} figure it out
+5560	I let {first} figure things out alone.
+5561	You notice a big mistake in {first}'s work.
+5562	I helped {first} fix a mistake quietly.
+5563	Tell the boss
+5564	I reported {first}'s mistake to the boss.
+5566	I said nothing about {first}'s mistake.
+5567	{first} cracks a joke only the two of you get.
+5568	Laugh hysterically
+5569	{first} and I have an inside joke now.
+5570	Smile politely
+5571	I smiled at {first}'s joke.
+5572	{first} challenges you to see who can work the hardest this week.
+5573	Accept the challenge
+5574	I beat {first} in a work competition.
+5575	{first} beat me in a work competition.
+5576	{first} makes a rude comment about your outfit.
+5577	Clap back
+5578	I clapped back at {first}'s rude comment.
+5579	I laughed off {first}'s comment.
+5580	I reported {first} to HR.
+5581	{first} brought homemade cookies for everyone.
+5582	{first} made amazing cookies.
+5583	Take one politely
+5584	I tried one of {first}'s cookies.
+5585	Say they're dry
+5586	I told {first} the cookies were dry.
+5587	{first} posted an embarrassing photo of you online.
+5588	Ask {him} to take it down
+5589	I asked {first} to delete an embarrassing photo.
+5590	Post one of {him} back
+5591	I got revenge on {first} with a photo.
+5592	{first} came to work sick and keeps coughing near you.
+5593	Tell {him} to go home
+5594	I told {first} to go home sick.
+5595	Bring {him} some tea
+5596	I brought sick {first} some tea.
+5597	{first} plays the same video game as you.
+5598	Play online together tonight
+5599	I played video games online with {first}.
+5600	Keep work and games separate
+5601	I kept gaming separate from work.
+5602	{first} says {he} got a bigger raise than you.
+5603	Ask the boss about it
+5604	I asked the boss about my raise.
+5605	The boss gave me a raise after I asked!
+5606	Get jealous
+5607	I got jealous of {first}'s raise.
+5608	Help Me Move
+5609	{first} asks you to help {him} move apartments this weekend.
+5610	I helped {first} move apartments.
+5612	I made an excuse not to help {first} move.
+5613	Someone keeps stealing your lunch from the fridge. You suspect {first}.
+5614	I accused {first} of stealing my lunch.
+5615	{first} admitted to eating my lunch.
+5616	Leave a spicy decoy lunch
+5617	I caught the lunch thief with a super spicy sandwich.
+5618	Kid at Work
+5619	{first} had to bring {his} kid to work today.
+5620	Entertain the kid
+5621	I kept {first}'s kid entertained at work.
+5622	Complain about it
+5623	I complained about {first}'s kid being at work.
+5624	{first} can't figure out how to use the new computer system.
+5625	I taught {first} the new computer system.
+5626	I did {first}'s computer work for {him}.
+5627	I laughed at {first} for struggling with computers.
+5628	Haunted Break Room
+5629	{first} swears the break room is haunted.
+5630	Investigate together
+5631	{first} and I investigated the "haunted" break room.
+5632	Make spooky noises later
+5633	I scared {first} with spooky noises.
+5634	{first} invites you to karaoke night with the team.
+5635	Sing a power ballad
+5636	I belted a power ballad at karaoke with {first}.
+5638	I watched my coworkers do karaoke.
+5639	I skipped karaoke night.
+5640	{first} is interviewing for a job elsewhere and asks for advice.
+5641	I helped {first} prep for a job interview.
+5642	I told the boss {first} was job hunting.
+5643	{first} wants to start a book club at work.
+5644	Join it
+5645	I joined {first}'s work book club.
+5646	I passed on the book club.
+5647	{first} invites you to the office fantasy football league.
+5648	Join for $20
+5649	I joined the office fantasy league.
+5650	I won the office fantasy league and $200!
+5651	I skipped the fantasy league.
+5652	{first} confides that {he}'s completely burned out.
+5653	I supported {first} through burnout.
+5654	Suggest {he} take time off
+5655	I encouraged {first} to take a break.
+5656	{first}'s workspace is a disgusting mess next to yours.
+5657	Offer to help clean
+5658	Complain loudly
+5659	I complained about {first}'s mess.
+5660	You and {first} get into a heated argument about work.
+5661	Apologize first
+5662	I apologized to {first} after an argument.
+5663	Keep arguing
+5664	I kept arguing with {first}.
+5665	My argument with {first} got physical.
+5666	{first} filled your locker with balloons. It's a prank war.
+5667	I got {first} back in our prank war.
+5668	The boss shut down our prank war.
+5669	Declare a truce
+5670	I declared a truce in the prank war.
+5671	{first} wants the same vacation week you requested.
+5672	Let {him} have it
+5673	I gave {first} the vacation week.
+5675	I kept my vacation week.
+5676	{first} has a family emergency and needs to leave immediately.
+5677	I covered {first}'s work during a family emergency.
+5678	Let the boss handle it
+5679	I left {first}'s emergency to the boss.
+5680	{first} invited you to {his} wedding.
+5681	Attend with a gift
+5682	I went to {first}'s wedding.
+5684	I sent {first} a wedding card.
+5685	{first} just had a baby and is passing around photos.
+5686	Gush over the photos
+5687	I gushed over {first}'s baby photos.
+5688	Chip in for a gift
+5689	I chipped in for {first}'s baby gift.
+5690	{first} keeps correcting everything you do.
+5691	I sarcastically thanked {first} for correcting me.
+5692	Actually listen
+5693	I learned something from {first}.
+5694	I snapped at {first}.
+5695	Thank You Gift
+5696	{first} left a thank-you note and candy on your desk.
+5697	{first} left me a thank-you note.
+5698	{first} asks you to clock {him} in because {he}'s running late.
+5699	I clocked {first} in early.
+5700	We got caught clocking {first} in. I was written up.
+5701	I refused to clock {first} in.
+5702	You catch {first} kissing another coworker in the supply closet.
+5703	Keep the secret
+5704	I kept {first}'s office romance a secret.
+5705	Tell everyone
+5706	I told everyone about {first}'s office romance.
+5707	You and {first} showed up wearing the exact same outfit.
+5708	Take a photo together
+5709	{first} and I accidentally wore matching outfits.
+5710	Go home and change
+5711	I changed clothes to avoid matching {first}.
+5712	{first} keeps whispering jokes during a long meeting.
+5714	I laughed at {first}'s jokes during a meeting.
+5715	We got caught laughing during a meeting.
+5716	I shushed {first} in a meeting.
+5717	{first} asks you to be {his} gym partner.
+5718	Start working out together
+5719	I started working out with {first}.
+5720	I declined to be {first}'s gym partner.
+5721	{first} invites you on a smoke break.
+5722	Go and chat (no smoking)
+5723	I hung out with {first} on {his} smoke break.
+5724	Smoke one too
+5725	I smoked a cigarette with {first}.
+5727	I stayed inside during the smoke break.
+5728	You get stuck in an awkward silence with {first}.
+5729	Make small talk
+5730	I made small talk with {first}.
+5731	Stare at my phone
+5732	I avoided small talk with {first}.
+5733	{first} is pitching you a "business opportunity" selling essential oils.
+5734	Buy in for $200
+5735	I bought into {first}'s essential oils business.

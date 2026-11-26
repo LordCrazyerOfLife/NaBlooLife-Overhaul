@@ -1,0 +1,800 @@
+1637	The vault! Stand in front of it to drill it open.
+1638	Lock yourself in a stall.
+1639	STAFF ONLY. The door is locked. Try the restroom...
+1640	outside
+1641	escaped
+1642	empty
+1643	The police are coming through the front! Find the back exit!
+1644	You dropped out of the ceiling. Find the vault room without being seen.
+1645	Light below... a grate over the {1}.
+1647	Occupied! They didn't notice you. Try another stall.
+1648	Someone is in there! They're screaming for security!
+1649	You locked the stall. Drilling through the ceiling vent...
+1650	You grabbed "{1}" ({2})!
+1651	round
+1652	canvas
+1653	inner
+1654	lighter
+1655	TEST: alarm on, police coming in, gas flooding the store.
+1656	TEST: alarm on, police coming in.
+1657	GHOST MODE: security can't see or catch you (the gas can still hurt you).
+1658	Ghost mode off.
+1659	.esc-pad img
+1660	Drop everything and run for it?
+1661	fled
+1662	time
+1663	vault
+1664	The vault is open! Grab the diamonds and get out before the police get here!
+1665	The vault is open! Security gas floods the building in {1} seconds. Grab what you can!
+1666	You're in the air ducts. Crawl to a grate and drop into the back rooms.
+1667	You were spotted! The gas is off, but the police are on their way!
+1668	Security gas! Everyone else got out. You have about {1} seconds!
+1669	smoke
+1670	privacy
+1671	A worker saw you and screamed! The guards are coming!
+1672	tick
+1673	I collapsed in the security gas inside {1}.
+1674	smoke inhalation during a jewel heist
+1675	I barged into an occupied bathroom stall at {1}. Security threw me out and called the police.
+1676	{1} banned me for life.
+1677	Kicked Out!
+1678	You yanked open a bathroom stall at {1}, and someone was in there. They screamed the place down, security dragged you out by your collar, and the police were waiting outside.
+1679	You're being charged with privacy violations, and {1} has banned you for life.
+1680	Diamonds stolen
+1681	Privacy violations
+1682	Banned from
+1683	Case status
+1684	Going to court
+1685	Security footage from {1} moved me up to #{2} on the FBI's Ten Most Wanted list.
+1686	Security footage from {1} put me on the FBI's Ten Most Wanted list at #{2}.
+1687	The FBI added me to its Ten Most Wanted list at #{1}.
+1688	I cracked the vault at {1} and escaped with {2} {3} worth {4}.
+1689	I broke into {1} and stole {2} painting{3} worth an estimated {4}.
+1690	The theft of "{1}" became world news.
+1691	The Score of the Century
+1692	The Vault Job
+1693	The Heist of the Century
+1694	A Daring Heist
+1695	A Stolen Masterpiece
+1696	The "{1}" alone is worth {2}. Every news channel is calling it the biggest jewel heist in history.
+1697	The store won't even know the vault is empty until morning.
+1698	Stealing "{1}" made headlines around the world, and every news channel is talking about the missing masterpiece.
+1699	You tripped the alarm, so the police are looking hard for whoever did this.
+1700	View your diamonds
+1701	View your stolen art
+1702	{1} {2} {3} now in your possession. {4}{5}
+1703	Estimated value:
+1704	Hidden in your stash
+1705	moved you up to #{1} on
+1706	added you to
+1707	Security cameras at {1} caught your face during the heist. The FBI pulled the footage, released a sketch of you and {2} its Ten Most Wanted list.
+1708	You've stolen {1} paintings, and security cameras caught your face. The FBI has released a sketch of you and added you to its Ten Most Wanted list.
+1709	Armed robbery: {1}, {2} diamond{3}
+1710	Grand theft of fine art: {1} paintings
+1711	Wanted for
+1712	Diamonds taken
+1713	Security camera footage
+1714	Paintings stolen
+1715	Seen on camera
+1716	You're on the FBI's Most Wanted List!
+1717	FBI Ten Most Wanted
+1718	Your sketch is on the FBI's website, in post offices and on the evening news.
+1719	I was arrested robbing {1}.
+1720	I was caught trying to steal art from {1}.
+1721	diamonds
+1722	You walked out of {1} straight into a wall of police cars. Officers had every exit covered and were waiting for you.
+1723	You took too long inside {1}. The police stormed the building and dragged you out with the {2} still in your hands.
+1724	The police cornered you inside {1}. You have been arrested on suspicion of {2}.
+1725	{1} has banned you for life. You'll never get through their door again.
+1726	Out of Time!
+1727	Caught in the Act!
+1728	Diamonds recovered
+1729	Artwork recovered
+1730	Nothing taken
+1731	Jewel heist
+1732	Art theft
+1733	robbing {1} of {2} in diamonds
+1734	attempting to rob {1}
+1735	stealing art worth {1}
+1736	attempted art theft
+1737	and possessing {1}
+1738	The police raided my home and seized {1} worth {2}.
+1739	The police raided my home but found nothing else.
+1740	them
+1741	They found {1} hidden in your home and confiscated all of {2}. That's going on your charges too.
+1742	They searched every room but didn't find anything else.
+1743	Recovered at the scene
+1744	Paintings confiscated ({1})
+1745	Diamonds confiscated ({1})
+1746	Your Home Was Raided
+1747	Total value:
+1748	Possible sentence:
+1749	Officers kicked in your front door at dawn with a search warrant.
+1750	A SWAT team swarmed your home while the neighbors watched from their lawns.
+1751	Detectives tore your place apart looking for more stolen art.
+1752	Police dogs sniffed out a hidden room behind your closet.
+1753	I bailed on robbing {1} and ran.
+1754	You slipped back out of {1} without grabbing a single {2}.
+1755	You dropped everything and slipped out of {1} before anyone saw you.
+1756	Your Stolen Art
+1757	No stolen art
+1758	Pull off a heist to fill your stash
+1759	Fences pay more once a painting cools off
+1760	Heat drops every year you keep it hidden
+1761	Your {1} stolen diamond{2} in Assets
+1762	Sell {1} on the dark web from there
+1763	Estimated value
+1764	Stolen from
+1765	Sell on the dark web
+1766	Sell on the black market
+1767	Keep it hidden
+1768	This {1} is still hot. Every cop in the country is looking for it.
+1769	Who will you sell "{1}" to?{2}
+1770	count
+1771	counts
+1772	{1} {2} of trafficking stolen diamonds
+1773	{1} {2} of trafficking stolen art
+1774	I was arrested trying to sell a stolen {1}, "{2}". The police found {3} stolen {4} in my home.
+1775	Sting Operation!
+1776	{1} stolen diamond{2}
+1777	{1} stolen painting{2}
+1778	The police searched your home and found {1}{2}{3}. Every one is another count.
+1779	I was ripped off trying to sell a stolen {1}, "{2}".
+1780	"{1}" is gone and you got nothing.
+1781	on the dark web
+1782	on the black market
+1784	{1} paid {2} for "{3}".
+1785	Viktor the Fence
+1786	An old-school fence. Pays little, never asks questions.
+1787	An anonymous online buyer
+1788	Pays well in crypto. Could be anyone. Could be the FBI.
+1789	A reclusive billionaire collector
+1790	Pays a fortune for important pieces, but only meets in person.
+1791	A darknet diamond broker
+1792	Buys loose stones for Monero, no questions asked. Lowballs everyone.
+1793	An anonymous crypto buyer
+1794	Pays well in Bitcoin. Could be anyone. Could be the FBI.
+1795	A cartel-backed jeweler
+1796	Recuts stones so nobody can trace them, and pays a fortune for it.
+1797	The "buyer" flashed a badge. It was an FBI sting.
+1798	Interpol agents stormed the warehouse the second you unwrapped the canvas.
+1799	The collector's butler was an undercover detective.
+1800	The "buyer" on the dark web was an FBI agent the whole time.
+1801	The drop point was surrounded by undercover cops before you even parked.
+1802	The crypto wallet you were paid into belonged to the Secret Service.
+1803	The buyer took the painting at gunpoint and drove off.
+1804	The crypto payment never arrived, and neither did the painting.
+1805	You were handed a suitcase full of newspaper.
+1806	The buyer took the diamond at gunpoint and vanished.
+1807	The crypto payment never arrived, and neither did your diamond.
+1808	The "escrow" site went offline the second you shipped it.
+1809	trafficking stolen art
+1810	trafficking stolen diamonds
+1811	You're too young to pull off a jewel heist.
+1812	{1} & Sons Jewelers
+1813	{1} Diamond Exchange
+1814	The {1} Diamond Vault
+1815	Every jewelry store in town has your photo behind the counter. You're banned from all of them.
+1816	Walk in like a customer, lock yourself in a restroom stall and drill up into the air ducts. Find your way to the vault without the guards seeing you.
+1817	Five seconds after the vault opens, security gas floods the building and you have only seconds to get out. Get spotted and it's the police instead.
+1818	Which store will you hit?
+1819	Way in
+1820	Restroom ceiling vent
+1821	{1}s after the vault opens
+1822	Vault haul
+1823	Caught on camera
+1824	FBI Most Wanted if you get out
+1825	{1} banned you after you got caught there. Security would recognize you the second you walked in.
+1826	gray
+1827	null
+1828	logo
+1829	tabs
+1830	card
+1831	.ag-go, .ag-alt
+1832	ground
+1833	transparent
+1834	.ag-head img
+1835	load
+1836	freelife/sounds/login-music.wav
+1837	number
+1838	object
+1839	symbol
+1840	date
+1841	lives
+1842	spun
+1843	gone
+1844	How are you playing?
+1845	Play on PC
+1846	Play on Mobile
+1847	asking
+1848	button
+1850	Are you sure you want to play this mode?
+1851	The PC UI is still buggy and being worked on. You may often find bugs that make the game harder to play.
+1852	Loading your data...
+1853	You need an account to play BitLife++.
+1854	Log in to load your lives and keep playing.
+1855	3-20 letters, numbers or underscores
+1856	At least 8 characters
+1857	Type the letters you see
+1859	© 2026 Free Life. All rights reserved.
+1860	Effective October 25, 2026
+1861	light
+1862	freelife/sounds/ui-exit.mp3
+1863	form
+1864	.ag-cap img
+1865	Couldn't load the captcha. Tap ↻ to try again.
+1866	.ag-cap button
+1867	Usernames are 3-20 letters, numbers or underscores.
+1868	Passwords must be at least 8 characters.
+1869	Enter your username and password.
+1871	Account created! Log in to start playing.
+1872	freelife/sounds/login.mp3
+1873	Cannot reach account server. Try again later.
+1874	The captcha is still loading. Tap ↻ if it doesn’t show up.
+1875	Type the letters from the picture.
+1876	input
+1877	1. Acceptance of Terms
+1878	These Terms of Service ("Terms") govern your access to and use of the Free Life game and website (the "Service"), operated by Free Life ("Free Life," "we," "us" or "our"). By creating an account, logging in or otherwise using the Service, you agree to be bound by these Terms. If you do not agree, do not use the Service.
+1879	2. License to Use
+1880	Subject to these Terms, Free Life grants you a limited, personal, non-exclusive, non-transferable, revocable license to access and play the Service through a web browser for your own non-commercial entertainment. All rights not expressly granted to you are reserved.
+1881	3. Ownership and Copyright
+1882	The Service, including its original source code, software, design, text, graphics, user interface and other original content, is owned by Free Life and is protected by copyright and other intellectual property laws. © 2026 Free Life. All rights reserved.
+1883	Free Life is an independent project inspired by BitLife. It is not affiliated with, endorsed by or sponsored by Candywriter, LLC or BitLife. All third-party names and trademarks are the property of their respective owners and are used for identification only.
+1884	4. Prohibited Conduct
+1885	You agree not to, and not to help or allow anyone else to:
+1886	(e) interfere with, overload or disrupt the Service or its servers, or attempt to gain unauthorized access to any account or system.
+1887	You are responsible for keeping your username and password secure and for all activity under your account. Free Life may suspend or delete accounts that violate these Terms.
+1888	Free Life may suspend or end your access to the Service at any time, with or without notice, if you violate these Terms. Sections 3, 4, 7 and 8 survive termination.
+1889	7. Disclaimer of Warranties
+1891	8. Limitation of Liability
+1892	To the fullest extent permitted by law, Free Life will not be liable for any indirect, incidental, special or consequential damages, or for any loss of data or game progress, arising from your use of the Service.
+1893	Your use of the Service is also governed by the Free Life Privacy Policy.
+1894	10. Changes to These Terms
+1895	We may update these Terms from time to time. Changes take effect when posted, and the effective date above will be updated accordingly. Continued use of the Service after changes are posted constitutes acceptance of the revised Terms.
+1896	Free Life supports privacy over profit and fun over profit.
+1897	This Privacy Policy describes how Free Life ("Free Life," "we," "us" or "our") handles information in connection with your use of the Free Life game and website (the "Service"). By creating an account or using the Service, you acknowledge the practices described below.
+1898	2. Information We Collect
+1899	To create an account, Free Life collects only a username of your choosing and a password. Passwords are never stored in readable form; they are protected with Argon2id, a one-way cryptographic hash, and cannot be viewed by anyone, including us. Game progress you save to your account is stored with that account.
+1900	3. Information We Do Not Collect
+1901	Free Life does not log, record or store Internet Protocol ("IP") addresses. An IP address may be held briefly in temporary memory solely to limit abuse, such as repeated failed log-in attempts, and is never written to any log, database or disk.
+1902	Free Life does not collect, request or store email addresses, and does not log browser or device identifiers.
+1903	4. No Sale of Personal Information
+1904	Free Life does not and will never sell, rent, trade or otherwise disclose your personal information to any third party for money or any other valuable consideration.
+1905	The Service uses a single session cookie for the sole purpose of keeping you logged in. Free Life does not use advertising cookies, analytics trackers or third-party tracking technologies.
+1906	6. Third-Party Links
+1907	The Service may link to third-party communities such as Discord and Reddit. Those services are governed by their own privacy policies, and Free Life is not responsible for their practices.
+1908	7. Changes to This Policy
+1909	We may update this Privacy Policy from time to time. Changes take effect when posted, and the effective date above will be updated accordingly. Continued use of the Service after changes are posted constitutes acceptance of the revised policy.
+1910	Back to Game
+1911	Saving your data...
+1912	Couldn't save your data to your account, so you weren't logged out. Try again.
+1913	splash
+1914	penguin
+1915	BitLife Basketball Association
+1916	Los Angeles Lickers
+1917	Golden State Fighters
+1918	Los Angeles Snippers
+1919	New Orleans Pelicons
+1920	New York Knickers
+1921	Oklahoma City Thunderclaps
+1922	San Antonio Spurts
+1923	a sprained ankle
+1924	a jammed finger
+1925	a strained hamstring
+1926	a bruised knee
+1927	a stress fracture
+1928	a dislocated shoulder
+1929	a herniated disc
+1930	a torn Achilles tendon
+1931	basketball
+1932	scenario
+1933	tight
+1934	green
+1936	dismiss
+1937	team
+1938	span
+1939	The coach of the {1} team at your {2} has asked you to become captain of the team.
+1941	Agree to become captain
+1942	I became captain of the {1} at my {2}.
+1943	You are now the captain of the {1}!
+1944	I turned down the chance to be captain of the {1}.
+1945	Years on Team
+1946	Practice harder
+1947	I practiced harder with the {1}.
+1949	Running on empty
+1950	You began practicing harder with the {1}.
+1951	You practiced again, but you're already exhausted.
+1952	Quit the team
+1953	Are you sure you want to quit the {1}?
+1954	I quit the {1}.
+1956	A university scout is in the stands at tonight's {1} game.
+1957	Give it your all
+1958	I played the game of my life in front of a university scout.
+1959	I tried to impress a university scout, but I had an off night.
+1960	Turning heads
+1961	Off night
+1962	The scout was writing notes the whole game.
+1963	You tried too hard and missed most of your shots.
+1964	Play like normal
+1965	I played my usual game with a scout watching.
+1966	Your grades are slipping, and the coach of the {1} is worried you'll be ineligible to play.
+1967	Study harder
+1968	I promised the coach I would study harder.
+1969	Hitting the books
+1970	You buckled down on your schoolwork to stay on the team.
+1971	I was kicked off the {1} because of my grades.
+1972	You were kicked off the {1} because of your grades.
+1973	I ignored the coach's warning about my grades.
+1974	jealous
+1975	Your teammate {1} is jealous of how much attention you get on the {2}.
+1976	I complimented my jealous teammate, {1}.
+1977	Team player
+1978	You told {1} the team couldn't win without {2}.
+1979	I insulted my teammate, {1}.
+1980	Locker room drama
+1981	You and {1} aren't passing to each other anymore.
+1982	I ignored my jealous teammate, {1}.
+1983	ankle
+1984	knee
+1985	wrist
+1986	back
+1987	You hurt your {1} during {2} practice.
+1988	Seek treatment
+1989	I got my practice injury treated.
+1990	On the mend
+1991	You sat out a couple of games, but you healed properly.
+1992	Play through the pain
+1993	I played through the pain.
+1994	Tough as nails
+1995	You played through the pain and the coach loved it.
+1996	I played through an injury and made it worse.
+1998	Playing hurt made your injury much worse.
+1999	ball
+2000	You have received a full athletic scholarship to play basketball at university!
+2001	Pick your major:
+2002	Accept it and start university
+2003	You accepted a full athletic scholarship. Your tuition is covered!
+2004	I accepted an athletic scholarship to play basketball at {1}.
+2005	Accept an athletic scholarship
+2007	I turned down an athletic scholarship to take some time off.
+2008	Time off
+2009	You turned down the scholarship to take some time off.
+2010	Turn it down and look for a job
+2011	I turned down an athletic scholarship to look for a job.
+2012	Pro scouts have been watching you dominate high school basketball, and you now have the opportunity to declare your eligibility for the pro draft.
+2013	You have completed four seasons playing basketball at the collegiate level and now have the opportunity to declare your eligibility for the pro draft.
+2014	I'm eligible for the draft
+2015	I declared my eligibility for the pro basketball draft.
+2016	I went undrafted in this year's pro basketball draft.
+2018	You went undrafted in this year's pro basketball draft.
+2019	I was drafted in the {1} of the pro basketball draft by the {2}.
+2020	You have been drafted in the {1} of the pro basketball draft by the {2}!
+2021	first
+2022	second
+2023	I don't want to go pro
+2024	I decided not to enter the pro draft.
+2025	tryout
+2026	Your contract with the {1} has expired, and the {2} want to sign you!
+2027	{1}You have been offered a contract to play professional basketball for the {2}.
+2028	Negotiate for more money
+2029	I negotiated a better contract offer from the {1}.
+2030	The {1} pulled their contract offer after I tried to negotiate.
+2032	You are now a free agent.
+2033	The {1} walked away from the negotiating table.{2}
+2034	I turned down a contract offer from the {1}.
+2035	Free agent
+2037	You turned down the {1}'s offer.{2}
+2038	I signed a {1}-year, {2} contract with the {3}.
+2040	{1} over {2} Year{3}
+2041	Get to work
+2042	I became a famous athlete.
+2043	famous
+2044	You are officially a famous athlete!
+2045	I'm no longer famous.
+2046	No longer famous
+2047	You're no longer famous. Ever since you retired from basketball, people have stopped recognizing you.
+2048	schedule
+2049	How hard do you want to work this season?
+2050	Pick your schedule:
+2051	Light (20 hours)
+2052	Normal (30 hours)
+2053	Intense (45 hours)
+2054	Set schedule
+2055	normal
+2056	intense
+2057	I switched to a {1} training schedule.
+2058	league
+2059	View the league standings
+2060	Get a chemical boost
+2061	Seek treatment for an injury
+2062	Work on your skills
+2063	retire
+2064	Call it quits
+2065	stats
+2066	View your historical stats
+2067	surgery
+2068	Undergo surgery on an injury
+2069	trade
+2070	Request a trade
+2071	train
+2072	Work on your fitness
+2073	A shady trainer at the gym offers you a performance enhancer. It is banned by the league.
+2075	I took a performance enhancer.
+2076	Juiced up
+2077	You feel stronger and faster than ever. Hopefully nobody tests you.
+2078	You don't have any injuries that need treatment.
+2079	My physical therapist helped me recover from {1}.
+2080	Good as new
+2081	Physical therapy helped you recover from {1}.
+2082	Physical therapy didn't fix my {1}.
+2083	Still hurting
+2084	Your physical therapist says {1} probably needs surgery.
+2085	Physical therapy hasn't fixed {1} yet.
+2086	Work on your basketball skills today!
+2087	Pick your focus:
+2088	I practiced my {1}.
+2089	In the gym
+2090	You practiced your {1}.
+2091	You practiced your {1} again, but you didn't get much better.
+2092	Are you sure you want to retire from professional basketball?
+2093	I retired from professional basketball after {1} season{2}.
+2094	with the {1}
+2095	You retired from professional basketball after {1} season{2}{3}.
+2096	No seasons yet
+2097	Play a season first
+2098	Your {1} season as a professional basketball player ({2}).
+2099	{1} out of 30
+2100	Assists per Game
+2101	Blocks per Game
+2102	Points per Game
+2103	Rebounds per Game
+2104	Steals per Game
+2105	You don't have any injuries that need surgery.
+2106	The team doctor says {1} doesn't need surgery. Try physical therapy.
+2107	Are you sure you want to have surgery on {1}?
+2108	I had successful surgery on {1}.
+2109	Successful surgery
+2110	The surgery on {1} was a success.
+2111	There were complications during my surgery on {1}.
+2112	There were complications during your surgery. You will need more time to recover.
+2113	My surgery on {1} didn't work.
+2114	The surgery didn't fix {1}.
+2115	You already asked for a trade this year.
+2116	I was traded from the {1} to the {2}.
+2117	The {1} traded you to the {2}!
+2118	The {1} denied my trade request.
+2119	Request denied
+2120	The {1} denied your trade request.
+2121	Work on your physical fitness today!
+2122	I worked on my {1} training.
+2123	Feel the burn
+2124	You did some {1} training.
+2125	You trained your {1} again, but your body needs rest.
+2126	You suffered {1}.
+2127	Try out for the team
+2128	You are banned for life from the {1} for match-fixing. No team is allowed to sign you.
+2129	You are suspended from the {1} until age {2}.
+2130	You only just retired. Give it some time before trying to come back.
+2131	The {1} already turned you down this year.
+2132	The {1} won't give you a tryout in your current health.
+2133	I tried out for the {1}.
+2134	The {1} decided not to sign you after your tryout.
+2135	Request to join the team
+2136	I asked the {1} to trade for me.
+2137	The {1} turned down my request to join them.
+2138	The {1} aren't interested in adding you to their roster right now.
+2139	The {1} accepted my request and traded for me from the {2}.
+2140	The {1} accepted your request! They traded for you from the {2}.
+2141	{1}/yr, {2} year{3} left
+2142	You already play for the {1}.
+2143	You must be at least 18 years old to try out for a pro team.
+2144	special
+2145	I was suspended for the rest of the season.
+2146	I finished my {1} season as a professional basketball player, averaging {2} points, {3} rebounds and {4} assists for the {5} ({6}-{7}, {8} in the {9}).
+2147	Rookie of the Year
+2148	Most Valuable Player
+2149	Offensive Player of the Year
+2150	Defensive Player of the Year
+2151	Sixth Man of the Year
+2152	Most Improved Player
+2153	I was named the {1}'s {2}.
+2154	You just finished your first season as a professional basketball player!
+2155	You just finished your {1} season as a professional basketball player.
+2156	medal
+2157	You were named the {1}'s {2} for the {3} season!
+2158	You helped guide the {1} to a {2} championship!
+2159	You have been awarded with a championship ring!
+2160	You finished the season with {1}. You should get it treated.
+2161	My contract with the {1} expired, and nobody offered me a new one.
+2162	Your contract with the {1} expired, and no team wanted to sign you after the way you've been playing. You are now a free agent.
+2163	My contract with the {1} expired, and the {2} offered me a new one.
+2164	Drug-testing officials from the league want you to take a test.
+2166	You tested positive for a banned substance
+2167	I passed a league drug test.
+2168	You passed the drug test.
+2169	Substitute a sample
+2170	I swapped my drug test sample with a clean one.
+2171	You swapped in a clean sample. Nobody noticed.
+2172	You were caught substituting your drug test sample
+2173	Refuse the test
+2174	You refused to take a league drug test
+2175	{1} and was suspended from the {2} for {3} seasons.
+2176	{1}. The {2} has suspended you for {3} seasons.
+2177	Hall of Fame
+2178	You have been inducted into the {1} Hall of Fame!
+2179	Attend the ceremony
+2180	I attended my induction into the {1} Hall of Fame.
+2181	You gave a tearful speech at your Hall of Fame induction ceremony.
+2182	Skip the ceremony
+2183	I skipped my {1} Hall of Fame induction ceremony.
+2184	No show
+2185	You skipped your Hall of Fame ceremony.
+2186	I sat out the season while serving my league suspension.
+2187	{1}, a player on the opposing team, says you don't belong in the professional league.
+2188	Trash talk back
+2189	I traded trash talk with {1}.
+2191	You and {1} went back and forth all game.
+2192	I walked away from {1}'s trash talk.
+2193	Bigger person
+2194	You walked away. The fans respected your composure.
+2195	Blow a kiss
+2196	I blew {1} a kiss.
+2197	You blew {1} a kiss. The crowd went wild.
+2198	I shoved {1} and was suspended.
+2199	You shoved {1} and the league suspended you for a few games.
+2200	I shoved {1} and was ejected.
+2201	You shoved {1} and were ejected from the game.
+2202	Your coach accuses you of playing terrible defense.
+2203	I apologized to my coach and worked on my defense.
+2204	Lesson learned
+2205	You apologized and spent extra time on defensive drills.
+2206	Argue with the coach
+2207	I argued with my coach.
+2208	Your shouting match with the coach is all over the sports news.
+2209	I ignored my coach's criticism.
+2210	A fan sitting courtside screams that you're the most overrated player in the league.
+2212	I ignored a courtside heckler.
+2213	Insult them
+2214	I insulted a heckler.
+2215	Mic drop
+2216	Your comeback went viral, but the league is not amused.
+2218	I made a rude gesture at a heckler and was fined.
+2219	The league fined you for your gesture.
+2220	Attack them
+2221	I went into the stands and attacked a heckler.
+2222	assault
+2223	Into the stands
+2224	You attacked a fan. The league suspended you and the team is furious.
+2225	You land awkwardly after a rebound and twist your ankle.
+2226	Rest it
+2227	I rested my injured ankle.
+2228	Resting up
+2229	You sat out a few weeks and your ankle healed.
+2230	Visit the team physician
+2231	I had the team physician look at my ankle.
+2232	Taped up
+2233	The team physician patched you up. You missed a few games.
+2234	I played through an ankle injury.
+2235	You played through the pain and the fans loved it.
+2236	a torn ligament in the ankle
+2237	I played through an ankle injury and made it much worse.
+2238	Playing on it turned a twisted ankle into a torn ligament. You will miss a big part of the season.
+2239	A reporter asks whether your team can win the championship this season.
+2240	Praise my teammates
+2241	I praised my teammates in a postgame interview.
+2242	Boast about myself
+2243	I boasted about myself in a postgame interview.
+2244	Big talk
+2245	Your boasting is the top sports story this week.
+2246	Decline to comment
+2247	I declined to comment in a postgame interview.
+2248	A young fan named {1} approaches you after a game and asks for an autograph.
+2249	I signed an autograph for a young fan named {1}.
+2250	Take a photo with them
+2251	I took a photo with a young fan named {1}.
+2252	Fan favorite
+2253	{1} will never forget it.
+2254	I walked away from a young fan asking for an autograph.
+2255	A video of you walking away from a crying kid is going around online.
+2256	You caught your teammate, {1}, using a banned substance in the locker room.
+2257	I confronted my teammate, {1}, about doping.
+2258	Heart to heart
+2259	{1} promised to stop.
+2260	I reported my teammate, {1}, for doping.
+2261	{1} was suspended. Some teammates think you're a snitch.
+2262	Ask to share
+2263	I asked my teammate, {1}, to share {2} banned substances.
+2264	Partners in crime
+2265	{1} gave you some. Hopefully nobody tests you.
+2266	I ignored my teammate, {1}, doping.
+2267	Teammate's Drinking
+2268	Your teammate, {1}, has been showing up to practice drunk.
+2269	Talk to {1}
+2270	I talked to my teammate, {1}, about {2} drinking.
+2271	Good teammate
+2272	{1} agreed to get help.
+2273	Tell the coach
+2274	I told the coach about {1}'s drinking.
+2275	I ignored my teammate's drinking problem.
+2276	I went drinking with my teammate, {1}.
+2277	You showed up to the next practice hungover.
+2278	Your teammate, {1}, is throwing a big party at {2} house.
+2279	Go to the party
+2280	I went to {1}'s party, and pictures of me ended up online.
+2281	Embarrassing pictures of you from the party ended up online.
+2282	I went to my teammate {1}'s party.
+2283	Team bonding
+2284	You had a great time with your teammates.
+2285	I skipped my teammate {1}'s party.
+2286	The {1} are interested in signing you.
+2287	Hear them out
+2288	I turned down interest from the {1}.
+2289	Your agent thinks you should request a trade.
+2290	Stay with my team
+2291	I stayed loyal to my team.
+2292	A suspicious man claiming to have connections to an organized crime syndicate has approached you outside the arena.
+2293	He is offering you {1} to deliberately perform poorly in your team's next basketball game. He warns you not to tell anyone about the arrangement.
+2294	Accept the {1}
+2295	I accepted {1} from an organized crime syndicate to throw a basketball game.
+2296	Point shaving
+2297	You pocketed {1} and missed every shot on purpose.
+2298	Decline the offer
+2299	I turned down a bribe to throw a game.
+2301	You told the man you weren't interested. He walked away without another word.
+2302	Decline and report to the authorities
+2303	I reported an attempt to bribe me with {1} to the authorities.
+2304	You reported the suspicious man to the authorities. Police have begun investigating the attempted match-fixing operation.
+2305	Members of the crime syndicate I reported attacked me after practice.
+2306	After leaving basketball practice, you were cornered by two members of the criminal organization you reported. They attacked you and left you injured on the sidewalk.
+2307	a gunshot wound
+2308	A member of the crime syndicate I reported shot me. I barely survived.
+2309	A member of the criminal organization you reported tracked you down and shot you. Somehow, you survived.
+2310	A member of the crime syndicate I reported tracked me down and shot me.
+2311	A member of the criminal organization you reported tracked you down and shot you.
+2312	League officials have discovered suspicious activity surrounding your recent basketball game.
+2313	Investigators believe that you accepted money from an organized crime syndicate to deliberately lose.
+2314	Bribe accepted
+2315	Bribes on record
+2316	The league dropped its match-fixing investigation into me.
+2317	Case closed
+2318	The league dropped its investigation for lack of evidence. People are still whispering about you, though.
+2319	I was suspended from the {1} for {2} seasons for match-fixing.
+2320	The {1} has suspended you for {2} seasons for match-fixing.
+2321	The {1} terminated my contract, and the {2} banned me for life for match-fixing.
+2322	Banned for life
+2323	The {1} terminated your contract, and the {2} has banned you for life for match-fixing.
+2324	Prosecutors charged me with match-fixing.
+2325	Prosecutors have charged you with match-fixing.
+2326	Rumors that you took a bribe to throw a game are spreading online, and fans are turning on you.
+2327	How will you respond to the criticism?
+2328	Basketball fans across the country are furious after reports emerged that you accepted a bribe to deliberately lose a professional game.
+2329	Sports analysts are calling for a lifetime ban, and thousands of your former supporters are criticizing you online.
+2330	Apologize to the public
+2331	I publicly apologized for the match-fixing scandal, and some fans forgave me.
+2332	Apology accepted
+2333	Some fans appreciated your apology.
+2334	I publicly apologized for the match-fixing scandal, but few people believed me.
+2335	Too little, too late
+2336	Most fans didn't buy your apology.
+2337	Denounce the criticism
+2338	I publicly denounced the people criticizing me over the match-fixing scandal.
+2339	You publicly denounced your critics.
+2340	Your decision to publicly criticize the people questioning your integrity has caused even more outrage.
+2341	Several sponsors have cut ties with you, and your former teammates are refusing to speak to you.
+2342	Sponsors dropped me after I denounced my critics.
+2344	I stayed silent about the match-fixing scandal.
+2345	You refused to comment. The scandal isn't going away.
+2346	a sports memorabilia collector
+2347	a wealthy superfan
+2348	an auction house
+2349	a sports museum
+2350	a hedge fund manager who collects rings
+2351	a rival team's owner
+2352	The {1} are presenting each player with a championship ring to celebrate winning the {2} championship!
+2353	Accept the ring
+2354	I received my {1} championship ring from the {2}.
+2355	You slipped your {1} championship ring onto your finger.
+2356	Refuse the ring
+2357	I refused my championship ring from the {1}.
+2358	You refused your championship ring. Your teammates think that was strange.
+2359	Pawn it right away
+2360	I pawned my {1} championship ring for {2}.
+2361	You pawned your championship ring for {1}. Fans are not impressed.
+2362	Your {1} {2} championship ring from the {3}.
+2363	Pawn it
+2364	Are you sure you want to pawn your {1} championship ring?
+2365	The pawn shop gave you {1} for your championship ring.
+2366	Donate it to the Hall of Fame
+2367	Are you sure you want to donate your {1} championship ring to the {2} Hall of Fame?
+2368	I donated my {1} championship ring to the {2} Hall of Fame.
+2369	Your {1} championship ring is now on display at the {2} Hall of Fame. Fans loved it.
+2370	I wore my {1} championship ring around town.
+2371	You wore your championship ring around town. People couldn't stop staring.
+2372	Try to sell your {1} championship ring to a collector today!
+2373	Pick your asking price:
+2374	Put it up for auction
+2375	Nobody bid on my championship ring at {1}.
+2377	Nobody bid on your championship ring at {1}. Try a lower price.
+2378	I sold my {1} championship ring to {2} for {3}.
+2379	You sold your {1} championship ring to {2} for {3}.
+2380	{1} Championship Ring
+2381	You have the ball at the top of the key with just {1} seconds remaining in a tie game against the {2}.
+2382	Go for the dunk
+2383	Game Winner!
+2384	You split the defense and threw down the game-winning dunk at the buzzer!
+2385	You went for the dunk, but it got stuffed at the rim as time expired.
+2386	Pass to an open player
+2387	You found an open teammate, who drained the game-winning shot!
+2388	Your pass was picked off, and the game went to overtime.
+2389	Run a pick-and-roll
+2390	Perfect execution
+2391	The pick-and-roll worked perfectly, and you scored the game-winning basket!
+2392	Blown up
+2393	The defense blew up the pick-and-roll, and time ran out.
+2394	Try the alley-oop
+2395	You lobbed it up, and your teammate slammed home the game-winning alley-oop!
+2396	Off the rim
+2397	The alley-oop lob sailed too high and bounced off the backboard.
+2398	You have possession of the ball in the post, down one, with just {1} seconds remaining in a game against the {2}.
+2399	Nothing but net
+2400	Your fadeaway jumper was pure. Game over!
+2401	Your fadeaway came up just short.
+2402	Drop step
+2403	And one!
+2404	You dropped step, scored the go-ahead basket and drew the foul!
+2405	The defender read your drop step and swatted the shot away.
+2406	Fooled him
+2407	Your up-and-under fooled the defender, and you laid in the winning bucket!
+2408	The referee called you for traveling on the up-and-under.
+2409	Quick spin
+2411	Your quick spin left your defender in the dust for the game-winning layup!
+2412	You spun right into a set defender and were called for a charge.
+2413	Your team is down one point with just {1} seconds left in a game against the {2} when you make a steal. You are pushing the ball upcourt, but a defender has managed to get between you and the basket.
+2414	Spin move
+2415	Buzzer beater!
+2416	Your spin move froze the defender, and you scored as the buzzer sounded!
+2417	Lost it
+2418	You lost the handle on your spin move and time ran out.
+2419	You pulled up and buried the game-winner!
+2420	Your pull-up jumper clanked off the rim.
+2421	Ankles broken
+2422	Your behind-the-back dribble broke his ankles, and you finished the game-winning layup!
+2423	The defender picked your pocket on the behind-the-back dribble.
+2424	Kick it to a trailing teammate
+2425	Your trailing teammate hit the game-winning shot!
+2426	Your teammate missed the open shot at the buzzer.
+2427	Your team is up one point with just {1} seconds on the game clock against the {2}. The player you're defending catches an inbound pass and attacks the basket.
+2428	Go for the block
+2429	You sent his shot into the stands to seal the win!
+2430	You fouled him on the block attempt, and he hit both free throws to win it.
+2431	Take a charge
+2432	You planted your feet and drew the game-sealing offensive foul!
+2433	Blocking foul
+2434	The referee called a blocking foul on you, and they won the game at the line.
+2435	Play straight-up defense
+2436	You stayed in front of him and forced a miss. Your team won!
+2437	Too quick
+2438	He blew past you for the game-winning layup.
+2439	Foul him
+2440	You fouled him, and he missed both free throws. Your team held on!
+2441	Ice cold
+2442	You fouled him, and he calmly drained both free throws to win the game.
+2443	The game against the {1} is tied with just {2} seconds left, and the defense sends a second player to double-team you.
+2444	You rose over the double-team for a game-winning dunk!
+2446	Smart play
+2447	You found the open man, and he hit the game-winner!
+2448	Off target
+2449	Your pass sailed out of bounds.
+2450	Shoot over them
+2451	You rose up over both defenders and buried it!
+2452	Your contested shot was an airball. The crowd chanted at you.
+2453	Split the double-team
+2454	Through the gap
+2455	You split the double-team and scored the winning layup!
+2456	You tried to split the double-team and got stripped.
+2457	You're at the free-throw line with your team down one and no time left on the clock against the {1}. You have two shots.
+2458	Take your time
+2459	Ice in your veins
+2460	You calmly sank both free throws to win the game!
+2461	Rimmed out
+2462	You made the first, but the second rimmed out. Overtime.

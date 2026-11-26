@@ -1,0 +1,800 @@
+23521	{n} stopped talking to you for the rest of the week.
+23522	{n} said, "You're just like your grandfather. Stubborn until the money's gone."
+23523	{n} told the whole family you're "gambling your life away."
+23524	{n} said, "When it hits zero, I'm not lending you a single cent."
+23525	{n} called, a little quieter than usual. "I saw your portfolio is worth {amt} now. I was wrong. I'm sorry I pushed you to sell."
+23526	{n} said, "I owe you an apology. I panicked. You didn't. You were right."
+23527	{n} showed up with a pie. "This is an I-was-wrong pie. Your investments came back. I should have trusted you."
+23528	{n} said, "I told everyone you were gambling your life away. Now I'm going to tell them I was wrong, too."
+23529	{n} texted: "ok you were right about the stocks. im sorry. dont make it weird"
+23530	{n} said, "I watched the market every day waiting for you to lose it all. Instead you won. I'm sorry, and I'm proud of you."
+23531	{n} said, "You held on when I told you to run. That took guts. I'm sorry I doubted you."
+23532	{n} said, "I was scared for you. That's all it was. But I should have kept my mouth shut. Sorry."
+23533	{n} said, "I'm sorry I doubted you. Really. Also... now that you're doing so well, could you spare {ask}? Things have been tight."
+23534	{n} apologized, then immediately asked, "So, hypothetically, could you lend me {ask}?"
+23535	{n} said, "I was wrong, you were right. Now, about that {ask} I need for my car..."
+23536	{n} said, "I'm sorry I told you to sell. Could you put {ask} into whatever you bought, for me?"
+23537	{n} said, "I owe you an apology. And I'm hoping you'll lend me {ask} anyway."
+23538	{n} said, "Look, I said sorry. Can we also talk about the {ask} I need for rent?"
+23539	{n} teared up. "I'll pay you back. Probably."
+23540	{n} said, "Wow. Okay. I said sorry, didn't I?"
+23541	Accept the apology, not the request
+23542	{n} said, "Fair enough. Worth a shot."
+23543	sorry
+23545	{n} hugged you. "Never let me give you financial advice again."
+23546	{n} rolled {his} eyes. "Yeah, yeah. Enjoy it."
+23547	{n} looked hurt, but {he} understood.
+23548	My {1}, {2}, apologized for telling me to sell my investments.
+23549	Sell It All?
+23550	Sell everything
+23551	{n} sighed with relief. "Thank you. I can finally sleep tonight."
+23552	You sold everything for {1}.
+23553	Hold on
+23554	Tell {him} to mind {his} own business
+23555	My {1}, {2}, pressured me to sell my investments after they crashed.
+23556	sounds/a16_sndClosingBell.wav
+23557	rally
+23558	crash
+23559	mania
+23560	bonds
+23561	Invest in cryptocurrency
+23562	funds
+23563	Shop for attractive funds
+23564	penny
+23565	Invest in local companies
+23566	stocks
+23567	Moderate: moves with the market and its sector
+23568	Very high: small local companies can go bust
+23569	Extreme: booms, crashes and coins that fail outright
+23570	Lower: spread across many companies
+23571	Low to high, depending on the issuer
+23572	ford
+23573	Delta Air Lines
+23574	delta
+23575	McDonald's
+23576	stock
+23577	The Home Depot
+23578	oracle
+23579	zoom
+23580	Bob's Bait & Tackle
+23581	Main Street Pizza
+23582	Lucky Lotto Kiosk
+23583	Glow Tan Salon
+23584	Tiny Tots Daycare
+23585	Hilltop Car Wash
+23586	Swamp Gas Energy
+23587	Mom & Pop Hardware
+23588	Sears, Roebuck
+23589	Pier 1 Imports
+23590	Toys "R" Us
+23591	Research In Motion
+23592	blackberry
+23593	blockbuster
+23594	index
+23595	Total Stock Market Fund
+23596	Total International Fund
+23597	Emerging Markets Fund
+23598	managed
+23599	Managed Growth Fund
+23600	Total Bond Fund
+23601	bond
+23602	Technology Sector Fund
+23603	Healthcare Sector Fund
+23604	Energy Sector Fund
+23605	Financials Sector Fund
+23606	Consumer Sector Fund
+23607	Industrials Sector Fund
+23608	Materials Sector Fund
+23609	Communication Sector Fund
+23610	listings
+23611	{1} Government Bond
+23612	{1} Municipal Bond
+23613	invest
+23614	You must be at least {1} years old to {2}.
+23615	Last year {1}
+23616	Manage your investment portfolio
+23617	investments
+23618	View your lifetime performance
+23619	(Financial Advisor)
+23620	advisor
+23621	Hire a financial advisor
+23622	Pick up a newspaper
+23623	opinion
+23624	See what someone else has to say
+23625	Not invented yet · Bitcoin arrives in {1}
+23626	Your performance as an investor.
+23627	Advisor Fees Paid
+23628	Every 5 seconds is a trading day · 1 Week skips ahead 7 days
+23629	· Total Profit
+23630	Sell Everything...
+23632	Sell all {1} holding{2} for about {3}?{4}
+23633	I sold my entire investment portfolio for {1}.
+23634	Cashed out
+23635	You sold everything in your portfolio.
+23636	Here is a summary of your investment portfolio.
+23637	Your investment portfolio accrued {1} in returns after fees.
+23638	It was a rough year for your portfolio, as its value diminished by {1}.
+23639	The annual report for your investment portfolio is now available!
+23641	Paid Out to You
+23642	Return (after fees)
+23643	Your Portfolio · Age
+23644	Failed · worthless
+23645	· matures at age {1}
+23646	★ Top Gainer
+23647	{1} Coupon · {2}-yr term
+23648	{1} has failed and can no longer be bought.
+23649	Not public yet
+23650	{1} doesn't go public until {2}.
+23651	{1} isn't traded anymore.
+23652	{1} ({2} a year per bond)
+23653	{1} years, principal back at maturity
+23654	Price per Bond
+23655	Higher: companies can default
+23656	Invest in the {1}{2} today!
+23657	You didn't pick how many to buy.
+23658	Insufficient funds
+23659	You can't afford that much {1}.
+23660	Buy {1} for {2}?
+23661	You bought {1}.
+23662	Copy wallet address
+23663	View seed phrase
+23664	Ask for someone's opinion
+23665	Price since {1}
+23666	{1} each · {2} cash left
+23667	token
+23668	{1} share{2} of {3}
+23669	Safe and sound
+23670	Mt. Gox
+23671	purchase
+23672	sale
+23673	Your {1} receipt: {2} {3}
+23674	You {1} {2} {3} ({4}) at {5} each.
+23675	Thank you for trading with {1}.
+23676	fund
+23677	{1} failed. The coins are worthless.
+23678	Buy more of this {1}
+23679	Swap to another crypto
+23680	There are no other cryptocurrencies to swap into right now.
+23681	Moving stolen coins from one cryptocurrency to another makes them harder to trace.
+23682	Trade some of your {1} for another cryptocurrency.{2}
+23683	Swap it
+23684	You didn't pick how much to swap.
+23685	That cryptocurrency is not trading right now.
+23686	all of your
+23687	Swap {1} {2} for {3}?
+23688	I swapped {1} for {2}.
+23689	You swapped {1} for {2}.
+23690	Swap into:
+23691	You get:
+23692	Worth {1} after the fee
+23693	Sell some of it
+23694	table
+23695	shares
+23696	This holding is managed by your advisor. Selling it takes the money out of their account.
+23697	Sell some of your {1} today!{2}
+23698	You didn't pick how many to sell.
+23699	holding
+23700	Sell {1} {2}{3} for {4}?
+23701	profit
+23702	loss
+23703	I sold off my entire {1} holding for {2}.
+23704	tokens
+23705	Cashing out
+23706	You sold all of your {1} {2}.
+23707	You sold {1} of your {2} {3}.
+23708	Cost Basis Removed
+23709	government
+23710	investment
+23711	You made a profit on your recent sale of {1} and owe the {2} taxes in the amount of {3}.
+23712	Report the sale and pay the tax
+23713	I reported my {1} earnings and paid {2} in taxes.
+23714	Don't report the sale
+23715	I decided not to report my {1} earnings.
+23716	{n} expected to have a strong year
+23717	{n} unveils hot new product
+23718	Analysts question {n}'s outlook
+23719	{n} CEO under investigation
+23720	Is the bubble about to burst for {n}?
+23721	Economists predict a strong year for the stock market
+23722	Recession fears grip the stock market
+23723	Stock market expected to hold steady
+23724	Government bond outlook improves
+23725	Government bond outlook weakens
+23726	Bond markets quiet
+23727	a guy at the gym
+23728	a stranger on the bus
+23729	your mail carrier
+23730	a crypto bro at a party
+23731	{1} bonds are as safe as it gets
+23732	{1} is going to default, mark their words
+23733	{1} is going to the moon
+23734	{1} is about to crash
+23735	I asked {1} about {2}.
+23736	You asked {1}{2} about {3}.
+23737	They said {1}.
+23738	Former hedge fund analyst who left Wall Street for a quieter life.
+23739	Built a client list one dentist at a time.
+23740	Swears by low-cost index funds.
+23741	Loves a good turnaround story.
+23742	Claims to have called the last three crashes.
+23743	Night-school MBA, day-one hustle.
+23744	Third-generation money manager.
+23745	Got into finance after winning a stock-picking contest in high school.
+23746	Reads every annual report cover to cover.
+23747	Believes crypto is the future. Mostly.
+23748	two pro bowlers
+23749	a minor TV chef
+23750	a local car dealer
+23751	a famous magician
+23752	a reality show runner-up
+23753	a pop star's accountant
+23754	a minor league coach
+23755	a cat food heiress
+23756	a weather anchor
+23757	Available This Year
+23758	{1}% commission · {2} yrs experience
+23759	{1}% of net realized gains
+23760	{1} charges {2}% of the net profits {3} realizes for you, after past losses are made up. {4} can only invest money you hand over (minimum {5}). Automatic contributions start off.
+23761	{1} only takes clients with at least {2} to invest.
+23762	How much money do you want to give your financial advisor, {1}, to invest on your behalf?
+23763	Give it to
+23764	Too little
+23765	{1} needs at least {2}.
+23766	I hired {1} {2} as my financial advisor and gave {3} {4} to invest.
+23767	To invest:
+23768	{1} stays in your bank account
+23769	I gave my financial advisor, {1}, {2} to invest.
+23770	{1} invested {2} on your behalf.
+23771	Nothing to withdraw
+23772	{1} isn't managing any money for you.
+23773	How much do you want {1} to send back to you? {2} will sell holdings evenly to raise it.
+23774	Withdraw it
+23775	I withdrew {1} from my managed investment account.
+23776	{1} sent {2} back to your bank account.
+23777	To you:
+23778	{1} stays invested
+23779	pulled out of {1} ahead of {2}
+23780	moved money into {1}
+23781	Give {1} money to invest
+23782	Take money out ({1} managed)
+23783	See how {1}'s doing
+23784	risk
+23785	{1}% of your bank balance each year
+23786	Ask {1} about an investment
+23787	Years With You
+23788	"Last year your whole portfolio returned {1} after my fees."
+23789	"Give it a year. Markets need time."
+23790	Fees Paid (Total)
+23791	Realized Gains (Last)
+23792	Losses Carried Forward
+23793	Fee Charged (Last)
+23794	How should {1} invest your money? Changes take effect right away.
+23795	I asked my financial advisor, {1}, to invest more {2}ly.
+23796	in a balanced way
+23797	{1} switched your account to a {2} mix{3}.
+23798	Each year, move part of your bank balance to {1} automatically. {2} never touches your bank account otherwise.
+23799	5% each year
+23800	10% each year
+23801	25% each year
+23802	I set up automatic contributions of {1}% to my financial advisor.
+23803	I turned off automatic contributions to my financial advisor.
+23804	despite how much {1}'s read about crypto, {2} still doesn't understand it
+23805	{1} looks undervalued right now
+23806	{1}'d buy {2} if {3} were you
+23807	{1} should have a strong year
+23808	{1}'d stay away from {2}
+23809	{1} looks overpriced
+23810	{1} is due for a pullback
+23811	I asked my financial advisor, {1}, about {2}.
+23812	You asked your financial advisor, {1}, {2} opinion about {3}.
+23813	Fire {1}? Your managed holdings stay yours and become self-managed. {2} of uninvested cash returns to your bank account.
+23814	I fired my financial advisor, {1} {2}.
+23815	You fired {1}. You now manage those investments yourself.
+23816	You can't afford a newspaper.
+23817	I picked up a newspaper to read the financial news.
+23818	Today's financial headlines:
+23819	Look at {1}
+23820	I asked {1} for investment advice.
+23821	You asked {1}{2} for investment advice.
+23822	{1}{2} · last year {3}
+23823	Market Closed · Age up to keep trading
+23824	Live Price · Day {1}/365
+23825	Live price chart starts on the next trading day
+23826	Every 5 seconds is a trading day. Press 1 Week to skip ahead 7 days.
+23827	Sell All Now
+23828	Live · Day {1}/365
+23829	Live chart starts on the next trading day
+23830	Market closed · Day 365/365
+23831	· age up to keep trading
+23832	Day {1}/365 · {2} on the last trading day
+23833	total
+23834	chart
+23835	port
+23836	{1} failed. Those coins are now worthless.
+23837	The {1} defaulted.
+23838	The {1} defaulted. I lost the {2} invested.
+23839	My {1} matured, paying back {2}.
+23840	My bonds paid me {1}.
+23841	My financial advisor, {1}, {2}.
+23842	I automatically sent {1} to my financial advisor.
+23843	{1} resigned as your advisor. Your holdings are now self-managed.
+23844	My financial advisor, {1}, quit.
+23845	unless your balance gets back above
+23846	{1} warned that {2} may drop you as a client{3}.
+23847	My investment portfolio returned {1} last year, a gain of {2}.
+23848	My investment portfolio lost {1}% last year, a loss of {2}.
+23849	My {1} investment rose {2}%.
+23850	The government audited my finances and found {1} in unreported investment earnings.
+23851	and {1} other investment{2}
+23852	The {1} audited your finances and discovered you never reported the profits from selling your {2}{3}!
+23853	You're being charged with tax evasion.
+23854	Stocks, gold and silver
+23855	Gold and silver coins and bars
+23856	Your {1} ({2}) wallet address was copied:
+23857	Paste it in an email to someone who wants to pay you in {1}.
+23858	{1} has your seed phrase.
+23859	Anyone with these words can still move your {1}. Make a new wallet to lock them out.
+23860	Anyone who has these words can take every {1} in this wallet and send it to their own address. Never give them to anyone.
+23861	These 12 words control your {1} wallet. They were copied.{2}{3}
+23862	Make a new wallet
+23863	I made a new {1} wallet so nobody else had my seed phrase.
+23864	New wallet
+23865	Your {1} wallet has a new address and a new seed phrase. The old one is useless now.
+23866	{1} {2} was sent from your wallet {3}
+23867	This transaction was signed with your wallet's seed phrase and can't be reversed.
+23868	no-reply@wallet.app
+23869	Someone used my old {1} seed phrase to empty my wallet again.
+23870	Wallet emptied
+23871	Every {1} in your {2} wallet was sent to
+23872	{1} still has your seed phrase. Make a new wallet to stop it.
+23873	Crypto this week
+23874	Your Portfolio · Weeks 1-{1}
+23875	Week {1} · {2} · Day {3}/7
+23876	Paycheck (1 week)
+23877	I got paid {1}.
+23878	Week {1}: {2}My investments {3} {4} this week.
+23879	Week {1} of 52
+23880	The markets are closed for the rest of the year. Age up to keep trading.
+23881	Week {1}: I got paid {2}.
+23882	Run That Chain
+23883	A man in a ski mask steps out of an alley, shoves a pistol into your chest and says, "Run that {item}. Now."
+23884	I handed my {item} to a masked gunman. I was shaking for hours.
+23885	Grab the gun
+23886	I grabbed the gun, twisted it out of his hand and he ran off. I kept my {item}.
+23887	I went for the gun and it went off. He tore my {item} off my neck while I was on the ground.
+23888	I sprinted into a crowded store and lost him. My {item} is safe.
+23889	I ran and he fired. He caught up and ripped my {item} away.
+23890	Talk him down
+23891	I talked to him calmly until he lost his nerve and walked away. I kept my {item}.
+23892	He didn't want to talk. He pressed the gun harder and took my {item}.
+23893	Snatch and Grab
+23894	A guy on a scooter rips your {item} right off you and speeds down the sidewalk.
+23895	Chase him down
+23896	I chased him two blocks, tackled him off the scooter and took my {item} back.
+23897	I chased him but tripped hard on the curb. He got away with my {item}.
+23898	Throw something at him
+23899	I hurled my water bottle and knocked him off the scooter. I got my {item} back.
+23900	My throw missed by a mile. He disappeared with my {item}.
+23901	A scooter thief snatched my {item} and I just watched him go.
+23902	Red Light Ambush
+23903	Two men surround your car at a red light. One taps a gun against your window and points at your {item}.
+23904	Roll down the window and hand it over
+23905	I handed my {item} through the car window to a gunman at a red light.
+23906	Floor it through the light
+23907	I floored it through the intersection and left them standing there. I kept my {item}.
+23908	I floored it and they shot out my back window. I crashed into a pole and they took my {item}.
+23909	Ram them
+23910	I swung my door open into one of them and drove off. My {item} stayed with me.
+23911	I tried to ram them, but they dragged me out of the car and took my {item}.
+23912	Gas Station Stickup
+23913	You're pumping gas when a car pulls up beside you. A man jumps out with a gun and yells for your {item}.
+23914	I was robbed of my {item} at a gas station.
+23915	Spray him with the gas nozzle
+23916	I sprayed gas in his face and he stumbled back to his car blind. I kept my {item}.
+23917	I sprayed him, but his partner hit me from behind. They took my {item}.
+23918	Duck behind the pump
+23919	I ducked behind the pump and screamed until the clerk hit the alarm. They fled.
+23920	He came around the pump, pistol-whipped me and took my {item}.
+23921	Garage Welcome Party
+23922	You pull into your garage. Before the door closes, two masked men roll under it with guns drawn. They want your {item}.
+23923	Two masked men followed me into my garage and took my {item}.
+23924	Hit the reverse
+23926	I hit reverse, but one of them fired into the windshield. They took my {item}.
+23927	Lean on the horn
+23928	I leaned on the horn until the neighbors came out. They ran.
+23929	Nobody came. They yanked me out of the car and took my {item}.
+23930	Followed From the Club
+23931	A car has been tailing you since you left the club. At your door, three men jump out and one points a gun at your {item}.
+23932	I was followed home from the club and robbed of my {item}.
+23933	I swung on the first one and they panicked and ran. I kept my {item}.
+23934	I swung, but there were three of them. They beat me and took my {item}.
+23935	Run inside and lock the door
+23936	I got inside and locked the door before they reached me. My {item} is safe.
+23937	They caught me on the steps and ripped my {item} away.
+23938	Someone runs up asking for a selfie. While you pose, two of their friends grab you from behind and one pulls a knife. They want your {item}.
+23939	A fake fan set me up and their friends took my {item} at knifepoint.
+23940	Elbow the guy holding you
+23941	I threw an elbow, broke free and ran. I kept my {item}.
+23942	I broke free, but the knife caught my arm. They got my {item}.
+23943	Scream for help
+23944	I screamed and a crowd turned around. They ran off empty-handed.
+23945	I screamed, but they were gone in seconds with my {item}.
+23946	Parking Garage Jump
+23947	A man steps out from behind a pillar in the parking garage holding a knife. "Nice {item}," he says. "Take it off."
+23948	Take it off and toss it
+23949	A man with a knife took my {item} in a parking garage.
+23950	Get in the car and lock it
+23951	I dove into my car, locked the doors and drove off. My {item} is safe.
+23952	He got to the door before I could lock it and took my {item}.
+23953	Fight him
+23954	I fought him off with my car keys. He ran.
+23955	I fought him, but he cut me and took my {item}.
+23956	Bump and Rob
+23957	An SUV rear-ends you on a quiet road. When you get out to check the damage, the driver walks up with a gun and points at your {item}.
+23958	I was rear-ended on purpose and robbed of my {item}.
+23959	Jump back in and drive
+23960	I jumped back in my car and peeled off. I kept my {item}.
+23961	He shot at me as I got in. I stopped and handed over my {item}.
+23962	Pretend to call 911
+23963	I yelled that the cops were already on the way. He bought it and drove off.
+23964	He laughed, slapped the phone away and took my {item}.
+23965	A car with a flashing dash light pulls you over. Two "officers" with no badge numbers say your {item} matches a stolen item report and they need to take it.
+23966	Two fake cops pulled me over and took my {item} as "evidence".
+23967	Ask for their badge numbers
+23968	I asked for badge numbers and called the real police. The fakes drove off fast.
+23969	They got angry, dragged me out of the car and took my {item}.
+23970	Drive to the nearest station
+23971	I told them I would follow them to the station. They vanished at the next turn.
+23972	They boxed me in and took my {item} anyway.
+23973	Your rideshare driver locks the doors and takes a wrong turn. A man in the back row leans forward with a gun and says, "The {item}. Slowly."
+23974	My rideshare was a setup. A gunman in the back seat took my {item}.
+23975	Grab the wheel
+23976	I grabbed the wheel and swerved into a curb. I jumped out and ran with my {item}.
+23977	I grabbed the wheel and we crashed. They took my {item} while I was dazed.
+23978	Jump out at the next light
+23979	I unlocked the door at a red light and rolled out. My {item} came with me.
+23980	He caught my collar as I tried to jump and ripped my {item} off.
+23981	Leaving the Jeweler
+23982	You notice the same two men who were outside the jeweler are still following you, three blocks later. They are closing in on you and your {item}.
+23983	Duck into a busy restaurant
+23984	I ducked into a packed restaurant and waited until they left. My {item} is safe.
+23985	They waited outside and jumped me when I left. They took my {item}.
+23986	Turn and confront them
+23987	I turned and squared up. They decided I wasn't worth it.
+23988	I confronted them and got knocked down. They took my {item}.
+23989	Hand them the {item} before it gets ugly
+23990	I gave two men who were following me my {item} before it got ugly.
+23991	You're at an ATM late at night when a gun presses into your back. "Card, cash and that {item}," a voice says.
+23992	Give him everything
+23993	I was robbed at an ATM. He took my cash and my {item}.
+23994	Spin around and fight
+23995	I spun and knocked the gun loose. He ran.
+23996	I spun around and he fired. He took my {item} and ran.
+23997	Offer only the cash
+23998	I handed over my cash and he ran before noticing my {item}.
+23999	He took the cash and then ripped my {item} off too.
+24000	Masked men burst into the restaurant you're eating at. One of them walks straight to your table and points at your {item}.
+24001	Masked men robbed the restaurant I was eating at and took my {item}.
+24002	Flip the table on him
+24003	I flipped the table into him and the whole crew fled. I kept my {item}.
+24004	I flipped the table but his partner shot at me. They took my {item}.
+24005	Slip it into your food
+24006	I slipped my {item} into my soup and swore I wasn't wearing any. They moved on.
+24007	He saw me hide it and fished my {item} right out of the bowl.
+24008	Two men follow you into the club bathroom and block the door. One flicks open a knife and nods at your {item}.
+24009	Give it to them
+24010	Two men cornered me in a club bathroom and took my {item}.
+24011	Fight your way out
+24012	I fought my way to the door and got the bouncer. They were thrown out.
+24013	I fought, but the knife caught me. They left with my {item}.
+24014	Yell for security
+24015	I yelled for security and the bouncers stormed in.
+24016	The music was too loud. Nobody heard me and they took my {item}.
+24017	There's a knock on your hotel room door. "Room service." When you open it, a man pushes in with a gun and goes straight for your {item}.
+24018	A fake room service waiter robbed me of my {item} in my hotel room.
+24019	Slam the door on his arm
+24020	I slammed the door on his gun arm and he ran down the hall. I kept my {item}.
+24021	I slammed the door, but he forced it open and took my {item}.
+24022	Lock yourself in the bathroom
+24023	I locked myself in the bathroom with my {item} and called the front desk. He fled.
+24024	He kicked in the bathroom door and took my {item}.
+24025	You wake up to a flashlight in your face. Three masked men are standing over your bed with guns. They want all your jewelry: {item}.
+24026	Show them where it is
+24027	Masked men broke into my home at night and took my {item}.
+24028	Grab the gun under your pillow
+24029	I pulled out my gun and they scattered out the window. Everything is still here.
+24030	I reached for my gun and they opened fire. They left with my {item}.
+24031	Hit the panic button
+24032	I hit the panic button. The alarm screamed and they ran.
+24033	The alarm went off, but they grabbed my {item} on the way out.
+24034	You come home early and hear drilling. Two burglars are cracking your safe, where you keep your {item}.
+24035	Sneak out and call the police
+24036	I called the police and they caught two burglars at my safe. My {item} is safe.
+24037	They heard the sirens and were gone with my {item} before the police arrived.
+24038	Charge in yelling
+24039	I charged in yelling and they dropped everything and ran.
+24040	I charged in and one hit me with the drill. They took my {item}.
+24041	Hide until they leave
+24042	I hid while burglars cracked my safe and took my {item}.
+24043	A delivery driver needs a signature. When you open the door, he pushes inside, pulls a gun and grabs at your {item}.
+24044	Let him take it
+24045	A fake delivery driver forced his way in and took my {item}.
+24046	Shove him back out the door
+24047	I shoved him back outside and bolted the door. I kept my {item}.
+24048	I shoved him, but he caught himself and fired. He took my {item}.
+24049	Sic your dog on him
+24050	My dog went for his leg and he ran screaming.
+24051	My dog just wagged its tail. He took my {item}.
+24052	You come back from a trip to find your bedroom tossed. Only your {item} is missing. Whoever did it knew exactly where to look.
+24053	The police traced my stolen {item} to a pawn shop and got it back.
+24054	The police took a report, but my {item} was never found.
+24055	Hire a private investigator
+24056	A private investigator found out my housekeeper set it up. I got my {item} back.
+24057	The private investigator came up empty. My {item} is gone.
+24058	Someone I trusted stole my {item}. I never found out who.
+24059	Pool Party Thief
+24060	After your house party, your {item} is gone from the bathroom counter. Somebody at the party took it.
+24061	Check the security cameras
+24062	The cameras caught a guest pocketing my {item}. I got it back.
+24063	The camera was pointed the wrong way. My {item} is gone.
+24064	Call everyone and accuse them
+24065	One guest cracked and returned my {item}.
+24066	I accused everybody and lost some friends. My {item} never turned up.
+24067	A guest at my party stole my {item}.
+24068	Smash and Grab
+24069	You hear glass shatter downstairs. Someone threw a brick through your window and is grabbing your {item} from the display case.
+24070	Go downstairs and fight
+24071	I ran downstairs and chased him out the broken window.
+24072	I ran downstairs and took a fist to the face. He got away with my {item}.
+24073	Stay upstairs and call 911
+24074	The police arrived fast and caught him in the yard with my {item}.
+24075	By the time the police came, he was gone with my {item}.
+24076	A burglar smashed my window and took my {item}.
+24077	The power goes out. A moment later, flashlights sweep across your living room and a voice says, "We know about the {item}. Where is it?"
+24078	Tell them where it is
+24079	Robbers cut my power and took my {item}.
+24080	Say you sold it
+24081	I swore I sold it last month. They tore the place apart, found nothing and left.
+24082	They didn't believe me and found my {item} in ten minutes.
+24083	Fight in the dark
+24084	I knew my house in the dark and they didn't. They fled.
+24085	I swung in the dark and got shot at. They left with my {item}.
+24086	Social Media Flex
+24087	Your last post showed off your {item}. Now a crew that tracked the location in the photo has you cornered outside your building.
+24088	A crew tracked me down from my social media post and took my {item}.
+24089	Run for the lobby
+24090	I sprinted into the lobby and the doorman locked them out.
+24091	They caught me at the door and ripped my {item} away.
+24092	I fought back hard and they took off.
+24093	There were too many of them. They took my {item}.
+24094	At home you realize your {item} is gone. You remember the stranger who bumped into you on the subway.
+24095	Report it to the transit police
+24096	Transit police caught a pickpocket with my {item}.
+24097	The transit police never found my {item}.
+24098	Search pawn shops yourself
+24099	I found my {item} in a pawn shop window and bought it back.
+24100	I searched every pawn shop in town and found nothing.
+24101	A pickpocket stole my {item} on the subway.
+24102	Hostage in the Kitchen
+24103	hostage
+24104	You walk into the kitchen and freeze. A masked man has a gun to {who}'s head. "All the jewelry," he says. "Or your {rel} dies." He means your {item}.
+24105	A gunman held my {rel} {who} hostage in our kitchen. I gave him my {item}.
+24106	Rush him
+24107	I rushed him and tackled him to the floor. {who} is safe.
+24108	I rushed him and he fired. He ran off with my {item}.
+24109	Signal {who} to drop
+24110	{who} dropped to the floor and I hit him with a pan. He was knocked out cold.
+24111	{who} hesitated. He panicked, fired and ran with my {item}.
+24112	Your phone rings. A distorted voice says they have {who}. You hear your {rel} crying in the background. The ransom is your {item}, dropped at the train station at midnight.
+24113	Drop off the jewelry
+24114	Kidnappers took my {rel} {who}. I paid the ransom with my {item} and {he} came home safe.
+24115	I refused to pay. Two days later {who} escaped and walked home.
+24116	I refused to pay. The kidnappers didn't bluff.
+24117	Call the FBI
+24118	The FBI traced the call and rescued {who}. The kidnappers were arrested.
+24119	The kidnappers spotted the agents. It went horribly wrong.
+24120	Track the phone yourself
+24121	I tracked the phone to a warehouse and got {who} out myself.
+24122	I found the warehouse, but they were waiting for me.
+24123	Carjacked With Family
+24124	Two men yank open your car doors at a stoplight. One holds a gun to {who}'s head in the passenger seat. "The {item}, now."
+24125	Carjackers held a gun to my {rel} {who} and took my {item}.
+24126	I floored it and threw them off the car. {who} is shaken but safe.
+24127	I floored it and he fired into the car.
+24128	I begged and they let {who} out before running off. They didn't get my {item}.
+24129	They didn't care. They took my {item}.
+24130	At dinner, a man grabs {who} from the table, puts a gun to {his} neck and backs toward the door. "The {item} or I take {him} with me."
+24131	A man grabbed my {rel} {who} at dinner. I threw him my {item} and he let {him} go.
+24132	Lunge at him
+24133	I lunged at him and the whole restaurant piled on. {who} is safe.
+24134	I lunged and he fired before anyone could stop him.
+24135	Stall until the police arrive
+24136	I stalled him until the police burst in and arrested him.
+24137	He heard the sirens and panicked.
+24138	A video call comes in from an unknown number. {who} is tied to a chair. A man steps into frame: "Leave the {item} in the dumpster behind the mall in one hour."
+24139	Leave the jewelry
+24140	Kidnappers held my {rel} {who} on a video call. I left my {item} in a dumpster and {he} was released.
+24141	Leave fakes instead
+24142	I left fake jewelry. By the time they noticed, the police had found {who}.
+24143	They checked the jewelry on the spot. They knew it was fake.
+24144	The police staked out the dumpster and grabbed the kidnapper. {who} was found safe.
+24145	The kidnapper spotted an unmarked car.
+24146	A van screeches up as {who} walks to the car. Two men drag your {rel} inside and one points a gun at you. "Toss the {item} in the van and nobody gets hurt."
+24147	Toss it in
+24148	Men in a van grabbed my {rel} {who}. I gave them my {item} and they pushed {him} out.
+24149	Jump into the van
+24150	I jumped in after {who} and fought them until they threw us both out.
+24151	I jumped in and they shot at me. They drove off with my {item}.
+24152	Get the plate number
+24153	I memorized the plate. The police pulled them over a mile away and freed {who}.
+24154	The police found the van too late.
+24155	Family Dinner Raid
+24156	Masked men kick in the door during family dinner. One drags {who} out of {his} chair and holds a gun to {him}. "Every piece of jewelry in the house," he says. That means your {item}.
+24157	Give them all of it
+24158	Masked men held my {rel} {who} at gunpoint during dinner. I gave them my {item}.
+24159	I fought back and the whole family piled on. They fled.
+24160	I fought back and shots were fired.
+24161	Offer cash instead
+24162	I offered them all my cash and they took it and left. They never got my {item}.
+24163	They took the cash and my {item}.
+24164	Gunmen crash a party you're at. One grabs {who} by the hair and points at you. "We saw the {item} on your page. Hand it over or say goodbye."
+24165	Gunmen crashed a party and held my {rel} {who} hostage until I gave them my {item}.
+24166	I rushed him and guests helped pin him down. {who} is safe.
+24167	I rushed him and he fired into the crowd.
+24168	Offer yourself instead
+24169	I offered myself instead. In the swap {who} got away and the police caught him outside.
+24170	He laughed, shoved me down and took my {item}.
+24171	Home Hostage Standoff
+24172	You come home to find the front door open. A man holds {who} at gunpoint in the living room. "Open the safe with your {item} in it or I pull the trigger."
+24173	Open the safe
+24174	A gunman held my {rel} {who} hostage in our living room until I opened the safe. He took my {item}.
+24175	Pretend to forget the code
+24176	I stalled with the wrong code until the police arrived and arrested him.
+24177	He lost his patience.
+24178	Grab a weapon and fight
+24179	I grabbed a lamp and knocked him out cold.
+24180	He saw me reach for the lamp and fired.
+24181	On vacation, {who} goes missing. A note slipped under your hotel door says your {rel} will be returned in exchange for your {item}.
+24182	Make the trade
+24183	My {rel} {who} was kidnapped on vacation. I traded my {item} for {his} life.
+24184	Go to the local police
+24185	The local police found {who} in a rented villa and arrested the kidnappers.
+24186	The local police were in on it.
+24187	Hire a rescue team
+24188	A private rescue team got {who} out in the middle of the night.
+24189	The rescue went wrong.
+24190	lover
+24191	I couldn't come up with the money.
+24192	It went wrong
+24193	{1} was killed.
+24194	{1} survived, but barely.
+24195	The joke's on them. It was fake.
+24196	a gunshot wound during a robbery
+24197	injuries from a robbery
+24198	clear
+24199	pearl
+24201	14K White Gold
+24202	earrings
+24203	pendant
+24204	{1} Pendant Necklace
+24205	{1} Tennis Bracelet
+24206	The Polar Star
+24208	Heart of Scarlet
+24209	Moon of Persia
+24210	Raven's Tear
+24211	Sapphire of the Seas
+24212	Star of the North
+24213	Dragon's Blood
+24214	Heart of the Deep
+24215	The Pink Legacy
+24216	The Goliath Link
+24217	chain
+24218	Glacier Tennis Chain
+24219	Rosé Monarch Link
+24220	Golden Rope of Midas
+24221	Triple Crown Cuban
+24222	Ruby Royale Collar
+24223	King of the Jungle
+24224	Holy Ice Cross
+24225	Rose Vault Pendant
+24226	The Money Bag
+24227	Diamond Monarch Butterfly
+24228	Emerald Serpent Cuban
+24229	Waterfall of Light
+24230	Solid Gold Cuban
+24231	Silver Bullet Cuban
+24232	Iced Out Cuban
+24233	Golden Frost Cuban
+24234	Pink Lemonade Cuban
+24235	Thorn Crown Collar
+24236	Golden Faith Cross
+24237	Ghost Rider Skull
+24238	Lion King Crest
+24239	Big Money Sign
+24240	Keep It 100
+24241	The World Is Yours
+24242	Royal Fleury Cross
+24243	Ice Fang Collar
+24244	Diamond Rain Collar
+24245	Golden Garden Collar
+24246	Sold out
+24247	Come back next year
+24248	{1} Cocktail Ring
+24249	{1} Chandelier Earrings
+24250	{1} Statement Necklace
+24251	Gold Hoop Earrings
+24252	Silver Drop Earrings
+24253	Gold Pendant Necklace
+24254	Silver Pendant Necklace
+24255	Gold Link Bracelet
+24256	Silver Link Bracelet
+24257	Cuban Link Chain
+24258	Gold Pearl Charm
+24259	charm
+24260	Silver Pearl Charm
+24261	Blue Dial Watch
+24262	Red Dial Watch
+24263	Turquoise Dial Watch
+24264	Pink Dial Watch
+24265	Orange Dial Watch
+24266	Yellow Dial Watch
+24267	Graffiti Art Watch
+24268	Diamond Sport Watch
+24269	White Gold Chronograph
+24270	Vintage Racing Chronograph
+24271	Antique Royal Pocket Watch
+24272	Rainbow Diamond Watch
+24273	they
+24274	these
+24275	this
+24276	Buy {1}{2} today!
+24277	I bought {1}{2}{3} from {4} for {5}.
+24278	You are now the owner of {1}{2}.
+24279	clean
+24280	Clean All Jewelry...
+24281	I cleaned all of my jewelry.
+24282	You cleaned all of your jewelry. It looks brand new!
+24283	Get {1} appraised
+24284	Get {1} cleaned
+24285	Get rid of {1}
+24286	Donate {1} to charity
+24287	Give {1} to someone
+24288	Purchased from {1}
+24289	Years in Family
+24290	An appraisal costs {1}.
+24291	You had your {1} appraised by a professional jeweler.
+24292	Unfortunately, the jeweler discovered that your {1} {2} counterfeit, made from inexpensive materials!
+24293	Estimated value: {1}
+24294	Appraisal fee: {1}
+24295	I found out my {1} {2} fake.
+24296	The jeweler confirmed {1} {2} genuine!
+24297	I had my {1} appraised.
+24298	Try to sell your {1} today!
+24299	Sell it to someone as real
+24300	Nobody wanted to buy your {1}.
+24301	I tried to sell my {1} as real, but nobody bit.
+24302	{1} {2} has agreed to give you {3} for your {4}.
+24303	Sell it to {1}
+24304	Stuffing my pockets
+24305	You sold your {1} to {2} {3} for {4}.
+24306	I sold my {1} to {2} {3} for {4}.
+24307	I tried to pass off my {1} as real, but the buyer figured it out and called the police.
+24308	It's real I tell ya
+24309	{1} identified that the {2} you sold {3} was a fake and turned you into the police!
+24310	The buyer paid {1}, unaware that the {2} {3} counterfeit.
+24311	I passed off a fake {1} as genuine and sold {2} for {3}.
+24312	Buyer Detects Fake
+24313	Your {1} {2} counterfeit!
+24314	The buyer realized the {1} {2} fake and refused to purchase {3}.{4}
+24315	A buyer told me my {1} {2} fake.
+24316	A buyer caught on that my {1} {2} fake.
+24317	I tried to sell a fake {1} as genuine, and the buyer called the police.
+24318	Buyer Reports Fraud
+24319	The buyer discovered the counterfeit and contacted the police.
+24320	Your {1} {2} already spotless.
+24321	They look
+24322	It looks
+24323	You cleaned your {1}. {2} brand new!
+24324	I cleaned my {1}.
+24325	You gave {1} your {2}, and {3} realized {4} fake!
+24326	You gave your {1} to {2}. They loved {3}!

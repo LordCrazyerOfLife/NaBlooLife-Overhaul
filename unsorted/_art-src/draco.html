@@ -1,0 +1,78 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>draco</title>
+<style>html,body{margin:0;background:transparent}svg{display:block;width:780px;height:540px}</style></head>
+<body>
+<!-- Micro Draco: madera clara solo abajo con tope al frente, cañón corto, mira alta, banana grande, empuñadura marrón -->
+<svg viewBox="0 0 260 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a4d54"/><stop offset=".5" stop-color="#2c2e33"/><stop offset="1" stop-color="#18191c"/>
+    </linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2d59a"/><stop offset=".55" stop-color="#ddb46a"/><stop offset="1" stop-color="#b98a43"/>
+    </linearGradient>
+    <linearGradient id="grip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3f1d18"/><stop offset=".5" stop-color="#6a3329"/><stop offset="1" stop-color="#3a1914"/>
+    </linearGradient>
+    <linearGradient id="mag" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#16171a"/><stop offset=".45" stop-color="#383a41"/><stop offset="1" stop-color="#131417"/>
+    </linearGradient>
+    <radialGradient id="gloss" cx=".3" cy=".1" r=".8">
+      <stop offset="0" stop-color="#fff" stop-opacity=".3"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="check" width="3" height="3" patternUnits="userSpaceOnUse"><path d="M0 3 L3 0" stroke="#000" stroke-width=".6" opacity=".35"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <ellipse cx="130" cy="172" rx="100" ry="5" fill="#000" opacity=".28" filter="url(#blur)"/>
+
+  <!-- cargador banana grande con estrías -->
+  <path d="M108 78 L140 78 Q146 118 172 150 Q175 154 171 157 L148 168 Q144 170 141 166 Q120 128 108 78 Z" fill="url(#mag)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <g fill="none" stroke="#0b0c0e" stroke-width="1.3" opacity=".7">
+    <path d="M118 84 Q126 124 148 160"/><path d="M126 84 Q134 122 156 156"/><path d="M134 84 Q141 120 163 152"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="1" opacity=".13">
+    <path d="M120 84 Q128 124 150 160"/><path d="M128 84 Q136 122 158 156"/>
+  </g>
+
+  <!-- empuñadura de plástico marrón con textura -->
+  <path d="M58 78 L82 78 L72 126 Q71 131 66 131 L50 131 Q45 131 46 126 Z" fill="url(#grip)" stroke="#220d09" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M60 86 L78 86 L70 122 L52 122 Z" fill="url(#check)"/>
+
+  <!-- guardamonte y gatillo -->
+  <path d="M84 80 L84 90 Q84 98 94 98 L104 98 Q110 98 108 90 L106 80" fill="none" stroke="#1f2125" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95 80 Q99 86 97 93" fill="none" stroke="#111215" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- cajón de mecanismos -->
+  <path d="M34 54 Q34 46 42 46 L172 46 L172 80 L40 80 Q34 80 34 74 Z" fill="url(#metal)" stroke="#0b0c0e" stroke-width="1.8" stroke-linejoin="round"/>
+  <!-- tapa del cajón -->
+  <path d="M40 46 Q42 40 50 40 L160 40 Q166 40 166 46" fill="#3a3d43" stroke="#0b0c0e" stroke-width="1.6"/>
+  <path d="M40 46 Q36 46 34 50" fill="none" stroke="#0b0c0e" stroke-width="1.4"/>
+  <!-- ranura de la manija y manija -->
+  <rect x="98" y="52" width="30" height="7" rx="3.5" fill="#131417" stroke="#0b0c0e" stroke-width="1"/>
+  <rect x="122" y="51" width="8" height="9" rx="2" fill="#4a4d54" stroke="#0b0c0e" stroke-width="1"/>
+  <!-- selector -->
+  <path d="M48 64 L92 66" stroke="#131417" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M48 63 L92 65" stroke="#7d818a" stroke-width="1" stroke-linecap="round" opacity=".6"/>
+  <g fill="#0f1013"><circle cx="112" cy="72" r="1.5"/><circle cx="120" cy="72" r="1.5"/><circle cx="150" cy="72" r="1.5"/><circle cx="160" cy="70" r="1.5"/><circle cx="44" cy="72" r="1.5"/></g>
+  <!-- mira trasera -->
+  <path d="M146 40 L148 33 L156 33 L158 40 Z" fill="#2c2e33" stroke="#0b0c0e" stroke-width="1.2"/>
+
+  <!-- tubo de gases (metal) -->
+  <rect x="170" y="44" width="50" height="9" rx="3" fill="url(#metal)" stroke="#0b0c0e" stroke-width="1.4"/>
+  <!-- guardamanos de madera clara, solo abajo, con tope al frente -->
+  <path d="M170 52 L216 52 Q222 52 222 58 L222 94 Q222 100 216 100 L206 100 Q200 100 200 94 L200 86 Q196 80 188 80 L170 80 Z" fill="url(#wood)" stroke="#7a5420" stroke-width="1.8" stroke-linejoin="round"/>
+  <g stroke="#a87a35" stroke-width=".9" opacity=".7" fill="none"><path d="M174 58 Q196 56 216 60"/><path d="M174 66 Q190 64 214 70"/><path d="M204 76 Q210 84 206 96"/></g>
+  <path d="M174 55 L216 55" stroke="#fff" stroke-width="1.2" opacity=".35"/>
+
+  <!-- bloque de mira delantera alta -->
+  <path d="M220 48 L232 48 L232 64 L220 64 Z" fill="url(#metal)" stroke="#0b0c0e" stroke-width="1.4"/>
+  <path d="M222 48 L222 30 Q222 26 226 26 Q230 26 230 30 L230 48" fill="#2c2e33" stroke="#0b0c0e" stroke-width="1.4"/>
+  <circle cx="226" cy="34" r="2" fill="#131417"/>
+  <!-- cañón corto y tuerca de boca -->
+  <rect x="232" y="54" width="14" height="8" rx="2" fill="url(#metal)" stroke="#0b0c0e" stroke-width="1.4"/>
+  <path d="M244 51 L254 51 L256 58 L254 65 L244 65 Z" fill="#1b1c20" stroke="#0b0c0e" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M248 52 L248 64 M251 52 L251 64" stroke="#55585f" stroke-width="1"/>
+
+  <path d="M34 26 L256 26 L256 82 L34 82 Z" fill="url(#gloss)" opacity=".7"/>
+</svg>
+</body></html>

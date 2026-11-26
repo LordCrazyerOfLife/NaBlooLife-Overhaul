@@ -1,0 +1,800 @@
+11407	oferta	oferta
+11408	reclamar	reclamar
+11409	correo	correio
+11410	Bank of America	Bank of America
+11411	custodia	custódia
+11412	Transferencia bancaria de {1}	Transferência bancária de {1}
+11413	🏦 Depósito recibido: {1}	🏦 Depósito recebido: {1}
+11414	Se hizo un depósito de {1} en tu cuenta terminada en {2}.	Foi feito um depósito de {1} na sua conta terminada em {2}.
+11415	Se hizo un pago de {1} desde tu cuenta terminada en {2}.	Foi feito um pagamento de {1} da sua conta terminada em {2}.
+11416	{1} ahora es parte de {2}. Tu cuenta y tu saldo se pasaron automáticamente.	{1} agora faz parte de {2}. Sua conta e seu saldo foram transferidos automaticamente.
+11417	Mi banco, {1}, fue absorbido por {2}.	Meu banco, {1}, foi comprado por {2}.
+11418	Chase	Chase
+11419	Discover	Discover
+11420	Ally	Ally
+11421	Chime	Chime
+11423	Tu cuenta {1} en {2} generó {3} de intereses este año.{4}	Sua conta {1} no {2} rendeu {3} de juros este ano.{4}
+11424	Ganado en total	Ganho no total
+11425	de mi famosa familia	da minha famosa família
+11426	Mi cuenta {1}{2} generó {3} de intereses este año ({4}% APY). Ahora tiene {5}.	Minha conta {1}{2} rendeu {3} de juros este ano ({4}% APY). Agora tem {5}.
+11427	Tus papás manejan tu dinero hasta que cumplas 13.	Seus pais cuidam do seu dinheiro até você fazer 13 anos.
+11428	Abre una cuenta	Abra uma conta
+11429	Abre una cuenta nueva en {1}. Empieza vacía; pasa dinero con una transferencia.	Abra uma conta nova em {1}. Ela começa vazia; transfira dinheiro para ela.
+11430	Abre cuenta	Abra conta
+11431	Abrí una cuenta {1} en {2}.	Abri uma conta {1} em {2}.
+11432	Cuenta abierta	Conta aberta
+11433	Tu cuenta {1} terminada en {2} está abierta. Tócala para depositar dinero.	Sua conta {1} terminada em {2} está aberta. Toque nela para depositar dinheiro.
+11434	No hay otras cuentas	Não há outras contas
+11435	Abre primero una cuenta de ahorros o de mercado de dinero, y luego podrás pasar dinero a ella.	Abra primeiro uma conta poupança ou de mercado monetário, depois você poderá transferir dinheiro para ela.
+11436	Mueve dinero entre tus cuentas.	Mova dinheiro entre suas contas.
+11437	De → A:	De → Para:
+11438	Sin dinero	Sem dinheiro
+11439	{1} no tiene nada.	{1} não tem nada.
+11440	Pasa dinero de la cuenta corriente ({1}) a {2}.	Transfira dinheiro da conta corrente ({1}) para {2}.
+11441	Pasa dinero de {1} ({2}) de vuelta a la cuenta corriente.	Transfira dinheiro de {1} ({2}) de volta para a conta corrente.
+11442	Puse {1} en mi cuenta {2}.	Coloquei {1} na minha conta {2}.
+11443	Saqué {1} de mi cuenta {2}.	Tirei {1} da minha conta {2}.
+11444	Edad {1} ({2}): ganado {3}, pagado {4}, quedó {5}	Idade {1} ({2}): ganho {3}, pago {4}, ficou com {5}
+11445	Impuestos descontados de tus sueldos a lo largo de los años.	Impostos descontados dos seus salários ao longo dos anos.
+11446	Años recientes	Anos recentes
+11447	Todavía no has pagado impuestos. Cuando tengas un trabajo, los impuestos descontados de tu sueldo cada año aparecerán aquí.	Você ainda não pagou impostos. Assim que tiver um emprego, os impostos descontados do salário de cada ano vão aparecer aqui.
+11448	Total de impuestos pagados	Total de impostos pagos
+11449	Tasa de impuesto promedio	Alíquota média de imposto
+11450	Desglose del sueldo de este año	Detalhamento do salário deste ano
+11451	Saldo disponible {1} · {2}% APY	Saldo disponível {1} · {2}% APY
+11452	{1} en total · {2} el año pasado	{1} no total · {2} no ano passado
+11453	Pasa dinero desde la cuenta corriente ({1})	Transfira dinheiro da conta corrente ({1})
+11454	Pasa dinero de vuelta a la cuenta corriente	Transfira dinheiro de volta para a conta corrente
+11455	eliminar	excluir
+11456	Su saldo pasa a la cuenta corriente	O saldo vai para a conta corrente
+11457	¿Cerrar esta cuenta? Su saldo de {1} pasa a tu cuenta corriente.	Fechar esta conta? O saldo de {1} vai para sua conta corrente.
+11458	Cierra la cuenta	Feche a conta
+11459	Cerré mi cuenta {1}.	Fechei minha conta {1}.
+11460	La cuenta está cerrada.	A conta está fechada.
+11461	Los sueldos y las compras aparecen aquí	Salários e compras aparecem aqui
+11462	estado	status
+11463	tipo	tipo
+11464	Aún no hay actividad. Los sueldos y las compras aparecen aquí.	Ainda não há atividade. Salários e compras aparecem aqui.
+11465	monedas	moedas
+11466	Mi {1}, {2}, me bloqueó la cuenta bancaria por consumir drogas.	Meu {1}, {2}, bloqueou minha conta bancária por causa do meu uso de drogas.
+11467	{1} se llevó el {2} que había en mi cuenta.	{1} pegou o {2} que estava na minha conta.
+11468	Banco bloqueado	Banco bloqueado
+11469	{1} también se llevó todo el {2} que había. Quizás nunca vuelvas a ver ese dinero.	{1} também levou todo o {2} que estava lá. Talvez você nunca mais veja esse dinheiro.
+11470	El {1} que hay ahí está congelado. No puedes tocarlo.	O {1} que tem aí está congelado. Você não pode mexer nele.
+11471	{1} se enteró de tu consumo de drogas y te bloqueó la cuenta {2} hasta que cumplas 18.{3}	{1} descobriu seu uso de drogas e bloqueou sua conta {2} até você completar 18 anos.{3}
+11472	Quizás puedas convencer a {1} de devolverlo por correo.	Talvez você consiga convencer {1} a devolver por e-mail.
+11473	convencido	convencido
+11474	dieciocho	dezoito
+11475	con {1} adentro	com {1} dentro
+11476	, pero el dinero ya no estaba	, mas o dinheiro tinha sumido
+11477	Cumplí 18 y recuperé el acceso a mi cuenta bancaria{1}.	Fiz 18 anos e recuperei o acesso à minha conta bancária{1}.
+11478	y devolvió {1}	e devolveu {1}
+11479	Mi {1}, {2}, me desbloqueó la cuenta bancaria{3}.	Meu {1}, {2}, desbloqueou minha conta bancária{3}.
+11480	Dinero confiscado	Dinheiro confiscado
+11481	Saldo congelado	Saldo congelado
+11482	{1} se llevó {2} de ahí	{1} tirou {2} de lá
+11483	{1} que no puedes tocar	{1} que você não pode mexer
+11484	Cuenta bloqueada por tu {1}	Conta bloqueada pelo seu {1}
+11485	Bloqueada hasta los 18	Bloqueada até os 18 anos
+11486	{1} la bloqueó a los {2} por tu consumo de drogas	{1} a bloqueou aos {2} anos por causa do seu uso de drogas
+11487	Habla con ellos	Fale com eles
+11488	Escribe a {1} y trata de convencer a {2} de desbloquearla	Mande um e-mail para {1} e tente convencer {2} a desbloquear
+11489	Cuenta bloqueada	Conta bloqueada
+11490	retirar	sacar
+11491	depositar	depositar
+11492	{1} bloqueó tu cuenta bancaria. No puedes {2} nada hasta que cumplas 18.	{1} bloqueou sua conta bancária. Você não pode {2} nada até completar 18 anos.
+11493	Sin efectivo	Sem dinheiro vivo
+11494	No hay nada en tu cuenta {1} para sacar.	Não há nada na sua conta {1} para sacar.
+11495	No tienes efectivo encima.	Você não tem dinheiro vivo com você.
+11496	Tu libreta en {1} muestra {2}. ¿Cuánto le pedirás al cajero?	Sua caderneta em {1} mostra {2}. Quanto você vai pedir ao caixa?
+11497	Tienes {1} en monedas y billetes. ¿Cuánto le vas a entregar al cajero?	Você tem {1} em moedas e cédulas. Quanto vai entregar ao caixa?
+11498	Tienes {1} en {2}. ¿Cuánto efectivo quieres sacar?	Você tem {1} em {2}. Quanto dinheiro vivo você quer sacar?
+11499	Tienes {1} en efectivo. ¿Cuánto quieres meter en {2}?	Você tem {1} em dinheiro vivo. Quanto você quer colocar em {2}?
+11500	Saqué {1} en efectivo de {2}.	Saquei {1} em dinheiro de {2}.
+11501	Deposité {1} en efectivo en {2}.	Depositei {1} em dinheiro vivo em {2}.
+11502	Banco desbloqueado	Banco desbloqueado
+11503	{1} volvió a tu cuenta.	{1} voltou para a sua conta.
+11504	El dinero que se llevó {1} ya no está.	O dinheiro que {1} levou sumiu.
+11505	Ya tienes 18. {1} ya no puede mantenerte bloqueado.{2}	Agora você tem 18. {1} não pode mais deixar você bloqueado.{2}
+11506	indicador	indicador
+11507	Cuenta de custodia en {1}	Conta de custódia em {1}
+11508	Sin cuenta bancaria	Sem conta bancária
+11509	Tus papás manejan tu dinero hasta los 13	Seus pais cuidam do seu dinheiro até os 13 anos
+11510	Tus papás la abrieron por ti. Solicita abrir una cuenta propia.	Seus pais abriram para você. Peça para abrir uma conta própria.
+11511	Solicita en un banco abrir tu primera cuenta corriente	Peça em um banco para abrir sua primeira conta corrente
+11512	Solicita en un banco	Peça em um banco
+11513	Disponible a los 13	Disponível aos 13 anos
+11514	Abre una cuenta corriente	Abra uma conta corrente
+11515	Puedes solicitar una cuenta bancaria al cumplir 13. Mientras tanto, tus papás manejan tu dinero.	Você pode pedir uma conta bancária ao completar 13 anos. Até lá, seus pais cuidam do seu dinheiro.
+11516	Eres menor de 18, así que un padre tiene que cofirmar.	Você é menor de 18, então um dos pais precisa assinar junto.
+11517	¿Solicitar una cuenta corriente en {1}?{2}	Pedir uma conta corrente em {1}?{2}
+11518	Correo para tu cuenta:	E-mail para sua conta:
+11519	Sin correo (agrega uno en Activos → Correo)	Sem e-mail (adicione um em Bens → E-mail)
+11520	Envía la solicitud	Envie o pedido
+11521	{1} rechazó mi solicitud de cuenta bancaria.	{1} recusou meu pedido de conta bancária.
+11522	Solicitud rechazada	Pedido recusado
+11523	{1} necesita que un padre o tutor cofirme para cualquier menor de 18.	{1} precisa que um dos pais ou responsável assine junto para qualquer menor de 18.
+11524	{1} rechazó tu solicitud. Puedes probar con otro banco.	{1} recusou seu pedido. Você pode tentar outro banco.
+11525	Tu cuenta corriente terminada en {1} está abierta. Tu saldo de {2} ya está disponible.	Sua conta corrente terminada em {1} está aberta. Seu saldo de {2} já está disponível.
+11526	con mi papá cofirmando	com meu pai assinando junto
+11527	Abrí mi primera cuenta bancaria en {1}{2}.	Abri minha primeira conta bancária em {1}{2}.
+11528	Los correos del banco llegarán a {1}.	Os e-mails do banco vão para {1}.
+11529	Tu cuenta corriente {1} está abierta.{2}	Sua conta corrente {1} está aberta.{2}
+11530	Sin correo	Sem e-mail
+11531	Primero necesitas una dirección de correo. Crea una en Activos → Correo.	Primeiro você precisa de um endereço de e-mail. Crie um em Bens → E-mail.
+11532	Ahora mismo es {1}.	Agora é {1}.
+11533	¿Qué correo usará {1} para alertas, recibos y cambios de contraseña?{2}	Qual e-mail {1} deve usar para alertas, recibos e redefinição de senha?{2}
+11534	(bloqueado)	(bloqueado)
+11535	Tu dirección de correo fue cambiada	Seu endereço de e-mail foi alterado
+11536	El correo de tu cuenta terminada en {1} se cambió a {2}. Si no fuiste tú, llámanos de inmediato.	O e-mail da sua conta terminada em {1} foi alterado para {2}. Se não foi você, ligue para nós imediatamente.
+11537	Dirección de correo actualizada	Endereço de e-mail atualizado
+11538	Este es ahora el correo de tu cuenta {1} terminada en {2}.	Este agora é o e-mail da sua conta {1} terminada em {2}.
+11539	Cambié el correo de mi cuenta {1} a {2}.	Mudei o e-mail da minha conta {1} para {2}.
+11540	Correo actualizado	E-mail atualizado
+11541	Cuidado: estás bloqueado de esa dirección.	Cuidado: você está bloqueado desse endereço.
+11542	{1} ahora le enviará correos a {2}.{3}	{1} agora vai mandar e-mails para {2}.{3}
+11543	Cuenta de custodia · abierta por tus papás	Conta de custódia · aberta pelos seus pais
+11544	Cuenta {1}{2} · toca una cuenta para ver su actividad	Conta {1}{2} · toque em uma conta para ver a atividade
+11545	Administrada por tus papás	Administrada pelos seus pais
+11546	Puedes sacar, depositar y abrir tu propia cuenta a los 13	Você pode sacar, depositar e abrir sua própria conta aos 13 anos
+11547	Abre tu propia cuenta	Abra sua própria conta
+11548	Solicita en cualquier banco para manejar tu dinero	Peça em qualquer banco para cuidar do seu dinheiro
+11549	Entre tu cuenta corriente y de ahorros	Entre sua conta corrente e poupança
+11550	Ahorros, mercado de dinero y más	Poupança, mercado monetário e mais
+11551	Efectivo disponible: {1}	Dinheiro vivo disponível: {1}
+11552	Devuelve tu efectivo a la cuenta corriente	Devolva seu dinheiro vivo para a conta corrente
+11553	{1} pagado en total · {2} el año pasado	{1} pago no total · {2} no ano passado
+11554	Aún no has pagado impuestos	Você ainda não pagou impostos
+11555	Usado en {1} otra cuenta{2}	Usado em {1} outra conta{2}
+11556	Cambia tu contraseña de banca en línea	Altere sua senha do internet banking
+11557	· bloqueado	· bloqueado
+11558	No hay correo registrado	Nenhum e-mail cadastrado
+11559	Disputa el dinero robado	Conteste o dinheiro roubado
+11560	{1} transferido por hackers	{1} transferido por hackers
+11561	(Tu banco)	(Seu banco)
+11562	Tus sueldos llegan aquí	Seus salários vão para cá
+11563	Pasa tu dinero aquí	Transfira seu dinheiro para cá
+11564	Cambié mi contraseña de {1}.	Mudei minha senha de {1}.
+11565	Contraseña cambiada	Senha alterada
+11566	Tu contraseña de banca en línea de {1} está actualizada.	Sua senha do internet banking de {1} foi atualizada.
+11567	¿Cerrar tus cuentas de {1} y pasar todo a {2}? Tus sueldos irán a {3} de ahora en adelante.	Fechar suas contas de {1} e mover tudo para {2}? Seus salários vão para {3} daqui em diante.
+11568	Cambia a {1}	Mude para {1}
+11569	Tu nueva cuenta corriente terminada en {1} está abierta. Pasamos tu saldo de {2} desde {3}.	Sua nova conta corrente terminada em {1} está aberta. Transferimos seu saldo de {2} de {3}.
+11570	Pasé mi dinero de {1} a {2}.	Passei meu dinheiro de {1} para {2}.
+11571	Banco nuevo	Banco novo
+11572	Tu dinero ahora está en {1}.	Seu dinheiro agora está em {1}.
+11573	Bank of North America	Bank of North America
+11574	comercial	comercial
+11575	Bank of New York	Bank of New York
+11576	Bank of the United States	Bank of the United States
+11577	nacional	nacional
+11578	Second Bank of the United States	Second Bank of the United States
+11579	Philadelphia Saving Fund Society	Philadelphia Saving Fund Society
+11580	ahorros	poupança
+11581	Bank for Savings in New York	Bank for Savings in New York
+11582	Wells, Fargo & Company	Wells, Fargo & Company
+11583	express	express
+11584	Boston Five Cents Savings Bank	Boston Five Cents Savings Bank
+11585	First National Bank	First National Bank
+11586	Freedman's Savings Bank	Freedman's Savings Bank
+11587	Chase National Bank	Chase National Bank
+11588	Bank of England	Bank of England
+11589	central	central
+11590	Coutts & Co	Coutts & Co
+11591	privado	privado
+11592	mercantil	mercantil
+11593	Trustee Savings Bank	Trustee Savings Bank
+11594	National Provincial Bank	National Provincial Bank
+11595	Overend, Gurney & Co	Overend, Gurney & Co
+11596	descuento	desconto
+11597	Banco de Ahorros de la Oficina Postal	Banco de Poupança dos Correios
+11598	Banco comercial	Banco comercial
+11599	Banco nacional	Banco nacional
+11600	Banco de ahorro	Banco de poupança
+11601	Empresa express y banco	Empresa express e banco
+11602	El banco central del país	O banco central do país
+11603	Banco privado para ricos	Banco privado para os ricos
+11604	Banco mercantil	Banco mercantil
+11605	Casa de descuento	Casa de desconto
+11606	el Pánico de 1819	o Pânico de 1819
+11607	el Pánico de 1837	o Pânico de 1837
+11608	el Pánico de 1857	o Pânico de 1857
+11609	el Pánico de 1873	o Pânico de 1873
+11610	el Pánico de 1884	o Pânico de 1884
+11611	el Pánico de 1893	o Pânico de 1893
+11612	el Pánico de 1825	o Pânico de 1825
+11613	el Pánico de 1847	o Pânico de 1847
+11614	el colapso de Overend, Gurney	o colapso de Overend, Gurney
+11615	la quiebra del City of Glasgow Bank	a falência do City of Glasgow Bank
+11616	la crisis de Baring	a crise do Baring
+11617	Paga {1}% de interés al año	Paga {1}% de juros ao ano
+11618	No paga interés por depósitos	Não paga juros sobre depósitos
+11619	Ahorros en libreta · {1}	Poupança em caderneta · {1}
+11620	{1} · {2} anotaci{3} en la libreta	{1} · {2} lançament{3} na caderneta
+11621	Guardada por tus papás	Guardada pelos seus pais
+11622	Tus papás guardan tu libreta hasta los 13	Seus pais guardam sua caderneta até os 13 anos
+11623	Préstamo · debes {1}	Empréstimo · você deve {1}
+11624	Pide un préstamo al banquero	Peça um empréstimo ao banqueiro
+11625	{1} al año · {2} año{3} por pagar	{1} por ano · {2} ano{3} para quitar
+11626	Pide prestado con tu sueldo o tu propiedad como garantía	Peça emprestado usando seu salário ou sua propriedade como garantia
+11627	Ventanilla del cajero · abierta de lunes a sábado, de 10 a 3	Guichê do caixa · aberto de segunda a sábado, das 10 às 15h
+11628	Entrega monedas y billetes al cajero para que los anoten en tu libreta	Entregue moedas e cédulas ao caixa para serem anotadas na sua caderneta
+11629	Saca dinero de tu libreta en persona	Saque dinheiro da sua caderneta pessoalmente
+11630	Efectivo guardado en casa · {1}	Dinheiro vivo guardado em casa · {1}
+11631	Escondido bajo el piso. Los ladrones y los incendios pueden llevárselo	Escondido embaixo do assoalho. Ladrões e incêndios podem levá-lo
+11632	La oficina del banquero	O escritório do banqueiro
+11633	Nadie garantiza tus depósitos	Ninguém garante seus depósitos
+11634	Si {1} quiebra en un pánico, tus ahorros pueden perderse	Se {1} quebrar em pânico, sua poupança pode se perder
+11635	Bancos en {1}	Bancos em {1}
+11636	· solo acepta clientes con {1} o más	· só aceita clientes com {1} ou mais
+11637	Tus papás deciden dónde se guardan tus ahorros hasta los 13.	Seus pais decidem onde fica guardada sua poupança até os 13 anos.
+11638	{1} solo acepta clientes que depositen al menos {2}.	{1} só aceita clientes que depositem pelo menos {2}.
+11639	¿Cerrar tu libreta en {1}, llevar tu {2} al otro lado de la ciudad y abrir una nueva en {3}?	Fechar sua caderneta em {1}, levar seu {2} para o outro lado da cidade e abrir uma nova em {3}?
+11640	Pásate a {1}	Mude para {1}
+11641	Cerré mi libreta en {1} y pasé mis ahorros a {2}.	Fechei minha caderneta em {1} e passei minha poupança para {2}.
+11642	Libreta nueva	Caderneta nova
+11643	Tus ahorros ahora se guardan en {1}.	Sua poupança agora fica guardada em {1}.
+11644	El empleado anota a mano cada depósito y retiro en tu libreta.	O funcionário anota à mão cada depósito e saque na sua caderneta.
+11645	Los intereses se suman una vez al año.	Os juros são somados uma vez por ano.
+11646	Intereses del año pasado	Juros do ano passado
+11647	Todavía ninguno	Nenhum ainda
+11648	El banquero no le presta dinero a nadie menor de 21.	O banqueiro não empresta dinheiro a ninguém com menos de 21 anos.
+11649	Préstamo rechazado	Empréstimo recusado
+11650	El banquero de {1} te mira de arriba abajo. "¿Sin sueldo y sin propiedades? Me temo que no."	O banqueiro em {1} olha você de cima a baixo. "Sem salário e sem propriedade? Infelizmente, não."
+11651	El banquero dice que tu garantía es muy pequeña para prestar contra ella.	O banqueiro diz que sua garantia é pequena demais para o empréstimo.
+11652	Un préstamo del banquero	Um empréstimo do banqueiro
+11653	propiedad	propriedade
+11654	sueldo	salário
+11655	Si no pagas, el banco se queda con tu casa.	Se você atrasar os pagamentos, o banco fica com sua casa.
+11656	Si no pagas, el banco te lleva a juicio.	Se você atrasar os pagamentos, o banco leva você ao tribunal.
+11657	El banquero te prestará contra tu {1} al {2}% anual, pagable en cinco años. {3}	O banqueiro vai emprestar usando seu {1} como garantia, a {2}% ao ano, pagável em cinco anos. {3}
+11658	Pedí prestado {1} de {2}.	Peguei emprestado {1} de {2}.
+11659	Préstamo aprobado	Empréstimo aprovado
+11660	{1} te prestó {2}. Pagarás {3} al año durante cinco años.	{1} emprestou {2} para você. Você vai pagar {3} por ano durante cinco anos.
+11661	Pediste prestado {1} de {2}.	Você pegou emprestado {1} de {2}.
+11662	Págalo todo ({1})	Pague tudo ({1})
+11663	Necesitas {1} para saldar el préstamo.	Você precisa de {1} para quitar o empréstimo.
+11664	Pagué mi préstamo de {1}.	Paguei meu empréstimo de {1}.
+11665	El banquero sella tu papel del préstamo: "pagado en su totalidad".	O banqueiro carimba seu papel do empréstimo: "quitado integralmente".
+11666	Vinculada a {1} · desde {2}	Vinculada a {1} · desde {2}
+11668	Necesitas tener {1} para usar {2}.	Você precisa ter {1} para usar {2}.
+11669	¿Registrarte en {1} y vincularlo a tu cuenta {2}?	Se cadastrar em {1} e vincular à sua conta {2}?
+11670	Vincula mi banco	Vincule meu banco
+11671	Tu cuenta {1} está vinculada. Ya puedes pagar.	Sua conta {1} está vinculada. Você já pode pagar.
+11672	Me registré en {1}.	Me cadastrei em {1}.
+11673	{1} está vinculado a tu cuenta {2}.	{1} está vinculado à sua conta {2}.
+11674	{1} necesita una cuenta bancaria para vincularse. Solicita una en Activos → Banco.	{1} precisa de uma conta bancária para vincular. Peça uma em Bens → Banco.
+11675	Desvincula y elimina tu cuenta {1}	Desvincule e exclua sua conta {1}
+11676	Eliminé mi cuenta {1}.	Excluí minha conta {1}.
+11677	Eliminaste tu cuenta {1}.	Você excluiu sua conta {1}.
+11678	Mis ahorros en {1} generaron {2} de intereses.	Minha poupança em {1} rendeu {2} de juros.
+11679	Un ladrón entró y se llevó {1} que tenía escondido en casa.	Um ladrão invadiu e roubou {1} que eu tinha escondido em casa.
+11680	Un incendio en casa quemó {1} del efectivo que guardaba escondido ahí.	Um incêndio em casa queimou {1} do dinheiro vivo que eu guardava escondido ali.
+11681	Hice el último pago de mi préstamo de {1}.	Fiz o último pagamento do empréstimo de {1}.
+11682	{1} me embargó mi {2} porque no pude pagar el préstamo.	{1} tomou meu {2} por execução porque não consegui pagar o empréstimo.
+11683	{1} se quedó con tu {2} en {3} para cubrir tu préstamo impago.	{1} ficou com seu {2} em {3} para cobrir seu empréstimo não pago.
+11684	{1} me llevó a juicio por mi préstamo impago y embargó mis ahorros.	{1} me levou ao tribunal por causa do meu empréstimo não pago e confiscou minha poupança.
+11685	Llevado a juicio	Levado ao tribunal
+11686	El tribunal ordenó que tus ahorros de {1} se pagaran a {2}, y la deuda quedó saldada.	O tribunal ordenou que sua poupança de {1} fosse paga a {2}, e a dívida foi quitada.
+11687	No pude pagar mi préstamo a {1} este año.	Não consegui pagar meu empréstimo a {1} este ano.
+11688	{1} colapsó y perdí {2} de mis ahorros.	{1} faliu e eu perdi {2} da minha poupança.
+11689	{1} cerró sus puertas y mis ahorros pasaron a {2}.	{1} fechou as portas e minha poupança foi transferida para {2}.
+11690	Banco quebrado	Banco faliu
+11691	Banco cerrado	Banco fechado
+11692	¡{1} quebró! Perdiste {2} de tus ahorros. Lo que quedó pasó a {3}.	{1} faliu! Você perdeu {2} da sua poupança. O que sobrou foi para {3}.
+11693	{1} cerró. Tus ahorros de libreta pasaron a {2}.	{1} fechou. Sua poupança em caderneta foi transferida para {2}.
+11694	¡Corrida bancaria!	Corrida bancária!
+11695	Es {1}. Hay multitudes haciendo fila afuera de {2} para sacar su dinero, y los rumores dicen que el banco está a punto de quebrar. Tienes {3} en tu libreta.	É {1}. Há multidões na fila na frente de {2} para sacar o dinheiro, e os rumores dizem que o banco está prestes a falir. Você tem {3} na sua caderneta.
+11696	Únete a la fila y saca todo	Entre na fila e saque tudo
+11697	Hice fila durante {1} y saqué los {2} de mis ahorros de {3}.	Fiquei na fila durante {1} e saquei os {2} da minha poupança de {3}.
+11698	Solo saqué {1} de {2} antes de que cerrara sus puertas durante {3}. Perdí {4}.	Só consegui sacar {1} de {2} antes que fechasse as portas durante {3}. Perdi {4}.
+11699	Lo saqué	Saquei
+11700	Puertas cerradas	Portas fechadas
+11701	Te colaste al frente y el cajero contó todo el {1}. Ahora está escondido en casa.	Você furou a fila e o caixa contou todo o {1}. Agora está escondido em casa.
+11702	El banco se quedó sin monedas y cerró sus puertas mientras tú seguías en la fila. Sacaste {1} y perdiste el resto.	O banco ficou sem moedas e fechou as portas com você ainda na fila. Você pegou {1} e perdeu o resto.
+11703	Confía en el banco	Confie no banco
+11704	Confié en {1} durante {2}, y sobrevivió.	Confiei em {1} durante {2}, e ele sobreviveu.
+11705	Aguantó	Aguentou
+11706	{1} aguantó el pánico. Tus ahorros están a salvo.	{1} aguentou o pânico. Sua poupança está segura.
+11707	{1} quebró durante {2} y perdí {3} de mis ahorros.	{1} faliu durante {2} e eu perdi {3} da minha poupança.
+11708	El banco quebró	O banco faliu
+11709	{1} suspendió los pagos y nunca volvió a abrir por completo. Perdiste {2}.	{1} suspendeu os pagamentos e nunca reabriu totalmente. Você perdeu {2}.
+11710	freelance	freelance
+11711	comercio	varejo
+11712	conducción	direção
+11713	remoto	remoto
+11714	socio	sócio
+11715	Tienes {1} nuevos	Você tem {1} novos
+11716	@{1}, mira lo que te perdiste	@{1}, veja o que você perdeu
+11717	{1}: tu resumen semanal	{1}: seu resumo semanal
+11718	Nueva actividad en tu cuenta	Nova atividade na sua conta
+11719	{1} notificaciones nuevas en @{2}.	{1} notificações novas em @{2}.
+11720	Intento de inicio de sesión inusual	Tentativa de login incomum
+11721	un dispositivo desconocido	um dispositivo desconhecido
+11722	Alguien intentó entrar a @{1} desde {2}. Lo bloqueamos. Si no fuiste tú, no hace falta hacer nada.	Alguém tentou entrar em @{1} a partir de {2}. Nós bloqueamos. Se não foi você, não precisa fazer nada.
+11723	persona	pessoa
+11724	coleccionista	colecionador
+11725	{1} (Coleccionista de nombres de usuario)	{1} (Colecionador de nomes de usuário)
+11726	{1} (Revendedor de nombres de usuario)	{1} (Revendedor de nomes de usuário)
+11727	Hola, colecciono nombres de usuario raros y @{1} en {2} encajaría genial en mi colección. Puedo ofrecer {3}. El pago se envía en cuanto se transfiera el nombre.	Oi, eu coleciono nomes de usuário raros e o @{1} no {2} combinaria muito com minha coleção. Posso oferecer {3}. O pagamento é enviado assim que o nome for transferido.
+11728	Hola, compramos y revendemos nombres de usuario. Nos gustaría hacerte una oferta rápida de {1} por tu nombre de usuario {2} @{3}. Pago rápido, sin complicaciones.	Oi, a gente compra e revende nomes de usuário. Gostaríamos de fazer uma oferta rápida de {1} pelo seu nome de usuário {2} @{3}. Pagamento rápido, sem enrolação.
+11729	¡Hola! Me interesa comprar tu nombre de usuario {1} @{2}. ¿Aceptarías {3}? Avísame.	Oi! Tenho interesse em comprar seu nome de usuário {1} @{2}. Você aceitaria {3}? Me avisa.
+11730	Interesado en @{1}	Interessado em @{1}
+11731	Verifica tu cuenta de {1}	Verifique sua conta do {1}
+11732	¡Bienvenido a {1}! Tu cuenta @{2} ya está verificada y conectada a {3}.	Bem-vindo ao {1}! Sua conta @{2} agora está verificada e conectada ao {3}.
+11733	Se necesita correo	E-mail necessário
+11734	Estás bloqueado de tu correo, así que no puedes registrarte en {1}. Recupéralo o crea una dirección nueva en la sección Correo de Activos.	Você está bloqueado do seu e-mail, então não pode se cadastrar no {1}. Recupere-o ou crie um endereço novo na seção E-mail de Bens.
+11735	Necesitas una dirección de correo para registrarte en {1}. Crea una en la sección Correo de Activos.	Você precisa de um endereço de e-mail para se cadastrar em {1}. Crie um na seção E-mail de Bens.
+11736	Elige un correo	Escolha um e-mail
+11737	¿Qué correo debe usar tu cuenta de {1}?	Qual e-mail a sua conta do {1} deve usar?
+11738	Usa este correo	Use este e-mail
+11739	Crea una dirección de correo	Crie um endereço de e-mail
+11740	correo	e-mail
+11741	No puedes entrar: contraseña cambiada	Não é possível entrar: senha alterada
+11742	Reclama una dirección de {1}	Reivindique um endereço do {1}
+11743	Nueva dirección de {1}	Novo endereço do {1}
+11744	Elige tu dirección ({1}-15 letras, números, puntos o guiones bajos).	Escolha seu endereço ({1}-15 letras, números, pontos ou sublinhados).
+11745	Crea una contraseña fuerte	Crie uma senha forte
+11746	Reclama dirección	Reivindique endereço
+11747	Ya usas esta contraseña en {1} otra cuenta{2}.	Você já usa esta senha em {1} outra conta{2}.
+11748	No usas esta contraseña en ningún otro lado.	Você não usa esta senha em nenhum outro lugar.
+11749	No permitido	Não permitido
+11750	Esa dirección no está permitida. Elige una sin malas palabras.	Esse endereço não é permitido. Escolha um sem palavrões.
+11751	Muy corto	Muito curto
+11752	Las direcciones de {1} necesitan al menos {2} caracteres.	Os endereços do {1} precisam de pelo menos {2} caracteres.
+11753	Las contraseñas necesitan al menos 6 caracteres.	As senhas precisam de pelo menos 6 caracteres.
+11754	Intenté crear el correo {1}, pero ya estaba ocupado.	Tentei criar o e-mail {1}, mas ele já estava em uso.
+11755	{1} ya está en uso.	{1} já está em uso.
+11756	Tu nueva dirección {1} ya está lista para usar.	Seu novo endereço {1} já está pronto para usar.
+11757	Creé una nueva dirección de correo: {1}.	Criei um novo endereço de e-mail: {1}.
+11758	Correo nuevo	E-mail novo
+11759	{1} es tuyo.	{1} é seu.
+11760	{1} tuyos · {2} de desconocidos	{1} seus · {2} de desconhecidos
+11761	Cambia la contraseña de esta dirección	Altere a senha deste endereço
+11762	pregunta	pergunta
+11763	teléfono	telefone
+11764	Agrega opciones de recuperación (pregunta, teléfono, correo de respaldo)	Adicione opções de recuperação (pergunta, telefone, e-mail reserva)
+11765	Escribe a tu familia, amigos o pareja	Escreva para sua família, amigos ou parceiro
+11766	Sin correos	Nenhum e-mail
+11767	Tu bandeja de entrada está vacía	Sua caixa de entrada está vazia
+11768	Cambié la contraseña de {1}.	Mudei a senha de {1}.
+11769	{1} tiene una contraseña nueva.	{1} tem uma senha nova.
+11770	Desconocidos siguen poniendo tu dirección cuando se registran en cosas.	Desconhecidos ficam colocando seu endereço quando se cadastram em coisas.
+11771	Cuentas que usan {1}.{2}	Contas que usam {1}.{2}
+11772	¿Cómo se llamaba tu primera mascota?	Qual era o nome do seu primeiro animal de estimação?
+11773	¿En qué ciudad naciste?	Em que cidade você nasceu?
+11774	¿Cuál es el apellido de soltera de tu madre?	Qual é o nome de solteira da sua mãe?
+11775	¿Cómo se llamaba tu primera escuela?	Qual era o nome da sua primeira escola?
+11776	¿Cuál es tu comida favorita?	Qual é a sua comida favorita?
+11777	¿Cuál era tu apodo de niñez?	Qual era o seu apelido de infância?
+11778	Sin configurar	Não definido
+11779	Cada una te da más chances de recuperar tu cuenta si {1} llega a ser hackeado.	Cada uma dá a você mais chances de recuperar a conta se {1} for hackeado.
+11780	Elige una pregunta que solo tú sepas responder.	Escolha uma pergunta que só você saiba responder.
+11781	Sin respuesta	Sem resposta
+11782	Escribe una respuesta primero.	Digite uma resposta primeiro.
+11783	Puse una pregunta de seguridad en {1}.	Configurei uma pergunta de segurança em {1}.
+11784	Tu pregunta de seguridad está configurada.	Sua pergunta de segurança está configurada.
+11785	Sin teléfono	Sem telefone
+11786	Casi nadie tiene celular todavía.	Quase ninguém tem celular ainda.
+11787	Todavía no tienes teléfono propio.	Você ainda não tem telefone próprio.
+11788	Tu teléfono de recuperación es {1}.	Seu telefone de recuperação é {1}.
+11789	Agrega tu número ({1}) para que {2} te mande un código por SMS si quedas bloqueado.	Adicione seu número ({1}) para que {2} possa mandar um código por SMS se você ficar bloqueado.
+11790	Quítalo	Remova
+11791	Quité mi número de teléfono de {1}.	Removi meu número de telefone de {1}.
+11792	Agregué mi número de teléfono a {1}.	Adicionei meu número de telefone a {1}.
+11793	No hay otra dirección	Nenhum outro endereço
+11794	Primero crea otra dirección de correo; luego podrás usarla como respaldo.	Primeiro crie outro endereço de e-mail; depois você poderá usá-lo como reserva.
+11795	Una segunda dirección a la que {1} puede enviar un enlace de recuperación.	Um segundo endereço para o qual {1} pode enviar um link de recuperação.
+11796	Puse {1} como respaldo de {2}.	Configurei {1} como reserva de {2}.
+11797	Quité el correo de respaldo de {1}.	Removi o e-mail reserva de {1}.
+11798	Hice otra cuenta de {1}, @{2}.	Fiz outra conta de {1}, @{2}.
+11799	Cuenta nueva	Conta nova
+11800	Creaste una cuenta nueva de {1}, @{2}. Cambia su nombre de usuario cuando quieras.	Você criou uma conta nova de {1}, @{2}. Mude o nome de usuário quando quiser.
+11801	Me registré en {1}, cuenta {2}, como @{3}.	Me cadastrei em {1}, conta {2}, como @{3}.
+11802	, aunque {1} acababa de salir	, mesmo {1} tendo acabado de lançar
+11803	{1} de mis fans siguieron mi cuenta nueva de {2} al instante{3}.	{1} dos meus fãs seguiram minha conta nova de {2} na hora{3}.
+11804	Estrella de las redes	Estrela das redes
+11805	Consigue un millón de seguidores en redes sociales	Consiga um milhão de seguidores nas redes sociais
+11806	Perdiste el acceso a {1}, el correo de @{2}. Recupera el correo primero (Activos → Correo).	Você perdeu o acesso a {1}, o e-mail de @{2}. Recupere o e-mail primeiro (Bens → E-mail).
+11807	{1} cerró en {2}. Tu cuenta @{3} se fue junto con todo.	{1} fechou em {2}. Sua conta @{3} foi junto com tudo.
+11808	apelación	recurso
+11809	Apela tu suspensión	Apele do seu banimento
+11810	Empieza de nuevo con otra cuenta de {1}	Comece do zero com outra conta de {1}
+11811	Elimina tu cuenta	Exclua sua conta
+11812	Compra {1}	Compre {1}
+11813	Monetiza tu cuenta	Monetize sua conta
+11814	Juega {1} y diviértete	Jogue {1} e divirta-se
+11815	promocionar	promover
+11816	Promociona un producto	Promova um produto
+11817	Cambia tu nombre de usuario (@{1}){2}	Altere seu nome de usuário (@{1}){2}
+11818	Solicita verificación	Solicite verificação
+11819	sobre mí	sobre mim
+11820	Escribe tu estado o sobre mí	Escreva seu status ou sobre mim
+11821	contraseña	senha
+11822	Cambia tu contraseña	Altere sua senha
+11823	Pasar a otro correo ({1})	Mudar para outro e-mail ({1})
+11824	Conecta un correo	Conecte um e-mail
+11825	Tus cuentas de {1}	Suas contas do {1}
+11826	Bloqueada: perdiste el acceso a su correo	Bloqueada: você perdeu o acesso ao e-mail dela
+11827	Crea otra cuenta de {1}	Crie outra conta de {1}
+11828	buscar	pesquisar
+11829	Busca un nombre de usuario de {1}	Procure um nome de usuário de {1}
+11830	Tu contraseña de {1} está actualizada.	Sua senha de {1} foi atualizada.
+11831	No hay otro correo	Nenhum outro e-mail
+11832	No tienes otro correo al cual mover @{1}. Crea una dirección nueva en la sección Correo de Activos.	Você não tem outro e-mail para mudar o @{1}. Crie um endereço novo na seção E-mail de Bens.
+11833	Correo actual: {1}	E-mail atual: {1}
+11834	Mueve tu cuenta de {1} @{2} a otro correo.{3}	Mude sua conta de {1} @{2} para outro e-mail.{3}
+11835	Esta cuenta se compró con cripto robado y está en el mismo correo que tus cuentas personales. Pasarla a un correo separado hace mucho más difícil rastrearla hasta ti.	Esta conta foi comprada com cripto roubada e está no mesmo e-mail das suas contas pessoais. Trocar por um e-mail separado torna muito mais difícil rastreá-la até você.
+11836	Correo nuevo:	Novo e-mail:
+11837	Mueve mi cuenta	Mude minha conta
+11838	El correo de tu {1} fue cambiado	O e-mail do seu {1} foi alterado
+11839	El correo de tu cuenta de {1} @{2} se cambió a {3}. Si no fuiste tú, protege tu cuenta de inmediato.	O e-mail da sua conta de {1} @{2} foi alterado para {3}. Se não foi você, proteja sua conta imediatamente.
+11840	Cambié mi cuenta de {1} @{2} {3}a {4}.	Mudei minha conta de {1} @{2} {3}para {4}.
+11841	Correo cambiado	E-mail alterado
+11842	Tu cuenta de {1} @{2} ahora está en {3}.	Sua conta de {1} @{2} agora está em {3}.
+11843	¡Súbete a {1} y diviértete!	Entre em {1} e divirta-se!
+11844	Vamos a jugar	Bora jogar
+11845	¡Publica {1} {2} en {3} hoy!	Poste {1} {2} em {3} hoje!
+11846	Elige tu {1}:	Escolha seu {1}:
+11847	¡Compra {1} en {2} hoy!	Compre {1} em {2} hoje!
+11848	Elige tus seguidores:	Escolha seus seguidores:
+11849	Cómpralos	Compre-os
+11850	¡Solicita verificación para tu cuenta de {1} hoy!	Solicite verificação para sua conta do {1} hoje!
+11851	Verifícame	Verifique-me
+11852	Eh, no	Hum, não
+11853	Ya le pediste a {1} que te verificara este año.	Você já pediu para {1} verificar você este ano.
+11854	Le pedí a {1} que verificara mi cuenta, pero dijeron que no.	Pedi para {1} verificar minha conta, mas eles disseram não.
+11855	Tu intento de verificar tu cuenta de {1} fue rechazado.	Sua tentativa de verificar sua conta do {1} foi recusada.
+11856	¡Mi cuenta de {1} fue verificada!	Minha conta do {1} foi verificada!
+11858	¡Tu cuenta de {1} ya está verificada!	Sua conta do {1} já está verificada!
+11859	¡Monetiza tu cuenta de {1} hoy!	Monetize sua conta do {1} hoje!
+11860	Monetízala	Monetize-a
+11861	Tu cuenta de {1} ya está monetizada.	Sua conta do {1} já está monetizada.
+11862	Intenté monetizar mi cuenta de {1}, pero no tenía suficientes {2}.	Tentei monetizar minha conta do {1}, mas não tinha {2} suficientes.
+11863	Tu solicitud para monetizar tu cuenta de {1} fue rechazada. Necesitas al menos 1,000 {2}.	Seu pedido para monetizar sua conta do {1} foi recusado. Você precisa de pelo menos 1,000 {2}.
+11864	Monetizé mi cuenta de {1}.	Monetizei minha conta do {1}.
+11865	Muéstrame el dinero	Mostra o dinheiro
+11866	Monetizaste tu cuenta de {1}. Ganarás dinero con ella cada año.	Você monetizou sua conta do {1}. Você vai ganhar dinheiro com ela todo ano.
+11867	Ya promocionaste un producto en esta cuenta este año.	Você já promoveu um produto nesta conta este ano.
+11868	Ninguna empresa quiere patrocinar una cuenta con tan pocos {1}.	Nenhuma empresa quer patrocinar uma conta com tão poucos {1}.
+11869	Recibiste una oferta para promocionar algo en tu cuenta de {1}.	Você recebeu uma oferta para promover algo na sua conta do {1}.
+11870	Acepta la oferta	Aceite a oferta
+11871	y parte de tu fama	e parte da sua fama
+11872	Promocionaste {1} en tu cuenta de {2} y ganaste {3}.	Você promoveu {1} na sua conta do {2} e ganhou {3}.
+11873	A tus fans no les gustó. Perdiste {1} {2}{3}.	Seus fãs odiaram. Você perdeu {1} {2}{3}.
+11874	Promocioné {1} en mi cuenta de {2} por {3}, y a mis fans no les gustó. Perdí {4} {5}.	Promovi {1} na minha conta do {2} por {3}, e meus fãs odiaram. Perdi {4} {5}.
+11875	Contrato de marca	Parceria com marca
+11876	¡A tus fans les encantó! Ganaste {1} {2}.	Seus fãs amaram! Você ganhou {1} {2}.
+11877	Promocioné {1} en mi cuenta de {2} por {3}. A mis fans les encantó, y gané {4} {5}.	Promovi {1} na minha conta do {2} por {3}. Meus fãs amaram, e eu ganhei {4} {5}.
+11878	Promocioné {1} en mi cuenta de {2} y me pagaron {3}.	Promovi {1} na minha conta do {2} e recebi {3}.
+11879	¿Seguro que quieres eliminar tu cuenta de {1}?	Tem certeza de que quer excluir sua conta do {1}?
+11880	Elimínala	Exclua-a
+11881	Tu cuenta de {1} fue desactivada por comprar {2}. ¿Cómo vas a apelar?	Sua conta do {1} foi desativada por comprar {2}. Como você vai apelar?
+11882	Elige tu apelación:	Escolha seu recurso:
+11883	Di que lo sientes	Diga que sente muito
+11884	Alega un malentendido	Alegue um mal-entendido
+11885	Envía la apelación	Envie o recurso
+11886	Muy pronto	Cedo demais
+11887	{1} no va a revisar otra apelación todavía. Puedes intentarlo de nuevo a los {2}.	{1} não vai analisar outro recurso ainda. Você pode tentar de novo aos {2} anos.
+11888	{1} me restableció la cuenta después de apelar{2}.	{1} restabeleceu minha conta depois que eu recorri{2}.
+11889	Bienvenido de nuevo	Bem-vindo de volta
+11890	{1} aceptó tu apelación y restableció tu cuenta. Se quitaron todos tus {2} comprados.	{1} aceitou seu recurso e restabeleceu sua conta. Todos os {2} comprados foram removidos.
+11891	{1} rechazó mi apelación.	{1} negou meu recurso.
+11892	Apelación rechazada	Recurso negado
+11893	después de que los insultaste	depois que você os insultou
+11894	{1} rechazó tu apelación{2}. Tendrás que esperar {3} año{4} antes de volver a apelar.	{1} negou seu recurso{2}. Você vai ter que esperar {3} ano{4} antes de recorrer de novo.
+11895	Juega un obby	Jogue um obby
+11896	superaste un obby	zerou um obby
+11897	competir	competir
+11898	Juega Work at a Pizza Place	Jogue Work at a Pizza Place
+11899	trabajaste un turno en Work at a Pizza Place	trabalhou um turno em Work at a Pizza Place
+11900	Juega Natural Disaster Survival	Jogue Natural Disaster Survival
+11901	sobreviviste a un tsunami en Natural Disaster Survival	sobreviveu a um tsunami em Natural Disaster Survival
+11902	robaste el banco en Jailbreak	roubou o banco em Jailbreak
+11903	Juega Adopt Me!	Jogue Adopt Me!
+11904	criaste mascotas en Adopt Me!	criou mascotes em Adopt Me!
+11905	hiciste roleplay en Brookhaven	fez roleplay em Brookhaven
+11906	Construye un lugar en Studio	Construa um lugar no Studio
+11907	construiste un lugar en Roblox Studio	construiu um lugar no Roblox Studio
+11908	construir	construir
+11909	Intercambia limitados	Troque limitados
+11910	Pasa el rato en un juego social	Passe o tempo em um jogo social
+11911	pasaste el rato con desconocidos	passou o tempo com desconhecidos
+11912	Construye una casa	Construa uma casa
+11913	construiste una casa	construiu uma casa
+11914	Ve a minar	Vá minerar
+11915	fuiste a minar diamantes	foi minerar diamantes
+11916	Sobrevive la primera noche	Sobreviva à primeira noite
+11917	sobreviviste la primera noche	sobreviveu à primeira noite
+11918	Pelea contra el Ender Dragon	Lute contra o Ender Dragon
+11919	peleaste contra el Ender Dragon	lutou contra o Ender Dragon
+11920	Juega en un servidor	Jogue em um servidor
+11921	jugaste en un servidor multijugador	jogou em um servidor multiplayer
+11922	Construye una máquina de redstone	Construa uma máquina de redstone
+11923	construiste una máquina de redstone	construiu uma máquina de redstone
+11924	Entrena una habilidad	Treine uma habilidade
+11925	entrenaste Woodcutting por horas	treinou Woodcutting por horas
+11926	Haz una misión	Faça uma missão
+11927	terminaste una misión	terminou uma missão
+11928	Pelea en la Wilderness	Lute na Wilderness
+11929	peleaste en la Wilderness	lutou na Wilderness
+11930	Comercia en el Grand Exchange	Negocie no Grand Exchange
+11931	comerciaste en el Grand Exchange	negociou no Grand Exchange
+11932	Comercia en Varrock	Negocie em Varrock
+11933	comerciaste en la plaza de Varrock	negociou na praça de Varrock
+11934	Pasa el rato en el banco	Passe o tempo no banco
+11935	pasaste el rato en el banco de Varrock	passou o tempo no banco de Varrock
+11936	Ve a trineo	Vá de trenó
+11937	Decora tu iglú	Decore seu iglu
+11938	decoraste tu iglú	decorou seu iglu
+11939	Ve a una fiesta	Vá a uma festa
+11940	fuiste a una fiesta en el Night Club	foi a uma festa no Night Club
+11941	Alimenta a tu puffle	Alimente seu puffle
+11942	jugaste con tu puffle	brincou com seu puffle
+11943	Busca a Rockhopper	Procure o Rockhopper
+11944	buscaste a Rockhopper	procurou o Rockhopper
+11945	Pasa el rato en el lobby	Passe o tempo no lobby
+11946	pasaste el rato en el lobby del hotel	passou o tempo no lobby do hotel
+11947	Decora tu cuarto	Decore seu quarto
+11948	decoraste tu cuarto	decorou seu quarto
+11949	Intercambia furni	Troque furni
+11950	Juega Falling Furni	Jogue Falling Furni
+11951	jugaste Falling Furni	jogou Falling Furni
+11952	Alimenta a tu Neopet	Alimente seu Neopet
+11953	alimentaste a tu Neopet	alimentou seu Neopet
+11954	Juega Meerca Chase	Jogue Meerca Chase
+11955	jugaste Meerca Chase	jogou Meerca Chase
+11956	Gira la Rueda de la Emoción	Gire a Roda da Emoção
+11957	giraste la Rueda de la Emoción	girou a Roda da Emoção
+11958	Usa el Trading Post	Use o Trading Post
+11959	comerciaste en el Trading Post	negociou no Trading Post
+11960	Juega Cash Cow	Jogue Cash Cow
+11961	jugaste Cash Cow	jogou Cash Cow
+11962	Decora el cuarto de tu mascota	Decore o quarto do seu pet
+11963	decoraste el cuarto de tu mascota	decorou o quarto do seu pet
+11964	Trabaja en la Oficina de Empleo	Trabalhe no Escritório de Emprego
+11965	trabajaste en la Oficina de Empleo	trabalhou no Escritório de Emprego
+11966	Visita el Clubhouse	Visite o Clubhouse
+11967	charlaste en el Clubhouse	conversou no Clubhouse
+11968	Juega un juego nuevo	Jogue um jogo novo
+11969	jugaste un juego nuevo	jogou um jogo novo
+11970	Farmea logros	Farme conquistas
+11971	Intercambia objetos	Troque itens
+11972	Juega con amigos	Jogue com amigos
+11973	jugaste con amigos	jogou com amigos
+11974	Juega una partida en línea	Jogue uma partida online
+11975	jugaste partidas en línea	jogou partidas online
+11976	Únete a un chat de grupo	Entre em um chat de grupo
+11977	charlaste en un grupo	conversou em um grupo
+11978	Caza trofeos	Caçe troféus
+11979	Juega 8 Ball Pool	Jogue 8 Ball Pool
+11980	jugaste 8 Ball Pool	jogou 8 Ball Pool
+11981	Juega un juego flash	Jogue um jogo flash
+11982	jugaste juegos flash	jogou jogos flash
+11983	Supera tu récord	Supere seu recorde
+11984	intentaste superar tu récord	tentou superar seu recorde
+11985	Explora una isla	Explore uma ilha
+11986	exploraste una isla	explorou uma ilha
+11987	Termina una isla	Termine uma ilha
+11988	terminaste una isla	terminou uma ilha
+11989	Personaliza tu avatar	Personalize seu avatar
+11990	personalizaste tu avatar	personalizou seu avatar
+11991	Alimenta a tu monstruo	Alimente seu monstro
+11992	alimentaste a tu monstruo	alimentou seu monstro
+11993	Haz el puzzle diario	Faça o quebra-cabeça diário
+11994	hiciste el puzzle diario	fez o quebra-cabeça diário
+11995	Visita los cuartos de tus amigos	Visite os quartos dos seus amigos
+11996	visitaste los cuartos de tus amigos	visitou os quartos dos seus amigos
+11997	Juega juegos de trolley	Jogue jogos de trolley
+11998	jugaste juegos de trolley	jogou jogos de trolley
+11999	Haz un ToonTask	Faça um ToonTask
+12000	hiciste un ToonTask	fez um ToonTask
+12001	Farmea niveles	Farme níveis
+12002	Haz una misión de grupo	Faça uma missão de grupo
+12003	hiciste una misión de grupo	fez uma missão de grupo
+12004	Vende en el Free Market	Venda no Free Market
+12005	comerciaste en el Free Market	negociou no Free Market
+12006	Corre una mazmorra	Corra uma masmorra
+12007	corriste una mazmorra	correu uma masmorra
+12008	Ve a un raid	Vá a um raide
+12009	fuiste a un raid	foi a um raide
+12010	Juega campos de batalla	Jogue campos de batalha
+12011	Farmea oro	Farme ouro
+12012	Juega una partida clasificatoria	Jogue uma partida ranqueada
+12013	Duela en la arena	Duele na arena
+12014	dueleaste en la arena	duelou na arena
+12015	hiciste una misión	fez uma missão
+12016	Cuida tu jardín	Cuide do seu jardim
+12017	cuidaste tu jardín	cuidou do seu jardim
+12018	Juega minijuegos	Jogue minijogos
+12019	jugaste minijuegos	jogou minijogos
+12020	Ve de aventura	Vá em uma aventura
+12021	fuiste de aventura	foi em uma aventura
+12022	Juega clasificatorias	Jogue ranqueadas
+12023	Juega partidas normales	Jogue partidas normais
+12024	jugaste partidas normales	jogou partidas normais
+12025	Charla mientras juegas	Converse enquanto joga
+12026	charlaste mientras jugabas	conversou enquanto jogava
+12027	Graba un clip	Grave um clipe
+12028	grabaste un clip	gravou um clipe
+12029	Únete a un clan	Entre em um clã
+12030	te uniste a un clan	entrou em um clã
+12031	Publica en los foros	Poste nos fóruns
+12032	publicaste en los foros	postou nos fóruns
+12033	Compra objetos para tu avatar	Compre itens para o seu avatar
+12034	compraste objetos para tu avatar	comprou itens para o seu avatar
+12035	Construye algo	Construa algo
+12036	Ve a un club	Vá a um clube
+12037	fuiste a un club virtual	foi a um clube virtual
+12038	Compra para tu avatar	Compre para o seu avatar
+12039	compraste para tu avatar	comprou para o seu avatar
+12040	Viste muñecas	Vista bonecas
+12041	vestiste muñecas	vestiu bonecas
+12042	Decora tu suite	Decore sua suíte
+12043	decoraste tu suite	decorou sua suíte
+12044	Compra ropa	Compre roupas
+12045	compraste ropa	comprou roupas
+12046	Juega un juego	Jogue um jogo
+12047	jugaste un juego	jogou um jogo
+12048	¡A jugar!	Bora!
+12049	Amigos nuevos	Amigos novos
+12050	Conociste gente genial y te agregaron.	Você conheceu gente legal e eles adicionaram você.
+12051	Alguien te estafó en un intercambio y se desconectó. Perdiste tu mejor objeto.	Alguém te golpeou numa troca e saiu do jogo. Você perdeu seu melhor item.
+12052	Intercambio enorme	Troca enorme
+12053	¡Hiciste un intercambio increíble!	Você fez uma troca incrível!
+12054	¡Ganaste!	Você ganhou!
+12055	Abandono por rabia	Abandono por raiva
+12056	Perdiste feo y abandonaste enojado.	Você perdeu feio e abandonou com raiva.
+12057	Estás muy orgulloso de cómo salió.	Você está muito orgulhoso de como saiu.
+12058	Lobby tóxico	Lobby tóxico
+12059	Un niño te gritó todo el rato.	Um moleque gritou com você o tempo todo.
+12060	Me estafaron en un intercambio.	Me golpearam numa troca.
+12061	Conseguiste {1} {2} nuevos.	Você ganhou {1} {2} novos.
+12062	Tú {1} en {2}.{3}{4}	Você {1} em {2}.{3}{4}
+12063	Publiqué {1} en la cuenta {3} de {2}. Tuvo {4} me gusta, pero {5} {6} dejaron de seguirme.	Postei {1} na conta {3} de {2}. Teve {4} curtidas, mas {5} {6} deixaram de seguir.
+12064	Se volvió viral	Viralizou
+12065	Explotando	Bombando
+12066	Alcance enorme	Alcance enorme
+12067	y te volvió {1}	e te deixou {1}
+12068	tus fans notan que no eres realmente {1}	seus fãs percebem que você não é {1} de verdade
+12069	la gente pregunta si {1} fue hackeado	as pessoas perguntam se {1} foi hackeado
+12070	los comentarios están llenos de "esto no es {1}"	os comentários estão cheios de "isso não é {1}"
+12071	Publicaste {1} en @{2}.	Você postou {1} em @{2}.
+12072	Tuvo {1} vistas y {2} me gusta{3}.	Teve {1} visualizações e {2} curtidas{3}.
+12073	Pero {1}. Perdiste {2} {3}.	Mas {1}. Você perdeu {2} {3}.
+12074	El equipo de {1} recuperó su cuenta {2} @{3} y me denunció a la policía.	A equipe de {1} recuperou a conta {2} @{3} e me denunciou à polícia.
+12075	Cuenta recuperada	Conta recuperada
+12076	El equipo de {1} recuperó @{2} de {3}. Rastrearon la venta hasta ti y fueron a la policía.	A equipe de {1} recuperou @{2} de {3}. Rastrearam a venda até você e foram à polícia.
+12077	y me volvió {1}	e me deixou {1}
+12078	Publiqué {1} en {2}{3}. Tuvo {4} vistas{5}.{6}	Postei {1} em {2}{3}. Teve {4} visualizações{5}.{6}
+12079	Publicaste {1} en {2}{3}.	Você postou {1} em {2}{3}.
+12080	Tu {1} tuvo {2} vistas, pero perdiste {3} {4}. La gente solo te seguía por el básquet.	Seu {1} teve {2} visualizações, mas você perdeu {3} {4}. O povo só seguia você por causa do basquete.
+12081	¡Dale like y suscríbete!	Dá like e se inscreve!
+12082	Vamos a hacernos virales	Bora viralizar
+12083	, y ganaste {1} {2} nuevos	, e você ganhou {1} {2} novos
+12084	Tu {1} tuvo {2} vistas y {3} me gusta{4}.	Seu {1} teve {2} visualizações e {3} curtidas{4}.
+12085	Necesitas {1} para comprar {2} {3}.	Você precisa de {1} para comprar {2} {3}.
+12086	{1} desactivó mi cuenta por comprar {2}.	{1} desativou minha conta por comprar {2}.
+12087	{1} te pilló usando bots y desactivó tu cuenta por comprar {2}. Tendrás que apelar para recuperarla.	{1} pegou você usando bots e desativou sua conta por comprar {2}. Você vai ter que apelar para recuperá-la.
+12088	Compré {1} {2} en {3}.	Comprei {1} {2} em {3}.
+12089	Amigos pagados	Amigos pagos
+12090	Compraste {1} {2} en {3}.	Você comprou {1} {2} em {3}.
+12091	Desactivada · era @{1}	Desativada · era @{1}
+12092	raro	raro
+12093	común	comum
+12094	tu contraseña de siempre	sua senha de sempre
+12095	predeterminada	padrão
+12096	· demasiado largo para este sitio	· longo demais para este site
+12097	enfoque	foco
+12098	desenfoque	desfoque
+12099	2015 Todos los derechos reservados	2015 Todos os direitos reservados
+12100	Es hora de dejar Skype y TeamSpeak. Discord llegó.	Está na hora de largar o Skype e o TeamSpeak. O Discord chegou.
+12101	Chat de voz y texto todo en uno para gamers que	Chat de voz e texto tudo em um para gamers que
+12102	es gratis, seguro y funciona en tu computadora y en el celular. Deja de pagar servidores de TeamSpeak y de pelearte con Skype. Simplifica tu vida.	é grátis, seguro e funciona no seu computador e no celular. Pare de pagar servidores do TeamSpeak e de brigar com o Skype. Simplifique sua vida.
+12103	Nunca vas a volver atrás.	Você nunca mais vai voltar atrás.
+12104	Prueba Discord ahora, es gratis	Experimente o Discord agora, é grátis
+12105	obligatorio	obrigatório
+12106	debe tener entre 2 y 32 caracteres	deve ter entre 2 e 32 caracteres
+12107	ese nombre de usuario no está permitido	esse nome de usuário não é permitido
+12108	¡Bienvenido de nuevo!	Bem-vindo de volta!
+12109	¡Qué emoción verte otra vez!	Estamos muito felizes de te ver de novo!
+12110	¿Necesitas una cuenta?	Precisa de uma conta?
+12111	Reclama tu cuenta	Reivindique sua conta
+12112	! Agrega un correo y una contraseña para que nunca pierdas tu cuenta.	! Adicione um e-mail e uma senha para nunca perder sua conta.
+12113	¿Ya tienes una cuenta?	Já tem uma conta?
+12115	Esta cuenta ha sido desactivada.	Esta conta foi desativada.
+12116	El correo o la contraseña no son válidos.	O e-mail ou a senha são inválidos.
+12117	La contraseña debe tener al menos 6 caracteres.	A senha deve ter pelo menos 6 caracteres.
+12118	2016 Discord, Inc.	2016 Discord, Inc.
+12119	poción	poção
+12120	bomba	bomba
+12121	moneda	moeda
+12122	cartucho	cartucho
+12123	escritorio	computador
+12124	android	android
+12125	control	controle
+12126	es hora de dejar Skype y TeamSpeak.	está na hora de largar o Skype e o TeamSpeak.
+12127	Descarga para Windows	Baixe para Windows
+12128	Abre Discord en tu navegador	Abra o Discord no seu navegador
+12129	No requiere descarga	Não precisa baixar nada
+12130	Más información	Saiba mais
+12131	Puedes usar Discord directo en tu navegador.	Você pode usar o Discord direto no seu navegador.
+12132	Debe tener entre 2 y 32 caracteres.	Deve ter entre 2 e 32 caracteres.
+12133	Ese nombre de usuario no está permitido.	Esse nome de usuário não é permitido.
+12134	Crea una cuenta	Crie uma conta
+12135	Al registrarte, aceptas los	Ao se registrar, você concorda com os
+12136	El nombre de usuario debe tener entre 2 y 32 caracteres.	O nome de usuário deve ter entre 2 e 32 caracteres.
+12137	¿Olvidaste tu contraseña?	Esqueceu sua senha?
+12138	Revisa tu bandeja de entrada para el enlace de restablecer contraseña.	Verifique sua caixa de entrada para o link de redefinição de senha.
+12139	Este campo es obligatorio	Este campo é obrigatório
+12140	El usuario o la contraseña no son válidos.	O login ou a senha são inválidos.
+12141	Debe tener entre 2 y 32 caracteres de largo	Deve ter entre 2 e 32 caracteres de comprimento
+12142	Ese nombre de usuario no está permitido	Esse nome de usuário não é permitido
+12143	Debe tener al menos 6 caracteres	Deve ter pelo menos 6 caracteres
+12144	servidores	servidores
+12145	Crea un lugar solo por invitación donde encajes	Crie um lugar só por convite onde você se encaixa
+12146	Los servidores de Discord se organizan en canales por tema donde puedes colaborar, compartir y simplemente hablar de tu día sin saturar un chat grupal.	Os servidores do Discord são organizados em canais por tema, onde você pode colaborar, compartilhar e simplesmente falar do seu dia sem lotar um chat em grupo.
+12147	voz	voz
+12148	Donde pasar el rato es fácil	Onde curtir com os amigos é fácil
+12149	Siéntate en un canal de voz cuando	Sente-se em um canal de voz quando
+12150	estés libre. Tus amigos del servidor pueden ver cuando	estiver livre. Seus amigos do servidor podem ver quando você
+12151	estás cerca y entrar al instante a hablar sin tener que llamar.	está por perto e entrar na hora para conversar sem precisar ligar.
+12152	De unos pocos a un fandom	De poucos a um fandom
+12153	Haz que cualquier comunidad funcione con herramientas de moderación y accesos personalizados para miembros. Dales poderes especiales, crea canales privados y más.	Faça qualquer comunidade funcionar com ferramentas de moderação e acesso personalizado para membros. Dê poderes especiais aos membros, crie canais privados e muito mais.
+12154	Imagina un lugar...	Imagine um lugar...
+12155	...donde puedes pertenecer a un club escolar, un grupo de gaming o una comunidad de arte mundial. Donde tú y unos pocos amigos pueden pasar tiempo juntos. Un lugar que hace fácil hablar todos los días y pasar el rato más seguido.	...onde você pode fazer parte de um clube escolar, um grupo de jogos ou uma comunidade de arte mundial. Onde você e alguns amigos podem passar tempo juntos. Um lugar que facilita conversar todo dia e se encontrar com mais frequência.
+12156	{1}Descarga para Windows	{1}Baixe para Windows
+12157	Tecnología confiable para mantenerse cerca	Tecnologia confiável para ficar perto
+12158	La voz y el video de baja latencia hacen sentir que	Voz e vídeo de baixa latência fazem você sentir que
+12159	estás en el mismo cuarto. Saluda por video, mira a tus amigos transmitir sus juegos o júntense para dibujar con compartir pantalla.	está no mesmo cômodo. Dê oi por vídeo, assista seus amigos transmitindo jogos ou junte-se para desenhar com compartilhamento de tela.
+12160	¿Listo para empezar tu viaje?	Pronto para começar sua jornada?
+12161	{1}Abre Discord en tu navegador	{1}Abra o Discord no seu navegador
+12162	Imagina un lugar	Imagine um lugar
+12164	Fecha de nacimiento	Data de nascimento
+12165	He leído y acepto los	Li e concordo com os
+12166	Por favor usa solo números, letras, guiones bajos _ o puntos .	Use apenas números, letras, sublinhados _ ou pontos .
+12167	El nombre de usuario no está disponible. Prueba agregando números, letras, guiones bajos _ o puntos.	Este nome de usuário não está disponível. Tente adicionar números, letras, sublinhados _ ou pontos.
+12168	Debe tener al menos 8 caracteres	Deve ter pelo menos 8 caracteres
+12169	Ingresa una fecha de nacimiento válida	Insira uma data de nascimento válida
+12170	Necesitas tener 13 años o más para usar Discord	Você precisa ter 13 anos ou mais para usar o Discord
+12171	¿Ya eres miembro? Inicia sesión aquí.	Já é membro? Faça login aqui.
+12172	Nombre de usuario :	Nome de usuário :
+12173	¿Qué es YouTube?	O que é o YouTube?
+12174	YouTube es una forma de llevar tus videos a las personas que te importan. Con YouTube puedes:	O YouTube é um jeito de levar seus vídeos para as pessoas que importam para você. Com o YouTube você pode:
+12175	Subir, etiquetar y compartir tus videos en todo el mundo	Enviar, marcar e compartilhar seus vídeos no mundo todo
+12176	Explorar miles de videos originales subidos por miembros de la comunidad	Navegar por milhares de vídeos originais enviados por membros da comunidade
+12177	Encontrar, unirte y crear grupos de videos para conectar con personas con intereses similares	Encontrar, entrar e criar grupos de vídeos para se conectar com pessoas com interesses parecidos
+12178	Personalizar tu experiencia con listas de reproducción y suscripciones	Personalizar sua experiência com playlists e inscrições
+12179	Integrar YouTube con tu sitio web usando videos incrustados o APIs	Integrar o YouTube ao seu site usando vídeos incorporados ou APIs
+12180	Para saber más sobre nuestro servicio, consulta nuestra	Para saber mais sobre nosso serviço, veja nossa
+12181	Unirte a YouTube es gratis y fácil. Solo completa la información de la cuenta abajo.	Entrar no YouTube é grátis e fácil. Basta preencher as informações da conta abaixo.
+12182	(Todos los campos son obligatorios)	(Todos os campos são obrigatórios)
+12183	Dirección de correo:	Endereço de e-mail:
+12184	Nombre de usuario:	Nome de usuário:
+12185	Confirmar contraseña:	Confirmar senha:
+12186	Código postal:	CEP:
+12187	Obligatorio para EE. UU. y Reino Unido	Obrigatório para EUA e Reino Unido
+12188	Fecha de nacimiento:	Data de nascimento:
+12189	Suscríbeme al correo "The Weekly Tube"	Quero receber o e-mail "The Weekly Tube"
+12190	- Certifico que tengo más de 13 años.	- Certifico que tenho mais de 13 anos.
+12191	- Acepto los	- Concordo com os
+12192	términos de uso	termos de uso
+12194	{1} YouTube, Inc.	{1} YouTube, Inc.
+12195	Enviamos los detalles a la dirección de correo de tu cuenta.	Enviamos os detalhes para o endereço de e-mail da sua conta.
+12197	Esta cuenta ha sido suspendida.	Esta conta foi suspensa.
+12198	Nombre de usuario o contraseña no válidos.	Nome de usuário ou senha inválidos.
+12199	Ingresa un nombre de usuario.	Insira um nome de usuário.
+12200	El nombre de usuario solo puede contener letras A-Z o números 0-9.	O nome de usuário só pode conter letras A-Z ou números 0-9.
+12201	El nombre de usuario debe tener al menos 3 caracteres.	O nome de usuário deve ter pelo menos 3 caracteres.
+12202	Ese nombre de usuario no está permitido.	Esse nome de usuário não é permitido.
+12203	El nombre de usuario "{1}" ya está en uso. Por favor elige otro.	O nome de usuário "{1}" já está em uso. Escolha outro.
+12204	Tu contraseña debe tener al menos 6 caracteres.	Sua senha deve ter pelo menos 6 caracteres.
+12205	Las contraseñas que ingresaste no coinciden.	As senhas que você digitou não coincidem.
+12206	Selecciona un país.	Selecione um país.
+12207	Ingresa tu código postal.	Insira seu CEP.
+12208	Selecciona tu género.	Selecione seu gênero.
+12209	Ingresa una fecha de nacimiento válida.	Insira uma data de nascimento válida.
+12210	Debes tener más de 13 años para registrarte en YouTube.	Você precisa ter mais de 13 anos para se cadastrar no YouTube.
+12211	url(social/youtube/2008-master.gif) no-repeat	url(social/youtube/2008-master.gif) no-repeat
+12212	italic 700 46px "Times New Roman",serif	italic 700 46px "Times New Roman",serif
+12213	Crea mi cuenta	Crie minha conta

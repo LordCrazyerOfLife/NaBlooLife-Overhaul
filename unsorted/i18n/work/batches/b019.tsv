@@ -1,0 +1,800 @@
+14645	Dry hole
+14646	You own a business!
+14647	Still rich
+14648	Thinning out
+14649	Nearly played out
+14650	Played out
+14651	Sink a New Shaft
+14652	{1} · owned since {2}{3}
+14653	Last Year · {1}
+14654	{1} after wages and costs
+14655	Workers · {1} of {2}
+14656	Nobody is working here
+14657	Hire {1} or the business earns nothing
+14658	{1} a year each at {2} pay
+14659	Let Workers Go
+14660	Cut your wage bill
+14661	Wages · {1} Pay
+14662	Running the Business
+14663	You already put in the time this year
+14664	Spend the year keeping a close eye on things
+14665	Oversee the Business
+14666	Insured · {1} a year
+14667	Not insured · {1} a year to be paid {2} if it burns
+14668	{1} · it might strike more, or might not
+14669	Expand the Business
+14670	{1} · room for {2} {3}
+14671	Sell the Business
+14672	Worth about {1}
+14673	And {1} more
+14674	Too many to know them all by name
+14675	{1} year{2} with you
+14676	Age {1} · {2} · {3} a year
+14677	Praise {1} work
+14678	Give a Bonus
+14679	{1} for a job well done
+14680	foreman
+14681	Put {1} in charge of the other {2}
+14682	Fire {1} from {2}
+14683	A bonus costs {1}.
+14684	I gave {1} at {2} a bonus of {3}.
+14685	{1} couldn't stop thanking you.
+14686	I made {1} the foreman at {2}.
+14687	New foreman
+14688	{1} is now the foreman at {2}.
+14689	Fire {1} from {2}?
+14690	I let {1} go from {2}.
+14691	The Books for {1}
+14692	An ordinary year of trade.
+14693	Rent & Upkeep
+14694	{1} has no room for more {2}. Expand the business first.
+14695	You post a notice in the window and in the newspaper. Each one costs {1} a year at {2} pay, paid at the end of the year.
+14696	Fill every place ({1})
+14697	I hired {1} {2} at {3}.
+14698	Few answered
+14699	With so many men away at the war, only {1} answered your notice.
+14700	I let {1} {2} go at {3}.
+14701	You have {1} {2}. How many will you let go?
+14702	Let {1} go
+14703	Let all {1} go
+14704	Set the Wages
+14705	Pay too little and your workers drift away or walk out on strike. Pay well and they stay loyal and work harder.
+14706	{1} pay ({2} a year)
+14707	I set {1} wages at {2}.
+14708	You already put in the time this year.
+14709	A business does better when the owner is watching. How will you spend your time?
+14710	Work alongside the hands
+14711	I rolled up my sleeves and worked alongside my {1} at {2}.
+14712	Go over the books
+14713	I went over the books at {1} line by line and found where money was leaking.
+14714	Court new customers
+14715	I shook hands all over town and brought new customers to {1}.
+14716	Stop paying {1} a year for fire insurance on {2}?
+14717	I canceled the fire insurance on {1}.
+14718	Insure {1} for {2} a year? If it burns down, you'll be paid {3}.
+14719	I bought fire insurance for {1}.
+14720	Spend {1} trying to find more {2}?
+14721	a new vein
+14722	I spent {1} and struck {2} at {3}!
+14723	Struck it!
+14724	and it came up as a gusher
+14725	The drill hit oil deeper down{1}!
+14726	Your miners broke into a fresh vein of ore!
+14727	I spent {1} at {2} and found nothing.
+14728	All that money, and nothing but rock.
+14729	Expanding costs {1}.
+14730	Spend {1} to expand {2}, with room for {3} {4}?
+14731	I spent {1} expanding {2}.
+14732	A buyer offers {1} for {2}. Sell?
+14733	Business sold
+14734	The lockout cut production
+14735	The vein is played out
+14736	Your miners struck a rich pocket of ore
+14737	The well is a dry hole
+14738	So many wells came in that the price of oil collapsed
+14739	The well is running dry
+14740	The terrible winter killed most of the herd
+14741	A hard winter killed part of the herd
+14742	The railroad is taking your passengers
+14743	One of your ships went down in a storm
+14744	A boat was lost at sea with all hands
+14745	the Great Fire of New York
+14746	the Great Chicago Fire
+14747	the Great Boston Fire
+14748	the Great Seattle Fire
+14749	the San Francisco earthquake and fire
+14750	the Tooley Street fire
+14751	the Cripplegate fire
+14752	The claims from {1} were enormous
+14753	A string of fires brought in heavy claims
+14754	Without a patent, rivals copy your product
+14755	The Pure Food and Drug Act hurt sales
+14756	Prohibition shut you down
+14757	{1} hurt trade, so you cut wages and hours
+14758	You had no {1} working
+14759	I couldn't pay the debts of {1}. My creditors seized it and I went bankrupt.
+14760	{1} lost {2} this year and you couldn't cover it. Your creditors seized the business and everything in it.
+14761	You salvaged {1}.
+14762	Out of Business
+14763	{1} lost money {2} years running. Your creditors called in their loans and the doors closed for good.
+14764	{1} failed after losing money year after year.
+14765	When {1} struck, depositors lined up around the block demanding their money. {2} ran out of cash and closed its doors.
+14766	{1} caused a run on {2} and it collapsed.
+14767	{1} left {2} unable to pay its bondholders. A court handed the railroad to a receiver.
+14768	{1} went into receivership during {2}.
+14769	{1} {2} quit over the low pay
+14770	retired
+14771	miner
+14772	{1} {2} died in an accident
+14773	A firedamp explosion
+14774	{1} at {2} killed {3} {4}. Their widows are waiting at your door.
+14775	My business{1} {2} {3} this year.
+14776	Business in {1}
+14777	Hard times. {1} hurt trade everywhere.
+14778	Trade was steady this year.
+14779	. They say they cannot feed their families on what you pay
+14780	and are demanding higher wages
+14781	Your {1} at {2} have walked off the job{3}. The place stands silent.
+14782	Give them a raise
+14783	I gave my {1} at {2} a raise and they went back to work.
+14784	Hire strikebreakers ({1})
+14785	Strikebreakers cost {1}.
+14786	riot
+14787	I brought in strikebreakers at {1}. A riot broke out at the gates and men were hurt on both sides.
+14788	I brought in strikebreakers and broke the strike at {1}.
+14789	Lock them out
+14790	I locked my striking {1} out of {2} until they come crawling back.
+14791	Fire them all
+14792	I fired every striking worker at {1}. I'll have to hire all new {2}.
+14793	The Great Chicago Fire swept through the city.
+14794	A lamp tipped over in the night.
+14795	Sparks from the boiler caught the roof.
+14796	A careless worker dropped a lit match.
+14797	Lightning struck the roof during a storm.
+14798	Someone set the place alight in the night.
+14799	. My insurance paid {1}
+14800	, and I had no insurance
+14801	{1} {2} burned to the ground{3}.
+14802	Your insurance company paid you {1}.
+14803	You had no insurance. Everything is lost.
+14804	{1} {2} burned to the ground. {3}
+14805	Rebuild it ({1})
+14806	Rebuilding costs {1}.
+14807	I rebuilt {1} from the ashes.
+14808	{1} rises from the ashes. You'll need to hire your {2} again.
+14809	matches
+14810	locomotive
+14811	mower
+14812	reaper
+14813	plow
+14814	telegraph
+14815	rubber
+14816	sewing
+14817	elevator
+14818	kerosene
+14819	typewriter
+14820	barbed
+14821	telephone
+14822	phonograph
+14823	bulb
+14824	Electric Light Bulb
+14825	bicycle
+14826	dishwasher
+14827	tire
+14828	motor
+14829	Motion Picture Camera
+14830	zipper
+14831	wireless
+14832	Set Up a Workshop
+14833	{1} for a bench, tools, wire and chemicals. Every inventor needs one
+14834	Tinker on ideas whose time is coming, patent them before your rivals do, and earn royalties for years
+14835	A workshop costs {1}.
+14836	I set up an inventor's workshop in the shed.
+14837	{1} workshop session{2} left this year
+14838	no time left this year
+14839	Ideas in {1} · {2}
+14840	Ahead of its time. Hard, but you could beat history
+14841	Rival inventors are racing you to the patent office
+14842	No new ideas right now
+14843	Keep reading the papers. New ideas come with the times
+14844	Patented {1} · expires {2} · earned {3}
+14845	Nobody has built a working {1} yet. If you crack it first, your name could go down in history.
+14846	Other inventors are working on a {1} right now. Whoever reaches the patent office first wins.
+14847	Tinker with it
+14848	Give up on it
+14849	I gave up on my {1}.
+14850	Worn out
+14852	The materials cost {1}.
+14853	The nitroglycerin went off in my workshop. I was lucky to survive.
+14854	My flying machine crashed on its test flight and I was thrown into a field.
+14855	A fire broke out in my workshop while I was tinkering. I got burned putting it out.
+14856	I worked late into the night on my {1}. It is starting to come together.
+14857	My {1} failed again, but I learned something.
+14858	I redrew the plans for my {1} from scratch.
+14859	I built a new model of my {1}. It almost works.
+14860	Famous Inventor!
+14861	Newspapers everywhere are writing about {1} {2}, inventor of the {3}. You're famous!
+14862	, years before anyone else thought of it
+14863	It works! Your {1} is finished{2}. Patent it and earn royalties for years, or sell the idea outright.
+14864	A Manufacturer Offers
+14865	Patent it ({1})
+14866	The patent fee is {1}.
+14867	I was granted a patent for my {1}!
+14868	Patent granted
+14869	The patent office granted you a patent on the {1}. You'll earn royalties every year until {2}.
+14870	Sell the idea ({1})
+14871	I sold my {1} to a manufacturer for {2}.
+14872	Idea sold
+14873	A manufacturer paid you {1} for the rights to your {2}.
+14874	Your patent on the {1} pays royalties every year until it expires in {2}.
+14875	Earned So Far
+14876	Build a factory ({1})
+14877	A factory costs {1}.
+14878	I built a factory to make my {1} and named it {2}.
+14879	Factory built
+14880	{1} is ready. Hire factory hands to start making your {2}.
+14881	Sell the patent ({1})
+14882	I sold my patent on the {1} for {2}.
+14883	Patent sold
+14884	You sold the patent for {1}.
+14885	My patent on the {1} expired. Anyone can make it now.
+14886	My patents earned {1} in royalties this year.
+14887	A rival manufacturer
+14888	A big company back East
+14889	A former partner of yours
+14890	A crafty inventor
+14891	{1} is selling copies of your {2} without paying you a cent.
+14892	Sue them ({1})
+14893	The lawyers want {1}.
+14894	I won my patent lawsuit over the {1}. The court awarded me {2} in damages.
+14895	I lost my patent lawsuit over the {1}. The judge sided with the copycats.
+14896	I let the copycats sell my {1}. My royalties will suffer.
+14897	pine
+14898	spruce
+14899	maple
+14900	birch
+14901	cherry
+14902	walnut
+14903	willow
+14904	dead
+14905	firewood
+14906	north
+14907	coast
+14908	Redwood Coast, California
+14909	A plain single-bit axe for felling trees
+14910	A sharper, better-balanced axe that bites deeper
+14911	Two edges, twice as long between sharpenings. The logger's favorite
+14912	broad
+14913	Hew logs into square timber. Sawmills and shipyards pay more for hewn logs
+14914	Cut fallen trees into firewood lengths
+14915	maul
+14916	Split firewood faster, so each tree makes more of it
+14917	Saw through big trunks far faster than any axe
+14918	Pull trees down where you want them. Far fewer accidents
+14919	Haul far more timber home. Needs a horse to pull it
+14920	No axe
+14921	You can't fell a tree without one
+14922	Axes, saws, mauls, rope and log carts
+14923	Go Cutting · {1} · you can haul {2} board feet
+14924	{1} load{2} in your Assets
+14925	Sell to the sawmill, furniture maker, shipyard or firewood dealer
+14926	The storekeeper won't sell an axe to a child.
+14927	You are too young to go cutting trees alone.
+14928	You need an axe to fell trees. Buy one at the hardware store.
+14929	You have cut all the timber you can this year. Try again next year.
+14930	{1} cord{2} of firewood
+14931	{1} board feet of {2}
+14932	nothing
+14933	I came home from the {1} with {2}.
+14934	I came home from the {1} empty-handed.
+14935	You hauled home {1}. It's in your Assets.
+14936	You came home with nothing.
+14937	Your arms are spent. You can't swing another blow today.
+14938	{1}You find {2} {3}, {4} inches across and about {5} feet tall.
+14939	Firewood only
+14940	about {1} board feet
+14941	{1} of {2} board feet
+14942	Fell this tree
+14943	Look for another tree
+14944	You move on through the woods.
+14945	Head home
+14946	Chips fly as you work into the {1}-inch trunk.
+14947	Cut through
+14948	Swing your axe
+14949	Saw with the crosscut
+14950	Give up on this tree
+14951	You leave the half-cut tree standing.
+14952	You were too worn out to finish the tree.
+14953	an axe accident in the woods
+14954	Your axe glances off a knot and bites into your leg!
+14955	a falling branch in the woods
+14956	A dead branch breaks loose high above and comes crashing down on you!
+14957	The blade bites deep.
+14958	Wood chips fly.
+14959	The trunk shudders.
+14960	It's starting to creak.
+14961	being crushed by a falling tree
+14962	The trunk twisted as it fell and came down the wrong way, clipping you as you dove clear!
+14963	TIMBER! The tree crashes to the ground.
+14965	Timber! The tree comes down right where you wanted it.
+14966	Drag the logs out ({1} board feet)
+14967	Drag out what you can ({1} board feet)
+14968	Too much to haul already
+14969	You can't haul any more.
+14970	A log cart would help.
+14971	A horse would let you haul far more.
+14972	You drag {1} board feet of {2} to the trail.
+14973	Cut it into firewood
+14974	You are too tired to saw it into firewood.
+14975	You saw and split it into {1} cord{2} of firewood.
+14976	Break it up for firewood
+14977	Without a saw you could only break off {1} cord{2} of firewood.
+14978	Leave it and move on
+14979	You leave the fallen tree where it lies.
+14980	Rotten wood, firewood only
+14981	{1} board feet
+14982	Room to Haul
+14983	You ride into the {1}.
+14984	You head into the {1} with your {2}.
+14985	({1} bd ft)
+14986	Starting to rot
+14987	{1}worth up to {2}
+14988	{1} board feet of {2}{3}
+14989	Hew it into square timber
+14990	I hewed {1} into square timber with my broad axe.
+14991	Burn it to keep warm this winter
+14992	I burned {1} to keep my home warm.
+14993	I got rid of {1}.
+14994	Seasoned firewood keeps for years.
+14995	Sell your logs before they rot. Logs left lying more than two years start to go bad.
+14996	{1} inches across
+14997	A load of my timber
+14998	{1} loads of my timber
+14999	rotted away before I could sell it.
+15000	· 5-Year Price per Ounce
+15001	Quarter Eagle ($2.50 gold piece)
+15002	Half Eagle ($5 gold piece)
+15003	eagle
+15004	Eagle ($10 gold piece)
+15005	Double Eagle ($20 gold piece)
+15006	guinea
+15007	Gold Bar (10 oz)
+15008	Silver Bar (10 oz)
+15009	Silver Bar (100 oz)
+15010	{1} an ounce · {2} this year · {3} in 5 years
+15011	Your shares are worth {1}
+15012	Buy shares in {1} listed companies
+15013	· paid in paper money
+15014	Prices in {1}{2}
+15015	Owning gold is against the law
+15016	The government banned private gold in 1933. Dealers won't sell it, and only shady buyers will take yours, at a discount.
+15017	The war has paper money falling
+15018	Gold costs {1}% more in paper dollars than its face value
+15019	Your Vault · worth {1}
+15020	Worth {1} · {2} since you bought in {3}
+15021	Buy from the Bullion Dealer
+15022	{1} oz of {2}
+15023	The bullion dealer won't sell to a child.
+15024	I bought {1} for {2}.
+15025	hold their value when banks fail. You can keep them, sell them, or leave them to your children.
+15026	What an ounce of {1} has sold for over the last five years.
+15027	{1} an ounce
+15028	You bought these in {1}.
+15029	Gain or Loss
+15030	Sell all {1}
+15031	Executive Order 6102
+15032	Turn In Your Gold
+15033	President Roosevelt has ordered every American to turn in their gold coins and bars to the Federal Reserve at $20.67 an ounce. Hoarding gold is now a crime punishable by prison.
+15034	Rumor says the government will raise the price of gold to $35 right after.
+15035	The Government Pays
+15037	I turned in my gold to the government for {1} under Executive Order 6102.
+15038	Hide it under the floorboards
+15039	I hid my gold under the floorboards instead of turning it in.
+15040	and fined me {1}
+15041	Treasury agents found the gold I had hidden. They seized it all{1}.
+15042	and fined you {1}
+15043	Treasury agents searched your home and found the gold you hid. They seized every ounce{1}.
+15044	Owning gold became legal again, and I dug my hidden gold out from under the floorboards.
+15045	Gold Is Legal Again
+15046	President Ford signed the law making it legal for Americans to own gold again. You pulled your hidden gold out from under the floorboards. It's worth far more than when you hid it.
+15047	Gold and silver worth {1}
+15048	:root.era1800
+15049	html.era1800 {1}
+15050	gained
+15051	My gold and silver {1} {2} in value this year.
+15052	Gold & Silver in {1}
+15053	Your vault of gold and silver gained value this year.
+15054	Your vault of gold and silver lost value this year.
+15055	{1} an ounce · {2}
+15056	accessories
+15057	Accessorize yourself
+15058	adoption
+15059	Adopt a child
+15060	Commit a crime
+15061	Visit the doctor
+15062	emigrate
+15063	Move to another country
+15064	fertility
+15065	Visit a fertility clinic
+15066	fight
+15067	Bet on an Ultimate Fighting League match
+15068	gamble
+15069	Visit a local casino
+15070	horse
+15071	Go to the horse track
+15072	hunting
+15073	identity
+15074	Define your identity
+15075	lawsuit
+15076	Sue someone
+15077	licenses
+15078	Manage your licenses
+15079	loan
+15080	Borrow money
+15081	lottery
+15082	Play the lottery
+15083	love
+15084	Find someone to love
+15085	Mind & Body
+15086	Work on self-improvement
+15087	Go to the movies
+15088	Go clubbing
+15089	pets
+15090	Get a pet
+15091	Go under the knife
+15092	Pray to the BitLife devs
+15093	rehab
+15094	Battle your addictions
+15095	salon
+15096	Salon & Spa
+15097	Take time for yourself
+15098	shopping
+15099	Go shopping
+15100	Enter the sweepstakes
+15101	therapy
+15102	Work on your mental health
+15103	Travel back in time
+15104	vacation
+15105	Go on a vacation
+15106	will
+15107	Manage your legacy
+15108	Go to the zoo
+15109	Manage your royal life
+15110	passport
+15111	Don't give up on {1}!
+15112	Continue this life
+15113	Are you sure you want to surrender the life of {1}?
+15114	Use your golden passport!
+15115	I emigrated to {1}, {2} using my golden passport.
+15116	I lost my job as {1} {2} when I moved away.
+15117	news
+15118	from the academy
+15119	Dude, Where's My Kidney?
+15120	Grandma Got Tased
+15121	Mall Cop 3: Escalation
+15122	Bridesmaids Gone Wild
+15123	Meet the Fockingtons
+15124	Hot Tub Time Machine 4
+15125	Anchorman: The Legend Continues Again
+15126	Dumb and Dumbest
+15127	The 41-Year-Old Virgin
+15128	Nacho Libre 2: Extra Cheese
+15129	Office Space Invaders
+15130	Borat Jr.
+15131	Weekend at Bernie's Cousin's
+15132	The Secret Life of Pigeons
+15133	March of the Accountants
+15134	Free Solo Cup
+15135	Making a Murderer's Sandwich
+15136	Inside the Mind of a Toaster
+15137	Cosmos: Beyond Uranus
+15138	My Octopus Landlord
+15139	The Last Blockbuster Video
+15140	Fyre and Ice
+15141	Searching for Sugar Daddy
+15142	Jiro Dreams of Pizza
+15143	Bowling for Columbus
+15144	comedy
+15145	Go see a comedy
+15146	documentary
+15147	Go see a documentary
+15148	You are unable to find an interesting new {1} to go see.
+15149	Boost your {1} by going to see {2} today!
+15150	Go see it
+15151	I went to the theater to see '{1}'.
+15152	You went to the theater to see '{1}'.
+15153	gender
+15154	Identify your gender
+15155	Change your name
+15156	sexuality
+15157	Declare your sexuality
+15158	You are feeling {1} tendencies.
+15159	How do you identify?
+15160	Birth Gender:
+15161	Pick your gender identity:
+15162	That feels right
+15163	I'm not sure
+15164	I'm still figuring out my gender identity.
+15165	You already identify as {1}.
+15166	I came out as {1}.
+15167	Feels right
+15168	It doesn't feel quite right.
+15169	You now identify as {1}.{2}
+15170	You must be 18 to legally change your name.
+15171	File a request to legally change your name today!
+15172	First Name:
+15173	Last Name:
+15174	File a request
+15175	That's already your name!
+15176	You can't afford to file a name change request.
+15177	I legally changed my name from {1} to {2} {3}.
+15178	New me
+15179	Your request was approved!
+15180	You are now legally known as {1} {2}.
+15181	You're too young to know your sexuality yet.
+15182	very strong heterosexual
+15183	heterosexual
+15184	bisexual
+15185	homosexual
+15186	very strong homosexual
+15187	What are you?
+15188	Out and proud
+15189	Buckley & Associates
+15190	Hayes & Associates
+15191	Chislehurst & Associates
+15192	Goldberg Law Group
+15193	Pierce & Pierce
+15194	Sterling & Sons
+15195	Dewey Cheatham & Howe
+15196	Ramirez Law Offices
+15197	Kowalski & Partners
+15198	Abernathy & Lowe
+15199	When there's a will...
+15200	Don't catch me in the streets
+15201	Not guilty
+15202	{n} burst into tears as the verdict was read.
+15203	{n} called you a gold digger on the courthouse steps.
+15204	{n} laughed at you as you left the courtroom.
+15205	{n} threatened to kill you as you left the courtroom.
+15206	{n} stormed out of the courtroom.
+15207	{n} shook your hand and apologized.
+15208	You don't have anyone to sue right now.
+15209	When someone wrongs you, you'll have a few years to file a lawsuit against them.
+15210	File a lawsuit against someone today!
+15212	Find a law firm
+15213	Which local law firm will you hire to sue {1} for {2}?
+15214	Pick your damages:
+15215	You can't afford to hire {1}.
+15216	I hired {1} for {2} to sue {3} for {4}.
+15217	I lost my lawsuit against {1}.
+15218	You lost your lawsuit against {1}, for {2}.
+15219	Legal Fees:
+15220	I won my lawsuit against {1} and was awarded {2}.
+15221	announced it would appeal the verdict.
+15222	refused to comment.
+15223	blamed the ruling on a rogue manager.
+15224	You won your lawsuit against {1}, for {2}!
+15225	Buy a lottery ticket today!
+15226	Ticket Cost:
+15227	Buy a ticket
+15228	Buy 10 tickets
+15229	a lottery ticket
+15230	{1} lottery tickets
+15232	I bought {1} lottery tickets.
+15233	I won the {1} lottery jackpot!
+15234	Oh my god
+15235	You won the {1} lottery jackpot!
+15236	Jackpot...not!
+15237	You did not win the lottery jackpot.
+15238	Go to an Ultimate Fighting League fight and bet on the outcome today!
+15239	You can't afford the admission.
+15240	I went to an Ultimate Fighting League match between {1} {2} and {3} {4}.
+15241	Place a bet!
+15242	This Ultimate Fighting League match is between {1} and {2}.
+15243	Place your bets!
+15244	Pick your fighter:
+15245	I'll just watch
+15246	I bet {1} that {2} {3} would win.
+15247	Your Fighter:
+15248	Your Bet:
+15249	You're just here to watch.
+15250	{1} won the Ultimate Fighting League match.
+15251	{1} won the match!
+15252	I won {1} after betting that {2} would win.
+15253	You won {1} by betting that {2} would win.
+15254	I lost {1} after betting that {2} would win.
+15255	You lost {1} by betting that {2} would win.
+15256	sperm
+15257	Give your {1} to someone in need
+15258	Get in-vitro fertilization
+15259	surrogate
+15260	Find a sperm donor
+15261	Hire a surrogate
+15262	sterilize
+15263	Get sterilized
+15264	Approach {1} {2} to be your {3} today!
+15265	Ask {1} {2} to be your {3} today!
+15266	Pick your egg donor:
+15267	Pick your sperm donor:
+15268	You can't afford to hire {1} as your {2}.
+15269	Your {1}, {2}, is not interested in using a {3}.
+15270	Argue with {1}
+15271	I argued with my {1}, {2}, about using a {3}. {4} eventually came around.
+15272	I argued with my {1}, {2}, about using a {3}.
+15273	You argued with {1}, but {2} still doesn't want a {3}.
+15274	Proceed anyway
+15275	Never mind then
+15276	I decided not to use a {1} because my {2}, {3}, wasn't interested.
+15277	Not a chance
+15278	{She}'s worried you won't live long enough to raise a child.
+15279	Bad omen
+15280	{She} thinks you look way too sickly to be a parent.
+15281	{She} thinks you're too old to be starting a family.
+15282	No way
+15283	{She} says you'd be mistaken for the kid's great-grandparent.
+15284	{She} was weird anyways
+15285	{She} thinks you're a little too creepy to be parenting a child.
+15286	{She} took one look at you and laughed.
+15287	No money for you then
+15288	{She} doesn't like your attitude.
+15289	{She} decided {she} isn't ready to help you have a child.
+15290	Not happening
+15291	{She} got a bad vibe from you.
+15292	health
+15293	looks
+15294	I asked {1} to be my {2}, but {3} refused.
+15295	{1} has refused to be your {2}.
+15296	I paid {1} {2} to be my sperm donor. I'm now pregnant!
+15297	{1} agreed to be your sperm donor.
+15298	You are now pregnant!
+15299	I paid {1} {2} to be my surrogate. She's now pregnant with my baby!
+15300	{1} agreed to be your surrogate and is now pregnant with your baby!
+15301	Your {1}, {2}, is arguing with you because you went to a fertility clinic against {3} wishes.
+15302	I apologized to my {1}, {2}, for going to a fertility clinic against {3} wishes.
+15303	Argue back to {1}
+15304	My {1}, {2}, broke up with me after we argued about the fertility clinic.
+15305	{1} broke up with you!
+15306	I argued with my {1}, {2}, about the fertility clinic.
+15307	Modded Skin & Eyes
+15308	with a Hat
+15309	at the Window
+15310	Bowl of
+15311	Vase of
+15313	Basket of
+15314	Jar of
+15315	Table of
+15316	People are starting to recognize me for my paintings.
+15317	Fame unlocked!
+15318	So many people love your paintings that you are becoming famous!
+15319	Market value
+15321	paint
+15322	Create a new painting ({1}/3 this year)
+15323	class
+15324	Already took one this year
+15325	Improve your technique ({1})
+15326	Already held one this year
+15327	Show your paintings at a gallery
+15328	You need {1} for an art class.
+15329	(my parents paid for it)
+15330	I took an art class{1}.
+15331	You took an art class and learned new techniques.
+15332	Painting skill +{1}
+15333	You need at least one painting to hold an exhibition.
+15334	I held an art exhibition at {1}.
+15335	Critics hated your exhibition at {1}.
+15336	Your exhibition at {1} drew a big crowd!
+15337	What do you want to paint?
+15338	Pick your subject:
+15339	Pick your medium:
+15340	Start painting
+15341	You need {1} for {2} supplies.
+15342	You painted "{1}", {2}.
+15343	No buyers until next year
+15344	Your {1} {2} painting.
+15345	Your Fans:
+15346	I tried to sell my painting "{1}" for {2}, but nobody bought it.
+15347	No buyers
+15348	Nobody was willing to pay {1} for "{2}".
+15349	Try again next year. It'll be worth more by then.
+15350	I sold my painting "{1}" for {2}.
+15351	A collector bought your painting "{1}" for {2}!
+15352	Light up a fire
+15353	Rob a bank
+15354	burglary
+15355	raccoon
+15356	Burgle a home
+15357	pill
+15358	Buy drugs for yourself
+15359	Embezzle funds from work
+15361	Steal a car
+15362	hack
+15363	Hack into someone's computer
+15364	Arrange a contract killing
+15365	kidnap
+15366	chains
+15367	Kidnap someone
+15368	mischief
+15369	Engage in some mischief
+15370	knife
+15371	Kill someone
+15372	pickpocket
+15373	jeans
+15374	Pickpocket a stranger
+15375	porch
+15376	Steal a neighbor's mail
+15377	Steal merchandise from a store
+15378	Deface someone's property
+15379	Attempt a jewelry store heist
+15380	Steal a valuable masterpiece
+15381	counterfeit
+15382	Deal in fake currency
+15383	Assume a stolen identity
+15384	fraud
+15385	Run a dishonest scheme
+15386	smuggle
+15387	Move forbidden goods
+15388	launder
+15389	Conceal illicit profits
+15390	betting
+15391	Wager in an underground ring
+15392	trespass
+15393	Enter a restricted property
+15394	Enter an illegal street race
+15395	Sell drugs on the black market
+15396	Rob a train
+15397	Not available
+15398	{1} isn't available in the 1800s.
+15399	You're too young to {1}.
+15400	I tried to commit {1}, but I got caught.
+15401	set {v} on fire
+15402	Push Down Stairs
+15403	pushed {v} down the stairs
+15404	caught {v} in a bear trap
+15405	Run Them Over
+15406	ran over {v} with a car
+15407	Hit Them With a Bat
+15408	beat {v} with a baseball bat
+15409	Mr. Smith
+15410	La Femme Nikita
+15411	a bow & arrow
+15412	a sniper rifle
+15413	a poison dart
+15414	a car bomb
+15415	a frying pan
+15416	a nail gun
+15417	a garden hoe
+15418	a golf club
+15419	You're thinking about hiring a hitman to take care of someone.
+15420	Pick your victim:
+15421	Look for a hitman
+15422	I contacted a hitman named {1} to explore the possibility of whacking out {2}, {3}. {4} quoted me {5} to get the job done.
+15423	You found a hitman going by the name of {1} who is willing to pull off the hit on {2}, {3}.
+15424	I decided not to hire {1}.
+15425	I couldn't afford to hire {1}.
+15426	You don't have enough money to hire {1}.
+15427	I agreed to go through with it.
+15428	{1} pulled off the hit on {2} using {3}!
+15429	arranging a contract killing
+15430	Job done
+15431	Your hitman, {1}, pulled off the hit on {2} using {3}!
+15432	{1} ran off with my money!
+15433	Call the cops!
+15434	Your hitman, {1}, ran off with your money without pulling off the hit on {2}!
+15435	{1} turned out to be an undercover cop!
+15436	Killer cop
+15437	Your hitman, {1}, turned out to be an undercover cop!
+15440	Tell {1} a deal is a deal
+15441	I told {1} a deal is a deal. {2} threat was a bluff.
+15442	{1} backed down and pulled off the hit on {2}!
+15443	{1} attacked me with {2}!
+15444	{1} attacked you with {2}! You barely escaped with your life.
+15445	I called the police on my hitman, {1}.
+15446	The police arrested {1}… and questioned you about the hit.
+15447	Run for my life
+15448	I ran for my life from my hitman, {1}.
+15449	You ran for your life and {1} lost track of you. {2} also kept your money.
+15450	Pay {1} the extra {2}
+15451	You can't afford to pay {1} {2}!
+15452	I paid {1} another {2}. {3} pulled off the hit using {4}!
+15453	a baseball bat
+15454	a kitchen knife

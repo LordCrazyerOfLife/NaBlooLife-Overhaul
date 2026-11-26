@@ -1,0 +1,14 @@
+{
+  "appId": "com.yourlife.game",
+  "appName": "YourLife",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "ios": {
+    "contentInset": "never"
+  }
+}

@@ -1,0 +1,800 @@
+19498	improved
+19499	{1} treated my {2}. It's still there, but I feel a bit better.
+19500	Some improvement
+19501	Keep up your treatment to slow it down.
+19502	{1} couldn't cure your {2}, but the treatment helped you feel a bit better.{3}
+19503	failed
+19504	{1} tried to treat my {2}, but it didn't work.
+19505	{1}'s treatment for your {2} didn't work.
+19506	{1} treated my {2}, but I'm still suffering from it.
+19507	{1}'s treatment helped a little, but you are still suffering from {2}. This is going to take a lot more treatment.
+19508	I passed on treatment for my {1}.
+19509	Visit a medical doctor
+19510	Visit the emergency room
+19511	Try an alternative treatment
+19512	Visit the witch doctor
+19513	Rush to the emergency room to get checked out and stabilized?
+19514	Go to the ER
+19515	You can't afford the emergency room.
+19516	The ER stabilized my {1}.
+19517	I went to the emergency room to get checked out.
+19518	The ER doctors stabilized your {1} and sent you home. You should still see a medical doctor.
+19519	The ER doctors checked you over, patched you up and sent you home.
+19520	You don't have any known illnesses to treat. Visit a medical doctor to get diagnosed first.
+19521	Try an alternative treatment for one of your ailments.
+19522	Pick your ailment:
+19523	I tried {1} and it cured my {2}!
+19524	{1} cured your {2}!
+19525	I tried {1} for my {2}, but it didn't help.
+19526	No improvement
+19527	{1} didn't do anything for your {2}.
+19528	A witch doctor offers to cure whatever ails you with an ancient remedy. Results are not guaranteed.
+19529	Let the witch doctor treat me
+19530	You can't afford the witch doctor.
+19531	I drank a potion from a witch doctor.
+19532	a witch doctor's potion
+19533	A witch doctor somehow cured my {1}!
+19535	A witch doctor's remedy made me sick.
+19536	That was a mistake
+19537	The witch doctor's remedy made you violently ill.
+19538	I visited a witch doctor, but nothing happened.
+19539	Nothing happened
+19540	The witch doctor chanted and waved some feathers around. You feel exactly the same.
+19541	Love in the Air
+19542	You're noticing that everyone you know is coupled up with someone, but you're not.
+19543	Help me find a date
+19544	I'm okay with that, actually
+19545	I decided I was fine being single.
+19546	Your commanding officer informs the team of a life-threatening rescue mission in shark-infested waters and is asking for volunteers. What will you do?
+19547	Volunteer a fellow guardsman
+19548	I volunteered {1} for a rescue mission. A shark bit them.
+19549	Shark bait
+19550	You volunteered {1} for the mission. A shark took a chunk out of their leg, and they haven't spoken to you since.
+19551	I volunteered {1} for a rescue mission in shark-infested waters.
+19552	You volunteered {1}. They completed the rescue and got all the credit.
+19553	Hide in the latrine
+19554	I hid in the latrine to avoid a dangerous rescue mission.
+19555	Your commanding officer found you hiding in the latrine. They were not impressed.
+19556	I volunteered for a rescue mission and was eaten by a shark.
+19557	I was bitten by a shark during a rescue mission!
+19558	Shark attack!
+19559	A shark bit you during the rescue, but you still got everyone out of the water.
+19560	I volunteered for a rescue mission and saved {1} people from shark-infested waters.
+19561	You rescued {1} people from shark-infested waters without a scratch!
+19562	Spending time with my family helped me recover from depression.
+19563	helped
+19564	I recovered from {1}.
+19565	a massive heart attack
+19566	My {1} got worse.
+19567	complications from AIDS
+19568	I found out I have {1}.
+19569	You've been feeling awful, and you found out you have {1}.
+19570	See a doctor before it gets worse.
+19571	Something didn't feel right down there.
+19572	Something's wrong
+19573	You should see a doctor.
+19574	sounds/a16_sndAgeButton.wav
+19575	sounds/a16_sndDismissButton.wav
+19576	sounds/a16_sndChoiceButton.wav
+19577	freelife/sounds/atm.wav
+19578	sounds/church-bells.wav?v=2
+19579	sounds/tavern-chatter.wav?v=2
+19580	sounds/a16_sndPetHorse.wav
+19581	sounds/gallop.wav?v=2
+19582	sounds/rock-break.wav
+19583	sounds/coins-change.mp3
+19584	sounds/fishing-reel.wav
+19585	sounds/fish-splash.wav
+19586	sounds/wolf-howl.wav
+19587	sounds/a16_sndPetBird.wav
+19588	sounds/axe-chop.wav
+19589	sounds/tree-fall.wav
+19590	sounds/saw-stroke.wav
+19591	sounds/crowd-jeer.wav
+19592	sounds/trapdoor.wav
+19593	sounds/rope-creak.wav
+19594	sounds/fire-crackle.wav
+19595	sounds/anvil-hammer.wav
+19596	sounds/a16_sndRiot.wav
+19597	sounds/store-bell.mp3
+19598	a[href], .pet-rand, .ev-surprise
+19599	.hr-sel select
+19600	sounds2018/a16_snd{1}.wav
+19601	sounds/a16_sndMainScreenToList.wav
+19602	freelife/dry-pop-up-notification-alert.wav
+19603	freelife/sounds/dialog-pop.mp3
+19604	freelife/sounds/ow.wav
+19605	freelife/sounds/girl-scream.wav
+19606	freelife/sounds/dog-bark.wav
+19607	freelife/sounds/police-siren.wav?v=2
+19608	freelife/sounds/cat-meow.wav
+19609	freelife/sounds/pet-dog.wav
+19610	freelife/sounds/thunder.wav
+19611	freelife/kenney/voice-male-hold.ogg
+19612	freelife/sounds/man-scream.wav
+19613	freelife/sounds/monster-growl.wav
+19614	freelife/sounds/monster-bite.wav
+19615	freelife/sounds/bat-chirp.wav
+19616	freelife/kenney/fighter-fight.ogg
+19617	freelife/kenney/voice-you_win.ogg
+19618	freelife/kenney/voice-you_lose.ogg
+19619	freelife/sounds/achievement.mp3
+19620	freelife/sounds/age-up.mp3
+19621	freelife/sounds/heirloom-reveal.mp3
+19622	freelife/sounds/flashlight.mp3
+19623	freelife/sounds/car-horn.wav
+19624	freelife/kenney/voice-correct.ogg
+19625	freelife/sounds/buzzer.wav
+19626	freelife/kenney/voice-congratulations.ogg
+19627	sounds
+19628	error
+19629	suspended
+19630	menu
+19631	#jmX, #propX, #toast button
+19632	freelife/sounds/stat-up.mp3
+19633	freelife/sounds/stat-down.mp3
+19634	sounds/a16_sndMenuButton.wav
+19635	sounds/a16_sndFeedbackScenarioAppears.wav
+19636	sounds/a16_sndFeedbackScenarioDismissed.wav
+19637	sounds/a16_sndScenarioAppears.wav
+19638	.ev-wrap, .jm-wrap
+19639	sounds/a16_sndAchievement.wav
+19640	sounds/a16_sndDamageMale.wav
+19641	Get into a fight
+19642	BitLife Recoded, enjoy and expect bugs!
+19643	We All Started Somewhere
+19644	Age up for the first time
+19645	sounds/a16_sndFlashlightOn.wav
+19646	sounds/a16_sndRewardReveal.wav
+19647	sounds/a16_sndPray.wav
+19648	Drag the flashlight around the attic to discover your next heirloom!
+19649	found
+19650	flashlight
+19651	grandfather
+19652	I sold my family's {1} {2} for {3}.
+19653	You sold your family's {1} {2} for {3}.
+19654	View your heirloom
+19655	Get rid of it
+19656	discard
+19657	Donate it to charity
+19658	Play with it
+19659	You threw out your family's {1}. Your {2} would be heartbroken.
+19660	I threw out my family's {1}.
+19661	You donated your family's {1} to charity. It was worth about {2}.
+19662	I donated my family's {1} to charity.
+19663	You already played with your {1} this year.
+19664	You had a great time.
+19665	It brought back old family memories.
+19666	You wondered who else in the family played with it.
+19667	It was more fun than you expected.
+19668	You played with your family's {1}. {2}
+19669	I played with my family's {1}.
+19670	This {1} heirloom has been in your family for {2} year{3}. It was passed down from your {4}, and you found it in the attic in {5}.
+19671	In the Family Since
+19672	Years in the Family
+19673	Try to sell your family's {1} today!
+19674	Sell it to a pawn shop
+19675	to a pawn shop
+19676	Put your family's {1} up for auction!
+19677	In the Family Since:
+19678	Pick your starting price:
+19679	Auction it off
+19680	a museum curator
+19681	a TV antiques appraiser
+19682	a history buff
+19683	a celebrity memorabilia hunter
+19684	I put my family's {1} up for auction at {2}.
+19685	at auction to {1}
+19686	Never mind, keep it in the family
+19687	I decided to keep my family's {1}.
+19688	I found {1} in the attic!
+19689	The average value for this {1} item is {2}.
+19690	Get another heirloom now!
+19691	shrink
+19692	.hl-res .item
+19693	reveal
+19694	Discover new ways to play!
+19695	bang
+19696	Save this life and start a new one
+19697	save
+19698	Save this life in this browser
+19699	users
+19700	View Past Lives
+19701	Switch between your saved lives
+19702	stuff
+19703	Use your account-wide perks
+19704	community
+19705	See what other BitLife players are doing
+19706	Own them all
+19707	trophy
+19708	Earn them all
+19709	cemetery
+19710	Compare your past lives
+19711	cities
+19712	Add your hometown to the game!
+19713	Make your friends appear in the game!
+19714	Edit Sports Teams
+19715	Change team names & more!
+19716	Customize your favorites
+19717	help
+19718	Seek help and/or contact us
+19719	Collect them all
+19720	expansion
+19721	settings
+19722	themes
+19723	redeem
+19724	Redeem a gift code
+19725	A solo-made project
+19726	Redeem a mod code
+19727	Job Packs are not available right now.
+19728	You've successfully saved this life in this browser!
+19729	This life couldn't be saved. Your browser may be blocking site storage (private mode) or it's full.
+19730	Do you want to save your current life and start a new life?
+19731	Enjoy our favorite BitLife memes
+19732	Get your BitLife news in a Snap
+19733	Follow our official TikTok account
+19734	Keep up on news from BitLife HQ
+19735	View our favorite BitLife videos
+19736	Visit our help center
+19737	Request account deletion
+19738	Tell a Friend...
+19739	children
+19740	/api/leaderboard?sort={1}
+19741	Played in {1}
+19742	No scores in the last 24 hours yet.
+19743	Today's Leaderboards
+19744	These are the top scores in the world over the last 24 hours.
+19745	Each new score lasts for one day on the leaderboard before falling off!
+19746	Net Worth scores are recorded for the first life in a legacy only!
+19747	Tick the traits you want to be born with. Leave them all unticked for none.
+19748	superstar
+19749	houses
+19750	attributes
+19751	Free Life Mode
+19752	Snowy blue look and the penguin loading screen
+19753	Free Life Dark Mode
+19754	The snowy blue look on a dark background
+19755	The classic red BitLife++ look and loading screen
+19756	Locked: needs the Unlock All Themes mod
+19757	Go dark
+19758	Go light
+19759	Go superstar
+19760	Go spooky
+19761	Halloween Dark Mode
+19762	Go extra spooky
+19763	Go festive
+19764	snowflake
+19765	Christmas Dark Mode
+19766	Go frosty
+19767	Live like a star
+19768	Famous Dark Mode
+19769	Star of the night
+19770	Go back to where it all began
+19771	Turn on Unlock All Themes in Settings → Mod Workshop to use this theme.
+19772	Grandparents, aunts, uncles & cousins + 150 family events
+19773	Keep Heirloom Button
+19774	The Find Heirloom button stays there and never goes away
+19775	Golden Neko Statue
+19776	Luck at gambling: 20% bigger casino and horse race winnings, and luckier blackjack hits
+19777	Expanded Job Pack
+19778	Restaurant Jobs & Big Employers in Occupation
+19779	Paint, exhibit and sell your art from Occupation and School. Win fans and unlock Fame
+19780	Degree jobs only accept their main major (e.g. Accountant = Accounting), not the alternative majors players have reported
+19781	Skip Job Requirements
+19782	Apply for any job without the right degree, major, experience or rank (the old behavior)
+19783	Accurate Car Prices
+19784	Real-world prices for every car; worn-out cars sell for less
+19785	Adds custom cars like the Tesla Model S and Cybertruck to the dealerships
+19786	Show the calendar year next to your age, e.g. "Age: 5 years (2019)"
+19787	View Family Tree in Assets: your bloodline back 5 generations, with a famous ancestor
+19788	Show your late great-ancestors from the Family Tree under Late Relationships in Relationships
+19789	Be Born Into a Famous Life
+19790	Your parents & relatives can be celebrities (even megastars): their fame fills your Fame bar (up to 100%) and brings you followers every year
+19791	Be born with rare genes like heterochromia, werewolf syndrome or two heads. They run in families, and Custom Life lets you pick them
+19792	Show Their Money
+19793	Profiles show exactly how much money each person has
+19794	Unlimited Give Money
+19795	Give Money has no $10,000 cap. Give anyone as much as you have
+19796	Date as many people as you want at once, with no limit. Your partner never finds out!
+19797	MOS careers (sniper, medic, pilot…), Special Forces selection, wars, real medals and rank insignia
+19798	With Military Expanded, some Army & Marines soldiers have scars or an eye patch
+19799	Veterans get invited to war reunions decades after they served
+19800	Medals in Assets
+19801	Show every military medal you have earned in your Assets tab
+19802	papal
+19803	Papal Career Expansion
+19804	Follow a career in the Catholic Church, rise through the clergy, become a cardinal, participate in papal conclaves, and potentially become Pope.
+19805	Adds Sell Drugs to Activities → Crime
+19806	Unlimited Car Theft
+19807	Steal as many cars as you want each year instead of 4. You can still get caught!
+19808	You never get caught for murder or car theft. The cops never show up.
+19809	Always Win in Court
+19810	Every court case ends in Not Guilty, no matter your lawyer or your plea.
+19811	Going to prison for murder makes you famous. More kills means more fame: a huge count stays at 100% for years, then slowly fades but never fully goes away
+19812	See every exotic animal at once, with real-world prices (Activities → Pets)
+19813	Expanded Pet Diseases
+19814	Over 100 species-specific illnesses for dogs, cats, small mammals, birds, reptiles, fish, horses and exotics (BitLife's own 6 pet illnesses are always on)
+19815	Pet Symptom Alerts
+19816	When a pet shows signs of illness, a popup tells you as well as the life story
+19817	Any hairstyle & color, plus rainbow and 100+ hair effects
+19818	61 new hairstyles (hip-hop, long, short, plus afros, twists, locs and braids) in Barber Expanded
+19819	Compton Varrio Locos 38St Gang
+19820	Gang face tattoos: forehead lettering, 38th St & Street Gang cheek pieces and teardrops. Pick them in New Life → Appearance or Salon & Spa
+19821	Gang face tattoos: BLP Trece, Barrio Pardinos X3 & Got Barrio P forehead pieces, BLSP cheek pieces and teardrops
+19822	Gang face tattoos: Bloodel Street Piru, Everybody Killa Gangstaz, WBLST & SPY BP forehead pieces, BLST Piru & Bloodel Piru cheek pieces and teardrops
+19823	Skin & eye color, plus rainbow and other effects
+19824	Unlock All Hats & Sunglasses
+19825	Wear any hat, crown or pair of glasses
+19826	Unlock All Themes
+19827	Use every theme in Main Menu → Themes: Superstar, Halloween, Christmas, Famous, Rainbow and 2018 BitLife
+19828	Make Your Own
+19829	Make your own mods
+19830	BitLife++ is a fully recoded version, meaning you can download the source code and put it into any AI code editor and get any option you have ever wanted in BitLife. View my source code here!
+19831	dragging
+19832	wheel
+19833	prince
+19834	{1} of {2} (consort)
+19835	{1} consort of {2}
+19836	duke
+19837	Founded the royal line as the {1}
+19838	Married into the royal family and became {1}
+19839	Reigned as the {1}
+19840	In {1}, {2} became the very first {3} of {4}, founding the dynasty every {5} royal descends from.
+19841	{1} married into the royal family and from {2} reigned beside {3} spouse as {4}.
+19842	{1} inherited the title in {2} and reigned as the {3}.
+19843	coins, stamps and banknotes
+19844	the walls of every grand house
+19845	{1} was one of the most recognized people in {2}, with {3} portrait on {4}.
+19846	Royal wedding watched by
+19847	the whole nation
+19848	thousands
+19849	Crowned in {1}
+19850	A fortune of {1}
+19851	Head of state
+19852	Member of the nobility
+19853	tiara
+19854	{1} {2} is still kept in the family vault.
+19855	the Dordogne Valley (France)
+19856	the Swabian Jura (Germany)
+19857	the Altai Mountains (Siberia)
+19858	the Zagros Mountains (Iran)
+19860	the Cantabrian coast (Spain)
+19861	the Carpathian Mountains (Romania)
+19862	a fever in the first winter
+19863	the bitter cold of an Ice Age winter
+19864	hunger, in a winter when the reindeer herds never came
+19865	a wolf attack while gathering berries
+19866	falling from the rocks above the cave
+19867	drowning while fishing in the river
+19868	a fever no herb could cure
+19869	eating poisonous mushrooms
+19870	a viper bite
+19871	a hyena attack near the camp
+19872	being trampled by a woolly mammoth during a hunt
+19873	a cave bear attack
+19874	a saber-toothed cat ambush
+19875	an infected spear wound
+19876	a fight with a rival clan
+19877	falling through thin ice on the river
+19878	freezing in a blizzard while tracking reindeer
+19879	a rockfall inside the cave
+19880	an infected tooth
+19881	starvation during a harsh winter
+19882	being gored by a woolly rhinoceros
+19883	complications in childbirth
+19884	old age (rare for the Stone Age!)
+19885	pneumonia in a long Ice Age winter
+19886	a broken hip that never healed
+19887	a fever in the cold season
+19888	complications giving birth to {1}
+19889	china
+19890	Regionally famous
+19891	Nationally recognized
+19892	Internationally known
+19893	Left behind {1}
+19894	Could not save this life
+19895	My {1}, {2}, passed away. I'm carrying on the family story.
+19896	I inherited {1} from my {2}'s will.
+19897	My {1}'s will left me nothing.
+19898	thing
+19899	My {1} never wrote a will, so I didn't inherit any{2}.
+19900	ore and minerals
+19901	The family's {1} passed down to me.
+19902	I inherited the family farm, {1}.
+19903	I inherited the family's gold and silver.
+19904	I inherited the family business{1}: {2}.
+19905	I inherited the family's patent{1} and the royalties that come with {2}.
+19906	I inherited the family {1}.
+19907	A new chapter
+19908	You are now {1}, the {2} of {3}.
+19909	Your {1} left you {2} in the will!
+19910	Your {1}'s will left you nothing.
+19911	Your {1} didn't write a will, so you didn't inherit anything.
+19912	I switched lives from {1}, my {2}.
+19913	I'm living a brand new life.
+19914	Switched lives
+19915	You are now {1}{2}.
+19916	{1}'s life was saved. You can switch back any time from My Lives.
+19917	Leave this life and play as {1} {2} (age {3})? This life is saved first.
+19918	Edit your {1}, a {2}-year old {3}.
+19919	{1}Edit {2} appearance
+19920	{1}Edit {2} attributes
+19921	green nl-save nl-end
+19922	Start a new life!
+19923	Start {1}'s life!
+19924	country
+19925	{1}Genetic trait: {2}
+19926	Select your special talent
+19927	{1}Select your appearance
+19928	{1}Select your attributes
+19929	Start with $1,000,000!
+19930	Start famous
+19931	start
+19932	million
+19933	Pick the year you're born (1800-1899 or 1980-2026)!
+19934	{1}Random year
+19935	Pick as many as you want!
+19936	Pick your country!
+19937	Pick your place or city!
+19938	Pick your royal status!
+19939	Pick your special talent!
+19940	glasses
+19941	beard
+19942	brow
+19943	Edit your {1}'s appearance!
+19944	Select your appearance!
+19945	.nl-look canvas
+19946	nearest
+19947	Edit your {1}'s attributes!
+19948	Select your attributes!
+19949	Select your name!
+19950	Pick your gender!
+19951	Best First Purchase
+19952	Bundle and save! Unlock all 11 Job Packs!
+19953	Ultimate Fighter Mode
+19954	Get ready to rumble!
+19955	vampire
+19956	Go for the jugular!
+19957	director
+19958	Become a famous movie director!
+19959	luxury
+19960	Enjoy the perks of being a VIP
+19961	outdoor
+19962	Spend time with Mother Nature
+19963	Landlord Expansion Pack
+19964	Casino Expansion Pack
+19965	Start your own casino!
+19966	racing
+19967	Racing Expansion Pack
+19968	Compete in street races, F1 races, and more!
+19969	Secret Agent Expansion Pack
+19970	Start a spy agency, take on missions, and more!
+19971	Black Market Expansion Pack
+19972	Open a museum, purchase contraband, and more!
+19973	Zoo Expansion Pack
+19974	Open your own zoo, collect animals, and more!
+19975	Fame & Fortune Bundle
+19976	Live a life of pure luxury!
+19977	Crime Pays Bundle
+19978	Become BitLife's wealthiest crime lord!
+19979	party
+19980	Party Animal Bundle
+19981	Take a walk on the WILD side of life!
+19982	Get that dream job!
+19983	diploma
+19984	Become an overnight expert!
+19985	Make your dream babies!
+19986	bracelet
+19987	Become everyone's favorite person!
+19988	blade
+19989	Assassin's Blade
+19990	Get away with murder!
+19991	aura
+19992	Generate swag without trying!
+19993	pixie
+19994	Dab of Pixie Dust
+19995	Embark on the trip of a lifetime!
+19996	Make it rain!
+19997	Emigrate to any country of your choice!
+19998	piggy
+19999	Golden Piggy Bank
+20000	Get rich quick!
+20001	Auto-maintain all of your vehicles!
+20002	Never catch an STD!
+20003	streak
+20004	Streak Savers (x5)
+20005	Keep your streak alive!
+20006	Gain access to past challenges!
+20007	Unlock an exclusive BitLife theme!
+20008	Get rid of ads, play unlimited generations, and more!
+20009	Customize new lives, start royal lives, and more!
+20010	investor
+20011	Investor Expansion Pack
+20012	Invest in stocks, bonds, crypto, and more!
+20013	cult
+20014	CULT Expansion Pack
+20015	Start a commune, lead your followers, and more!
+20016	Skyrocket your way to stardom!
+20017	Run for political office!
+20018	Unlimited Time Machine
+20019	Go back in time as much as you want!
+20020	sounds/a16_sndBoost.wav
+20021	A friend who is a plastic surgeon offers you a free calf implant procedure, telling you {he} doesn't know anyone who could use them as much as you.
+20022	You've been feeling insecure about your scrawny calves recently.
+20023	Let's do it!
+20024	No, maybe I'll try cycling
+20025	You accepted a plastic surgeon's offer for free calf implants.
+20026	A celebrity makeup artist spots you at the mall and offers you a free makeover, saying you're a "fixer-upper."
+20027	You've been avoiding mirrors lately.
+20028	Make me over!
+20029	No thanks, I like my face
+20030	You let a celebrity makeup artist give you a free makeover.
+20031	Your dentist offers to whiten and straighten your teeth for free if you'll let {him} use your before and after photos in an ad.
+20032	You've been hiding your smile for months.
+20033	Smile for the camera!
+20034	No, I'll keep my teeth
+20035	You let your dentist fix your teeth in exchange for some before and after photos.
+20036	A personal trainer at your gym says {he} can turn your body around in a month, free of charge, if you follow {his} plan.
+20037	You've been feeling out of shape.
+20038	Sign me up!
+20039	No, the couch is calling
+20040	You took a personal trainer up on a free month of workouts.
+20041	A dermatologist friend offers you a free laser treatment for your skin, saying {he} has seen worse but not by much.
+20042	Your skin has been bothering you lately.
+20043	Zap away!
+20044	No, lasers scare me
+20045	You got a free laser skin treatment from a dermatologist friend.
+20046	Much sexier
+20047	Glow up
+20048	Looking good
+20049	Feeling great
+20050	Healthy as a horse
+20051	New lease on life
+20052	A friend tells you {his} rowing team needs a replacement for the week.
+20053	You've been looking for a way to tone up a bit.
+20054	Where's my paddle?
+20055	I prefer speedboats
+20056	You filled in on your friend's rowing team for the week.
+20057	A nutritionist at the farmers market offers to plan your meals for a month, free of charge.
+20058	You've been eating nothing but junk food lately.
+20059	Feed me kale!
+20060	Pass the fries
+20061	You let a nutritionist plan your meals for a month.
+20062	A neighbor invites you to join {his} morning running club.
+20063	You get winded walking up the stairs these days.
+20064	Lace up my sneakers!
+20065	I only run late
+20066	You joined your neighbor's morning running club.
+20067	A yoga instructor offers you a free month of classes after seeing you hunched over your phone.
+20068	Your back has been killing you.
+20069	I'm not that flexible
+20070	You took a free month of yoga classes.
+20071	Good vibes
+20072	Feeling better
+20073	Turned that frown upside down
+20074	A friend invites you to spend the afternoon cuddling puppies at an animal shelter.
+20075	You've been feeling down lately.
+20076	Bring on the puppies!
+20077	I'm more of a cat person
+20078	You spent the afternoon cuddling puppies at an animal shelter.
+20079	Your coworker has a spare ticket to a stand-up comedy show tonight.
+20080	You haven't laughed in weeks.
+20081	Make me laugh!
+20082	I'd rather mope
+20083	You went to a stand-up comedy show and laughed until you cried.
+20084	A spa offers you a free day of pampering as their millionth customer.
+20085	You've been so stressed out.
+20086	Treat yourself!
+20087	Spas are overrated
+20088	You spent a free day being pampered at a spa.
+20089	Big brain
+20090	Smarty pants
+20091	Knowledge is power
+20092	A retired professor offers to tutor you for free in exchange for help with {his} garden.
+20093	You've been feeling a little slow lately.
+20094	Teach me everything!
+20095	I hate gardening
+20096	You traded garden work for tutoring from a retired professor.
+20097	Your local library is offering a free speed-reading course.
+20098	You haven't finished a book in years.
+20099	Books are boring
+20100	You took a free speed-reading course at the library.
+20101	A chess club invites you to play with them every week.
+20102	You've been looking for a way to sharpen your mind.
+20103	Chess is for nerds
+20104	You joined a weekly chess club.
+20105	I passed on a chance to improve my {1}.
+20106	owned
+20107	color-mix(in srgb, {1} 16%, #26282c)
+20108	Restore Earlier Purchase...
+20109	You already own {1}!
+20110	sounds/a16_sndLuxuryPurchaseAsset.wav
+20111	Thank you!
+20112	{1} is now yours. Enjoy!
+20113	Restore Earlier Purchase
+20114	All of your earlier purchases have been restored!
+20115	no playable save
+20116	picking
+20117	Saved life not found, starting a new one
+20118	trash
+20119	Last played {1}
+20120	Start New Life
+20121	Lives on This Device
+20122	Are you sure you want to delete {1} {2}? This can't be undone.
+20123	Switch to this life
+20124	Delete this life
+20125	Last Played:
+20126	Leave this life and continue as {1} {2}? This life is saved first.
+20127	Now, pick someone to become.
+20128	Become someone else in BitLife.
+20129	Start by picking a gender.
+20130	healthy
+20131	intelligent
+20132	attractive
+20133	unhealthy
+20134	unattractive
+20135	and you're {1}
+20136	{1} you're rather {2}
+20137	#log .year h3
+20138	Your new life has begun!
+20139	to grow older one year at a time.
+20140	Make choices as you go.
+20141	Live your best (or worst) life.
+20142	In Their Own Words
+20143	Missing Birth Record
+20144	An Old Portrait
+20145	A Forgotten Trade
+20146	A Lost Letter
+20147	A Treasured Heirloom
+20149	A Repaired Headstone
+20150	An Inheritance Note
+20151	An Old Schoolbook
+20152	A Village Story
+20153	An Unknown Sibling
+20154	A Famous Rivalry
+20155	A Charity Ledger
+20156	A Flooded Archive
+20157	The Family Song
+20158	A Farewell Note
+20159	The Trade Union
+20160	A Travel Diary
+20161	A Medicine Chest
+20162	A Lost Engraving
+20163	The First Apprentice
+20164	Missing Census Page
+20165	A Public Speech
+20166	Legend vs. Fact
+20167	Known For:
+20168	chart-topping songs and sold-out world tours
+20170	platinum albums and viral music videos
+20171	Social Media Influencer
+20172	viral posts and millions of followers
+20173	stadium tours and legendary albums
+20174	championship wins and record-breaking seasons
+20175	a hit reality show and endless headlines
+20176	magazine covers and runway shows
+20177	founding a famous tech company
+20178	TV cooking shows and best-selling cookbooks
+20179	anchoring the evening news
+20180	high office and televised speeches
+20181	best-selling novels turned into movies
+20182	Global megastar
+20183	{1} became famous in {2} for {3}.
+20184	{1} is one of the most famous people on Earth, with {2} followers; {3} face is on billboards in every country.
+20185	Today {1} has {2} followers, and paparazzi follow the whole family around.
+20186	Known in every country on Earth
+20187	A household name worldwide
+20188	Recognized everywhere they go
+20189	Well known in their field
+20190	Being part of this family means the whole world knows your name.
+20191	The family name opens doors everywhere.
+20192	Fans of my famous family instantly gave my new account {1} followers.
+20193	My {1} opened a {2} account in my name with {3} in it.
+20194	Your {1}, {2}, opened a {3} account in your name at {4} and put {5} in it.
+20195	It earns {1}% APY, and you'll see how much it grows every year. You can see it in the Bank tab.
+20196	one of the most famous families on Earth
+20197	a famous family
+20198	a global megastar
+20199	, and my
+20200	I was born into {1}: my {2}.
+20201	News helicopters circled the hospital and my first photo sold for millions.
+20202	Paparazzi waited outside the hospital.
+20203	I was born into a famous family: my {1}, {2}, is {3}.
+20204	My famous family helped me gain {1} new followers this year.
+20205	the American Revolutionary War
+20206	the French Revolution
+20207	the Napoleonic Wars
+20208	the War of 1812
+20209	the Crimean War
+20210	the American Civil War
+20211	the Franco-Prussian War
+20212	the Second Boer War
+20213	World War I
+20214	World War II
+20215	the Korean War
+20216	the Vietnam War
+20217	the California Gold Rush
+20218	the Victorian Gold Rush
+20219	the Klondike Gold Rush
+20220	Decorated hero of {1}
+20221	{1} enlisted in {2} at just {3} years old. During a brutal battle in {4}, {5} ran back into enemy fire {6} times and carried {7} wounded soldiers to safety.
+20222	{1} was awarded {2} and came home to a parade in {3}. Newspapers called {4} "the bravest {5} who ever lived."
+20223	Saved {1} lives on the battlefield
+20224	Promoted to {1} in the field
+20225	A statue of {1} stands in {2}
+20226	{1} medal is still passed down through the {2} family.
+20227	Legendary battlefield nurse of {1}
+20228	{1} volunteered as a nurse in {2}, working in field hospitals just behind the front lines.
+20229	When the hospital was shelled, {1} refused to leave and kept {2} patients alive through the night by lantern light. Soldiers called {3} "the Angel of the Trenches."
+20230	Decorated for bravery under fire
+20231	Trained over {1} new nurses after the war
+20232	Founded a hospital that still exists today
+20233	Nursing schools still teach the story of that night.
+20234	{1} No. {2} in {3}
+20235	Composer to the royal court
+20236	{1} was playing the harpsichord by age {2}. In {3}, a duke heard {4} perform and hired {5} as composer to the royal court.
+20237	{1} "{2}" was performed in every great concert hall of the age, and audiences reportedly wept at its premiere.
+20238	Composed {1} works
+20239	a king and queen
+20240	Played for {1}
+20241	{1} original handwritten scores are kept in a national library.
+20242	Infamous captain of {1}
+20243	{1} stole a merchant ship in {2} and renamed it {3}. Within a year {4} commanded a crew of {5}.
+20244	"Captain {1}" raided {2} ships, had a {3} bounty on {4} head, and was never caught.
+20245	Captured {1} ships
+20246	A {1} bounty (a fortune back then)
+20247	Buried treasure that has never been found
+20248	The family still has an old map that supposedly leads to {1} treasure.
+20249	the spring-loaded mousetrap
+20250	a hand-cranked washing machine
+20251	the folding ironing board
+20252	a waterproof match
+20253	the paper drinking straw
+20254	a bicycle brake design still used today
+20255	a crank-powered radio
+20256	the automatic potato peeler
+20257	a new kind of bottle cap
+20258	the self-wringing mop
+20259	a pocket-sized camera
+20260	the first electric hair curler
+20261	Working out of a cramped shed in {1}, {2} spent {3} years tinkering before patenting {4} in {5}.
+20262	Within a decade it was in homes all over {1}. {2} famously turned down a buyout offer of {3} because "it's my baby."
+20263	Patent granted in {1}
+20264	Held {1} patents in total
+20265	the World's Fair
+20266	Featured in {1}
+20267	Somebody in the family still has the original prototype in a box in the attic.
+20268	silent
+20269	Silent film
+20270	Golden Age Hollywood
+20271	selling flowers on a street corner
+20272	waiting tables at a diner
+20273	singing at a church fair
+20274	working in a dry-goods store
+20275	{1} was discovered {2} and starred in {3} first picture in {4}.
+20276	of the silent screen
+20277	{1} role in "{2}" made {3} one of the most recognizable faces {4}. Fans mobbed {5} at every premiere.
+20278	Appeared in {1} films
+20279	Made the leap to "talkies" in 1929
+20280	Has a star on a walk of fame
+20281	Old reels of {1} films still play at classic cinema nights.
+20282	trumpet
+20283	saxophone
+20284	piano
+20285	clarinet
+20286	singer
+20287	player
+20288	Jazz {1} of the {2}s
+20289	smoky late-night sets
+20290	{1} played {2} in the clubs of {3} until a talent scout heard {4} in {5}.
+20291	{1} record "{2} Blues" sold over {3} copies, and {4} toured the world with {5} own big band.
+20292	{1} recorded albums
+20293	Played to a crowd of {1},000 people
+20294	Inducted into a jazz hall of fame
+20295	microphone
+20296	{1} old {2} hangs on a wall in a museum.
+20297	the 100 meters
+20298	swimming
+20299	fencing
+20300	wrestling
+20301	gymnastics

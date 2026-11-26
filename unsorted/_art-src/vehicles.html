@@ -1,0 +1,193 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Elite vehicles</title>
+<style>
+  html,body{margin:0;background:transparent;overflow:hidden}
+  body{display:grid;grid-template-columns:repeat(5,400px);grid-auto-rows:260px}
+  .cell{width:400px;height:260px;position:relative}
+  svg{display:block;width:400px;height:260px}
+</style></head>
+<body>
+
+<!-- 1. Speedboat -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="sb-h" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".55" stop-color="#e7edf2"/><stop offset="1" stop-color="#a8b7c4"/></linearGradient><linearGradient id="sb-r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5b5b"/><stop offset="1" stop-color="#bc1725"/></linearGradient><filter id="sb-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="205" cy="214" rx="150" ry="12" fill="#000" opacity=".2" filter="url(#sb-sh)"/>
+<path d="M40 166 Q60 206 122 208 L322 208 Q362 204 372 176 L336 158 Q240 150 142 154 Z" fill="url(#sb-h)" stroke="#42515e" stroke-width="3"/>
+<path d="M58 166 Q80 194 126 196 L322 196 Q344 194 354 176" fill="none" stroke="#8fa3b4" stroke-width="3"/>
+<path d="M48 168 Q190 158 362 174" fill="none" stroke="url(#sb-r)" stroke-width="10"/>
+<path d="M154 154 L172 108 L286 108 Q320 110 326 154 Z" fill="#f7fafc" stroke="#51606d" stroke-width="3"/>
+<path d="M180 114 L218 114 L212 146 L174 146 Z" fill="#52c5f2" stroke="#2c6b86" stroke-width="2"/>
+<path d="M228 114 L282 114 Q304 118 308 146 L222 146 Z" fill="#72d5f7" stroke="#2c6b86" stroke-width="2"/>
+<path d="M148 154 L312 154" stroke="#5b6b77" stroke-width="3"/>
+<path d="M100 166 L132 166 L126 188 L92 188 Z" fill="#32424f"/><path d="M286 166 L318 166 L322 188 L288 188 Z" fill="#32424f"/>
+<path d="M358 160 L382 146 L390 154 L368 176 Z" fill="#263642"/>
+<path d="M44 164 Q28 160 20 172" stroke="#7f8f9c" stroke-width="4" fill="none"/>
+</svg></div>
+
+<!-- 2. Sport yacht -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="sy-h" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#eef3f7"/><stop offset="1" stop-color="#9fb0be"/></linearGradient><linearGradient id="sy-g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#596b7a"/><stop offset="1" stop-color="#18242e"/></linearGradient><filter id="sy-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="202" cy="220" rx="158" ry="12" fill="#000" opacity=".22" filter="url(#sy-sh)"/>
+<path d="M24 166 Q40 210 104 216 L334 216 Q370 210 382 176 L332 154 Q204 144 100 152 Z" fill="url(#sy-h)" stroke="#3d4f5d" stroke-width="3"/>
+<path d="M38 171 Q54 200 108 204 L334 204 Q354 200 366 178" fill="none" stroke="#91a4b4" stroke-width="3"/>
+<path d="M34 174 Q208 162 374 174" fill="none" stroke="#1e7fbd" stroke-width="8"/>
+<path d="M108 154 L132 102 L298 102 Q330 106 334 154 Z" fill="#f8fbfd" stroke="#4b5c69" stroke-width="3"/>
+<path d="M142 108 L214 108 L208 146 L134 146 Z" fill="url(#sy-g)"/><path d="M222 108 L292 108 Q314 112 318 146 L216 146 Z" fill="url(#sy-g)"/>
+<path d="M146 114 L204 114 L199 140 L140 140 Z" fill="#67d0f2" opacity=".85"/><path d="M228 114 L288 114 Q302 118 304 140 L225 140 Z" fill="#67d0f2" opacity=".85"/>
+<path d="M168 102 L180 60 L222 60 L238 102 Z" fill="#dbe5ec" stroke="#4b5c69" stroke-width="2.5"/>
+<path d="M184 64 L218 64 L228 96 L174 96 Z" fill="#7cd8f4" stroke="#3c7d99" stroke-width="2"/>
+<path d="M196 58 L206 30 L214 30 L208 58" stroke="#3f5362" stroke-width="4" fill="none"/><circle cx="210" cy="26" r="4" fill="#e14b4b"/>
+<path d="M82 188 L122 188 L118 208 L78 208 Z" fill="#253743"/><path d="M318 188 L354 188 L356 208 L320 208 Z" fill="#253743"/>
+</svg></div>
+
+<!-- 3. Sailing yacht -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="sl-h" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#9fb5c5"/></linearGradient><linearGradient id="sl-s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#d5e3ee"/></linearGradient><filter id="sl-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="203" cy="218" rx="156" ry="12" fill="#000" opacity=".2" filter="url(#sl-sh)"/>
+<path d="M28 174 Q52 214 116 218 L334 218 Q372 210 382 178 L330 162 Q208 154 110 160 Z" fill="url(#sl-h)" stroke="#3e5261" stroke-width="3"/>
+<path d="M40 179 Q64 205 118 208 L334 208 Q354 203 366 181" fill="none" stroke="#93a8b8" stroke-width="3"/>
+<path d="M34 180 Q210 170 374 180" fill="none" stroke="#173e63" stroke-width="8"/>
+<path d="M204 154 L204 62" stroke="#4b3a2c" stroke-width="7" stroke-linecap="round"/>
+<path d="M200 148 Q150 104 126 76 Q170 94 200 80 Z" fill="url(#sl-s)" stroke="#b1c3d1" stroke-width="2"/>
+<path d="M208 148 Q260 104 292 78 Q250 96 208 78 Z" fill="url(#sl-s)" stroke="#b1c3d1" stroke-width="2"/>
+<path d="M204 64 L204 148" stroke="#4b3a2c" stroke-width="3"/>
+<path d="M292 154 L334 154 L330 176 L286 176 Z" fill="#f4f8fb" stroke="#4b5e6b" stroke-width="2.5"/>
+<path d="M296 158 L324 158 L322 172 L294 172 Z" fill="#54c2ea"/>
+<path d="M126 154 L166 154 L162 174 L122 174 Z" fill="#f4f8fb" stroke="#4b5e6b" stroke-width="2.5"/>
+<path d="M130 158 L158 158 L156 170 L128 170 Z" fill="#54c2ea"/>
+</svg></div>
+
+<!-- 4. Superyacht -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="sp-h" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".55" stop-color="#f0f5f8"/><stop offset="1" stop-color="#9aacba"/></linearGradient><linearGradient id="sp-g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5c7181"/><stop offset="1" stop-color="#18252f"/></linearGradient><filter id="sp-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="202" cy="223" rx="166" ry="11" fill="#000" opacity=".22" filter="url(#sp-sh)"/>
+<path d="M14 170 Q30 209 96 218 L342 218 Q378 210 388 178 L338 158 Q206 146 92 154 Z" fill="url(#sp-h)" stroke="#394c5a" stroke-width="3"/>
+<path d="M26 176 Q42 201 100 207 L342 207 Q362 202 374 181" fill="none" stroke="#91a5b5" stroke-width="3"/>
+<path d="M20 181 Q206 169 380 181" fill="none" stroke="#b78b3e" stroke-width="7"/>
+<path d="M86 154 L108 112 L310 112 Q336 116 338 154 Z" fill="#f9fcfd" stroke="#465967" stroke-width="3"/>
+<path d="M114 117 L204 117 L198 148 L106 148 Z" fill="url(#sp-g)"/><path d="M212 117 L304 117 Q322 121 324 148 L208 148 Z" fill="url(#sp-g)"/>
+<path d="M118 122 L194 122 L189 143 L112 143 Z" fill="#6bd2f2" opacity=".85"/><path d="M216 122 L300 122 Q312 125 314 143 L213 143 Z" fill="#6bd2f2" opacity=".85"/>
+<path d="M154 112 L170 78 L258 78 Q276 82 280 112 Z" fill="#eaf2f7" stroke="#465967" stroke-width="2.5"/>
+<path d="M176 83 L218 83 L214 107 L169 107 Z" fill="#69cdec"/><path d="M226 83 L268 83 Q274 87 276 107 L220 107 Z" fill="#69cdec"/>
+<path d="M188 76 L202 50 L220 50 L232 76" fill="none" stroke="#4b5f6d" stroke-width="4"/><circle cx="226" cy="44" r="4" fill="#e4b14e"/>
+<path d="M60 196 L104 196 L100 212 L56 212 Z" fill="#263844"/><path d="M316 196 L356 196 L358 212 L318 212 Z" fill="#263844"/>
+<path d="M350 165 L376 152 L384 160 L362 180 Z" fill="#d9e5ed" stroke="#566977" stroke-width="2"/>
+</svg></div>
+
+<!-- 5. Seaplane -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="sea-b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#c3d2de"/></linearGradient><linearGradient id="sea-w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#50bce9"/><stop offset="1" stop-color="#1d6b97"/></linearGradient><filter id="sea-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="205" cy="218" rx="156" ry="10" fill="#000" opacity=".2" filter="url(#sea-sh)"/>
+<path d="M76 142 Q112 118 190 116 L286 122 Q330 130 350 148 Q318 166 260 168 L126 164 Q88 158 76 142 Z" fill="url(#sea-b)" stroke="#3e5566" stroke-width="3"/>
+<path d="M218 118 Q250 94 296 96 Q322 100 330 108 L318 126 L230 128 Z" fill="#e8f2f8" stroke="#3e5566" stroke-width="2.5"/>
+<path d="M238 102 L292 102 L302 112 L246 116 Z" fill="#60c9ee" stroke="#2b708e" stroke-width="2"/>
+<path d="M118 128 L212 112" stroke="url(#sea-w)" stroke-width="8" stroke-linecap="round"/>
+<path d="M166 132 L110 64 L144 62 L220 128 Z" fill="#f4f9fc" stroke="#486071" stroke-width="3"/>
+<path d="M180 130 L248 78 L278 80 L224 132 Z" fill="#f4f9fc" stroke="#486071" stroke-width="3"/>
+<path d="M116 70 L142 68 L164 104 L138 106 Z" fill="#55c1e9" opacity=".8"/>
+<path d="M142 158 L142 190 L274 190 L274 158" fill="none" stroke="#455e6e" stroke-width="4"/>
+<path d="M118 186 Q144 210 208 210 Q272 210 300 186 Q270 202 208 202 Q146 202 118 186 Z" fill="#d8e6ef" stroke="#4b6474" stroke-width="3"/>
+<path d="M120 188 L300 188" stroke="#8aa2b2" stroke-width="2"/>
+<path d="M246 148 Q280 142 314 152" stroke="#3e5566" stroke-width="2" fill="none"/>
+<circle cx="86" cy="148" r="13" fill="none" stroke="#314958" stroke-width="6"/><path d="M86 135 L86 161 M73 148 L99 148" stroke="#314958" stroke-width="3"/>
+</svg></div>
+
+<!-- 6. Turboprop -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="tp-b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#c6d5e0"/></linearGradient><linearGradient id="tp-t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2c8bc7"/><stop offset="1" stop-color="#124a75"/></linearGradient><filter id="tp-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="204" cy="216" rx="160" ry="10" fill="#000" opacity=".18" filter="url(#tp-sh)"/>
+<path d="M62 142 Q98 116 180 114 L292 120 Q344 128 360 148 Q330 166 272 170 L120 166 Q82 158 62 142 Z" fill="url(#tp-b)" stroke="#3c5262" stroke-width="3"/>
+<path d="M88 124 Q126 106 188 106 L276 110 Q312 118 326 128 L316 144 L104 146 Z" fill="#eef6fb" stroke="#3c5262" stroke-width="2.5"/>
+<path d="M116 116 L202 112 L208 136 L112 138 Z" fill="#5fc9ed" stroke="#2b6c89" stroke-width="2"/>
+<path d="M212 112 L282 114 Q306 118 316 132 L210 136 Z" fill="#5fc9ed" stroke="#2b6c89" stroke-width="2"/>
+<path d="M164 140 L104 72 L142 70 L218 140 Z" fill="#f5fafc" stroke="#485f6f" stroke-width="3"/>
+<path d="M224 140 L284 76 L318 78 L272 142 Z" fill="#f5fafc" stroke="#485f6f" stroke-width="3"/>
+<path d="M268 110 L302 78 L316 80 L292 112 Z" fill="url(#tp-t)"/>
+<path d="M120 152 L120 190 L286 190 L286 152" fill="none" stroke="#455e6e" stroke-width="4"/>
+<path d="M142 172 L262 172" stroke="#829dac" stroke-width="3"/>
+<path d="M300 142 Q340 136 356 148 L350 160" fill="none" stroke="#3c5262" stroke-width="3"/>
+<circle cx="292" cy="146" r="22" fill="none" stroke="#324b5c" stroke-width="6"/><path d="M292 124 L292 168 M270 146 L314 146" stroke="#324b5c" stroke-width="3"/>
+<circle cx="350" cy="148" r="5" fill="#4b6474"/>
+</svg></div>
+
+<!-- 7. Private jet -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="pj-b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".65" stop-color="#e3edf5"/><stop offset="1" stop-color="#a8b9c8"/></linearGradient><linearGradient id="pj-s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a84c0"/><stop offset="1" stop-color="#0d355b"/></linearGradient><filter id="pj-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="204" cy="218" rx="160" ry="9" fill="#000" opacity=".2" filter="url(#pj-sh)"/>
+<path d="M50 148 Q82 118 160 112 L286 116 Q348 124 366 146 Q342 164 286 170 L120 166 Q78 158 50 148 Z" fill="url(#pj-b)" stroke="#344a5b" stroke-width="3"/>
+<path d="M60 148 Q180 136 356 150" stroke="#2a84c0" stroke-width="9" fill="none"/>
+<path d="M178 114 L172 88 L198 88 L204 114 Z" fill="#dbe8f2" stroke="#405666" stroke-width="2"/>
+<path d="M206 114 L216 82 L236 82 L228 114 Z" fill="#dbe8f2" stroke="#405666" stroke-width="2"/>
+<path d="M236 116 L240 86 L256 88 L252 118 Z" fill="#dbe8f2" stroke="#405666" stroke-width="2"/>
+<path d="M150 114 L236 96 L250 104 L184 122 Z" fill="#e9f2f9" stroke="#405666" stroke-width="2.5"/>
+<path d="M238 118 L276 114 L292 124 L248 130 Z" fill="url(#pj-s)" stroke="#0c2e4d" stroke-width="2"/>
+<path d="M150 132 L86 70 L126 68 L206 132 Z" fill="#f3f9fd" stroke="#405666" stroke-width="3"/>
+<path d="M210 132 L278 68 L322 70 L266 134 Z" fill="#f3f9fd" stroke="#405666" stroke-width="3"/>
+<path d="M258 94 L302 74 L318 76 L276 100 Z" fill="url(#pj-s)"/>
+<path d="M306 150 L350 150 Q360 152 360 160 L338 166 L304 160 Z" fill="#dce8f1" stroke="#405666" stroke-width="2"/>
+<path d="M90 150 L146 150 L138 162 L82 162 Z" fill="#dce8f1" stroke="#405666" stroke-width="2"/>
+<path d="M124 160 L292 160" stroke="#91a7b7" stroke-width="2"/>
+</svg></div>
+
+<!-- 8. Airliner -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="al-b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".7" stop-color="#e4eef6"/><stop offset="1" stop-color="#9fb2c2"/></linearGradient><linearGradient id="al-t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#48a9dd"/><stop offset="1" stop-color="#15507c"/></linearGradient><filter id="al-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="204" cy="218" rx="166" ry="9" fill="#000" opacity=".2" filter="url(#al-sh)"/>
+<path d="M34 150 Q70 122 154 116 L300 120 Q362 128 382 148 Q356 166 294 172 L112 168 Q64 160 34 150 Z" fill="url(#al-b)" stroke="#34495a" stroke-width="3"/>
+<path d="M44 152 Q204 140 374 152" stroke="#48a9dd" stroke-width="8" fill="none"/>
+<path d="M136 148 L60 72 L104 70 L202 148 Z" fill="#f3f9fd" stroke="#405666" stroke-width="3"/>
+<path d="M206 148 L286 70 L338 72 L268 150 Z" fill="#f3f9fd" stroke="#405666" stroke-width="3"/>
+<path d="M272 98 L326 74 L342 76 L292 104 Z" fill="url(#al-t)"/>
+<path d="M74 86 L104 84 L134 120 L128 124 Z" fill="#75c8ea" opacity=".7"/>
+<path d="M296 120 L340 120 Q356 124 360 142 L300 144 Z" fill="url(#al-t)" stroke="#0d3a5e" stroke-width="2"/>
+<path d="M108 138 L108 160 L312 160 L312 138" fill="none" stroke="#50697a" stroke-width="3"/>
+<g fill="#6fc5e9" stroke="#2b6f92" stroke-width="1.6">
+<rect x="122" y="122" width="20" height="10" rx="4"/><rect x="150" y="122" width="20" height="10" rx="4"/><rect x="178" y="122" width="20" height="10" rx="4"/><rect x="206" y="122" width="20" height="10" rx="4"/><rect x="234" y="122" width="20" height="10" rx="4"/><rect x="262" y="122" width="18" height="10" rx="4"/>
+</g>
+<path d="M112 166 L306 166" stroke="#92a8b8" stroke-width="2"/>
+<path d="M180 120 L200 120 L196 138 L176 138 Z" fill="#d7e5ef" opacity=".6"/>
+</svg></div>
+
+<!-- 9. Helicopter -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="he-b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#e9f2f7"/><stop offset="1" stop-color="#aebdca"/></linearGradient><linearGradient id="he-r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6b6b"/><stop offset="1" stop-color="#b21e2b"/></linearGradient><filter id="he-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="206" cy="218" rx="148" ry="10" fill="#000" opacity=".2" filter="url(#he-sh)"/>
+<path d="M112 148 Q124 118 190 116 L282 124 Q320 134 330 154 Q312 176 264 180 L160 176 Q126 168 112 148 Z" fill="url(#he-b)" stroke="#3e5465" stroke-width="3"/>
+<path d="M160 124 Q196 108 246 112 Q286 118 298 134 L282 150 L172 148 Z" fill="#f4f9fd" stroke="#3e5465" stroke-width="2.5"/>
+<path d="M180 124 L218 120 L238 136 L190 142 Z" fill="#67c8ea" stroke="#2c6d8a" stroke-width="2"/>
+<path d="M236 132 L284 136 Q300 142 304 150 L280 158 L240 152 Z" fill="#67c8ea" stroke="#2c6d8a" stroke-width="2"/>
+<path d="M118 150 Q160 142 240 146" stroke="url(#he-r)" stroke-width="7" fill="none"/>
+<path d="M196 116 L196 84" stroke="#405665" stroke-width="6"/><circle cx="196" cy="80" r="7" fill="#324958"/>
+<path d="M96 82 L296 76" stroke="#3e5465" stroke-width="7" stroke-linecap="round"/>
+<path d="M94 76 Q196 66 298 72" stroke="#7d93a3" stroke-width="3" fill="none"/>
+<path d="M298 146 L354 136 Q366 136 368 144 L350 152 L306 158 Z" fill="#dde8f0" stroke="#405665" stroke-width="2.5"/>
+<circle cx="352" cy="142" r="18" fill="none" stroke="#405665" stroke-width="4"/><path d="M352 124 L352 160 M334 142 L370 142" stroke="#405665" stroke-width="2"/>
+<path d="M156 176 L144 202 L214 202 L218 176" fill="#d9e6ef" stroke="#405665" stroke-width="2.5"/>
+<path d="M224 176 L232 202 L300 202 L286 176" fill="#d9e6ef" stroke="#405665" stroke-width="2.5"/>
+<path d="M136 204 L306 204" stroke="#405665" stroke-width="5" stroke-linecap="round"/>
+<path d="M142 188 L146 204 M292 188 L298 204" stroke="#7c93a3" stroke-width="3"/>
+</svg></div>
+
+<!-- 10. Luxury helicopter -->
+<div class="cell"><svg viewBox="0 0 400 260">
+<defs><linearGradient id="lh-b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4b4d55"/><stop offset=".55" stop-color="#202229"/><stop offset="1" stop-color="#0d0e12"/></linearGradient><linearGradient id="lh-g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4d98a"/><stop offset="1" stop-color="#a87a2e"/></linearGradient><filter id="lh-sh"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<ellipse cx="206" cy="218" rx="148" ry="10" fill="#000" opacity=".28" filter="url(#lh-sh)"/>
+<path d="M104 148 Q118 114 188 110 L288 120 Q326 130 336 154 Q318 178 266 182 L156 178 Q120 168 104 148 Z" fill="url(#lh-b)" stroke="#050608" stroke-width="3"/>
+<path d="M154 120 Q192 102 248 106 Q288 112 304 130 L286 150 L166 148 Z" fill="#2c2f37" stroke="#050608" stroke-width="2.5"/>
+<path d="M176 120 L218 116 L242 134 L188 140 Z" fill="#5fd4f4" stroke="#1b5b70" stroke-width="2"/>
+<path d="M246 128 L292 132 Q308 138 312 148 L286 156 L250 150 Z" fill="#5fd4f4" stroke="#1b5b70" stroke-width="2"/>
+<path d="M112 152 Q160 142 244 146" stroke="url(#lh-g)" stroke-width="6" fill="none"/>
+<path d="M196 110 L196 80" stroke="#2b2d34" stroke-width="6"/><circle cx="196" cy="76" r="7" fill="#16171b"/>
+<path d="M92 78 L300 72" stroke="#22242a" stroke-width="7" stroke-linecap="round"/>
+<path d="M90 72 Q196 62 302 68" stroke="#555962" stroke-width="3" fill="none"/>
+<path d="M302 146 L360 136 Q374 136 376 144 L356 154 L310 160 Z" fill="#181a1f" stroke="#050608" stroke-width="2.5"/>
+<path d="M354 138 Q370 142 372 150" fill="none" stroke="url(#lh-g)" stroke-width="3"/>
+<circle cx="356" cy="144" r="17" fill="none" stroke="#34373f" stroke-width="4"/><path d="M356 127 L356 161" stroke="#34373f" stroke-width="2"/>
+<path d="M152 178 L138 202 L212 202 L218 178" fill="#202229" stroke="#4b4d55" stroke-width="2.5"/>
+<path d="M226 178 L234 202 L306 202 L290 178" fill="#202229" stroke="#4b4d55" stroke-width="2.5"/>
+<path d="M132 204 L306 204" stroke="#454850" stroke-width="5" stroke-linecap="round"/>
+<path d="M136 188 L140 204 M294 188 L300 204" stroke="#6f747f" stroke-width="3"/>
+<path d="M164 106 L174 106 L174 116 L164 116 Z" fill="#f4d98a"/>
+</svg></div>
+
+</body></html>

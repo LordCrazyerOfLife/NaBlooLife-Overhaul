@@ -1,0 +1,800 @@
+6547	Compra todo	Compre tudo
+6548	Los ingredientes cuestan {1}. Tienes {2}.	Os ingredientes custam {1}. Você tem {2}.
+6549	Compré todo lo que necesitaba para hacer {1} para {2}.	Comprei tudo que precisava pra fazer {1} para {2}.
+6550	Cultívala	Cultive
+6551	Cocínala	Cozinhe
+6552	Semillas y fertilizante	Sementes e fertilizante
+6553	Las semillas y el fertilizante buenos cuestan más, pero dan mejor hierba que se vende más caro y atrae más clientes.	Sementes e fertilizante melhores custam mais, mas dão uma erva melhor que vende mais caro e atrai mais clientes.
+6554	Contrata a un químico	Contrate um químico
+6555	Todavía no sabes hacer {1}. Lee los libros hasta que tu barra de conocimiento esté al menos llena a la mitad ({2}% de 50%), o contrata a un químico que ya sepa.	Você ainda não sabe fazer {1}. Leia os livros até sua barra de conhecimento estar pelo menos na metade ({2}% de 50%), ou contrate um químico que já saiba.
+6556	¿Cuánto?	Quanto?
+6557	Tu {1} aguanta hasta {2} a la vez. Tus suministros alcanzan para {3}.	Sua {1} aguenta até {2} por vez. Seus suprimentos dão pra {3}.
+6558	{1} en tu {2}.	{1} na sua {2}.
+6559	Mi {1} se incendió mientras cocinaba {2}, y no logré salir.	Minha {1} pegou fogo enquanto eu cozinhava {2}, e não consegui sair.
+6560	un incendio en un laboratorio de drogas	um incêndio em um laboratório de drogas
+6561	Mi {1} se incendió mientras cocinaba {2}.	Minha {1} pegou fogo enquanto eu cozinhava {2}.
+6562	Algo se incendia en el {1}. Sales tambaleando, tosiendo y quemado. Toda la tanda se arruina, y el humo se ve a kilómetros.	Algo pega fogo no {1}. Você sai cambaleando, tossindo e queimado. O lote inteiro se perde, e a fumaça dá pra ver a quilômetros.
+6563	cultivé	cultivei
+6564	cociné	cozinhei
+6565	coseché	colhi
+6566	hice	fiz
+6567	{1} salió mal y se fue a la basura.	{1} saiu ruim e foi pro lixo.
+6568	Sembrando las semillas	Plantando as sementes
+6569	Creciendo bajo las luces	Crescendo sob as luzes
+6570	Podando y secando	Aparando e secando
+6571	Ensacándola	Ensacando
+6572	Mezclando las esporas con el sustrato	Misturando os esporos ao substrato
+6573	Esperando en la oscuridad	Esperando no escuro
+6574	Recogiendo las tandas de hongos	Colhendo os lotes de cogumelos
+6575	Secándolos	Secando
+6576	Empacándolos	Ensacando
+6577	Midiendo la Velmora	Medindo a Velmora
+6578	Mezclando el aglutinante	Misturando o aglutinante
+6579	Operando la prensa de pastillas	Operando a prensa de comprimidos
+6580	Contando pastillas	Contando comprimidos
+6581	Preparando la cristalería	Montando a vidraria
+6582	Mezclando el Zephrol y el Kreylon	Misturando o Zephrol e o Kreylon
+6583	Agregando la Vaxite	Adicionando a Vaxite
+6584	Dejando que cristalice	Deixando cristalizar
+6585	Triturándola y empacándola	Quebrando e ensacando
+6586	Desempacando la resina	Desembalando a resina
+6587	Tratándola con Ardolin	Tratando com Ardolin
+6588	Secándola	Secando
+6589	Prensándola en ladrillos	Prensando em tijolos
+6590	Envolviéndola	Embrulhando
+6591	Poniéndose el equipo	Vestindo o equipamento
+6592	El químico mide el Nexathyl	O químico mede o Nexathyl
+6593	Agregando el Torvane bajo la campana	Adicionando o Torvane sob o capelo
+6594	Empacándola en bolsas selladas	Embalando em sacos selados
+6595	Tu producto	Seu produto
+6596	vendido	vendido
+6597	· precio en la calle {1} c/u	· preço na rua {1} cada
+6598	{1} clientes de calle se fueron este año	{1} clientes de rua foram embora este ano
+6599	Vende en la calle	Venda na rua
+6600	Vende {1} a otros traficantes ({2})	Venda {1} para outros traficantes ({2})
+6601	Los traficantes a los que les vendía me robaron.	Os traficantes para quem eu vendia me roubaram.
+6602	Los otros traficantes sacaron pistolas, se llevaron todo el {1} y se fueron manejando.	Os outros traficantes sacaram armas, levaram todo o {1} e foram embora.
+6603	Los traficantes a los que les vendí trabajaban con la DEA.	Os traficantes para quem vendi trabalhavam com a DEA.
+6604	Los compradores trabajaban con la DEA. Los agentes caen sobre el trato.	Os compradores trabalhavam com a DEA. Os agentes cercam o negócio.
+6605	Vendí {1} {2} por {3}.	Vendi {1} {2} por {3}.
+6606	Vendiste {1} {2}.	Você vendeu {1} {2}.
+6607	a otros traficantes	para outros traficantes
+6608	Un mejor producto atrae más clientes y precios más altos. Vender en la calle paga precio completo, pero cada esquina es un riesgo. Otros traficantes pagan un poco más de la mitad, al por mayor.	Produto melhor traz mais clientes e preços mais altos. Vender na rua paga o preço cheio, mas cada esquina é um risco. Outros traficantes pagam um pouco mais da metade, em atacado.
+6609	Nadie quiere más este año.	Ninguém quer mais este ano.
+6610	Clientes de calle se fueron	Clientes de rua foram embora
+6611	Los traficantes compran	Traficantes compram
+6612	{1} más a {2}	{1} a mais por {2}
+6613	Ya te compraron este año	Já compraram de você este ano
+6614	Ni siquiera te habla	Nem fala com você
+6615	· precio justo {1}	· preço justo {1}
+6616	{1} {2} de ti · compran {3} {4} más este año	{1} {2} de você · compram mais {3} {4} este ano
+6617	¿Quieres más clientes?	Quer mais clientes?
+6618	Dale un descuento por referido a alguien y te mandará a sus amigos	Dê um desconto de indicação para alguém e ele vai mandar os amigos até você
+6619	{1} se da la vuelta antes de que digas una palabra. Quemaste ese puente.	{1} se vira antes de você falar uma palavra. Você queimou essa ponte.
+6620	algo	algum
+6621	{1} quiere comprar {2}. ¿Qué vendes y a cuánto?	{1} está querendo comprar {2}. O que você vende e por quanto?
+6622	Tu margen:	Sua margem:
+6623	{1}% de descuento si traen a un amigo	{1}% de desconto se trouxerem um amigo
+6624	Haz la oferta	Faça a oferta
+6625	Nadie compra más {1} este año.	Ninguém compra mais {1} este ano.
+6626	Traté de vender {1} a {2} {3} a {4} c/u. {5} dijo que no.	Tentei vender {1} para {2} {3} a {4} cada. {5} disse não.
+6627	"¿{1}? ¿Me estás tomando el pelo?" {2} se va.	"{1}? Tá de brincadeira comigo?" {2} vai embora.
+6628	Tu precio	Seu preço
+6629	Le vendí {1} a {2} {3}, que resultó ser un policía encubierto.	Vendi {1} para {2} {3}, que acabou sendo um policial disfarçado.
+6630	{1} agarra la bolsa... y muestra una placa. Estás arrestado por vender {2}, y se llevan todo lo que traías encima.	{1} pega a sacola... e mostra um distintivo. Você está preso por traficar {2}, e eles confiscam tudo o que você tinha com você.
+6631	Vendí {1} a {2} {3} por {4}.	Vendi {1} para {2} {3} por {4}.
+6632	{1} {2} me presentó a {3}.	{1} {2} me apresentou a {3}.
+6633	y te promete mandarte algunos amigos. Conoces a	e promete mandar alguns amigos pra você. Você conhece
+6634	y desaparece a la vuelta de la esquina.	e some na esquina.
+6635	{1} te da el dinero{2}	{1} entrega o dinheiro{2}
+6636	, luego {1}% de descuento	, depois {1}% de desconto
+6637	Descuento por referido	Desconto por indicação
+6638	Clientes nuevos	Clientes novos
+6639	Todavía no hay nada aquí.	Ainda não tem nada aqui.
+6640	{1} al año, se paga cada cumpleaños	{1} por ano, pago em todo aniversário
+6641	Tu equipo ({1})	Sua equipe ({1})
+6642	Vendió {1} el año pasado	Vendeu {1} no ano passado
+6643	Todavía no ha vendido nada	Ainda não vendeu nada
+6644	Invita a salir a {1}	Chame {1} pra sair
+6645	Dale dinero a {1}	Dê dinheiro para {1}
+6646	lío	rolo
+6648	cambiar	trocar
+6649	Juega como {1}	Jogue como {1}
+6650	despedir	demitir
+6651	Despide a {1} ({2} al año)	Demita {1} ({2} por ano)
+6652	Años contigo	Anos com você
+6653	Vendió para ti (histórico)	Vendeu para você (total)
+6654	¿Seguro que quieres despedir a {1}?	Tem certeza que quer demitir {1}?
+6655	Despedí a {1}, mi {2}.	Demiti {1}, meu {2}.
+6656	{1} no se vio contento con eso.	{1} não ficou nada feliz com isso.
+6657	{1} recoge sus cosas y se va.{2}	{1} arruma as coisas e vai embora.{2}
+6658	Eres muy joven para salir con alguien.	Você é novo demais pra namorar.
+6659	¡Invité a salir a mi {1}, {2}, y {3} dijo que sí!	Chamei minha {1}, {2}, pra sair, e {3} disse que sim!
+6661	¡{1} dijo que sí! Ahora sales con alguien de tu nómina.{2}	{1} disse que sim! Agora você namora alguém da sua folha de pagamento.{2}
+6662	Me enrollé con mi {1}, {2}.	Fiquei com minha {1}, {2}.
+6664	Insulté a mi guardia del cártel, {1}, y {2} me pegó.	Insultei meu guarda do cartel, {1}, e {2} me bateu.
+6665	{1} no tolera insultos. Recibiste un puñetazo en la cara.	{1} não aceita insultos. Você levou um soco na cara.
+6666	Yo {1} a mi {2}, {3}, y {4} se enojó.	Eu {1} minha {2}, {3}, e {4} ficou com raiva.
+6667	operación	operação
+6668	"Yo trabajo para ti. Y ya." {1} se ve furioso. Va a estar muy incómodo en la {2}, y {3} tal vez no se quede mucho más tiempo.	"Eu trabalho pra você. Só isso." {1} fica furioso. Vai ficar bem constrangedor perto da {2}, e {3} talvez não fique muito mais tempo.
+6669	Contrata uno ({1} al año)	Contrate um ({1} por ano)
+6670	Necesitas {1} por adelantado para su primer año.	Você precisa de {1} adiantado para o primeiro ano deles.
+6671	Contraté a {1} {2} como {3} para mi operación de drogas.	Contratei {1} {2} como {3} para minha operação de drogas.
+6672	{1} {2} ({3}) empieza hoy como tu nuevo {4}. El primer año está pagado.	{1} {2} ({3}) começa hoje como seu novo {4}. O primeiro ano já está pago.
+6673	Despide a uno	Demita um
+6674	No se vieron contentos con eso.	Não ficaram nada felizes com isso.
+6675	Uno de tus {1} se fue.{2}	Um dos seus {1} foi embora.{2}
+6676	{1} {2} ({3}) quiere el trabajo. {4}	{1} {2} ({3}) quer o emprego. {4}
+6677	Decidí bajar el perfil y dejar de vender por un tiempo.	Decidi ficar na minha e parar de traficar por um tempo.
+6678	Cierras el laboratorio y te quedas tranquilo este año. La atención policial se enfriará más rápido.	Você fecha o laboratório e fica na sua este ano. A atenção da polícia vai esfriar mais rápido.
+6679	¿Destruir todo?	Destruir tudo?
+6680	Todo tu producto va a una fogata en un barril. Sin producto, sin evidencia.	Todo o seu produto vai para uma fogueira num barril. Sem produto, sem prova.
+6681	Quémalo	Queime
+6682	Quemé todo mi alijo de drogas.	Queimei todo o meu estoque de drogas.
+6683	Todo se fue en humo.	Tudo virou fumaça.
+6684	Te alejas de tu laboratorio, despides a tu equipo y tiras todo. La atención policial no desaparecerá de la noche a la mañana.	Você se afasta do laboratório, demite sua equipe e joga tudo fora. A atenção da polícia não some da noite pro dia.
+6685	Sal	Saia
+6686	Salí del negocio de las drogas.	Saí do negócio das drogas.
+6687	Te alejas del negocio de las drogas.	Você se afasta do negócio das drogas.
+6688	the Southside Kings	the Southside Kings
+6689	los hermanos Ivanov	os irmãos Ivanov
+6690	la banda de Dock Street	a gangue da Dock Street
+6691	la pandilla Black Lotus	a gangue Black Lotus
+6692	los Hill Boys	os Hill Boys
+6693	el Sindicato Viper	o Sindicato Viper
+6694	la mafia de Eastgate	a máfia de Eastgate
+6695	la Mano Roja	a Mão Vermelha
+6696	Los Lobos Negros	Los Lobos Negros
+6697	Hombres de {rival} patean la puerta de tu {lab}. "Todo lo que tienes. Ya."	Homens de {rival} arrombam a porta do seu {lab}. "Tudo que você tem. Agora."
+6698	Tú y tu equipo los repelen. Regresan cojeando a sus carros con las manos vacías.	Você e sua equipe os expulsam. Eles voltam mancando pros carros de mãos vazias.
+6699	Te superan, te dejan ensangrentado y se llevan cada gramo de producto que tenías.	Eles dominam você, te espancam até sangrar e levam cada grama do produto que você tinha.
+6701	Entregas todo. Se van riéndose.	Você entrega tudo. Eles vão embora rindo.
+6702	Sales por atrás. Cuando regresas, el lugar ya está vacío.	Você sai pelos fundos. Quando volta, o lugar já está esvaziado.
+6703	Te atrapan en el callejón.	Eles pegam você no beco.
+6704	Un carro de {rival} pasa por tu {lab} y abre fuego.	Um carro de {rival} passa pelo seu {lab} e abre fogo.
+6705	Responde al fuego	Revide
+6706	Disparas de vuelta y el carro sale disparado. Todos los policías de la ciudad lo escucharon.	Você atira de volta e o carro acelera e some. Todos os policiais da cidade ouviram.
+6707	Te llega una bala antes de que se vayan.	Você leva um tiro antes de eles irem embora.
+6708	Tírate al piso	Jogue-se no chão
+6709	Te quedas tirado hasta que termine. El lugar está lleno de agujeros.	Você fica deitado até acabar. O lugar fica cheio de buracos.
+6710	Una bala perdida le da a alguien.	Uma bala perdida acerta alguém.
+6711	Asaltados en la carretera	Roubado na estrada
+6712	{w} fue asaltado por {rival} mientras movía producto por la ciudad.	{w} foi roubado por {rival} enquanto levava produto pela cidade.
+6713	Ve a recuperarlo	Vá buscar de volta
+6714	Los encuentras y recuperas todo. {w} no lo olvidará.	Você os encontra e recupera tudo. {w} não vai esquecer isso.
+6715	Se convierte en un tiroteo, y {w} no sobrevive.	Vira um tiroteio, e {w} não sobrevive.
+6716	Dalo por perdido	Dê como perdido
+6717	Asumes la pérdida.	Você engole o prejuízo.
+6718	{rival} dice que tus traficantes están vendiendo en sus esquinas.	{rival} diz que seus traficantes estão vendendo nas esquinas deles.
+6719	Contraataca	Reaja
+6720	Tu equipo se queda con sus esquinas y sus clientes.	Sua equipe toma as esquinas deles e os clientes deles.
+6721	Ellos presionan más. Uno de los tuyos muere.	Eles apertam mais. Um dos seus morre.
+6722	Págales	Suborne-os
+6723	Les pagas para que miren para otro lado.	Você paga pra eles fecharem os olhos.
+6724	Retrocede	Recue
+6725	Entregas las esquinas. Las ventas bajan.	Você entrega as esquinas. As vendas caem.
+6726	{rival} secuestró a {w} en la calle. Quieren dinero o muere.	{rival} pegou {w} na rua. Querem dinheiro, senão morre.
+6727	Paga el rescate	Pague o resgate
+6728	{w} llega a casa golpeado pero vivo, y agradecido.	{w} volta pra casa machucado mas vivo, e agradecido.
+6729	Asaltas el lugar y sacas a {w}. Se corre la voz de que no se juega contigo.	Você invade o lugar e tira {w} de lá. A notícia se espalha de que você não brinca em serviço.
+6730	Sale mal. {w} muere y apenas sales con vida.	Dá errado. {w} morre e você mal consegue sair.
+6731	Nunca vuelves a ver a {w}.	Você nunca mais vê {w}.
+6732	Alguien de {rival} lanza una bomba incendiaria a tu {lab} en plena noche.	Alguém de {rival} joga uma bomba incendiária no seu {lab} no meio da noite.
+6733	Apágalo	Apague
+6734	Lo apagas, pero algunos suministros se quemaron.	Você apaga, mas parte dos suprimentos queimou.
+6735	El fuego se extiende antes de que lo controles.	O fogo se espalha antes de você controlar.
+6736	Sales y lo ves arder. Los bomberos hacen muchas preguntas.	Você sai e vê queimar. Os bombeiros fazem muitas perguntas.
+6737	El comprador del trato de esta noche era una trampa. Hombres de {rival} salen de las sombras.	O comprador do negócio de hoje à noite era uma armadilha. Homens de {rival} saem das sombras.
+6738	Sal a balazos	Saia atirando
+6739	Sales a balazos con el producto.	Você sai atirando com o produto.
+6740	Te disparan y ellos se quedan con el producto.	Você leva um tiro e eles ficam com o produto.
+6741	Suelta la bolsa y corre	Largue a sacola e corra
+6742	Sueltas la bolsa y corres.	Você larga a sacola e corre.
+6743	Escapas, pero no antes de llevarte una paliza.	Você escapa, mas não antes de levar uma surra.
+6744	Escuchas que {rival} puso precio a tu cabeza. Un hombre lleva dos días sentado afuera de tu casa.	Você ouve que {rival} pôs preço na sua cabeça. Um homem está sentado do lado de fora da sua casa há dois dias.
+6745	Enfréntalo	Enfrente-o
+6746	Tú y tus guardias lo atrapan primero. Mensaje enviado.	Você e seus guardas pegam ele primeiro. Recado dado.
+6747	Él estaba listo para ti.	Ele estava pronto pra você.
+6748	Escabúllete por atrás	Escape pelos fundos
+6749	Te mudas a un motel por un tiempo. No es barato.	Você se muda pra um motel por um tempo. Não é barato.
+6750	Él te ve en el callejón.	Ele te vê no beco.
+6751	El dinero habla. Al día siguiente, el carro ya no está.	Dinheiro fala. No dia seguinte, o carro já tinha sumido.
+6752	{rival} manda un mensaje: quieren una tregua. Tu territorio, su territorio.	{rival} manda um recado: querem uma trégua. Seu território, o território deles.
+6753	Cierran el trato. Las cosas se calman por un tiempo.	Vocês fecham o acordo. As coisas se acalmam por um tempo.
+6754	Sigues vendiendo donde quieras, y paga bien.	Você continua vendendo onde quiser, e compensa.
+6755	No les cayó bien.	Eles não levaram nada bem.
+6756	Un cocinero de {rival} quiere cambiar de bando y traer sus recetas.	Um cozinheiro de {rival} quer mudar de lado e trazer as receitas dele.
+6757	Acógelo	Acolha-o
+6758	Te enseña algunos trucos.	Ele te ensina alguns truques.
+6759	Era un espía. Te roba y corre de vuelta con {rival}.	Ele era um espião. Ele te rouba e volta correndo pra {rival}.
+6760	Mándalo lejos	Mande-o embora
+6761	No confías en él.	Você não confia nele.
+6762	Explota el laboratorio rival	Laboratório rival explode
+6763	Un laboratorio de {rival} explotó anoche. Sus clientes buscan un nuevo proveedor.	Um laboratório de {rival} explodiu ontem à noite. Os clientes deles estão procurando um novo fornecedor.
+6764	Quítales los clientes	Pegue os clientes deles
+6765	El negocio se dispara.	Os negócios bombam.
+6767	Todos están vigilando ese barrio ahora. Buena jugada.	Todo mundo está de olho naquele bairro agora. Jogada inteligente.
+6768	Rival quiere fusionarse	Rival quer se unir
+6769	Un traficante pequeño de {rival} quiere pasarse contigo con su gente.	Um traficante de pequeno porte de {rival} quer trazer a gente dele pra você.
+6770	Compra su salida	Compre a saída dele
+6771	Le pagas para que se vaya y te quedas con uno de sus mejores traficantes.	Você paga pra ele sair e fica com um dos melhores traficantes dele.
+6772	Se encoge de hombros y se va.	Ele dá de ombros e vai embora.
+6773	Un detective ha estado preguntando por "{alias}" en la ciudad.	Um detetive tem perguntado sobre "{alias}" pela cidade.
+6774	Sobórnalo	Suborne-o
+6775	Se queda con el dinero y deja de preguntar.	Ele pega o dinheiro e para de perguntar.
+6776	Se queda con el dinero... y lo anota todo.	Ele pega o dinheiro... e anota tudo.
+6777	Cierras todo por unas semanas.	Você para tudo por algumas semanas.
+6778	Sigue investigando.	Ele continua investigando.
+6779	Un vecino se queja del olor a químicos que sale de tu {lab}.	Um vizinho reclama do cheiro de química que vem do seu {lab}.
+6780	Un sobre con dinero y una sonrisa. Problema resuelto.	Um envelope de dinheiro e um sorriso. Problema resolvido.
+6781	Amenázalos	Ameace-os
+6782	De repente ya no huelen nada.	De repente não sentem mais cheiro de nada.
+6783	Llaman a la policía.	Eles chamam a polícia.
+6785	Te para la policía con producto en el maletero.	Você é parado com o produto no porta-malas.
+6786	Te da una advertencia por una luz trasera rota.	Ele te dá uma advertência por causa de uma lanterna quebrada.
+6787	Pide revisar el maletero.	Ele pede pra revistar o porta-malas.
+6788	Lo pierdes en el tráfico.	Você o perde no trânsito.
+6789	Chocas contra un buzón.	Você bate num caixa de correio.
+6790	Ofrece un soborno	Ofereça um suborno
+6791	Se guarda el dinero.	Ele enfia o dinheiro no bolso.
+6792	No era ese tipo de policía.	Ele não era desse tipo de policial.
+6793	Han visto a {w} hablando con un detective.	Viram {w} conversando com um detetive.
+6794	"¡Era mi primo!" Resulta que sí era.	"Era meu primo!" Acontece que era mesmo.
+6795	{w} se asusta y desaparece. Tienes la sensación de que la policía te va a buscar.	{w} entra em pânico e some. Você tem a sensação de que a polícia vai aparecer.
+6796	Dejas ir a {w}. Más vale prevenir.	Você deixa {w} ir embora. Melhor prevenir.
+6797	No pasa nada.	Não dá em nada.
+6798	Sí fue algo.	Deu em alguma coisa.
+6799	Un paquete de tu producto pasó por la estación de autobuses. Los perros se volvieron locos.	Um pacote do seu produto passou pela rodoviária. Os cachorros enlouqueceram.
+6800	Ese paquete se perdió.	Esse pacote sumiu.
+6801	Dicen que la DEA podría estar escuchando tus teléfonos.	Dizem que a DEA pode estar grampeando seus telefones.
+6802	Consigue celulares desechables	Compre celulares descartáveis
+6803	Celulares nuevos para todos.	Celulares novos pra todo mundo.
+6804	No es nada	Não é nada
+6805	No fue nada.	Não foi nada.
+6806	Sí fue algo.	Foi alguma coisa.
+6807	Un helicóptero de policía ha estado dando vueltas sobre tu {lab} toda la semana.	Um helicóptero da polícia tem sobrevoado o seu {lab} a semana toda.
+6808	Mantén el perfil bajo	Fique na sua
+6809	Acaba yéndose.	Acaba indo embora.
+6810	Mueve el producto	Mude o produto
+6811	Mueves todo a un depósito por un tiempo.	Você move tudo pra um depósito por um tempo.
+6812	Un inspector de edificios llega a tu {lab} para una "revisión de rutina".	Um fiscal de obras aparece no seu {lab} para uma "inspeção de rotina".
+6813	Todo está en regla. Aparentemente.	Está tudo dentro das normas. Aparentemente.
+6814	Te denuncia.	Ele denuncia você.
+6815	Déjalo entrar	Deixe ele entrar
+6816	De alguna manera no nota nada.	De alguma forma ele não percebe nada.
+6817	Lo nota todo.	Ele percebe tudo.
+6818	En las noticias	Nas notícias
+6819	El diario local publicó una nota sobre un traficante llamado "{alias}" que se está apoderando de la ciudad.	O jornal local publicou uma matéria sobre um traficante chamado "{alias}" que está dominando a cidade.
+6820	Disfruta la fama	Aproveite a fama
+6821	Los clientes quieren comprarle a la leyenda.	Os clientes querem comprar da lenda.
+6822	Cambia tu alias	Mude seu alias
+6823	Usas otro nombre por un tiempo.	Você usa outro nome por um tempo.
+6824	Un abogado penalista astuto te ofrece tenerte de cliente fijo. "Por si acaso."	Um advogado de defesa afiado oferece te manter como cliente fixo. "Só por precaução."
+6825	Contrátalo	Contrate-o
+6826	Hace unas llamadas. Las cosas se calman.	Ele faz umas ligações. As coisas ficam mais tranquilas.
+6827	Te arriesgas.	Você vai arriscar.
+6828	Tu banco pregunta de dónde vienen todos tus depósitos en efectivo.	Seu banco quer saber de onde vem todo o seu depósito em dinheiro.
+6829	Divide los depósitos	Divida os depósitos
+6830	Depósitos más pequeños, más bancos. Molesto pero seguro.	Depósitos menores, mais bancos. Chato, mas seguro.
+6831	Se lo creen.	Eles compram a história.
+6832	Presentan un reporte.	Eles registram um relatório.
+6833	Un dueño de lavandería te ofrece lavar tu dinero a cambio de un porcentaje.	Um dono de lavanderia oferece lavar seu dinheiro em troca de uma parte.
+6834	Tu dinero ahora se ve mucho más limpio.	Seu dinheiro agora parece bem mais limpo.
+6835	Dejas tu efectivo donde está.	Você deixa seu dinheiro onde está.
+6836	Atrapas a {w} robando producto.	Você pega {w} desviando produto.
+6837	{w} se fue.	{w} sumiu.
+6838	{w} no volverá a hacerlo.	{w} não vai fazer isso de novo.
+6839	{w} sigue robando, pero te quiere más.	{w} continua desviando, mas gosta mais de você.
+6840	{w} quiere aumento. "Me estoy jugando la cárcel por ti."	{w} quer um aumento. "Estou arriscando a prisão por você."
+6841	{w} está contento.	{w} está feliz.
+6842	{w} refunfuña pero se queda.	{w} resmunga mas fica.
+6843	{w} tuvo una sobredosis de tu propio producto.	{w} teve uma overdose do seu próprio produto.
+6844	Llévalo al hospital	Leve ao hospital
+6845	{w} sobrevive. Los doctores hacen preguntas.	{w} se recupera. Os médicos fazem perguntas.
+6846	Ya era muy tarde.	Já era tarde demais.
+6847	{w} despierta y se entera de que lo dejaste ahí.	{w} acorda e descobre que você deixou ele lá.
+6848	{w} nunca despierta.	{w} nunca mais acorda.
+6849	{w} derramó químicos y se quemó feo.	{w} derramou produtos químicos e se queimou feio.
+6850	Paga a un doctor	Pague um médico
+6851	Un doctor que no hace preguntas le cose las heridas.	Um médico que não faz perguntas remenda as feridas.
+6852	Dile que aguante	Mande aguentar firme
+6853	{w} tiene muchísimo dolor.	{w} está com muita dor.
+6854	{w} se agarró a golpes con otro miembro de tu equipo.	{w} se meteu numa briga com outro membro da sua equipe.
+6855	Despides a {w}.	Você demite {w}.
+6856	Sepáralos	Separe os dois
+6857	Te metes en medio.	Você se mete no meio.
+6858	{w} dice que ya terminó. Quiere salirse del negocio.	{w} diz que já deu. Quer sair do negócio.
+6859	{w} se va.	{w} vai embora.
+6861	{w} se va de todos modos, y sabe todo.	{w} vai embora de qualquer jeito, e sabe de tudo.
+6862	Amigo de un amigo	Amigo de um amigo
+6863	{w} tiene un amigo que quiere vender para ti.	{w} tem um amigo que quer vender pra você.
+6864	Contrátalos	Contrate-os
+6865	Tu nuevo traficante sale a la calle al día siguiente.	Seu novo traficante está na rua no dia seguinte.
+6866	Sin más gente	Chega de gente
+6867	Mantienes el equipo pequeño.	Você mantém a equipe pequena.
+6868	{w} acaba de comprometerse y te invitó a la fiesta.	{w} acabou de noivar e convidou você pra festa.
+6869	Ve, y lleva un regalo	Vá e leve um presente
+6870	La pasas increíble.	Você se diverte demais.
+6871	{w} asaltó una licorería por su cuenta, y ahora la policía lo busca.	{w} assaltou uma loja de bebidas por fora, e agora a polícia está procurando ele.
+6872	{w} se esconde en tu casa.	{w} se esconde na sua casa.
+6873	{w} está por su cuenta.	{w} está por conta própria.
+6874	{w} anda presumiendo que trabaja para "{alias}" en el bar.	{w} fica se gabando de trabalhar para "{alias}" no bar.
+6875	{w} promete callarse.	{w} promete ficar calado.
+6876	Por la boca muere el pez.	Quem fala demais se dá mal.
+6877	{w} recibió una paliza de {rival} antes que delatarte.	{w} levou uma surra de {rival} em vez de entregar o seu nome.
+6878	{w} te seguirá a donde sea.	{w} vai seguir você para qualquer lugar.
+6879	Un comprador de fuera quiere la mitad de tu alijo por el 80% del precio de calle.	Um comprador de fora da cidade quer metade do seu estoque por 80% do preço de rua.
+6880	Véndele	Venda pra ele
+6881	Efectivo en una bolsa de gimnasio. Fácil.	Dinheiro numa bolsa de academia. Fácil.
+6882	Era un agente federal.	Ele era um agente federal.
+6883	Demasiado bueno para ser verdad.	Bom demais pra ser verdade.
+6884	Alguien que nunca has visto te ofrece el 120% del precio de calle por todo lo que tienes.	Alguém que você nunca viu oferece 120% do preço de rua por tudo que você tem.
+6885	Era real. Vendes todo.	Era de verdade. Você vende tudo.
+6886	Era una trampa.	Era uma armadilha.
+6887	Tu instinto dice que no.	Seu instinto diz não.
+6888	Tu proveedor duplicó sus precios de la noche a la mañana.	Seu fornecedor dobrou os preços da noite pro dia.
+6889	Págalo	Pague
+6890	Te abasteces igual.	Você estoca mesmo assim.
+6891	Busca a otro	Procure outro
+6892	Encuentras a alguien más barato.	Você acha um cara mais barato.
+6893	Nadie más tiene. Te quedas corto de producto.	Ninguém mais tem. Você fica sem estoque.
+6894	Algunos de tus clientes se enfermaron con tu última tanda.	Alguns dos seus clientes passaram mal com o último lote.
+6895	Sácalo de la calle	Tire das ruas
+6896	Tiras lo malo a la basura.	Você joga o material ruim fora.
+6897	Véndelo igual	Venda mesmo assim
+6898	La gente sigue enfermándose. La policía se da cuenta.	As pessoas continuam passando mal. A polícia percebe.
+6899	Un actor famoso quiere una entrega en su suite del hotel.	Um ator famoso quer uma entrega na suíte do hotel dele.
+6900	Entrégalo tú mismo	Entregue você mesmo
+6901	Dan muy buena propina.	Eles dão uma gorjeta muito boa.
+6902	Los paparazzi te sacaron fotos en el lobby.	Os paparazzi tiraram fotos suas no saguão.
+6903	Demasiada atención.	Atenção demais.
+6904	Un profesor de química jubilado de tu barrio ofrece clases particulares. Sin preguntas.	Um professor de química aposentado do seu bairro oferece aulas particulares. Sem perguntas.
+6905	Toma clases	Faça aulas
+6906	Sabe lo suyo.	Ele manja do assunto.
+6907	Aprenderás de los libros.	Você vai aprender pelos livros.
+6908	Un camionero te ofrece una tarima de suministros que "se cayó del camión".	Um caminhoneiro oferece uma palete de suprimentos que "caiu do caminhão".
+6910	Buena mercancía a buen precio.	Material bom por um preço bom.
+6911	El camión estaba vigilado.	O caminhão estava sendo vigiado.
+6912	No vale el riesgo.	Não vale o risco.
+6913	Un envío de tus suministros nunca llegó.	Uma remessa dos seus suprimentos nunca chegou.
+6914	Algo se rompió en tu {lab}.	Algo quebrou no seu {lab}.
+6915	Arréglalo bien	Conserte direito
+6916	Como nuevo.	Como novo.
+6917	Ponle cinta adhesiva	Prenda com fita adesiva
+6918	Aguanta. Por ahora.	Aguenta. Por enquanto.
+6919	Falla espectacularmente. Te quemas.	Falha de forma espetacular. Você se queima.
+6920	Se fue la luz por tres días. Parte de tu producto se echó a perder.	A luz caiu por três dias. Parte do seu produto estragou.
+6921	Tiras lo que se echó a perder.	Você joga fora o que estragou.
+6922	Boca a boca	Boca a boca
+6923	La gente dice que "{alias}" tiene el mejor producto de la ciudad.	As pessoas dizem que "{alias}" tem o melhor produto da cidade.
+6924	Sube tus precios	Aumente seus preços
+6925	Lo pagan.	Eles pagam.
+6926	No necesitas la atención.	Você não precisa de atenção.
+6927	Un universitario quiere vender para ti en fiestas.	Um universitário quer vender pra você nas festas.
+6928	Tu nuevo traficante empieza este fin de semana.	Seu novo traficante começa este fim de semana.
+6929	Muy joven y muy tonto.	Novo e burro demais.
+6930	Un empresario quiere invertir en tu "empresa". Sabe exactamente a qué te dedicas.	Um empresário quer investir na sua "empresa". Ele sabe exatamente o que você faz.
+6931	Acepta su dinero	Aceite o dinheiro dele
+6932	Dinero gratis. Por ahora.	Dinheiro fácil. Por enquanto.
+6933	Sin socios	Sem sócios
+6934	Diriges tu propio negocio.	Você toca o seu próprio negócio.
+6935	Alguien entró a tu carro y se llevó el efectivo de la guantera.	Alguém arrombou seu carro e levou o dinheiro do porta-luvas.
+6936	Lección aprendida.	Lição aprendida.
+6937	Un familiar pasó sin avisar y casi encuentra tu alijo.	Um familiar apareceu sem avisar e quase achou seu estoque.
+6938	Inventa una historia	Invente uma história
+6939	"Es para mi proyecto de ciencias."	"É pro meu projeto de ciências."
+6940	No te creen.	Eles não acreditam em você.
+6942	No están contentos.	Eles não ficaram felizes.
+6943	Avería en el desierto	Pane no deserto
+6944	Tu casa rodante se averió en medio del desierto.	Seu motorhome quebrou no meio do deserto.
+6945	Llama a una grúa	Chame um reboque
+6946	El de la grúa mira la casa rodante por un buen rato.	O guincheiro olha o motorhome por um bom tempo.
+6947	Camina al pueblo	Ande até a cidade
+6948	Es una caminata larga y calurosa.	É uma caminhada longa e quente.
+6949	Un cártel de verdad quiere comprar tu producto al por mayor. Decirles que no no es realmente una opción.	Um cartel de verdade quer comprar seu produto em grande quantidade. Dizer não pra eles não é bem uma opção.
+6950	Asóciate con ellos	Faça parceria com eles
+6951	El dinero es increíble.	O dinheiro é incrível.
+6952	Lo respetan. Por ahora.	Eles respeitam. Por enquanto.
+6953	Mandan un mensaje.	Eles mandam um recado.
+6954	La ventilación de tu superlaboratorio falló a mitad de la cocción.	A ventilação do seu superlab falhou no meio do preparo.
+6955	Pierdes la tanda pero todos salen.	Você perde o lote, mas todo mundo sai.
+6956	Terminas la tanda tosiendo.	Você termina o lote tossindo.
+6957	La gente empieza a desmayarse.	As pessoas começam a desmaiar.
+6958	Un contrabandista tiene un contenedor de precursores químicos a mitad de precio.	Um contrabandista tem um contêiner de precursores químicos pela metade do preço.
+6959	Un contenedor entero.	Um contêiner inteiro.
+6960	Aduanas lo estaba rastreando.	A alfândega estava rastreando.
+6961	Te quedas con tus proveedores de siempre.	Você fica com seus fornecedores de sempre.
+6962	Un drogadicto te siguió a casa y toca tu puerta por la noche.	Um viciado seguiu você até em casa e fica batendo na sua porta à noite.
+6963	Dale un poco	Dê um pouco pra ele
+6964	Se va. Volverá.	Ele vai embora. Vai voltar.
+6965	Espántalo	Assuste ele
+6966	No vuelve.	Ele não volta.
+6967	Va a la policía.	Ele vai pra polícia.
+6968	Tus guardias del cártel atraparon a {rival} intentando colarse en tu {lab}.	Seus guardas do cartel pegaram {rival} tentando entrar escondido no seu {lab}.
+6969	Deja que los guardias se encarguen	Deixe os guardas resolverem
+6970	Tus guardias los ahuyentan.	Seus guardas os expulsam.
+6971	Hay un tiroteo. No todos salen caminando.	Rola um tiroteio. Nem todo mundo sai andando.
+6972	Alguien vende basura en la calle y la llama "de {alias}".	Alguém está vendendo lixo na rua e chamando de "do {alias}".
+6973	Encuéntralo	Encontre-o
+6974	Lo encuentras y le das un escarmiento.	Você o encontra e faz dele um exemplo.
+6975	Tenía amigos.	Ele tinha amigos.
+6976	Tu reputación se afecta.	Sua reputação sofre.
+6977	lugar	lugar
+6978	{1} unidades por	{1} unidades por
+6979	Producto perdido	Produto perdido
+6980	{1} {2} se fue	{1} {2} sumiu
+6981	Mi {1}, {2} {3}, fue asesinado.	Meu {1}, {2} {3}, foi assassinado.
+6982	Nuevo contratado	Novo contratado
+6983	{1}: Salió mal	{1}: Deu errado
+6984	Me mataron en el negocio de las drogas.	Me mataram no negócio das drogas.
+6985	recibir un balazo de una banda rival de drogas	levar um tiro de uma gangue rival de drogas
+6986	Ganancia por edad	Lucro por idade
+6987	Le pagaste a tu equipo {1}.	Você pagou sua equipe {1}.
+6988	No pudiste pagar la nómina. Todo tu equipo se fue, y saben dónde está tu laboratorio.	Você não conseguiu pagar a folha. Sua equipe inteira saiu, e eles sabem onde fica seu laboratório.
+6989	Tu traficante {1} {2} fue arrestado y negoció. {3} le dijo a la policía dónde está tu laboratorio.	Seu traficante {1} {2} foi preso e fez um acordo. {3} contou pra polícia onde fica seu laboratório.
+6990	Tu traficante {1} {2} fue arrestado. {3} mantuvo {4} boca cerrada.	Seu traficante {1} {2} foi preso. {3} manteve {4} boca fechada.
+6991	{1} {2} renunció. Nada volvió a ser igual después de que intentaste algo con {3}.	{1} {2} pediu demissão. As coisas nunca mais foram as mesmas depois que você deu em cima de {3}.
+6992	Tus traficantes vendieron	Seus traficantes venderam
+6993	Suministros, equipo y contrataciones	Suprimentos, equipamento e contratações
+6994	Perdido (robado o confiscado)	Perdido (roubado ou apreendido)
+6995	Mejor traficante	Melhor traficante
+6996	Resumen del año	Resumo do ano
+6997	{1} {2} fue tu mejor traficante.	{1} {2} foi seu melhor traficante.
+6998	Así le fue a la operación de {1} a los {2} años.{3}	Veja como foi a operação de {1} aos {2} anos.{3}
+6999	después de que {1} {2} delató	depois que {1} {2} dedurou
+7000	La DEA allanó mi {1}{2}.	A DEA invadiu meu {1}{2}.
+7001	Gracias a {1} {2}, d	Graças a {1} {2}, d
+7002	{1} unidades de producto,	{1} unidades de produto,
+7003	Agentes de la {1}EA allanan tu {2}. Confiscan {3}cada pieza de equipo y cada suministro que tenías. Tu equipo se dispersa.	Agentes da {1}EA invadem seu {2}. Eles apreendem {3}cada peça de equipamento e cada suprimento que você tinha. Sua equipe se dispersa.
+7004	Eres muy joven para meterte en el negocio de las drogas.	Você é novo demais pra entrar no negócio das drogas.
+7005	Podrías vender un poco a gente que conoces... o podrías construir algo. Compra una casa rodante, compra suministros, cultiva y cocina tu propio producto, y véndelo.	Você poderia vender um pouco pra gente que conhece... ou construir algo. Compre um motorhome, compre suprimentos, cultive e cozinhe seu próprio produto, e venda.
+7006	Elige el nombre por el que te conocerá la calle.	Escolha o nome pelo qual a rua vai te conhecer.
+7007	Entré al negocio de las drogas. Me llaman "{1}".	Entrei no negócio das drogas. Me chamam de "{1}".
+7008	Almacenes y entregas	Armazéns e entregas
+7009	Conductor de reparto (DSP)	Motorista de entregas (DSP)
+7010	Preparador de pedidos en centro de distribución	Separador de pedidos em centro de distribuição
+7011	Conductor de Amazon Flex	Motorista da Amazon Flex
+7012	Tiendas y supercentros	Lojas e supermercados
+7013	Preparador de pedidos de supermercado en línea	Separador de pedidos de supermercado online
+7014	Reparte comida como Dasher	Entregue comida como Dasher
+7015	Dasher (tiempo completo)	Dasher (tempo integral)
+7016	Dasher (medio tiempo)	Dasher (meio período)
+7017	Reparte comida con Uber Eats	Entregue comida com o Uber Eats
+7018	Conductor de reparto (auto)	Motorista de entregas (carro)
+7019	Repartidor (bicicleta)	Entregador (bicicleta)
+7020	discord	discord
+7021	Trabaja en Discord (título universitario)	Trabalhe no Discord (diploma universitário)
+7022	Especialista en Confianza y Seguridad	Especialista em Confiança e Segurança
+7023	Especialista en atención al cliente	Especialista em suporte ao cliente
+7024	casado	casado
+7025	refugio	abrigo
+7026	callejero	de rua
+7027	Pago por Marejada Ciclónica	Pagamento por Maré de Tempestade
+7028	Ladrón de lugares de estacionamiento	Ladrão de vaga de estacionamento
+7029	Guardia de carritos en una tormenta	Serviço de carrinhos na tempestade
+7030	madre	mãe
+7031	padre	pai
+7032	divorciados	divorciados
+7033	Mis padres se divorciaron.	Meus pais se divorciaram.
+7034	infidelidad	traição
+7035	La infidelidad de mi {1} acabó con su matrimonio.	O caso da minha {1} acabou com o casamento deles.
+7036	La infidelidad de tu {1} fue imperdonable.	A traição da sua {1} foi imperdoável.
+7037	Tus padres, {1} y {2}, se divorciaron.{3}	Seus pais, {1} e {2}, se divorciaram.{3}
+7038	El juzgado decidirá con quién vives.	O tribunal vai decidir com quem você vai morar.
+7039	quién hace los quehaceres	quem faz as tarefas de casa
+7040	que tu padre trabaje hasta tarde	seu pai trabalhar até tarde
+7041	los gastos de tu madre	os gastos da sua mãe
+7042	a dónde ir de vacaciones	para onde ir de férias
+7043	agrio	azedo
+7044	Problemas en casa	Problemas em casa
+7045	Tus padres han estado discutiendo por {1}, y tu {2} dice que {3} quiere mudarse.	Seus pais andam discutindo sobre {1}, e seu {2} diz que {3} quer se mudar.
+7046	Consuela a mi {1}	Console minha {1}
+7047	Consolé a mi {1} después de que mis padres tuvieron una gran pelea.	Consolei minha {1} depois que meus pais tiveram uma briga enorme.
+7048	Ombro amigo	Ombro amigo
+7049	Consolaste a tu {1}.	Você consolou sua {1}.
+7050	Habla con mi {1}	Converse com minha {1}
+7051	Convencí a mi {1} de no mudarse.	Convenci minha {1} a não se mudar.
+7052	Intenté hablar con mi {1} sobre las peleas, pero {2} no quiso escuchar.	Tentei conversar com minha {1} sobre as brigas, mas {2} não quis ouvir.
+7053	No escuchar	Não ouvir
+7054	Tu {1} aceptó darle otra oportunidad al matrimonio.	Sua {1} concordou em dar mais uma chance pro casamento.
+7055	Tu {1} te dijo que no te metas en asuntos de adultos.	Sua {1} disse pra você ficar fora de assuntos de adulto.
+7056	Me mantuve al margen de la pelea de mis padres.	Fiquei fora da briga dos meus pais.
+7057	No es mi problema	Não é problema meu
+7058	Te pones los audífonos y te mantienes al margen.	Você põe os fones de ouvido e fica fora disso.
+7059	compartida	compartilhada
+7060	custodia compartida: dividirás tu tiempo entre ambas casas	guarda compartilhada: você vai dividir seu tempo entre as duas casas
+7061	custodia para tu	guarda para sua
+7062	El juzgado le dio a mis padres la custodia compartida de mí.	O tribunal deu aos meus pais a guarda compartilhada de mim.
+7063	El juzgado le dio a mi {1} la custodia de mí.	O tribunal deu a guarda de mim para minha {1}.
+7064	Fallo judicial	Decisão judicial
+7065	estuvo de acuerdo contigo y	concordou com você e
+7066	no respetó tus deseos y	não respeitou seus desejos e
+7067	Ambos padres piden tu custodia después del divorcio. {1} quiere saber dónde preferirías vivir.	Os dois pais pedem sua guarda depois do divórcio. {1} quer saber onde você prefere morar.
+7068	Vivir con mi madre	Morar com minha mãe
+7069	Vivir con mi padre	Morar com meu pai
+7070	Pedir custodia compartida	Pedir guarda compartilhada
+7071	la Costa Amalfitana	a Costa Amalfitana
+7072	padrastro	padrasto
+7073	madrastra	madrasta
+7074	Mi {1}, {2}, se casó con {3} {4}. {5} y mi nuevo {6} hicieron su luna de miel en {7}.	Minha {1}, {2}, se casou com {3} {4}. {5} e meu novo {6} passaram a lua de mel em {7}.
+7075	Ahora tengo {1} {2}.	Agora eu tenho {1} {2}.
+7076	¡Tu {1}, {2}, se volvió a casar! {3} se casó con {4} {5}, un {7} de {6} años, y hicieron su luna de miel en {8}.	Sua {1}, {2}, se casou de novo! {3} se casou com {4} {5}, um(a) {7} de {6} anos, e eles passaram a lua de mel em {8}.
+7077	Decidí llamar a mi {1}, {2}, "{3}".	Decidi chamar minha {1}, {2}, de "{3}".
+7078	Mucho gusto	Prazer em conhecer
+7079	Mal comienzo	Começo ruim
+7080	Tu {1} quiere que te mudes a la casa de {2} con {3}{4}.	Sua {1} quer que você se mude pra casa de {2} com {3}{4}.
+7081	Dale la bienvenida a mi nueva familia	Dê as boas-vindas à minha nova família
+7082	y mis medio hermanos	e meus meio-irmãos
+7083	Me mudé con mi {1}, {2}{3}.	Me mudei com minha {1}, {2}{3}.
+7084	Hogar, dulce hogar	Lar, doce lar
+7085	Te mudaste a la casa de {1} y te sentiste como en tu casa.	Você se mudou pra casa de {1} e se sentiu em casa.
+7086	Negarse a cooperar	Se recusar a cooperar
+7087	Armé un escándalo por mudarme con mi nueva familia reconstituida.	Fiz um escândalo por causa da mudança pra casa da minha nova família.
+7088	Estuviste refunfuñando todo el camino, pero igual tuviste que mudarte a la casa de {1}.	Você fez bico o caminho todo, mas mesmo assim teve que se mudar pra casa de {1}.
+7089	Pide quedarte con tu {1}	Peça pra ficar com sua {1}
+7090	Me mudé con mi {1} en vez de con mi nueva familia.	Me mudei com minha {1} em vez da minha nova família.
+7091	Cambio de domicilio	Mudança de endereço
+7092	Tu {1} aceptó quedarse contigo a tiempo completo.	Sua {1} concordou em ficar com você em tempo integral.
+7093	Pedí vivir con mi {1}, pero la respuesta fue no.	Pedi pra morar com minha {1}, mas a resposta foi não.
+7094	Tus padres decidieron que te vas a vivir con {1}.	Seus pais decidiram que você vai morar com {1}.
+7095	¿Cómo te gustaría llamar a tu nuevo {1}?	Como você gostaria de chamar seu novo {1}?
+7096	{1} se emocionó cuando llamaste a {2} "{3}".	{1} se emocionou quando você chamou {2} de "{3}".
+7097	{1} sonrió y dijo que así está bien.	{1} sorriu e disse que tudo bem.
+7098	{1} pensó que era un poco formal, pero lo aceptó.	{1} achou meio formal, mas aceitou.
+7099	{1} pensó que estabas siendo sarcástico.	{1} achou que você estava sendo sarcástico.
+7100	{1} se ofendió y se lo contó a tu {2}.	{1} ficou ofendido e contou pra sua {2}.
+7101	Tu {1}, {2}, te dio una caja de donas. Cuando la abriste, estaba llena de brócoli crudo y coles de Bruselas.	Sua {1}, {2}, te deu uma caixa de rosquinhas. Quando você abriu, estava cheia de brócolis crus e couve-de-bruxelas.
+7102	Tu {1}, {2}, dice que no vas a venir a las vacaciones familiares a menos que empieces a hacer todos los quehaceres.	Sua {1}, {2}, diz que você não vai nas férias em família a menos que comece a fazer todas as tarefas de casa.
+7103	Tu {1}, {2}, lleva toda la semana fingiendo que eres invisible, incluso cuando le dices hola.	Sua {1}, {2}, passou a semana toda fingindo que você é invisível, mesmo quando você diz oi.
+7104	Tu {1}, {2}, les contó a tus amigos que todavía te haces pipí en la cama.	Sua {1}, {2}, contou pros seus amigos que você ainda faz xixi na cama.
+7105	Tu {1}, {2}, botó tu juguete favorito diciendo que eran "trastos".	Sua {1}, {2}, jogou fora seu brinquedo favorito, dizendo que era "bagunça".
+7106	Cuéntale a tu {1}	Conte pra sua {1}
+7107	Le conté a mi {1} sobre mi {2}, {3}.	Contei pra minha {1} sobre meu {2}, {3}.
+7108	Le contaste a tu {1} lo que hizo {2}.	Você contou pra sua {1} o que {2} fez.
+7109	Confronté a mi {1}, {2}, y pidió disculpas.	Confrontei minha {1}, {2}, e pediu desculpas.
+7110	Confronté a mi {1}, {2}, y terminó en un griterío.	Confrontei minha {1}, {2}, e virou uma gritaria.
+7111	Pelea a gritos	Briga aos gritos
+7112	{1} se disculpó y prometió mejorar.	{1} pediu desculpas e prometeu melhorar.
+7113	{1} te dijo que cuidaras el tono.	{1} disse pra você cuidar o tom.
+7114	Me peleé con mi {1}, {2}.	Briguei com minha {1}, {2}.
+7115	Pleito familiar	Briga de família
+7116	Tú y {1} se agarraron a golpes. Tu {2} tuvo que separarlos.	Você e {1} brigaram feio. Sua {2} teve que separar os dois.
+7117	Ignoré a mi {1}, {2}.	Ignorei minha {1}, {2}.
+7118	Ponte por encima	Fique acima disso
+7119	Ignoraste a {1}.	Você ignorou {1}.
+7120	Mi {1}, {2}, se divorció de mi {3}, {4} {5}.	Minha {1}, {2}, se divorciou do meu {3}, {4} {5}.
+7121	Otro divorcio	Outro divórcio
+7122	Tu {1}, {2}, se divorció de tu {3}, {4} {5}.	Sua {1}, {2}, se divorciou do seu {3}, {4} {5}.
+7123	distanciamiento	distanciamento
+7124	viudo	viúvo
+7125	niña	menina
+7126	Mi {1}, {2}, y mi {3}, {4}, tuvieron un bebé {5}: mi nuevo {6}, {7}.	Minha {1}, {2}, e meu {3}, {4}, tiveram um bebê {5}: meu novo {6}, {7}.
+7127	siguiente	próximo
+7128	después	depois
+7129	perdonar	perdoar
+7130	{n} te castigó un mes por "tu actitud".	{n} te deixou de castigo por um mês por "sua atitude".
+7131	Cumpliste tu castigo en silencio. Al final, parecía un poco menos tenso.	Você cumpriu o castigo em silêncio. No fim, parecia um pouco menos tenso.
+7132	Escápate de todos modos	Fuja mesmo assim
+7133	Te escapaste. te pilló entrando de vuelta por la ventana.	Você fugiu. te pegou voltando pela janela.
+7134	Discute por eso	Discuta por isso
+7135	La discusión extendió el castigo a dos meses.	A discussão fez o castigo durar dois meses.
+7136	{n} vio tu boletín y gritó: "¿De verdad es lo mejor que puedes hacer?"	{n} viu seu boletim e gritou: "Isso é mesmo o melhor que você consegue fazer?"
+7137	Promete esforzarte más	Prometa se esforçar mais
+7138	Dijo que lo creerá cuando lo vea.	Disse que vai acreditar quando ver.
+7139	Dile que nunca te ayuda	Diga que ele nunca te ajuda
+7140	Azotó el boletín en la mesa y salió del cuarto.	Bateu o boletim na mesa e saiu da sala.
+7141	Tu encogimiento de hombros lo enojó aún más.	Seu gesto de ombros deixou ele ainda mais furioso.
+7142	{n} te quitó el celular y leyó todos tus mensajes.	{n} tirou seu celular e leu todas as suas mensagens.
+7143	Pídelo de vuelta con educación	Peça de volta com educação
+7144	Te lo devolvió una semana después, con un sermón.	Devolveu uma semana depois, com um sermão.
+7145	Se quedó con el celular un mes.	Ficou com o celular por um mês.
+7146	Róbalo de vuelta de noche	Roube de volta à noite
+7147	Lo recuperaste. se dio cuenta por la mañana.	Você recuperou. percebeu de manhã.
+7148	¿Por qué no puedes ser...	Por que você não pode ser...
+7149	{n} preguntó por qué no puedes ser más como tu primo.	{n} perguntou por que você não consegue ser mais como seu primo.
+7150	Te reíste. no.	Você riu. não.
+7151	Di "Entonces quizás ese debería ser tu hijo"	Diga "Então talvez ele devesse ser seu filho"
+7152	Se quedó sin palabras. Después ya no.	Ficou sem palavras. Depois não ficou mais.
+7153	Vete a llorar a tu cuarto	Vá chorar no seu quarto
+7154	Lloraste en la almohada por una hora.	Você chorou no travesseiro por uma hora.
+7155	{n} se olvidó de tu cumpleaños este año.	{n} esqueceu seu aniversário este ano.
+7156	Se veía avergonzado y te compró un pastel de gasolinera.	Ficou sem graça e comprou pra você um bolo de posto de gasolina.
+7157	Finge que no te importa	Finja que não se importa
+7158	Fingiste. Igual dolió.	Você fingiu. Mesmo assim doeu.
+7159	Se sintió mal y luego se puso a la defensiva.	Se sentiu mal e depois ficou na defensiva.
+7160	Llegaste tarde y {n} había cerrado con llave. "Llegaste tarde."	Você chegou tarde e {n} tinha trancado a porta. "Você chegou atrasado."
+7161	Discúlpate a través de la puerta	Peça desculpas pela porta
+7162	Te dejó entrar después de veinte minutos.	Deixou você entrar depois de vinte minutos.
+7163	Duerme en casa de un amigo	Durma na casa de um amigo
+7164	Se puso furioso porque no volviste a casa.	Ficou furioso porque você não voltou pra casa.
+7165	Golpea la puerta	Bata na porta
+7166	Los vecinos salieron a mirar.	Os vizinhos saíram pra ver.
+7167	Escuchaste a {n} decirle a un vecino que eres "un dolor de cabeza de verdad".	Você ouviu {n} dizer pra um vizinho que você é "um trabalhão de verdade".
+7168	Dijo que no se suponía que lo escucharas.	Disse que você não era pra ter ouvido isso.
+7169	Fingiste que nunca lo escuchaste.	Você fingiu que nunca ouviu.
+7170	Pórtate súper bien para demostrarle que está equivocado.	Seja super bonzinho pra provar que ele está errado.
+7171	Lo notó. Hasta dio las gracias.	Percebeu. Até agradeceu.
+7172	La cena con {n} fue en silencio total otra vez.	O jantar com {n} foi em silêncio total de novo.
+7173	Rompe el silencio	Quebre o silêncio
+7174	Preguntaste cómo le había ido el día. de verdad contestó.	Você perguntou como foi o dia. realmente respondeu.
+7175	Come en tu cuarto	Coma no seu quarto
+7176	No intentó detenerte.	Não tentou te impedir.
+7177	Dijo "nada". Algo andaba mal.	Disse "nada". Algo estava errado.
+7178	{n} dejó una lista de veinte tareas sobre tu cama.	{n} largou uma lista de vinte tarefas na sua cama.
+7179	Hazlas todas	Faça todas
+7180	Tomó todo el fin de semana, pero quedó impresionado.	Levou o fim de semana todo, mas ficou impressionado.
+7181	Haz la mitad	Faça metade
+7182	Señaló cada una que te saltaste.	Apontou cada uma que você pulou.
+7183	Agregó diez más a la lista.	Acrescentou mais dez na lista.
+7184	{n} te cortó la mesada.	{n} cortou sua mesada.
+7186	Dijo que el dinero es para los niños que muestran respeto.	Disse que dinheiro é pra quem mostra respeito.
+7187	Vende tus juguetes viejos	Venda seus brinquedos velhos
+7188	Vendiste tus juguetes viejos en línea.	Você vendeu seus brinquedos velhos on-line.
+7189	Sin dinero y molesto.	Sem grana e irritado.
+7190	Frente a los amigos	Na frente dos amigos
+7191	{n} te gritó frente a todos tus amigos.	{n} gritou com você na frente de todos os seus amigos.
+7192	Tus amigos también se rieron. No contigo.	Seus amigos também riram. Não com você.
+7193	Grita de vuelta	Grite de volta
+7194	Tus amigos se fueron rápido.	Seus amigos saíram rápido.
+7195	Te fuiste con la cara ardiendo.	Você saiu com o rosto queimando.
+7196	{n} revisó tu cuarto mientras estabas en la escuela.	{n} revistou seu quarto enquanto você estava na escola.
+7197	Exige privacidad	Exija privacidade
+7198	Dijo que la privacidad es para los que pagan renta.	Disse que privacidade é pra quem paga aluguel.
+7199	Vuelves a poner todo en su lugar, en silencio.	Você põe tudo de volta, em silêncio.
+7200	Busca un mejor escondite	Ache um esconderijo melhor
+7201	Detrás del panel suelto de la pared. nunca lo va a encontrar.	Atrás do painel solto da parede. nunca vai achar.
+7202	{n} tiró tu colección de la infancia mientras limpiaba.	{n} jogou fora sua coleção de infância enquanto limpava.
+7203	Llora por eso	Chore por isso
+7204	Dijo que era "puro cachivache".	Disse que era "só lixo".
+7205	Sácalo de la basura	Tire do lixo
+7206	Rescataste la mayoría.	Você salvou a maior parte.
+7207	La ley del hielo duró una semana.	O silêncio durou uma semana.
+7208	{n} no te invitó a la cena familiar de fiestas.	{n} não convidou você pro jantar de fim de ano da família.
+7209	Aparécete de todos modos	Apareça mesmo assim
+7211	Pásala solo	Passe sozinho
+7212	Comiste comida para llevar, solo.	Você comeu comida de restaurante sozinho.
+7213	Respondió con un "gracias" por mensaje.	Respondeu "obrigado" por mensagem.
+7214	{n} llamó solo para decir lo decepcionado que está con tus decisiones de vida.	{n} ligou só pra dizer o quanto está decepcionado com suas escolhas de vida.
+7215	Cuelga	Desligue
+7216	Escucha en silencio	Ouça em silêncio
+7217	Cuarenta minutos. Dijiste "mm-hm" muchas veces.	Quarenta minutos. Você disse "uhum" um monte de vezes.
+7218	Defiéndete	Defenda-se
+7219	Expusiste tu caso. no se convenció.	Você apresentou seus argumentos. não se convenceu.
+7220	{n} insinuó que te va a sacar del testamento.	{n} deu a entender que vai te tirar do testamento.
+7221	Discúlpate por el pasado	Peça desculpas pelo passado
+7222	Dijo que lo "pensará".	Disse que "vai pensar".
+7223	Di que no quieres su dinero	Diga que não quer o dinheiro dele
+7224	Dijo bien, porque no vas a recibir nada.	Disse ótimo, porque você não vai receber nada.
+7225	Amenaza con contratar un abogado	Ameace contratar um advogado
+7226	Eso lo hizo oficial.	Aí ficou oficial.
+7227	{n} quiere que le devuelvas el dinero que le prestó hace años.	{n} quer de volta o dinheiro que emprestou pra você anos atrás.
+7228	Le devolviste el dinero. pareció sorprendido.	Você devolveu o dinheiro. pareceu surpreso.
+7229	Di que se te olvidó	Diga que esqueceu
+7230	Tenía una lista de fechas y montos.	Tinha uma lista de datas e valores.
+7231	Te llamó aprovechado.	Chamou você de aproveitador.
+7232	{n} dijo que tu gusto para la gente es "trágico".	{n} disse que seu gosto pra pessoas é "trágico".
+7233	Defiende a tus amigos	Defenda seus amigos
+7234	Medio risa. Medio mirada fulminante.	Meia risada. Meio olhar feio.
+7235	Termina la llamada	Encerre a ligação
+7236	Colgaste a media frase.	Você desligou no meio da frase.
+7237	{n} publicó en línea sobre "hijos desagradecidos que nunca llaman".	{n} postou on-line sobre "filhos ingratos que nunca ligam".
+7238	Comenta la publicación	Comente a publicação
+7239	La sección de comentarios se volvió una guerra familiar.	A seção de comentários virou uma guerra familiar.
+7240	Ojos que no ven, corazón que no siente. Más o menos.	Longe dos olhos, longe do coração. Mais ou menos.
+7241	Actuó como si no hubiera publicado nada.	Agiu como se não tivesse postado nada.
+7242	{n} sacó a relucir una pelea que tuvieron hace diez años.	{n} trouxe à tona uma briga que vocês tiveram dez anos atrás.
+7243	Discúlpate otra vez	Peça desculpas de novo
+7244	Aceptó. Por ahora.	Aceitou. Por enquanto.
+7245	Saca a relucir sus errores	Traga à tona os erros dele
+7246	Ambos tenían una larga lista.	Os dois tinham uma lista longa.
+7247	Agarraste tu abrigo.	Você pegou seu casaco.
+7248	{n} dice que ustedes dos deberían ver a un terapeuta familiar.	{n} diz que vocês dois deveriam procurar um terapeuta de família.
+7249	Acepta ir	Aceite ir
+7250	Fue difícil, pero ambos dijeron lo que necesitaban decir.	Foi difícil, mas os dois disseram o que precisavam dizer.
+7251	Dijo que ese es exactamente el problema.	Disse que esse é exatamente o problema.
+7252	Di que el que lo necesita es él	Diga que quem precisa é ele
+7253	Fue solo.	Foi sozinho.
+7254	{n} apareció en tu casa sin avisar para "ver cómo vives".	{n} apareceu na sua casa sem avisar pra "ver como você vive".
+7255	Pasó el dedo por cada estante.	Passou o dedo em cada prateleira.
+7256	Cierra la puerta	Feche a porta
+7257	Se quedó afuera un rato y luego se fue.	Ficou lá fora um tempo e depois foi embora.
+7258	Da un recorrido sarcástico	Faça um tour sarcástico
+7259	"Y aquí está la cocina, donde me como mis comidas tristes."	"E aqui está a cozinha, onde eu como minhas refeições tristes."
+7260	No estará ahí	Não vai estar lá
+7261	{n} dijo que no va a aparecer en tu próximo gran momento.	{n} disse que não vai aparecer no seu próximo grande momento.
+7262	Rógale que venga	Implore pra ele vir
+7263	Di que está bien	Diga que tudo bem
+7264	Dijiste que estaba bien. No lo estaba.	Você disse que tudo bem. Não estava.
+7265	Dile que se va a arrepentir	Diga que ele vai se arrepender
+7266	Dijo que lo duda.	Disse que duvida.
+7267	{n} te mandó una carta escrita a mano disculpándose por el pasado.	{n} mandou pra você uma carta escrita à mão pedindo desculpas pelo passado.
+7268	Lo llamaste. Los dos lloraron un poco.	Você ligou pra ele. Os dois choraram um pouco.
+7269	Léela, no respondas	Leia, não responda
+7270	Guardaste la carta en un cajón.	Você guardou a carta numa gaveta.
+7271	Rómpela	Rasgue
+7272	Los pedazos se quedaron en la basura por días.	Os pedaços ficaram no lixo por dias.
+7273	{n} está en el hospital y preguntó por ti.	{n} está no hospital e perguntou por você.
+7274	Te sentaste junto a la cama por horas. te tomó la mano.	Você ficou ao lado da cama por horas. segurou sua mão.
+7276	Recibió las flores.	Recebeu as flores.
+7277	No fuiste. Te quedó grabado.	Você não foi. Ficou com você.
+7278	{n} le dijo a un familiar que tu vida es "vergonzosa".	{n} contou pra um parente que a sua vida é "constrangedora".
+7279	Dijo que solo estaba "siendo honesto".	Disse que só estava "sendo honesto".
+7280	Ignóralo	Ignore
+7281	Dolió más de lo que dejaste ver.	Doeu mais do que você deixou transparecer.
+7282	Esfuérzate más para demostrar que está equivocado.	Se esforce mais pra provar que ele está errado.
+7283	Combustible para el fuego.	Combustível pra fogueira.
+7284	Tu cuarto viejo	Seu quarto antigo
+7285	{n} convirtió tu viejo cuarto en un cuarto para el perro.	{n} transformou seu antigo quarto num quarto pro cachorro.
+7286	El perro se ve feliz ahí adentro.	O cachorro parece feliz lá dentro.
+7287	Dijo que el perro te visita más que tú.	Disse que o cachorro visita mais do que você.
+7288	Pide tus cosas viejas	Peça suas coisas antigas
+7289	Tres cajas. La mayoría se dañó por el agua.	Três caixas. A maioria estava danificada pela água.
+7290	{n} se muda a otra ciudad y no te lo dijo. Te enteraste por un primo.	{n} vai se mudar pra outra cidade e não contou pra você. Você ficou sabendo por um primo.
+7291	Dijo que no creía que te importaría.	Disse que não achou que você se importaria.
+7292	Pareció sorprendido de que llamaras.	Pareceu surpreso por você ter ligado.
+7293	Te enteraste de la nueva dirección de la misma forma.	Você descobriu o novo endereço do mesmo jeito.
+7294	Tu {r}, {n}, leyó tu diario en voz alta durante la cena.	Sua {r}, {n}, leu seu diário em voz alta no jantar.
+7295	Te reíste, muriendo por dentro.	Você riu, morrendo por dentro.
+7296	Planea venganza	Planeje vingança
+7297	La venganza será dulce.	A vingança vai ser doce.
+7298	Cuéntale a tus padres	Conte pros seus pais
+7299	{n} recibió castigo y te llamó sapo.	{n} ficou de castigo e chamou você de dedo-duro.
+7300	{n} rompió un florero y te culpó a ti.	{n} quebrou um vaso e colocou a culpa em você.
+7301	Asume la culpa	Assuma a culpa
+7302	{n} te debe una. No lo recordará.	{n} te deve essa. Não vai lembrar.
+7303	Al principio nadie te creyó.	No começo ninguém acreditou em você.
+7304	Ojo por ojo.	Olho por olho.
+7305	{n} sigue "tomando prestada" tu ropa y arruinándola.	{n} fica "pegando emprestado" suas roupas e estragando.
+7306	Cierra con llave tu armario	Tranque seu armário
+7307	{n} abrió la cerradura en un día.	{n} arrombou a fechadura em um dia.
+7308	Haz que pague por ellas	Faça pagar por elas
+7309	Te pagó, refunfuñando.	Pagou você, resmungando.
+7310	Otra camisa manchada.	Outra camisa manchada.
+7311	{n} presumió que es el favorito de tus padres.	{n} se gabou de ser o favorito dos seus pais.
+7312	No esperaba eso.	Não esperava isso.
+7313	Ambos le preguntaron a sus padres. Se negaron a responder.	Vocês dois perguntaram pros seus pais. Eles se recusaram a responder.
+7314	"Qué bien por ti."	"Que bom pra você."
+7315	{n} desenchufó la consola en medio de tu partida.	{n} desligou o console no meio do seu jogo.
+7316	Lo perseguiste por toda la casa.	Você perseguiu ele pela casa toda.
+7317	Tu partida guardada se perdió.	Seu arquivo salvo sumiu.
+7318	Dos pueden jugar ese juego.	Dois podem jogar esse jogo.
+7319	{n} pidió prestado dinero otra vez. La última vez nunca te lo devolvió.	{n} pediu dinheiro emprestado de novo. Na última vez nunca devolveu pra você.
+7320	Prometió que esta vez es diferente.	Prometeu que dessa vez é diferente.
+7321	Te llamó egoísta.	Chamou você de egoísta.
+7322	Dale un sermón sobre el dinero	Dê um sermão sobre dinheiro
+7323	Colgó a la mitad.	Desligou no meio.
+7324	{n} le contó tu secreto a toda la familia.	{n} contou seu segredo pra família toda.
+7325	Dijo que "se le escapó".	Disse que "escapou sem querer".
+7326	Ley del hielo	Gelo
+7327	Un mes de nada.	Um mês sem nada.
+7328	Suelta también su secreto	Conte o segredo dele também
+7329	Ahora todos están enojados con todos.	Agora todo mundo está bravo com todo mundo.
+7330	{n} no te invitó a su boda.	{n} não convidou você pro casamento dele.
+7331	Cuélate	Invada
+7332	Hiciste una entrada. La seguridad te sacó.	Você fez uma entrada triunfal. A segurança fez sua saída.
+7333	Manda un regalo de todos modos	Mande um presente mesmo assim
+7334	Mandó una tarjeta de agradecimiento. Quizá un poco culpable.	Mandou um cartão de agradecimento. Talvez um pouco culpado.
+7335	Viste las fotos en línea.	Você viu as fotos on-line.
+7336	Nos extrañamos	Sinto saudade da gente
+7337	{n} escribió de la nada: "Nos extrañamos. ¿Podemos hablar?"	{n} mandou mensagem do nada: "Sinto saudade da gente. Podemos conversar?"
+7338	Verse	Se encontrar
+7339	El café se convirtió en tres horas. Como en los viejos tiempos.	O café virou três horas. Como nos velhos tempos.
+7340	Responde fríamente	Responda friamente
+7341	Déjalo en visto	Deixe no visto
+7342	Decía "Visto". no volvió a escribir.	Apareceu "Visto". não mandou mais mensagem.
+7343	{n} sigue comparando sueldos en cada reunión familiar.	{n} fica comparando salários em todo evento de família.
+7344	Presume de vuelta	Se gabe de volta
+7345	¿Quién ganó? Nadie.	Quem ganhou? Ninguém.
+7346	Preguntaste por su perro. Crisis evitada.	Você perguntou do cachorro dele. Crise evitada.
+7347	Te fuiste a casa antes del postre.	Você foi embora antes da sobremesa.
+7348	{n} te empujó durante una discusión.	{n} empurrou você durante uma discussão.
+7349	Empuja de vuelta	Empurre de volta
+7350	Terminó en una pelea a lo grande.	Virou uma luta de verdade.
+7351	{n} se metió en un lío grande.	{n} se meteu em um tremendo problema.
+7352	Fuiste la persona más madura.	Você foi o mais maduro.
+7353	Expulsado del chat	Expulso do grupo
+7354	Te sacaron del chat familiar. {n} lo hizo.	Você foi removido do grupo da família. {n} fez isso.
+7355	{n} dijo que fue "un accidente".	{n} disse que foi "um acidente".
+7356	Crea tu propio chat	Crie seu próprio grupo
+7357	Tu chat tiene dos miembros. Incluyéndote.	Seu grupo tem dois membros. Contando com você.
+7358	Revisaste el celular muchísimo de todos modos.	Você checou o celular muito mesmo assim.

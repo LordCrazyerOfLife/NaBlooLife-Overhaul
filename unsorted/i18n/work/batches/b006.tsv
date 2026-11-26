@@ -1,0 +1,800 @@
+4101	{1}After {2} rounds of voting, white smoke rises from the Sistine Chapel. A new Pope has been elected!
+4102	White Smoke!
+4103	{1}White smoke rises from the chimney of the Sistine Chapel as bells ring across Vatican City. Crowds gathered in St. Peter's Square erupt in celebration. The world now knows that a new Pope has been elected.
+4104	Habemus Papam!
+4105	You have been elected as the next Pope of the Catholic Church!
+4106	You are now the spiritual leader of over 1.3 billion Catholics worldwide. The announcement has been made from the central balcony of St. Peter's Basilica, and you step forward before thousands of cheering people as Pope {1}.
+4107	Deliver your first blessing
+4108	I gave my first blessing as Pope {1} from the balcony of St. Peter's.
+4109	Address the crowd
+4110	I addressed the crowd in St. Peter's Square as Pope {1}.
+4111	Offer a prayer for peace
+4112	I offered a prayer for peace as Pope {1}.
+4113	Cardinal {1} {2} was elected Pope after {3} ballots and took the name {4}.
+4114	Another cardinal has been elected as the new Pope.
+4115	You will continue to serve as a Cardinal and may have another chance in the next conclave.
+4116	After {1} rounds of voting, Cardinal {2} {3} of {4} has received the necessary majority and accepted his election as the new Pope. He has taken the name {5}.
+4117	Congratulate the new Pope
+4118	I congratulated Pope {1}.
+4119	Pray for his pontificate
+4120	I prayed for Pope {1}'s pontificate.
+4121	Return to your duties
+4122	Your First Address
+4123	You are preparing to deliver your first major address as Pope {1}. Millions of Catholics and observers around the world are waiting to hear your message.
+4124	Emphasize peace
+4125	You called on the nations to lay down their arms. World leaders praised your words.
+4126	Emphasize charity
+4127	You asked the Church to be "poor and for the poor". The crowd erupted in applause.
+4128	Emphasize Church tradition
+4129	You spoke of continuity with the Church's long tradition. Traditional Catholics were delighted.
+4130	Emphasize unity
+4131	You asked Catholics of every outlook to walk together. Even your critics found it hard to object.
+4132	Urbi et Orbi
+4133	You blessed the city and the world from the loggia of St. Peter's.
+4134	I delivered a papal blessing.
+4135	St. Peter's Square
+4136	Your Angelus address on {1} was quoted around the world.
+4137	A line in your address was taken out of context and sparked an uproar.
+4138	I addressed St. Peter's Square.
+4139	You already held a consistory this year.
+4140	You created {1} new cardinals from {2} countries.
+4141	I created {1} new cardinals.
+4142	You appointed {1} new bishops to dioceses around the world.
+4143	I appointed new bishops.
+4144	refugees
+4145	Your meeting with the leader of {1} produced a joint statement on {2}.
+4146	Your meeting with the leader of {1} was awkward and produced nothing.
+4147	I met the leader of {1}.
+4148	You traveled to {1}. Your open-air Mass drew {2} people.
+4149	I made an apostolic visit to {1}.
+4150	You greeted {1} pilgrims in St. Peter's Square.
+4151	I held a general audience.
+4152	You are still working on your next encyclical.
+4153	You published the encyclical "{1}" on {2}.
+4154	I published the encyclical "{1}".
+4155	Your reform of the Curia passed with broad support.
+4156	Your reform plans have divided the cardinals.
+4157	I discussed Church reform.
+4158	You met the heads of the dicasteries and set the priorities for the year.
+4159	I met Church officials.
+4160	Bambino Gesù Hospital
+4161	a hospital in a poor neighborhood of Rome
+4162	You visited the children's ward of {1}.
+4163	orphans
+4164	You directed {1} to Church charities working with {2}.
+4165	I supported charitable missions.
+4166	A World Crisis
+4167	Your appeal helped bring both sides to the negotiating table.
+4168	Your appeal for peace was ignored by the warring parties.
+4169	I addressed an international crisis.
+4170	Christmas Midnight Mass
+4171	the canonization of three new saints
+4172	the opening of a Jubilee Year
+4173	You celebrated {1} at St. Peter's.
+4174	I held a religious ceremony.
+4175	You received the new ambassador of {1} to the Holy See.
+4176	I received diplomats.
+4177	a motu proprio reorganizing the Curia
+4178	a decree on the liturgy
+4179	a decree opening a Jubilee
+4180	new rules for electing the Pope
+4181	a decree protecting minors
+4182	It was well received.
+4183	Some bishops openly questioned it.
+4184	You issued {1}. {2}
+4185	a nun who ran an orphanage for 50 years
+4186	a martyred missionary
+4187	a teenage computer programmer
+4188	a 19th-century doctor to the poor
+4189	a farmer who hid refugees
+4190	You declared {1} a saint before a crowd of {2} in St. Peter's Square.
+4191	You reviewed the Vatican's budget, the Swiss Guard and the Museums. Everything is running smoothly.
+4192	The Vatican Museums are running a deficit and the Governorate is behind on repairs.
+4193	I managed the affairs of Vatican City.
+4194	a cardinal accused of mismanaging funds
+4195	leaked documents from the Secretariat of State
+4196	a bishop who covered up abuse
+4197	a money-laundering probe at the Vatican Bank
+4198	Handling a Scandal
+4199	You dealt firmly with {1}. The press praised your transparency.
+4200	Your handling of {1} satisfied no one.
+4201	Retirement from the Papacy
+4202	After reflecting on your age, health, and responsibilities, you are considering resigning from the papacy. Such a decision would end your pontificate and begin the process of electing your successor.
+4203	Announce your resignation
+4204	Are you sure? Your pontificate will end and a conclave will elect your successor.
+4205	less than a year
+4206	I resigned the papacy after {1} as Pope {2}.
+4207	You resigned the papacy after {1}. You will now be known as Pope Emeritus {2}.
+4208	You decided to carry on as Pope.
+4209	Delay the decision
+4210	string
+4212	He was succeeded by Pope {1}.
+4213	.grave .txt
+4214	History will remember a great and beloved pontiff.
+4215	His pontificate will be remembered for steady leadership.
+4216	His pontificate was marked by division.
+4217	He served as Pope {1} for {2} year{3}, from {4} to {5}. {6}{7}
+4218	exam
+4219	A Difficult Examination
+4220	Your seminary professor has announced a difficult theology examination, and several classmates are desperately searching for the answers.
+4221	Study all night
+4222	I studied all night for my theology exam and passed with high marks.
+4223	Ask a classmate for help
+4224	A classmate helped me study, and I did well on my theology exam.
+4225	I studied with a classmate, but we mostly talked. I barely passed.
+4226	Cheat on the examination
+4227	I cheated on my theology exam and got away with it. My conscience did not.
+4228	I was caught cheating on my theology exam and received a formal warning.
+4229	Accept whatever grade you receive
+4230	I took my theology exam without any special preparation and got an average grade.
+4231	faith
+4232	A Question of Faith
+4233	During a private meeting, your spiritual advisor, {1}, asks whether you truly believe you are prepared to dedicate your life to the priesthood.
+4234	Express complete confidence
+4235	I told {1} I am certain of my vocation.
+4236	Admit your doubts
+4237	I admitted my doubts to {1}. He thanked me for my honesty.
+4238	Ask for more time
+4239	I asked {1} for more time to discern my vocation.
+4240	Leave the seminary
+4241	rival
+4242	Another seminarian, {1}, has accused you of receiving special treatment from the instructors and claims that you are unworthy of ordination.
+4244	I ignored {1}'s accusations.
+4245	Confront him privately
+4246	I confronted {1} privately and we cleared the air.
+4247	I confronted {1}, and our argument was overheard by half the seminary.
+4248	Report his behavior
+4249	I reported {1}'s behavior to the rector.
+4250	Insult him publicly
+4251	I insulted {1} in front of the other seminarians. The rector was not impressed.
+4252	notes
+4253	You discover that another student has hidden unauthorized notes before an important examination.
+4255	I reported a classmate for hiding notes before an exam.
+4256	Warn him privately
+4257	I quietly warned a classmate to get rid of his hidden notes.
+4258	I ignored a classmate's hidden notes.
+4259	Use the notes yourself
+4260	I used a classmate's hidden notes on my exam.
+4261	I was caught using hidden notes on an exam.
+4262	silence
+4263	A Week of Silence
+4264	The seminary is holding a silent retreat. For seven days no one may speak, read the news or use a phone.
+4265	Keep the silence perfectly
+4266	I kept perfect silence for a week-long retreat. It changed something in me.
+4267	Break it to comfort a struggling brother
+4268	I broke the retreat's silence to comfort a seminarian who was falling apart.
+4269	Sneak your phone
+4270	I secretly used my phone during the silent retreat.
+4271	I was caught using my phone during the silent retreat.
+4272	Leave the retreat early
+4273	I left the silent retreat early.
+4274	curfew
+4275	The Rector's Rules
+4276	{1} has ordered a strict 10 p.m. curfew after some seminarians came back late from a party.
+4277	Obey without complaint
+4278	I followed the new seminary curfew without complaint.
+4279	Respectfully object
+4280	I respectfully objected to the new curfew, and the rector relaxed it a little.
+4281	I objected to the new curfew. The rector did not appreciate it.
+4282	Break curfew anyway
+4283	I broke the seminary curfew to see a movie in town.
+4284	I was caught breaking the seminary curfew.
+4285	homesick
+4286	Your family calls to say how much they miss you. Your mother is struggling, and your old friends keep asking when you'll come home.
+4287	Visit home for a weekend
+4288	I went home to visit my family for a weekend.
+4289	Write them long letters
+4290	I wrote long letters to my family.
+4291	Stay focused on formation
+4292	I stayed at the seminary even though I was homesick.
+4293	Consider leaving
+4294	I seriously considered leaving the seminary.
+4295	An Old Flame
+4296	{1}, someone you dated years ago, sends you a message saying she still thinks about you and asks to meet for coffee.
+4297	I politely declined to meet {1}.
+4298	Meet as friends
+4299	I met {1} for coffee as friends.
+4300	I met {1} for coffee and old feelings came back.
+4301	Ignore the message
+4302	I ignored {1}'s message.
+4303	Tell your spiritual director
+4304	I told my spiritual director about the message from my old girlfriend.
+4305	summer
+4306	The rector assigns you to spend the summer serving either in a remote rural parish or as a chaplain's assistant in a city hospital.
+4307	The rural parish
+4308	I spent the summer serving a remote rural parish.
+4310	I spent the summer as a hospital chaplain's assistant.
+4311	Ask to stay and study
+4312	I asked to spend the summer studying instead of serving.
+4313	Latin Oral Exam
+4314	Your Latin professor asks you to translate a passage of Saint Augustine aloud, in front of the whole class.
+4315	Translate carefully
+4316	I translated a passage of Saint Augustine flawlessly in Latin class.
+4317	I stumbled through a Latin translation in front of the class.
+4318	Admit you are unprepared
+4319	I admitted I hadn't prepared for my Latin oral exam.
+4320	Make a joke in Latin
+4321	I made a joke in Latin and the whole class laughed, even the professor.
+4322	My Latin joke fell flat with the professor.
+4323	A Brother Leaves
+4324	{1}, your closest friend in the seminary, tells you he is leaving. He has fallen in love and no longer believes he is called to the priesthood.
+4325	Support his decision
+4326	I supported my friend {1} when he left the seminary.
+4327	Try to change his mind
+4328	I convinced {1} to stay at the seminary.
+4329	I tried to talk {1} out of leaving. He left anyway.
+4330	Question your own vocation
+4331	When {1} left the seminary, I began to question my own vocation.
+4332	A Suspicious Essay
+4333	Your professor believes parts of your essay on the Church Fathers were copied from the internet. You did write it yourself, though you leaned heavily on one source.
+4334	Show your notes and drafts
+4335	I proved my essay was my own work.
+4336	Even with my notes, the professor docked my grade.
+4337	Rewrite the essay
+4338	I rewrote my essay on the Church Fathers from scratch.
+4339	Argue angrily
+4340	I argued angrily with my professor about my essay.
+4341	mission
+4342	The seminary is sending a few students on a mission trip to {1} to help build a school.
+4343	Volunteer to go
+4344	I went on a mission trip and helped build a school.
+4345	I went on a mission trip and came back with a nasty tropical fever.
+4346	Stay behind and study
+4347	I stayed behind to study instead of going on the mission trip.
+4348	Raise money for it
+4349	I raised money for the seminary's mission trip.
+4350	nerves
+4351	First Homily Nerves
+4352	You are preaching your first homily this Sunday. Your hands are already shaking.
+4353	Write it out word for word
+4354	I wrote my first homily out word for word and read it carefully.
+4355	Speak from the heart
+4356	I preached my first homily from the heart. People loved it.
+4357	I tried to preach from the heart and lost my train of thought.
+4358	Ask the pastor for advice
+4359	I asked my pastor for advice before my first homily.
+4360	A Baptism Mix-Up
+4361	Two families arrive for baptisms at the same time, both insisting they booked the church for 11 a.m.
+4362	Baptize both babies together
+4363	I baptized two babies in one joyful ceremony.
+4364	Honor the first booking
+4365	I honored the first booking and rescheduled the other baptism.
+4366	Blame the parish office
+4367	I blamed the parish office for a baptism double booking.
+4368	rehearsal
+4369	A couple wants their wedding Mass to include their favorite pop song and their dog as ring bearer.
+4370	Allow the dog, not the song
+4371	I let a couple's dog be the ring bearer at their wedding.
+4372	Allow both
+4373	I let a couple have both their pop song and their dog at their wedding.
+4374	My bishop heard about the pop song at a wedding Mass and was not pleased.
+4375	Refuse both
+4376	I refused a couple's unusual wedding requests.
+4377	An Unforgettable Sermon
+4378	Your Sunday sermon has drawn an unusually large congregation. Several parishioners approach you afterward to praise your message.
+4379	Thank them humbly
+4380	I humbly thanked parishioners who praised my sermon.
+4381	Take personal credit
+4382	I took personal credit for my sermon's success.
+4383	Invite them to volunteer
+4384	I invited parishioners who liked my sermon to volunteer.
+4385	Dismiss the compliments
+4386	I brushed off compliments about my sermon.
+4387	donation
+4388	A Generous Donation
+4389	A wealthy parishioner has offered {1} to your church, but insists that the money be spent on a decorative renovation rather than helping struggling families.
+4390	Accept the conditions
+4391	I accepted a donation that could only be spent on decorations.
+4392	Request a charitable allocation
+4393	The donor agreed to give part of the money to struggling families.
+4394	The donor refused to give anything to charity and withdrew the offer.
+4395	Refuse the donation
+4396	I refused a donation with conditions I couldn't accept.
+4397	Ask the bishop for advice
+4398	I asked {1} for advice about a donation.
+4399	An Angry Parishioner
+4400	A parishioner confronts you after Mass, claiming that your latest sermon was offensive and demanding a public apology.
+4401	Apologize sincerely
+4402	I apologized to a parishioner who was offended by my sermon.
+4403	Explain your position
+4404	I explained my sermon, and the parishioner understood.
+4405	I tried to explain my sermon, but it only made things worse.
+4406	Refuse to apologize
+4407	I refused to apologize for my sermon.
+4408	Ask them to leave
+4409	I asked an angry parishioner to leave the church. They wrote to the bishop.
+4410	A Hospital Visit
+4411	A local hospital has requested your presence to offer spiritual comfort to a seriously ill patient who has asked to speak with a priest.
+4412	Visit immediately
+4413	I rushed to the hospital to comfort a dying patient.
+4414	Arrange a later visit
+4415	I visited the patient in the hospital the next day.
+4416	I arranged to visit the patient later, but he died before I could get there.
+4417	Ask another priest to visit
+4418	I asked another priest to visit the patient in the hospital.
+4419	I refused to visit a dying patient in the hospital.
+4420	A Crisis of Confidence
+4421	After several exhausting months of parish responsibilities, you begin questioning whether you can continue serving your congregation.
+4422	Take time to rest
+4423	I took time off to rest.
+4424	Consult your bishop
+4425	{1} helped me find my footing again.
+4426	{1} listened, but did not have much to offer.
+4427	Continue working
+4428	I kept working through my exhaustion.
+4429	Request leave from ministry
+4430	I requested a year's leave from ministry.
+4431	controversy
+4432	A local newspaper has published an article criticizing how your parish spends its donations. Reporters are requesting an explanation.
+4433	Release transparent financial records
+4434	I released the parish's accounts. Everything was in order.
+4435	I released the parish's accounts, and they revealed real mismanagement.
+4436	Hold a meeting with parishioners
+4437	I held a parish meeting and won back people's trust.
+4438	The parish meeting turned into a shouting match.
+4439	Refuse to comment
+4440	I refused to comment on my parish's finances.
+4441	Ask the diocese to respond
+4442	I let the diocese answer the newspaper for me.
+4443	festival
+4444	The parish festival is this weekend: food stalls, a raffle, live music and a bouncy castle for the kids.
+4445	Run the raffle yourself
+4446	I ran the parish raffle and raised a lot of money.
+4447	I ran the parish raffle and accidentally drew my own ticket. Awkward.
+4448	Work the grill
+4449	I flipped burgers at the parish festival all afternoon.
+4450	Let the volunteers handle it
+4451	I let the volunteers run the parish festival.
+4452	roof
+4453	The Leaking Roof
+4454	Rain is pouring through the church roof onto the altar. The repairs will cost {1}.
+4455	Launch a fundraising campaign
+4456	Parishioners raised enough money to fix the church roof.
+4457	The roof fundraiser fell short. We put buckets under the leaks.
+4458	Ask the diocese for help
+4459	The diocese paid to fix our church roof.
+4460	The diocese said it had no money for our roof.
+4461	Patch it yourself
+4462	I climbed up and patched the church roof myself.
+4463	I fell off the church roof while trying to patch it.
+4464	youth
+4465	The Youth Group
+4466	Only three teenagers showed up to youth group this month. The parish council wants to cancel it.
+4467	Start a basketball night
+4468	I started a parish basketball night, and the youth group grew.
+4469	Let it end
+4470	I let the parish youth group close.
+4471	Bring in a guest speaker
+4472	A guest speaker drew a big crowd of teenagers to youth group.
+4473	The guest speaker was so boring that even the three regulars stopped coming.
+4474	seal
+4475	The Seal of Confession
+4476	A police detective asks you to reveal what a suspect said to you in confession. You know the seal of confession is absolute.
+4477	Refuse firmly
+4478	I refused to break the seal of confession for the police.
+4479	Encourage the suspect to turn himself in
+4480	Without breaking the seal, I persuaded a man to turn himself in to the police.
+4481	I urged a penitent to turn himself in. He never came back.
+4482	Consult a canon lawyer
+4483	I consulted a canon lawyer about the seal of confession.
+4484	choir
+4485	The Choir Director Quits
+4486	Your choir director of 30 years has quit after an argument with the organist. Sunday Mass is in two days.
+4487	Lead the singing yourself
+4488	I led the singing at Mass myself. It went surprisingly well.
+4489	I led the singing at Mass myself. It was a disaster.
+4490	Mediate between them
+4491	I made peace between the choir director and the organist.
+4492	My attempt to make peace between the choir director and the organist failed.
+4493	Hire a new director
+4494	I hired a new choir director.
+4495	A Celebrity Wedding
+4496	A famous actor wants to get married in your church with no other parishioners allowed in, and offers a large donation for the privilege.
+4497	Agree to a private ceremony
+4498	I married a famous actor in a private ceremony at my church.
+4499	Insist the church stays open
+4500	I told a famous actor the church would stay open during his wedding.
+4501	Turn them away
+4502	I turned away a famous actor who wanted a private wedding.
+4503	midnight
+4504	It's Christmas Eve. The church is packed with people you have never seen before, many of whom haven't been to Mass in years.
+4505	Welcome them warmly
+4506	I warmly welcomed everyone at Christmas Midnight Mass.
+4507	I gently invited the Christmas crowd to come back during the year.
+4508	Scold them for only coming at Christmas
+4509	I scolded the once-a-year crowd at Christmas Midnight Mass.
+4510	exorcism
+4511	A Strange Request
+4512	A frightened family insists their teenage son is possessed and begs you to perform an exorcism.
+4513	Refer them to the diocesan exorcist
+4514	I referred a frightened family to the diocesan exorcist.
+4515	Suggest a doctor first
+4516	I urged a family to have their son seen by a doctor first. He was treated for an illness.
+4517	Try it yourself
+4518	I tried to perform an exorcism without the bishop's permission.
+4519	An Interfaith Invitation
+4520	imam
+4521	rabbi
+4522	Lutheran pastor
+4523	Hindu temple priest
+4524	The local {1} invites you to speak at a gathering for peace between religions.
+4525	Accept and speak
+4526	I spoke at an interfaith gathering for peace.
+4527	Attend but don't speak
+4528	I attended an interfaith gathering.
+4529	I declined an invitation to an interfaith gathering.
+4530	vocation
+4531	A Young Vocation
+4532	A teenager from your parish tells you he is thinking about becoming a priest, but his parents are against it.
+4533	Encourage him
+4534	I encouraged a teenager who is thinking about the priesthood.
+4535	Tell him to finish school first
+4536	I told a teenager to finish school before thinking about the seminary.
+4537	Talk to his parents
+4538	I talked to a teenager's parents about his vocation, and they came around.
+4539	A teenager's parents were furious that I talked to them about the priesthood.
+4540	missing
+4541	The weekly collection is short by a large amount, and the parish secretary has been acting nervous.
+4542	Speak to her privately
+4543	The parish secretary confessed to taking money for her sick child. We worked out a plan to repay it.
+4544	The parish secretary denied everything. The money never turned up.
+4546	I called the police about missing collection money.
+4547	Cover the loss quietly
+4548	I quietly covered the missing collection money out of my own pocket.
+4549	A Diocese in Debt
+4550	Financial reports reveal that several parishes in your diocese are struggling with serious debt. Your advisors urge you to act.
+4551	Reduce unnecessary spending
+4552	I cut unnecessary spending in my diocese.
+4553	Organize fundraising
+4554	A diocese-wide fundraising campaign paid off the parishes' debts.
+4555	Our fundraising campaign brought in very little.
+4556	Request Vatican assistance
+4557	The Vatican sent emergency funds to my diocese.
+4558	The Vatican told me to solve my diocese's debt problems myself.
+4559	Ignore the problem
+4560	I ignored my diocese's debt problems.
+4561	priests
+4562	Disagreement Among Priests
+4563	Two priests in your diocese have become involved in a bitter disagreement over parish responsibilities, and both are demanding that you intervene.
+4564	Mediate the disagreement
+4565	I mediated between two feuding priests, and they made peace.
+4566	My mediation between two feuding priests went nowhere.
+4567	Reassign one priest
+4568	I reassigned one of two feuding priests to another parish.
+4569	Issue formal warnings
+4570	I issued formal warnings to two feuding priests.
+4571	I ignored two feuding priests. Their feud got worse.
+4572	An International Invitation
+4573	You have been invited to attend an international gathering of Catholic bishops to discuss the future of the Church.
+4574	Attend and deliver a speech
+4575	I gave a well-received speech at an international gathering of bishops.
+4576	My speech at the international gathering of bishops was politely ignored.
+4577	Attend quietly
+4578	I attended an international gathering of bishops.
+4579	Send a representative
+4580	I sent a representative to an international gathering of bishops.
+4581	I declined an invitation to an international gathering of bishops.
+4582	closing
+4583	Closing a Parish
+4584	Attendance at {1} Parish has fallen to a few dozen people. Keeping it open costs the diocese a fortune.
+4585	Close it
+4586	I closed a dying parish. Its last parishioners were heartbroken.
+4587	Merge it with a neighbor
+4588	I merged a dying parish with a neighboring one.
+4589	Keep it open
+4590	I kept a struggling parish open.
+4591	shortage
+4592	Too Few Priests
+4594	Launch a vocations campaign
+4595	My vocations campaign brought several young men to the seminary.
+4596	My vocations campaign did not inspire anyone.
+4597	Invite priests from abroad
+4598	I invited priests from abroad to serve in my diocese.
+4599	Train lay ministers
+4600	I trained lay ministers to lead services in parishes without a priest.
+4601	cathedral
+4602	The cathedral's centuries-old frescoes are crumbling. Restoring them will cost {1}.
+4603	Launch a restoration appeal
+4604	Donations poured in and the cathedral frescoes were restored.
+4605	The restoration appeal fell short, and the diocese covered the rest.
+4606	Seek government heritage funds
+4607	The government paid to restore the cathedral as a national monument.
+4608	The government turned down our request for heritage funds.
+4609	Spend the money on the poor instead
+4610	I chose to spend the money on the poor instead of restoring the cathedral.
+4611	allegation
+4612	A Serious Allegation
+4613	A parishioner has reported serious misconduct by one of your priests. The accusation is credible.
+4614	Report it to the civil authorities
+4615	I reported a credible accusation against one of my priests to the police and removed him from ministry.
+4616	Investigate internally first
+4617	I investigated an accusation internally before going to the police.
+4618	I tried to handle an accusation internally, and the press accused me of a cover-up.
+4619	Move the priest to another parish
+4620	I quietly moved an accused priest to another parish. It became a major scandal.
+4621	press
+4622	The Press Conference
+4623	Reporters want your reaction to a new national law that the Church strongly opposes.
+4624	Give a careful statement
+4625	I gave a careful statement to the press about a new law.
+4626	Speak bluntly
+4627	My blunt words about the new law made headlines.
+4628	My blunt words about the new law caused an uproar.
+4629	I declined to comment on the new law.
+4630	addicted
+4631	A Priest in Trouble
+4632	One of your priests has been arrested for drunk driving. It is not the first time.
+4633	Send him to treatment
+4634	I sent a struggling priest to treatment for alcoholism.
+4635	Suspend him
+4636	I suspended a priest after his drunk driving arrest.
+4638	I kept a priest's arrest quiet.
+4639	The newspapers found out I covered up a priest's arrest.
+4640	A Divided Conference
+4641	The bishops' conference is about to vote on a new document about the family. The bishops are split down the middle.
+4642	Vote with the majority
+4643	I voted with the majority at the bishops' conference.
+4644	Propose a compromise
+4645	My compromise proposal was adopted by the bishops' conference.
+4646	My compromise proposal was voted down.
+4647	I abstained in the bishops' conference vote.
+4648	disaster
+4649	A Natural Disaster
+4650	flood
+4651	hurricane
+4652	earthquake
+4653	wildfire
+4654	A {1} has destroyed thousands of homes in your diocese.
+4655	Open the churches as shelters
+4656	I opened every church in my diocese as a shelter after a disaster.
+4657	Organize a relief fund
+4658	I organized a relief fund for disaster victims.
+4659	Visit the victims
+4660	I visited the victims of a disaster in my diocese.
+4661	pastoral
+4662	A Pastoral Letter
+4663	It is time to write your annual pastoral letter to the faithful of your diocese.
+4664	Write about the poor
+4665	I wrote a pastoral letter about caring for the poor.
+4666	Write about tradition
+4667	I wrote a pastoral letter about the Church's tradition.
+4668	Write about change
+4669	My pastoral letter calling for change was widely praised.
+4670	My pastoral letter calling for change upset many priests.
+4671	Church law asks bishops to offer their resignation to the Pope at 75. Your advisors ask whether you will send the letter.
+4672	Send the letter
+4673	I offered my resignation at 75. The Pope asked me to stay on a few more years.
+4674	Delay it a year
+4675	I put off offering my resignation.
+4676	friendship
+4677	A Powerful Friendship
+4678	{1} of {2} has taken an interest in your work and invited you to a private discussion about the future direction of the Church.
+4679	Discuss unity
+4680	I discussed Church unity with {1}.
+4681	Discuss reform
+4682	I discussed reform with {1}.
+4683	Discuss tradition
+4684	I discussed tradition with {1}.
+4685	I declined {1}'s invitation.
+4686	rumors
+4687	Journalists are circulating rumors that you may be considered a future candidate for the papacy. Several reporters are requesting interviews.
+4688	Decline to speculate
+4689	I declined to speculate about the papacy.
+4690	Express humility
+4691	I told reporters I am just a servant of the Church.
+4692	Discuss your experience
+4693	I talked to reporters about my experience.
+4694	Boast about your qualifications
+4695	I boasted to reporters about my qualifications to be Pope. Other cardinals were appalled.
+4696	The Pope Is Ill
+4697	News has reached the College of Cardinals that {1} is experiencing serious health problems. Senior clergy are expressing concern about his condition.
+4698	Pray for his recovery
+4699	I prayed for {1}'s recovery.
+4700	Request an update
+4701	grave
+4702	serious but stable
+4703	{1}'s doctors say his condition is {2}.
+4704	Continue normal duties
+4705	I continued my normal duties while the Pope was ill.
+4706	Offer assistance
+4707	I offered to help {1} during his illness, and he gratefully accepted.
+4708	I offered to help the Pope, but his secretary turned me away.
+4709	disagree
+4710	Disagreement with a Cardinal
+4711	During a Vatican meeting, {1} openly disagrees with your proposal and questions whether you possess sufficient experience to speak on the matter.
+4712	Respond calmly
+4713	I responded calmly when {1} challenged me.
+4714	Defend your proposal
+4715	I defended my proposal and won the room over {1}'s objections.
+4716	I defended my proposal against {1}, but lost the argument.
+4717	I said nothing when {1} challenged me.
+4718	Insult the cardinal
+4719	I insulted {1} in a Vatican meeting.
+4720	A Curia Appointment
+4721	{1} asks you to move to Rome and lead one of the Vatican's dicasteries.
+4722	Dicastery for Divine Worship
+4723	Dicastery for Promoting Integral Human Development
+4724	I became prefect of the {1}.
+4725	Ask to stay with your people
+4726	I asked the Pope to let me stay with the faithful of my archdiocese.
+4727	leaks
+4728	Confidential Vatican documents have been leaked to the press. Some of them quote your private remarks about the Curia.
+4729	Apologize publicly
+4730	I publicly apologized for my leaked remarks.
+4731	Stand by your words
+4732	I stood by my leaked remarks. Many Catholics agreed with me.
+4734	Demand an investigation
+4735	I demanded an investigation into the Vatican leaks.
+4736	An Ambitious Colleague
+4737	{1}, often mentioned as a future Pope, quietly asks whether he could count on your support "should the day ever come".
+4738	Say you will pray for the Church
+4739	I gave {1} a noncommittal answer.
+4740	Promise your support
+4741	I told {1} he could count on me.
+4742	Remind him campaigning is forbidden
+4743	I reminded {1} that campaigning for the papacy is forbidden.
+4744	bank
+4745	The Vatican Bank
+4746	You are asked to sit on a commission investigating suspicious transactions at the Vatican Bank.
+4747	Dig deep
+4748	My commission uncovered millions in suspicious transactions at the Vatican Bank.
+4749	My investigation at the Vatican Bank made powerful enemies.
+4750	Keep it discreet
+4751	I kept the Vatican Bank investigation discreet.
+4752	Decline to serve
+4753	I declined to serve on the Vatican Bank commission.
+4754	embassy
+4755	Dinner with Ambassadors
+4756	The ambassadors to the Holy See invite you to a formal dinner. The conversation turns to a war that is in the news.
+4757	Speak about peace
+4758	I spoke about peace at a dinner with ambassadors.
+4759	Listen and learn
+4760	I listened carefully at a dinner with ambassadors.
+4761	Make a diplomatic blunder
+4762	I made a diplomatic blunder at a dinner with ambassadors.
+4763	anniversary
+4764	It has been {1} years since your ordination. Your parish wants to throw a celebration.
+4765	Celebrate with a Mass
+4766	I celebrated {1} years as a priest with a special Mass.
+4767	I quietly marked {1} years as a priest.
+4768	Throw a big party
+4769	I threw a big party for {1} years as a priest.
+4771	The leader of {1} has requested a private audience at the Vatican to discuss an important international issue.
+4772	Accept the meeting
+4773	My meeting with the leader of {1} went well.
+4774	My meeting with the leader of {1} was tense.
+4775	I sent the Secretary of State to meet the leader of {1}.
+4776	I asked for a briefing before meeting the leader of {1}.
+4777	I declined to meet the leader of {1}.
+4778	peace
+4779	Calls for Peace
+4780	An ongoing international conflict has displaced thousands of civilians. Religious leaders and humanitarian organizations are calling on you to respond.
+4781	Deliver a public peace appeal
+4782	I made a public appeal for peace.
+4783	Organize humanitarian assistance
+4784	I organized humanitarian aid for refugees of a war.
+4785	Contact religious leaders
+4786	I contacted other religious leaders to call for peace together.
+4787	I remained silent about the war. Critics called it a moral failure.
+4788	Church Reform Proposal
+4789	Senior Vatican officials have presented a proposal to change how certain Church administrative offices operate. The proposal has divided several influential cardinals.
+4790	Approve the reform
+4791	I approved a reform of the Vatican's offices.
+4792	Request revisions
+4793	I sent the reform proposal back for revisions.
+4794	Reject the proposal
+4795	I rejected the reform proposal.
+4796	Appoint a review commission
+4797	I appointed a commission to review the reform proposal.
+4798	commission
+4799	The Commission Reports
+4801	Adopt the recommendations
+4802	I adopted my reform commission's recommendations.
+4803	Go further than the report
+4804	I went further than my reform commission recommended.
+4805	Shelve the report
+4806	I shelved my reform commission's report.
+4807	Vatican Financial Review
+4808	Your advisors have presented the annual financial report of the Vatican. Several departments are requesting additional funding.
+4809	Prioritize charity
+4810	I made charity the Vatican's top spending priority.
+4811	Prioritize maintenance
+4812	I put money into maintaining the Vatican's ancient buildings.
+4813	Reduce spending
+4814	I cut the Vatican's spending.
+4815	Request an independent review
+4816	An independent review uncovered waste in the Vatican's finances, and I fixed it.
+4817	The independent review of the Vatican's finances found nothing unusual.
+4818	declining
+4819	Your personal physician has expressed concern about your declining health and recommends that you reduce your public responsibilities.
+4820	Reduce your schedule
+4821	I reduced my public schedule on my doctor's advice.
+4822	I ignored my doctor and kept up my full schedule.
+4823	Receive additional treatment
+4824	I went to see a doctor about my health.
+4825	Consider resignation
+4826	A Letter from a Child
+4827	You receive a handwritten letter from a child who says their family is struggling financially. The letter asks whether you can offer any help.
+4828	Arrange charitable support
+4829	I arranged help for a struggling family who wrote to me.
+4830	Send a personal reply
+4831	I wrote a personal reply to a child's letter. It went viral.
+4832	Forward it to a local charity
+4833	I forwarded a child's letter to a local charity.
+4834	Offer a prayer
+4835	I prayed for the family of a child who wrote to me.
+4836	A Cause for Sainthood
+4837	a nun who ran an orphanage
+4838	a teenage boy who died of leukemia
+4839	a 19th-century doctor
+4840	The Dicastery for the Causes of Saints asks you to approve a second miracle attributed to {1}.
+4841	Approve the canonization
+4843	Ask for more evidence
+4844	I asked for more evidence before approving a canonization.
+4845	Hold it back
+4846	I held back a canonization.
+4847	Italian newspapers report that you are secretly gravely ill. The rumors are spreading fast.
+4848	Appear in public to end the rumors
+4849	I appeared in public to put an end to rumors about my health.
+4850	Release a medical statement
+4851	The Vatican released a statement about my health.
+4852	I ignored the rumors about my health.
+4853	historic
+4854	A Historic Visit
+4855	For the first time ever, the government of {1} has invited a Pope to visit.
+4856	I made a historic visit to {1}.
+4857	My historic visit to {1} was overshadowed by protests.
+4858	Send the Secretary of State first
+4859	I sent the Secretary of State to {1} to prepare a future visit.
+4860	I declined an invitation to visit {1}.
+4861	A Letter of Doubts
+4862	{1} and three other cardinals have published an open letter asking you to clarify a passage in your teaching that they say is confusing.
+4863	Answer them publicly
+4864	I publicly answered the cardinals' letter of doubts.
+4865	Meet them privately
+4866	I met privately with the cardinals who wrote to me.
+4867	Ignore the letter
+4868	I ignored the cardinals' letter of doubts.
+4869	A Jubilee Year
+4870	Your advisors suggest declaring a special Jubilee Year. Millions of pilgrims would come to Rome.
+4871	Declare a Jubilee
+4872	I declared a Jubilee Year.
+4873	Wait for the next scheduled one
+4874	I decided to wait for the next scheduled Jubilee.
+4875	Hold a smaller celebration
+4876	I held a smaller celebration instead of a Jubilee.
+4877	threat
+4878	A Security Threat
+4879	The Swiss Guard has received credible information about a threat against you during tomorrow's audience.
+4880	Cancel the audience
+4881	I canceled an audience after a security threat.
+4882	Go ahead in the bulletproof Popemobile
+4883	I held my audience from inside the bulletproof Popemobile.
+4884	Go ahead as normal
+4885	I held my audience as normal despite a security threat. Nothing happened.
+4886	A man attacked me during an audience. I survived and forgave him.
+4887	A Book-Length Interview
+4888	A famous journalist wants to spend a week with you for a book-length interview.
+4889	My book-length interview became a worldwide bestseller.
+4890	A remark in my book-length interview was misquoted around the world.
+4891	Answer only written questions
+4892	I answered a journalist's questions in writing.
+4893	I declined a book-length interview.
+4894	Threat of Schism
+4895	A group of bishops in one country is threatening to break with Rome over your decisions.
+4896	Invite them to Rome
+4897	I invited the rebellious bishops to Rome and we reached an understanding.
+4898	Talks with the rebellious bishops broke down.
+4899	Warn them firmly
+4900	I firmly warned the rebellious bishops.
+4901	Give them what they want
+4902	I gave in to the rebellious bishops' demands.
+4903	Advice for the Pope
+4904	The new Pope
+4905	{1} quietly visits you and asks for advice on a difficult decision.
+4906	Give your honest advice
+4907	I gave the new Pope my honest advice.
+4908	Say it is his decision now
+4909	I told the new Pope that the decision was his to make.
+4910	A Publisher Calls
+4911	A publisher offers a fortune for your memoirs, as long as you include "the real story" of your pontificate.

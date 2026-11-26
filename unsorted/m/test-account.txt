@@ -1,0 +1,3 @@
+email: burglary-test@example.test
+username: burglarytest
+password: Bt-7q9xK2mLr

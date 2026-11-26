@@ -1,0 +1,800 @@
+15455	a broken bottle
+15456	a fire poker
+15457	their bare hands
+15458	a tire iron
+15459	injuries from being attacked by {1}, {2}, with {3}
+15460	{1} attacked me with {2}.
+15461	{1} attacked me with {2}! I was seriously injured.
+15462	{1}, {2}, survived your attack and is coming after you with {3}!
+15463	Try to run
+15464	Beg for mercy
+15465	You're really feeling like you shouldn't be doing this.
+15466	Commit the murder
+15467	Don't tell a soul
+15468	I tried to murder {1}, {2}, but {3} survived.
+15469	You {1}, but {2} survived!
+15470	I tried to murder {1}, {2}.
+15471	Eastern State Penitentiary
+15472	Sing Sing Prison
+15473	Auburn State Prison
+15474	San Quentin State Prison
+15475	Yuma Territorial Prison
+15476	Huntsville State Penitentiary
+15477	Newgate State Prison
+15478	Wright & Associates
+15479	Phelps & Associates
+15480	Lukes & Williamson
+15481	Ito & Matsuda
+15482	Castillo Law Group
+15483	Hammond & Pierce
+15484	brick
+15485	I was arrested for {1}!
+15486	constable
+15487	{1} police officers{2}and the chief of police are all on the scene.
+15488	{1} police officers{2} are all on the scene.
+15489	The {1} levels a revolver at you and tells you to raise your hands.
+15490	The {1} clamps a pair of iron shackles on your wrists.
+15491	jailhouse
+15492	lockup
+15493	Two deputies drag you toward the {1}.
+15494	A crowd gathers to watch the {1} haul you off.
+15495	An officer tells you to put your hands behind your back.
+15496	An officer slaps a pair of handcuffs on your wrists.
+15497	Two officers pin you against the squad car.
+15498	You are being arrested by the {1}!
+15499	How will you behave?
+15500	You are being arrested by the police!
+15501	Cooperate with them
+15502	I cooperated with the police during my arrest.
+15503	Flirt with them
+15504	I flirted with the arresting officer, who let me go!
+15505	Smooth criminal
+15506	You flirted with the arresting officer, who decided to let you go!
+15507	I flirted with the police during my arrest. It did not work.
+15508	Not amused
+15509	The officers were not amused by your flirting.
+15510	I ran from the police and got away!
+15511	Got away!
+15512	You outran the police and got away!
+15513	I tried to run from the police, but they tackled me.
+15514	You tried to run, but the officers tackled you to the ground. Resisting arrest won't look good in court.
+15515	Try to bribe them
+15516	Disregard with royal power
+15517	I used my royal power to get out of being arrested for {1}.
+15518	The story of my royal get-out-of-jail card leaked to the press.
+15519	Royal privilege
+15520	Your highness
+15521	Word of it leaked to the press, and people are not impressed.
+15522	"{1}," the officer says, stepping back. The police recognized the {2} and let you go.{3}
+15523	How much will you offer the police as a bribe to let you go?
+15524	Offer the bribe
+15525	I tried to bribe the police with money I didn't have.
+15526	You don't have that kind of money. The officers laughed at you.
+15527	I bribed the police {1} to let me go.
+15528	Money talks
+15529	You bribed the police {1}. They let you go!
+15530	I tried to bribe the police {1}, but they arrested me anyway.
+15531	Now they wanna be righteous
+15532	You tried to bribe the police {1}!
+15533	They arrested you anyway!
+15534	Squire {1}, Country Lawyer
+15535	{1} & {2}, Trial Lawyers
+15536	I was charged with {1}!
+15537	The police identified me as an escaped convict from {1}.
+15538	could
+15539	face a firing squad
+15540	hang for it
+15541	a reform school
+15542	are facing up to {1} of hard labor in {2}
+15543	are facing the death penalty
+15544	are facing up to {1} in {2}
+15545	You still have a death sentence
+15546	You still owe {1}
+15547	The police also identified you as an escaped convict. {1} for {2}, plus extra time for escaping.
+15548	Who will speak for you before the judge and a jury of twelve?
+15549	Which local law firm will you hire to defend you in court?
+15550	You've been charged with {1} and {2}!{3}
+15551	You are broke.
+15552	I hired {1} to represent me in court.
+15553	I decided to defend myself in court.
+15554	The court appointed a lawyer to defend me.
+15555	I hired a public defender to represent me in court.
+15556	The judge has asked you to make a plea surrounding your charge for {1}. If you plead guilty, you may receive a shorter sentence than if you are convicted in a trial.
+15557	How will you plea?
+15558	guilty
+15559	No contest
+15560	I plead guilty.
+15561	I plead no contest.
+15562	I plead not guilty.
+15563	The judge dismissed my {1} case!
+15564	I was found not guilty of {1}!
+15565	The judge threw out your {1} case and dropped all charges!
+15566	You are free to go.
+15567	The jury found you not guilty of {1}!
+15568	{1} House of Refuge
+15569	the County Workhouse
+15570	the {1} County {2}
+15571	{1} Juvenile Detention Facility
+15572	{1} {2} Security Prison
+15573	{1} and escaping prison
+15574	three
+15575	four
+15576	five
+15577	hang by the neck until dead
+15578	death by firing squad
+15579	death by {1}
+15580	{1} year{2} in {3}
+15581	{1} year{2} at a juvenile detention center
+15582	{1} of hard labor at {2}
+15583	{1} in prison
+15584	As an escaped convict, I was sent back to prison to serve {1}.
+15585	I have been convicted of {1} and sentenced to {2}!
+15586	Your death sentence for {1} still stands.
+15587	That includes the {1} you still owed for {2} and {3} for escaping prison.
+15588	The judge threw out your {1} case
+15589	The jury found you not guilty of {1}
+15590	{1}, but you're still an escaped convict from {2}.
+15591	You've been sent back to serve {1}.{2}
+15592	You have been convicted of {1} and sentenced to {2}!{3}
+15593	Back to Prison
+15594	You have been forced to drop out of {1}.
+15595	trapdoor
+15596	A crowd has packed the yard at {1} to watch you hang. Pie sellers shout over the noise, children sit on their fathers' shoulders, and the hangman checks the knot on the noose.
+15597	You climb the thirteen steps to the trapdoor.
+15598	Say your last words
+15599	I said my last words on the gallows at {1} as the crowd jeered.
+15600	hanging
+15601	Pray for forgiveness
+15602	I prayed for forgiveness on the gallows at {1}.
+15603	Curse the crowd
+15604	I cursed the crowd from the gallows at {1}.
+15605	Stand in silence
+15606	I stood in silence on the gallows at {1}.
+15607	Execution at Dawn
+15608	At dawn you are marched into the yard at {1} and tied to a wooden post. Six riflemen stand in a line. One of them has a blank, so none of them will ever know who fired the fatal shot.
+15609	"Ready! Aim!"
+15610	Refuse the blindfold
+15611	I refused the blindfold and faced the firing squad at {1}.
+15612	a firing squad
+15613	Accept the blindfold
+15614	I was blindfolded and shot by a firing squad at {1}.
+15615	Shout your last words
+15616	I shouted my last words at the firing squad at {1}.
+15617	My murder conviction made headlines and I became infamous.
+15618	My latest murder conviction made me even more infamous.
+15619	Your murder conviction made headlines across the country.
+15620	Everyone knows your name now.
+15621	Your latest conviction put your name back in every headline.
+15622	I lost my job as {1} {2}.
+15623	I lost my part-time job as {1} {2}.
+15624	facility
+15625	They sent me to {1}, a {2} security {3}.
+15626	freelife/sounds/jail-bars.wav
+15627	jailed
+15628	I went back to school at {1}.
+15629	You're back in school at {1}.
+15630	Boiler Room Maintenance
+15631	Highway Sign Maker
+15632	License Plate Maker
+15633	Military Shoe Maker
+15634	Military Uniform Maker
+15635	An elite gang
+15636	You must be extremely well-respected to join this gang.
+15638	You must have a proven track record of violence to join this gang.
+15639	A feared gang
+15640	You must be well-respected and feared to join this gang.
+15641	Cash Money Wreckers
+15642	A wealthy gang
+15643	You must be rich to join this gang.
+15644	Blue Ball Bulls
+15645	A vicious gang
+15647	A foreigner gang
+15648	You must be from another country to join this gang.
+15649	An intelligent gang
+15650	You must be smart to join this gang.
+15651	A good-looking gang
+15652	You must be good-looking to join this gang.
+15653	A senior gang
+15654	You must be a senior citizen to join this gang.
+15655	An unfeared gang
+15656	Anyone can join this gang. Nobody wants to.
+15657	Keying a Car
+15658	Breaking and Entering
+15659	Setting Off Fireworks
+15660	Egging a Police Car
+15661	grand theft auto
+15662	kidnapping
+15663	sentence
+15664	Get Out Of Jail Free Card
+15665	Get out of jail whenever you want!
+15666	Appeal your sentence
+15667	bribe
+15668	Bribe the guards
+15669	conjugal
+15670	Arrange a conjugal visit
+15671	Let it all out
+15672	escape
+15673	Attempt to escape
+15674	gangs
+15675	Member of the {1}
+15676	Join a gang
+15677	infirmary
+15678	Seek medical attention
+15679	Send someone a letter
+15680	mind
+15681	Pass some time productively
+15682	jobs
+15683	Get a prison job
+15684	yard
+15685	Start a riot
+15686	Are you sure you want to give up on this life?
+15687	Get Out Of Jail Free
+15688	Use your Get Out Of Jail Free Card to walk out of prison right now?
+15689	I used my Get Out Of Jail Free Card and walked out of prison!
+15690	You've already appealed your sentence this year.
+15691	Which local law firm will you hire to appeal your sentence?
+15692	Sentence commuted
+15693	{1} got your death sentence commuted to {2} in prison!
+15694	My death sentence was commuted on appeal.
+15695	{1} Police Department
+15696	I hired {1} to appeal my sentence, and my conviction was overturned!
+15697	Appeal granted
+15698	{1} appealed your sentence, but the judge denied it.
+15699	I hired {1} to appeal my sentence. It was denied.
+15700	The guards on death row laughed at your bribe.
+15701	I tried to bribe a guard on death row. He laughed at me.
+15702	How much will you offer the guards as a bribe to let you go?
+15703	You don't have that kind of money. The guards laughed at you.
+15704	I tried to bribe a prison guard with money I didn't have.
+15705	I bribed a guard with {1} and walked out of prison!
+15706	You tried to bribe the guards {1}!
+15707	They reported you to the warden!
+15708	I tried to bribe a prison guard with {1}, but I was reported.
+15709	You had a conjugal visit with {1}. You feel a lot better.
+15710	I had a conjugal visit with {1}.
+15711	You've already had a conjugal visit this year.
+15712	You cried yourself to sleep in your cell.
+15713	You sobbed into your pillow. A few inmates heard you.
+15714	You let it all out. You feel a little better.
+15715	I cried in my prison cell.
+15716	You've already tried to escape this year. The guards are watching you closely.
+15717	The prison doctor patched you up. You feel a little better.
+15718	The prison doctor said there is nothing wrong with you and sent you back to your cell.
+15719	I went to the prison infirmary.
+15720	Are you sure you want to try to start a riot?
+15721	The prison is still on lockdown from your last riot.
+15722	The guards are on high alert. There is no way out this year.
+15723	The guard moves twice for every move you make! He will only make moves towards you and will try to walk horizontally first.
+15724	square
+15725	I escaped from {1}! I'm free.
+15726	The guard caught you trying to escape! Your sentence has been extended.
+15727	I tried to escape from prison, but a guard caught me. My sentence was extended.
+15728	You gave up on your escape and went back to your cell.
+15729	I tried to escape from prison, but I gave up.
+15730	Your gang
+15731	You are a member of the {1}.
+15732	Leave the {1}
+15733	I left the {1} prison gang.
+15734	Attempt to join the {1} today!
+15735	Join the {1}
+15736	respected
+15737	impressive
+15738	The {1} rejected you. You aren't {2} enough to join.
+15739	I tried to join the {1} prison gang, but they rejected me.
+15740	You are now a member of the {1}!
+15741	I joined the {1} prison gang.
+15742	Your job ·
+15743	You quit your prison job as {1} {2}.
+15744	I quit my prison job.
+15745	Apply for a job as {1} {2}?
+15746	You aren't smart enough to tutor other inmates.
+15747	You got the job! You are now a prison {1}.
+15748	I got a prison job as {1} {2}.
+15749	The warden rejected your application for the {1} job.
+15750	I applied to be a prison {1}, but I was rejected.
+15751	library
+15752	Read a book
+15753	Lift weights in the yard
+15754	meditate
+15755	Find inner peace
+15756	Talk to a higher power
+15757	You've already done that this year.
+15758	a mystery novel
+15759	a law textbook
+15760	a book about birds
+15761	a self-help book
+15762	You read {1} in the prison library.
+15763	I read a book in the prison library.
+15764	You pumped iron in the prison yard. The other inmates noticed.
+15765	I worked out in the prison yard.
+15766	You meditated in your cell and found a little peace.
+15767	I meditated in my prison cell.
+15768	You prayed in your cell. You feel a little more at peace.
+15769	I prayed in my prison cell.
+15770	You have no one left on the outside.
+15771	You sent a letter from prison to {1}, {2}.
+15772	I sent a letter to {1}, {2}.
+15773	Mess with {1}
+15774	You messed with {1}, who snapped and beat you up!
+15775	I messed with {1} in the prison yard. {2} beat me up.
+15776	stole the pudding off the tray of
+15777	tripped
+15778	spat in the soup of
+15779	hid the slippers of
+15780	You {1} {2}. The other inmates laughed.
+15781	I messed with {1} in the prison yard.
+15782	{1} tattoos are sick
+15783	{1} has a nice smile
+15784	{1} looks strong
+15785	{1} is a great cellmate
+15786	You told {1} that {2}.
+15787	Are you sure you want to attack {1}?
+15788	a sad excuse for a criminal
+15789	a waste of space
+15790	a pathetic loser
+15791	You called {1} {2}.
+15792	They snapped your adam's apple.
+15793	They whacked your ankle.
+15794	They cracked your ribs.
+15795	They broke your nose.
+15796	They stomped on your hand.
+15797	They knocked out two of your teeth.
+15798	They slammed your head into the wall.
+15799	They kicked you in the kidneys.
+15800	They dislocated your shoulder.
+15801	How will you attack {1}?
+15802	Pick your move:
+15803	I attacked {1} and got beaten by the {2} gang.
+15804	Takes a whole gang, huh?
+15805	You have been beaten by the {1} gang for messing with one of their members!
+15806	a beating from the {1} gang
+15807	I tried to {1} {2} but missed.
+15808	You missed
+15809	You tried to {1} {2} but missed!
+15810	I attacked {1} in the prison yard and won.
+15811	Take that
+15812	You delivered a{1} {2} to {3}'s {4}!
+15813	I attacked {1} in the prison yard and lost.
+15814	You attacked {1}, but {2} beat you to a pulp!
+15815	Recruit as many prisoners as you can to join the riot! Don't run into the walls, the guards, or your chain of prisoners.
+15816	Move your mouse (or swipe) to change directions!
+15817	Prisoners recruited:
+15818	I tried to start a prison riot, but it failed.
+15819	Riot unsuccessful
+15820	You ran into a wall. The guards broke up your riot before it started.
+15821	You ran right into a guard. The guards broke up your riot before it started.
+15822	You crashed into your own crew. The guards broke up your riot.
+15823	I started a prison riot!
+15824	You started a riot in the prison! The other inmates respect you more now.
+15825	You have been transferred to {1} to finish your sentence.
+15826	I was transferred to {1}.
+15827	The warden says he will release you if you give him information about another inmate.
+15828	Tell him everything
+15829	I gave the warden information about another inmate in exchange for my release.
+15831	I snitched to the warden, but he did not release me.
+15832	I ain't no snitch
+15833	You refused to say a word. The other inmates respect that.
+15834	I refused to snitch to the warden.
+15835	You are standing in front of the parole board.
+15836	I was granted parole after serving {1}.
+15837	I was denied parole after serving {1}.
+15838	The parole board did not like your answer: "{1}"
+15839	Your parole was denied and your sentence will continue.
+15840	I was executed by {1} at {2}.
+15841	Today is your execution date.
+15842	You have been executed by {1} at {2}.
+15843	execution by {1}
+15844	The governor commuted my death sentence to life at hard labor.
+15845	The governor has commuted your death sentence. You will spend the rest of your days at hard labor instead.
+15846	My execution was postponed by {1}.
+15847	Your scheduled execution has been postponed by {1}.
+15848	I was released from {1} after serving {2}.
+15849	call
+15850	bully
+15851	{1} is picking a fight with you in the prison yard!
+15852	{1} picked a fight with me. I won.
+15853	You beat {1} in the fight!
+15854	{1} picked a fight with me and beat me up.
+15855	{1} beat you up.
+15856	I walked away from a fight with {1}.
+15857	You walked away. Some inmates think you are soft.
+15858	Tell a guard
+15859	I snitched on {1} to a guard.
+15860	You told a guard about {1}. The other inmates are calling you a snitch.
+15861	a care package
+15862	a stack of books
+15863	some homemade cookies
+15864	a warm blanket
+15865	a photo album
+15866	a bag of snacks
+15867	some new socks
+15868	a crossword puzzle book
+15869	a soft pillow
+15870	a deck of cards
+15871	a family photo
+15872	a sketchbook and some pencils
+15873	a handwritten letter and some stamps
+15874	a box of candy
+15875	You still sent {1} a thank-you note.
+15876	The guards confiscated {1} from {2}, at mail call.{3}
+15877	Nobody respects you enough in here to keep it off limits.
+15878	{1}, sent me {2} in {3}, but the guards confiscated it.
+15879	You wrote {1} a heartfelt thank-you note. {2} was really touched.
+15880	You accepted {1} from {2}.{3}
+15881	I sent {1} a thank-you note.
+15882	{1}, sent me {2} in {3}.{4}
+15883	{1}, sent you {2}.
+15884	Send it back
+15885	You sent {1} back to {2}. {3} was hurt.
+15886	I sent back {1} that {2} mailed me in {3}.
+15887	Send a thank-you note
+15888	brawl
+15889	Rival gangs just started a huge brawl in the {1}.
+15890	Caught in it
+15891	You got hit by a flying tray while watching the brawl.
+15892	I got hurt watching a gang brawl.
+15893	Ringside seat
+15894	You watched the brawl from a safe distance.
+15895	I watched a gang brawl in {1}.
+15896	Report it to a guard
+15897	The guards broke up the brawl. Some inmates saw you talking to them.
+15898	I reported a gang brawl to the guards.
+15899	You slipped away before anyone noticed you.
+15900	I walked away from a gang brawl in {1}.
+15901	fiend
+15902	roommate
+15903	cellmate
+15904	Your {1} is going through withdrawal and acting really disturbing, screaming and clawing at the walls all night.
+15905	Rough night
+15906	You cried yourself to sleep.
+15907	I cried myself to sleep in {1}.
+15908	Help them
+15909	Good deed
+15910	You calmed them down and got them some water.
+15911	I helped my {1} through withdrawal.
+15912	You shoved them back into their bunk. A guard wrote you up.
+15913	I got written up for shoving my {1}.
+15914	You've been given your weekly phone call.
+15916	A guard caught you prank calling and took away your phone privileges.
+15917	I got caught making a prank call in juvie.
+15918	You prank called a pizza place. It was hilarious.
+15919	I made a prank call from juvie.
+15920	Report myself missing
+15921	The police were not amused. Neither were the guards.
+15922	I called the police and reported myself missing from juvie.
+15923	Order food
+15924	Somehow, a pizza actually showed up.
+15925	I used my phone call to order a pizza to juvie.
+15926	A bigger kid in the cafeteria says you have to hand over your breakfast, or else.
+15927	You handed over your breakfast and went hungry.
+15928	I gave my breakfast to a bully in juvie.
+15929	The bully jumped you when you walked away.
+15930	A bully jumped me in the juvie cafeteria.
+15931	Stood your ground
+15932	You walked away, and the bully left you alone.
+15933	I walked away from a bully in the juvie cafeteria.
+15934	A random club promoter
+15935	A random pimp
+15936	A random porn star
+15937	A random venture capitalist
+15938	A random drug dealer
+15939	A random lawyer
+15940	A random celebrity
+15941	bend
+15942	border
+15943	circle
+15944	cell
+15945	line
+15946	tutorial
+15947	You're thinking about hacking into someone's bank account.
+15948	Begin hack
+15949	You have encountered a firewall!
+15950	Reconfigure the computer's logic pathways to bypass it before the system kicks you out.
+15951	900 60px "Avenir Next", Mulish, sans-serif
+15952	I hacked into {1} bank account and stole {2}.
+15953	You successfully hacked into {1} bank account and stole {2}.
+15954	I tried to hack into {1} bank account, but the firewall kicked me out.
+15955	The system kicked you out before you could get into {1} bank account.
+15956	hacking
+15957	an old lady
+15958	a nosy neighbor
+15959	a security guard
+15960	a dog walker
+15961	a cab driver
+15962	sounds/explosion-real.ogg#t=0.55
+15964	You've already stolen 4 cars this year. Every cop in town is looking for you, so lay low until next year.
+15965	You see some vulnerable cars.
+15966	Pick your vehicle:
+15967	Steal it
+15968	I prowled the streets.
+15969	Let's go
+15970	You successfully stole the {1}!
+15971	I tried to steal a {1} but the cops arrived before I could get it started!
+15972	You tried to steal the {1} but {2} saw you and called the cops before you could get it started!
+15973	You're having a hard time getting the {1} started and are beginning to get nervous.
+15974	Keep trying
+15975	Flee the scene
+15976	I fled the scene before I could steal the {1}.
+15977	You fled the scene before anyone saw you trying to steal the {1}.
+15978	guitar
+15979	teddy
+15980	stack of cash
+15981	hipster
+15982	real estate agent
+15983	librarian
+15984	pastor
+15985	stockbroker
+15986	mime
+15987	the {1}'s home
+15988	You are unable to find any homes to burgle.
+15989	You're thinking about burgling a home.
+15990	Pick a home:
+15991	Burgle the home
+15992	I decided to burgle {1}!
+15993	owner
+15994	follow
+15995	ambush
+15996	scatter
+15997	Steal as many items as you can from {1} and escape without being caught!
+15998	Collected items:
+15999	Swipe to change directions!
+16000	900 25.2px sans-serif
+16001	{1} I stole {2}, and the pawn shop gave me {3} for it.
+16002	You burgled {1} and stole {2}!
+16003	The pawn shop gave you {1} for the loot.
+16004	{1} I escaped without stealing anything.
+16005	You escaped from {1} without stealing anything or being caught.
+16006	{1} Their dog caught me, but I managed to flee before the cops arrived.
+16007	The {1}'s dog caught you!
+16008	You managed to flee before the cops arrived.
+16009	The homeowner caught you and turned you into the cops!
+16010	The {1}'s dog caught you and drew the attention of the cops!
+16011	The {1}'s dog barked and alerted the police!
+16012	The police officer caught you!
+16013	The homeowner
+16014	Their dog
+16015	A police officer
+16016	{1} {2} caught me in the act.
+16017	A neighbor saw you setting the {n} on fire and called the cops!
+16018	A security camera caught you setting the {n} on fire!
+16019	A firefighter spotted you running away from the burning {n}!
+16020	A passerby recognized you near the {n} and called the police!
+16021	The smell of gasoline on your clothes gave you away when the police arrived at the {n}.
+16022	An off-duty cop saw you light up the {n} and tackled you!
+16023	Torch a car, a dumpster or a field
+16024	Burn down a home or a business
+16025	Torch somewhere packed with people
+16026	Burn a famous landmark to the ground
+16027	Let fate pick a target
+16028	The Midnight Torch
+16029	The Matchstick Menace
+16030	The Phantom Arsonist
+16031	The Human Torch
+16032	people
+16033	The media has not noticed you yet
+16034	ambulance
+16035	siren
+16036	Light a Fire
+16037	Requires {1}% notoriety
+16038	I decided not to set {1} on fire.
+16039	You decided to leave {1} alone.
+16040	sounds/a16sfx_Camping_Start.wav
+16041	were
+16042	{1} injured and {2} killed in the fire.
+16043	{1} killed in the fire.
+16044	{1} injured in the fire.
+16045	and poured more fuel on it
+16046	and stayed to watch it burn
+16047	I set {1} on fire{2}.{3}
+16048	The extra fuel made the fire even bigger.
+16049	You stayed and watched it burn.
+16050	The fire caused an estimated {1} in damage.{2}
+16051	The media has started calling you "{1}" after your string of fires.
+16052	Your notoriety as an arsonist is growing. Bigger targets are now within reach.
+16053	I burned to death trying to set {1} on fire.
+16054	The flames flared up and engulfed you while you were setting {1} on fire!
+16056	I badly burned myself trying to set {1} on fire.
+16057	The flames flared up and you badly burned yourself trying to set {1} on fire!
+16058	I tried to set {1} on fire, but it would not catch.
+16059	You tried to set {1} on fire, but it just would not catch.
+16060	I was caught trying to set {1} on fire.
+16061	Set {1} on fire
+16062	Pour more fuel on it
+16063	Watch it burn
+16065	You're thinking about kidnapping someone and holding them for ransom.
+16066	A random stranger
+16067	Kidnap them
+16068	The stranger
+16069	I tried to kidnap {1}, but {2} fought back and killed me.
+16071	{1} fought back while you tried to kidnap {2}!
+16072	{1} overpowered you and beat you to death.
+16073	a beating from {1} during a botched kidnapping
+16074	{1} fought back and left you with fatal injuries!
+16075	injuries from a botched kidnapping
+16076	I tried to kidnap {1}, but {2} fought back, badly injured me, and called the police.
+16077	{1} badly injured you and called the police.
+16078	I tried to kidnap {1}, but {2} fought back and badly injured me. I fled before the police arrived.
+16079	{1} badly injured you, but you managed to get away.
+16080	I kidnapped {1} and collected a {2} ransom before letting them go.
+16081	You kidnapped {1} and demanded {2} for their safe return.
+16082	The ransom was paid and you let them go!
+16083	I kidnapped {1} but nobody paid the ransom so I let them go.
+16084	You kidnapped {1} and demanded {2}, but nobody paid the ransom.
+16085	You let them go.
+16086	I bungled the kidnapping of {1}.
+16087	You bungled the kidnapping of {1} and the cops showed up!
+16088	You're thinking about selling drugs.
+16089	Pick a buyer:
+16090	A stranger on the street
+16091	Pick a drug:
+16092	Make the deal
+16093	I tried to sell {1} to an undercover cop.
+16094	The stranger you tried to sell {1} to was an undercover cop!
+16095	I sold {1} to {2} for {3}.
+16096	You sold some {1} to {2} for {3}!
+16097	I tried to sell {1} to {2}, but they weren't interested.
+16098	You offered to sell some {1} to {2}, but they weren't interested.
+16099	{1} reported me to the police for trying to sell them {2}.
+16100	{1} reported you to the police for trying to sell them {2}!
+16101	a convenience store
+16102	a neighbor's car
+16103	a park bench
+16105	a police car
+16106	the town hall
+16107	Spray paint graffiti on it
+16108	spray-painted graffiti on
+16109	Smash the windows
+16110	smashed the windows of
+16111	Egg it
+16112	egged
+16113	Toilet paper it
+16114	Key it
+16115	keyed
+16116	Kick it until it breaks
+16117	vandalism
+16118	You're thinking about vandalizing something.
+16119	Pick a target:
+16120	Pick a method:
+16121	Vandalize it
+16122	You {1} {2} and got away with it!
+16123	I got caught vandalizing {1}.
+16124	Toy gun
+16125	a toy gun
+16126	Stun gun
+16127	a stun gun
+16128	Golf club
+16129	Molotov cocktail
+16130	a Molotov cocktail
+16131	Silly string
+16132	Sharp acrylic nails
+16133	sharp acrylic nails
+16134	Unravelled paperclip
+16135	an unravelled paperclip
+16136	Baseball bat
+16137	Banana in my pocket
+16138	a banana in your pocket
+16139	Fake bomb
+16140	a fake bomb
+16141	Purge mask
+16142	in a Purge mask
+16143	Guy Fawkes mask
+16144	in a Guy Fawkes mask
+16145	Furry suit
+16146	in a furry suit
+16147	Shrek costume
+16148	in a Shrek costume
+16149	Willy Wonka costume
+16150	in a Willy Wonka costume
+16151	Batman suit
+16152	in a Batman suit
+16153	Santa Claus costume
+16154	as Santa Claus
+16155	Police officer
+16156	as a police officer
+16157	Homeless person
+16159	Ski mask
+16160	in a ski mask
+16161	Clown makeup
+16162	in clown makeup
+16163	Pantyhose over my face
+16164	with pantyhose over your face
+16165	on a bus
+16166	in a taxi
+16167	on the subway
+16168	on a train
+16169	Pogo stick
+16170	on a pogo stick
+16171	Roller skates
+16172	on roller skates
+16173	Electric scooter
+16174	on an electric scooter
+16175	on a hoverboard
+16176	Stolen car
+16177	in a stolen car
+16178	on a bicycle
+16179	On foot
+16180	{1} Community Bank
+16181	{1} Credit Union
+16182	{1} Savings & Loan
+16183	First National Bank of {1}
+16184	Bank of {1}
+16185	{1} Federal Credit Union
+16186	in your {1}
+16187	You are planning a bank robbery. Choose wisely.
+16188	Rob it
+16189	Pick your bank:
+16190	Pick your weapon:
+16191	Pick your disguise:
+16192	Pick your getaway:
+16193	I robbed {1} using {2} while disguised {3}, and escaped {4} with {5}!
+16194	Successful heist!
+16195	You successfully robbed {1} using {2} while disguised {3}!
+16196	You escaped {1} and made off with {2}!
+16197	I was caught trying to rob {1}.
+16198	Horrible heist
+16199	You were caught trying to rob {1} using {2} while disguised {3}!
+16200	The police have arrived to arrest you.
+16201	Retired Mail Carrier
+16202	An ordinary face. An extraordinary risk.
+16203	Nobody checks the signature anyway.
+16204	Same height, same hair. Close enough?
+16205	A spotless credit score, for now.
+16206	They never shred their mail.
+16207	Their password is probably their dog's name.
+16208	Phishing email
+16209	Steal their mail
+16210	Dig through their trash
+16211	Card skimmer at a gas station
+16212	Pretend to be their bank on the phone
+16213	Hack their social media
+16214	You're thinking about stealing someone's identity.
+16215	View identity
+16216	Marital status
+16217	Your crime skill
+16218	Attempt identity theft
+16219	Choose someone else
+16220	I stole {1}'s identity, opened {2} credit card{3} in {4} name and took {5}.
+16221	You passed as {1}, opened credit cards in {2} name and drained the accounts. Nobody suspects a thing.
+16222	Money taken:
+16223	Credit cards opened:
+16224	I was caught trying to steal {1}'s identity.
+16225	Identity attempt: Failed
+16226	Police attention: High
+16227	Your attempt to impersonate {1} raised suspicion at the bank. The police have been notified.
+16228	What kind of mischief do you want to get into?
+16229	Egg a house
+16230	I egged a house in my neighborhood.
+16231	Make a prank call
+16232	I made a prank call to a random number. They fell for it!
+16233	making prank calls
+16234	Spray graffiti
+16235	I spray-painted graffiti on a wall downtown.
+16236	Ding dong ditch
+16237	I played ding dong ditch on my neighbors.
+16238	trespassing
+16239	Which store do you want to steal from?
+16240	A grocery store
+16241	I shoplifted a candy bar from a grocery store.
+16242	shoplifting
+16243	A clothing store
+16244	I shoplifted a jacket from a clothing store and sold it.
+16245	An electronics store
+16246	I shoplifted a pair of headphones from an electronics store and sold them.
+16247	You spot {1}, a {2}-year-old {3}, with a wallet sticking out of {4} back pocket.
+16248	Grab the wallet
+16249	I pickpocketed {1} and got away with some cash.
+16250	Back out
+16251	I chickened out of pickpocketing {1}.
+16252	There's a package sitting on your neighbor's porch.
+16253	a pair of sneakers
+16254	a phone case
+16255	a smart speaker
+16256	a box of dog food
+16257	a designer handbag
+16258	a bag of socks
+16259	I stole a package off my neighbor's porch. It had {1} inside.
+16260	I left my neighbor's package alone.
+16261	A cargo train full of valuables is passing through town.
+16263	I chickened out of robbing a train.
+16264	I embezzled {1} from {2}.
+16265	embezzlement

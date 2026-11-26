@@ -1,0 +1,62 @@
+[
+ {
+  "file": "hanger-clothing-store.png",
+  "original": "item-001.png",
+  "label": "Hanger clothing store"
+ },
+ {
+  "file": "sneaker-store.png",
+  "original": "item-002.png",
+  "label": "Sneaker store"
+ },
+ {
+  "file": "crown-clothing-store.png",
+  "original": "item-003.png",
+  "label": "Crown clothing store"
+ },
+ {
+  "file": "t-shirt-clothing-store.png",
+  "original": "item-004.png",
+  "label": "T-shirt clothing store"
+ },
+ {
+  "file": "red-hanger-clothing-store.png",
+  "original": "item-005.png",
+  "label": "Red hanger clothing store"
+ },
+ {
+  "file": "dress-boutique-store.png",
+  "original": "item-006.png",
+  "label": "Dress boutique store"
+ },
+ {
+  "file": "x-logo-clothing-store.png",
+  "original": "item-007.png",
+  "label": "X logo clothing store"
+ },
+ {
+  "file": "adidas-store.png",
+  "original": "item-008.png",
+  "label": "Adidas store"
+ },
+ {
+  "file": "denim-jeans-store.png",
+  "original": "item-009.png",
+  "label": "Denim jeans store"
+ },
+ {
+  "file": "pink-bow-boutique.png",
+  "original": "item-010.png",
+  "label": "Pink bow boutique"
+ },
+ {
+  "file": "gucci-store.png",
+  "original": "item-011.png",
+  "label": "Gucci store"
+ },
+ {
+  "file": "skateboard-clothing-store.png",
+  "original": "item-012.png",
+  "label": "Skateboard clothing store"
+ }
+]

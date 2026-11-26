@@ -1,0 +1,800 @@
+9784	Greenhorn (Fishery)
+9785	Deck Hand (Fishery)
+9786	Deck Boss (Fishery)
+9787	Engineer (Fishery)
+9788	Captain (Fishery)
+9789	Crew Member (Fast Food)
+9790	Shift Manager (Fast Food)
+9791	Restaurant Manager (Fast Food)
+9792	General Manager (Fast Food)
+9793	Rank {1} of {2}
+9794	Apply for this position
+9795	Not qualified
+9796	Degree required
+9797	{1} only hires people with a university degree.
+9798	I worked a {1}-hour gig as a {2} and earned {3}.
+9799	You worked {1} hours as a {2} and earned {3}.
+9800	{1} decided not to hire me.
+9801	Ice Cream Shop
+9802	The military does not accept recruits with a felony conviction.
+9803	Law enforcement agencies do not hire convicted felons.
+9804	Fire departments require a clean criminal record.
+9805	Security guards need a state license, which felons cannot get.
+9806	Casino jobs need a gaming license, which felons cannot get.
+9807	Government jobs require a background check that felons cannot pass.
+9808	Schools do not hire felons to work with children.
+9809	Felons cannot get a license to practice law.
+9810	The medical board will not license a felon.
+9811	The nursing board will not license a felon.
+9812	The pharmacy board will not license a felon.
+9813	The dental board will not license a felon.
+9814	The veterinary board will not license a felon.
+9815	They do not hire felons to work with children.
+9816	Federal law (FDIC Section 19) bars people convicted of dishonesty crimes from working there.
+9817	Their insurance won't cover anyone with a felony in the last 7 years. (Yours was {1} ago.)
+9818	They won't trust someone convicted of {1} around cash and merchandise.
+9819	They do not hire people convicted of violent crimes to work with patients.
+9820	I was rejected by {1} because of my criminal record.
+9821	{1} doesn't hire felons.
+9822	{1} ran a background check and decided not to hire you because of your felony conviction.
+9823	The military disqualifies recruits with gang-related tattoos, and face tattoos break uniform regulations.
+9824	Police departments disqualify applicants with gang-related tattoos, no matter where they are.
+9825	Fire departments follow the same tattoo rules as the police, and gang tattoos are disqualifying.
+9826	Government jobs require a background check, and gang tattoos flag you as a gang member.
+9827	Courts and law firms will not put someone with gang tattoos on their face in front of a judge or client.
+9828	Schools will not hire someone with gang tattoos to work around children.
+9829	Airlines ban visible face tattoos for crew, even where other tattoos are allowed.
+9830	Banks will not trust someone with gang tattoos with customers' money.
+9831	Casino jobs need a gaming license, and suspected gang ties get it denied.
+9832	Hospitals will not hire someone with gang tattoos on their face to work with patients.
+9833	The church will not ordain someone with gang tattoos on their face.
+9834	Adult Film Studio
+9835	Ride Sharing App
+9836	Parents will not trust someone with gang tattoos on their face around their kids.
+9837	Nobody will trust someone with gang tattoos on their face with public office.
+9838	I was rejected by {1} because of my gang tattoos.
+9839	{1} won't hire someone with gang tattoos on their face.
+9840	The hiring manager at {1} took one look at the gang tattoos on your face and ended the interview.
+9841	{1} wouldn't hire me because I'm homeless.
+9842	No permanent address
+9843	{1} wouldn't hire me because of my drug use.
+9844	Failed the drug test
+9845	The interviewer noticed you were high
+9846	Your references mentioned your drug use
+9847	, on top of my job as {1} {2}
+9848	I got a part-time job as {1} {2} at {3}{4}.
+9849	Side hustle
+9850	You're keeping your job as {1} {2}.
+9851	You quit your old part-time job as {1} {2}.
+9852	You got a part-time job as {1} {2} at {3}!{4}{5}
+9853	I got a job as a {1} at {2}.
+9854	Welcome aboard
+9855	Welcome to the {1}!
+9856	When can you start?
+9857	Welcome to {1}!
+9858	accountant
+9859	nurse
+9860	landlord
+9861	chef
+9862	businessman
+9863	teacher
+9864	florist
+9865	firefighter
+9866	dentist
+9867	lawyer
+9868	plumber
+9869	grandmother
+9870	pilot
+9871	photographer
+9872	farmer
+9873	You must be at least {1} to work as a {2}.
+9874	Offer your services as a {1} today!
+9875	Pick your rate:
+9876	Post an ad
+9877	I couldn't find any more clients for {1} work this year.
+9878	All booked out
+9879	You've done {1} {2} gigs this year and nobody else needs one. Try again next year.
+9880	I posted an ad offering my services as a {1}, but nobody wanted to hire a felon.
+9881	Nobody wants to hire a felon as a {1}.
+9882	Homeowners run background checks before handing over their keys.
+9883	Families run background checks before letting anyone near their {1}.
+9884	I posted an ad offering my services as a {1}, but nobody wanted to hire someone so young.
+9885	Nobody wanted to hire a {1}-year-old {2}. People usually want someone with more experience.
+9886	I posted an ad offering my services as a {1} for {2}/hour, but nobody hired me.
+9887	Nobody wanted to pay {1}/hour for a {2}. Try a lower rate.
+9888	People want someone older or more experienced for {1} work.
+9889	Nobody responded to your ad for a {1}.
+9890	A {1} named {2} hired me as a {3} for {4} hours. I earned {5}.
+9891	Racks on racks
+9893	Hourly Rate:
+9894	Your {1} has a friend who works at {2} and can get you a job there as {3} {4}.
+9895	My {1} got me a job as {2} {3} at {4}.
+9896	That's not for me
+9897	I turned down my {1}'s offer to get me a job at {2}.
+9898	You must be at least 18 to use a job recruiter.
+9899	Let the job recruiter find the best possible full-time position for your skill set today!
+9900	Let's try it
+9901	You need {1} to hire a job recruiter.
+9902	You are {1} short.
+9903	I paid a job recruiter {1}.
+9904	The {1} Group
+9905	The job recruiter has identified the position of {1} at {2} as a good fit for your skill set and has already arranged an interview for you.
+9906	Attend the interview
+9907	I attended a job interview for {1} at {2}.
+9908	{1} decided not to hire you after the interview.
+9909	I attended a job interview for {1} at {2}, but they didn't hire me.
+9910	I turned down the interview for {1} at {2}.
+9911	Private Second Class
+9912	Private First Class
+9913	Sergeant First Class
+9914	Airman First Class
+9915	Senior Master Sergeant
+9916	Chief Master Sergeant
+9917	Petty Officer Third Class
+9918	Petty Officer Second Class
+9919	Petty Officer First Class
+9921	Senior Chief Petty Officer
+9922	Master Chief Petty Officer
+9923	Lieutenant Junior Grade
+9924	Defend the land
+9925	Defend the air
+9926	anchor
+9927	Defend the sea
+9928	Attack the beach
+9929	Defend the homeland
+9930	Confederate States Army
+9931	Serve in the Confederate army
+9932	Confederate States Navy
+9933	Run the Union blockade at sea
+9934	Boatswain's Mate
+9935	army
+9936	United States Army
+9937	Join a volunteer regiment and fight for the Union
+9938	Garrison the western frontier
+9939	Defend the nation
+9940	navy
+9941	United States Navy
+9942	Serve aboard steam and sail warships
+9943	Sail aboard the nation's warships
+9944	Engine room
+9945	Chief Boatswain's Mate
+9946	Fireman Second Class
+9947	Fireman First Class
+9948	marines
+9949	United States Marine Corps
+9950	Serve ashore and afloat
+9951	Ship's detachment
+9952	Navy yard guard
+9953	revenue
+9954	Revenue Cutter Service
+9955	Chase smugglers and enforce customs laws at sea
+9956	Cutter crew
+9957	Marine Barracks, {1} Navy Yard
+9958	Marine Detachment, USS {1}
+9959	Revenue Cutter {1}
+9960	was drafted into
+9961	swore the oath and joined
+9962	I {1} the {2} as {3} {4} for {5} a month. My enlistment runs {6} years.
+9963	Joining the {1} means leaving your job as {2}. Continue?
+9964	I had to leave my job as {1}.
+9965	town
+9966	Turned away
+9967	The {1} only enlists men in {2}.
+9968	The {1} won't take recruits younger than {2}.
+9969	Too old
+9970	The {1} doesn't enlist men older than {2}.
+9971	No commission
+9972	Commissions go to {1} graduates, university men, or gentlemen with powerful friends. You need a university degree or high standing.
+9973	I went to a recruiting office in {1} to join the {2}.
+9974	The army surgeon examined me and found me unfit for service.
+9975	Failed the physical
+9976	The surgeon examined you and found you unfit for service.
+9977	The {1} turned me away because of my criminal record.
+9978	The recruiting officer refused to enlist a man with a criminal record.
+9979	The recruiter had heard about my reputation and turned me away.
+9980	The recruiter had heard about your reputation and sent you away.
+9981	Fit for Service
+9982	Your commission in the {1} has been approved. Raise your right hand and swear the officer's oath.
+9983	and will train as a naval apprentice
+9984	You passed the physical examination{1}. Raise your right hand and swear the oath of enlistment. You'll serve for {2} years.
+9985	Take the oath
+9986	Where would you like to serve?
+9987	{1} (when older)
+9988	I walked out of the recruiting office before taking the oath.
+9989	You visit a recruiting office in {1} to enlist in the {2}. The recruiting sergeant asks whether you are prepared to undergo a physical examination.
+9990	Take the examination
+9992	Monthly pay, plus food, clothing and lodging. Equipment and other deductions come out of your wages.
+9993	Apply for a commission
+9994	Change my mind
+9995	I changed my mind about joining the {1}.
+9996	{1} · from {2} a month
+9997	Already serving
+9998	You're already serving in the {1}.
+9999	I was honorably discharged from the {1}.
+10000	You were honorably discharged from the {1}.
+10001	Your enlistment has {1} more year{2} to run. Leaving now is desertion, and deserters can be flogged, branded or thrown in the stockade.
+10002	I tried to desert the {1}, but I was caught and punished in the stockade.
+10003	You were caught deserting and punished. The {1} dismissed you in disgrace.
+10004	I deserted the {1} and slipped away in the night.
+10005	You deserted the {1}. Keep your head down.
+10006	Finish my service
+10007	Join the {1} today!
+10008	Enlist in the {1}
+10009	You must be at least 18 to join the {1}.
+10010	Apply as an officer
+10011	Your application to join the {1} as an officer has been rejected.
+10012	No College Degree
+10013	I began working harder at {1}.
+10014	Hard worker
+10015	You began working harder at {1}.
+10016	Your {1}-year enlistment in the {2} is up. Will you re-enlist?
+10017	I re-enlisted in the {1} for another {2} years.
+10018	Take my discharge
+10019	Your regiment ships out to Cuba to fight the Spanish.
+10020	Charge up the San Juan Heights
+10021	Guard the supply lines
+10022	Your ship steams into Manila Bay to attack the Spanish fleet.
+10023	Man the guns
+10024	Keep the engines running
+10025	Your battalion lands at Guantánamo Bay under Spanish fire.
+10026	Take the heights
+10027	Hold the beach
+10028	Your cutter is attached to the navy blockading Cuba.
+10029	Tow a crippled torpedo boat under fire
+10030	Patrol the blockade
+10031	War with Spain!
+10032	The United States has declared war on Spain. {1}
+10033	War with Spain
+10034	I was wounded during the war with Spain.
+10035	I was commended for bravery in the war with Spain.
+10036	I caught yellow fever during the war with Spain.
+10037	I served steadily through the war with Spain.
+10038	The Confederate conscription act has caught up with you. You have been ordered to report for service in the {1}.
+10039	Your name was drawn in the federal draft. You have been ordered to report for service in the {1}.
+10040	Pay the {1} commutation fee
+10043	I paid the {1} commutation fee to avoid the draft.
+10045	I was exempted from the draft because the army needs me as {1} {2}.
+10046	Hire a substitute ({1})
+10047	A substitute wants {1}.
+10048	I paid {1} for a substitute to serve in my place.
+10049	Hide from the conscription officers
+10050	Dodge the draft
+10051	I was caught dodging the draft and marched off to the army.
+10052	I dodged the draft and kept out of sight.
+10053	I was promoted to {1} in the {2}.
+10054	Your commanding officer has promoted you to {1}. You now earn {2} a month.
+10055	I was given a battlefield commission as {1} {2} for my courage under fire.
+10056	For your courage under fire, you've been commissioned as {1} {2}. You now earn {3} a month.
+10057	This year
+10058	Enlistment ends:
+10059	Top of the ladder!
+10060	Already asked this year
+10061	Ask for a Promotion
+10062	Years in this role:
+10063	Next promotion:
+10064	I asked for a promotion and was turned down.
+10065	Your boss says you just started. Put in more time first.
+10066	Your boss says your performance isn't there yet. Keep working hard!
+10067	I quit my job as a {1}.
+10068	I was promoted to {1}!
+10069	show
+10070	achievement
+10071	Your hard work paid off! You are now a
+10072	Old Title:
+10073	New Title:
+10074	Wounded in action
+10075	Heroic service in a combat zone
+10076	Gallantry in action
+10077	Conspicuous gallantry above and beyond the call of duty
+10078	The state award for courage
+10079	Extraordinary heroism in combat
+10080	Sustained meritorious service or acts of courage
+10081	Outstanding achievement or meritorious service
+10082	Exemplary behavior and efficiency
+10083	Served six or more years and left the military honorably
+10084	I earned my Veteran badge after {1} years of service in the {2}.
+10085	You served {1} years in the {2} and left with honor.
+10086	You earned the Veteran badge. You can find it with your medals in Assets.
+10087	Clear the squares that don't have mines and flag the ones that do! The number in a square indicates how many mines that square is touching, including corners.
+10088	Mines flagged:
+10089	Long press on a square to flag it
+10090	Use a metal detector
+10091	Desert my post
+10092	cleared
+10093	boom
+10094	desert
+10095	a deadly rebel encampment in
+10096	a war-torn outpost inside
+10097	a dangerous militant sector of
+10098	terrorist-controlled wilderness in
+10099	an unstable war zone in
+10100	an unstable guerilla-controlled region in
+10101	the waters off
+10102	nasty ocean channels off
+10103	a contested shipping lane off
+10104	sounds/marching-boots.mp3
+10105	Your commanding officer has ordered you to deploy to {1} {2} to clear a minefield.
+10106	How will you react?
+10107	Sir, yes sir
+10108	I eagerly accepted a deployment to {1} {2}.
+10110	I refused to deploy to {1}.
+10111	You were court-martialed for refusing orders and dishonorably discharged from the {1}.
+10112	Your commanding officer wrote you up for refusing orders. Your performance took a big hit.
+10113	I deserted my post in {1}.
+10114	You deserted your post in {1} and were dishonorably discharged from the {2}!
+10115	desertion
+10116	You deserted your post in {1} and were dishonorably discharged from the {2}.
+10117	I stepped on a landmine in {1} and was blown to smithereens.
+10118	stepping on a landmine in {1}
+10119	a seared ear, split lips and a charred nostril
+10120	a fried eyelid and an incinerated cheek, and lost an arm
+10121	a seared kneecap and a mutilated chest
+10122	a severed fist and a shattered jaw
+10123	I stepped on a landmine in {1}. I suffered {2}.
+10124	You stepped on a landmine in {1} and barely survived!
+10125	valor
+10126	heroism
+10127	bravery
+10128	spunk
+10129	I served my country by successfully completing a deployment to {1}.
+10130	Fire Team Leader
+10131	sniper
+10132	Sniper Candidate (PIG)
+10133	Sniper Team Leader
+10134	Sniper Section Leader
+10135	Sapper Team Leader
+10136	Sapper Squad Leader
+10137	Radio Operator (RTO)
+10138	Commo Team Leader
+10139	Signal Section Chief
+10140	Signal Sergeant Major
+10141	tanker
+10142	Tank Platoon Sergeant
+10144	Provost Sergeant Major
+10145	medic
+10146	Senior Line Medic
+10147	Aid Station NCOIC
+10148	Medical Platoon Sergeant
+10149	Senior Medical NCO
+10150	Intel Section NCOIC
+10151	All-Source Fusion Chief
+10152	Intelligence Sergeant Major
+10153	Cyber Operator Trainee
+10154	Mission Element Lead
+10155	Cyber Protection Team NCOIC
+10156	You can request to retrain into a new MOS.
+10157	Your current MOS is {1} ({2}).
+10158	You have an opportunity to choose your MOS!
+10159	Request retraining
+10160	Choose my MOS
+10161	Pick your career type:
+10162	You are already {1} {2}.
+10163	My request to retrain as {1} {2} was denied.
+10164	Your commanding officer denied your request to change MOS.
+10165	Washed out
+10166	You washed out of {1}. You'll keep your current job for now.
+10167	You are now {1} {2}!
+10168	Special Forces Assessment & Selection
+10169	75th Ranger Regiment
+10170	Ranger Assessment & Selection Program
+10171	Delta Assessment & Selection
+10172	Land navigation
+10173	The Long Walk
+10174	Operator Training Course
+10175	Assessment & Selection
+10176	Individual Training Course
+10177	Rank: {1} or higher
+10178	{1}+ year{2} in service
+10179	you have {1}
+10180	fitness {1}%, need {2}%
+10181	Aptitude score
+10183	Come from {1}
+10184	you're in the {1}
+10185	you're regular military
+10186	Haven't tried out this year
+10187	you already tried this year
+10188	You don't meet all the requirements yet.
+10189	About {1}% of candidates make it through.{2}
+10190	Volunteer for selection
+10191	I volunteered for {1} to try out for the {2}.
+10192	I died during {1} in {2}.
+10193	drowning during {1} training
+10194	heat stroke during {1} selection
+10195	I got injured during {1} and was medically dropped from {2}.
+10196	Medical drop
+10197	A stress fracture in your shin
+10198	A torn ligament in your knee
+10199	Severe heat exhaustion
+10200	{1} ended your selection during {2}.
+10201	It's not your fault. You can try again next year.
+10202	Still in
+10203	I made it through {1} and joined the {2}.
+10204	Welcome to the team
+10205	I washed out of {1} selection during {2}.
+10206	You were dropped from {1}. You can try again next year.
+10207	I quit {1} selection during {2}.
+10208	Three rings of the bell, and it was over.
+10209	Your selection is over.
+10210	You chose to {1} during {2}. {3}
+10211	You can try again next year.
+10212	Your unit
+10213	You are already a member of the {1}.
+10214	Try out for the {1}! Only the toughest make it through {2}.
+10216	Not eligible
+10217	You must be at least {1} {2} to try out for the {3}.
+10218	You already tried out this year.
+10219	Your body is screaming at you to stop.
+10220	Half your class has already quit.
+10221	The instructors are trying to break you.
+10222	You haven't slept in days.
+10224	I made it through {1} and joined the {2}!
+10225	You made it through {1}! You are now a member of the {2}.
+10226	You couldn't make it through {1} and were dropped from {2}.
+10227	Ring the bell
+10228	rang the bell
+10229	You {1} during {2}.
+10230	Operation Enduring Freedom
+10231	Operation Iraqi Freedom
+10232	Operation Inherent Resolve
+10233	Operation Freedom's Sentinel
+10234	Operation Desert Storm
+10235	Operation Gothic Serpent
+10236	Operation Iron Vigil
+10237	Operation Desert Lantern
+10238	Operation Pacific Trident
+10239	An enemy commander is 900 meters out and the wind is gusting.
+10240	Take the shot
+10241	Wait for the wind to die
+10242	Call it in to command
+10243	Man down!
+10244	A soldier in your squad is down in the open and bleeding badly.
+10245	Sprint to him under fire
+10246	Wait for covering fire
+10247	Call for a medevac
+10248	Your convoy has stopped. There is a suspected IED buried in the road ahead.
+10249	Disarm it yourself
+10250	Blow it in place
+10251	Find another route
+10252	Armor ambush
+10253	Enemy anti-tank teams are dug in along a ridge.
+10254	Charge the ridge
+10255	Fire from cover
+10256	Pull back and call artillery
+10257	Danger close
+10258	Your platoon is pinned down. You can call in an airstrike, but it would be very close.
+10259	Call it in, danger close
+10260	Call in artillery further out
+10261	Relay a retreat order
+10262	You are guarding a compound full of detainees when a riot breaks out.
+10263	Restore order by force
+10264	Lock it down and wait
+10265	You intercepted chatter about an ambush on a friendly patrol.
+10266	Warn the patrol
+10267	Track the source
+10268	Report it up the chain
+10269	Network attack
+10270	The enemy is jamming your unit's communications.
+10271	Hack back
+10272	Reroute the network
+10273	Shut it all down
+10274	Close air support
+10275	Troops in contact are calling for air support under heavy anti-aircraft fire.
+10277	Drop from high altitude
+10278	Your patrol walks straight into an ambush in a narrow valley.
+10279	Return fire and push forward
+10280	Take cover and hold
+10281	Fall back
+10282	Mortar rounds start landing inside the wire at 0300. The bunker is 40 meters away.
+10283	Sprint for the bunker
+10284	You dove into the bunker as a round hit where you had been standing.
+10285	You tripped over a tent stake and ate dirt while shrapnel whistled overhead.
+10286	Drag the new guy with you
+10287	You hauled the frozen private into the bunker with you. He owes you his life.
+10288	You both got caught in the open and had to crawl the last 20 meters.
+10289	Stay flat in your cot
+10290	You stayed low and the barrage walked past your tent.
+10291	A round landed close enough to shred your tent and your nerves.
+10292	Sniper in the Minaret
+10293	A sniper has your squad pinned behind a low wall. Rounds keep chipping the stone above your head.
+10294	Throw smoke and rush him
+10295	You cleared the stairwell and the shooting stopped for good.
+10296	The smoke drifted the wrong way and you had to dive back behind the wall.
+10297	Call in a gun team
+10298	The machine gun suppressed the window long enough to call it in.
+10299	The gun team got pinned down too. It took hours to get out.
+10300	Wait for dark
+10301	You slipped away after sunset. Everyone made it.
+10302	Night came slow. The sniper kept everyone pinned until dawn.
+10303	Ambush at the Bridge
+10304	Your convoy is stopped on a narrow bridge when RPG fire hits the lead truck.
+10305	Push through the kill zone
+10306	Your driver floored it and the convoy punched through.
+10307	The burning truck blocked the road and the convoy had to fight its way out.
+10308	Your squad flanked the ambush and the enemy scattered.
+10309	The enemy had the high ground. You traded fire for an hour.
+10310	Reverse off the bridge
+10311	You backed out before the second volley hit.
+10312	The rear truck stalled and you were stuck in the open.
+10313	A sandstorm rolls in during a foot patrol. Visibility drops to five feet and the radio is crackling.
+10314	Keep moving to the objective
+10315	You navigated by compass and hit the objective on time.
+10316	You got turned around and walked straight toward enemy territory.
+10317	Circle up and wait it out
+10318	The squad huddled together until it passed. Nobody got lost.
+10319	Two soldiers wandered off and the whole squad had to search for them.
+10320	Head back to the vehicles
+10321	You found the trucks by the sound of their idling engines.
+10322	The vehicles had moved. You spent the night in a ditch.
+10323	Armed men block the road into a village. They say they are local militia, not the enemy.
+10324	Talk to their leader
+10325	You shared tea and learned where the enemy was hiding.
+10326	The talks broke down and someone fired a warning shot.
+10327	Demand they disarm
+10328	They lowered their weapons and let your patrol through.
+10329	They refused, and a tense standoff lasted for hours.
+10330	Go around the village
+10331	You avoided the confrontation entirely.
+10332	The detour led you straight into a minefield marker. You backed out slowly.
+10333	A helicopter went down two kilometers away. The crew is alive and enemy fighters are closing in.
+10334	Lead the rescue team
+10335	You reached the crash site first and held it until the extraction bird landed.
+10336	Enemy fire forced your team into a building halfway there.
+10337	Set up a blocking position
+10338	Your squad held the road and stopped the enemy from reaching the crash.
+10339	The enemy found another route. The fight got close.
+10340	Guide the drone overhead
+10341	You talked the drone onto the enemy fighters before they got close.
+10342	The drone lost its link at the worst possible moment.
+10343	IED on the Main Road
+10344	Your lead vehicle spots a suspicious mound of dirt and a wire running into the brush.
+10345	Follow the wire
+10346	You found the trigger man and he surrendered without a fight.
+10347	The wire led to a booby trap. You froze just in time.
+10348	Call EOD and wait
+10349	EOD blew it in place. The road was clear by noon.
+10350	The wait took six hours in the sun and the convoy took sniper fire.
+10351	Detour through the field
+10352	The detour was clean. You reached the outpost on time.
+10353	One truck bogged down in the mud and you had to dig it out under fire.
+10354	Intel says a high-value target is sleeping in a compound tonight. Your team is stacked on the door.
+10355	Be the first through
+10356	You cleared the first room in seconds. The target was captured alive.
+10357	The door was barricaded and you lost the element of surprise.
+10358	Cover the windows
+10359	Two fighters tried to flee out the back. You stopped them.
+10360	Someone slipped out a side window you could not see.
+10361	Hold the perimeter
+10362	The perimeter stayed quiet. The raid went off cleanly.
+10363	A truck full of fighters showed up and your perimeter got lit up.
+10364	A nearby friendly unit mistakes your patrol for the enemy and opens fire.
+10365	Pop a recognition flare
+10366	The firing stopped instantly. A very embarrassed lieutenant apologized.
+10367	The flare was a dud. You had to crawl to cover.
+10368	Scream into the radio
+10369	Your call got through and the guns went quiet.
+10370	Everyone was on a different frequency. It took far too long to stop.
+10371	Run toward them waving
+10372	They recognized your uniform. You may have saved several lives.
+10373	A round snapped past your ear before they figured it out.
+10374	Dozens of fighters are breaching the walls of your remote outpost.
+10375	Man the heavy machine gun
+10376	You held the breach alone until reinforcements arrived.
+10377	The gun jammed at the worst moment and you fell back to the inner wall.
+10378	Call danger-close artillery
+10379	The rounds landed right on the wall. The attack collapsed.
+10380	The artillery took too long. The fight went hand to hand.
+10381	Fall back to the keep
+10382	You consolidated in the strongest building and held.
+10383	The fall back turned into chaos and two soldiers got separated.
+10384	Water Running Out
+10385	Resupply is three days late. Your platoon has one day of water left in 115-degree heat.
+10386	Raid the enemy well
+10387	You took the well and filled every canteen.
+10388	The well was guarded better than you thought.
+10389	Ration it hard
+10390	Everyone stayed hydrated enough until the helicopter showed up.
+10391	Two soldiers collapsed from heat stroke before resupply came.
+10392	Trade with the locals
+10393	A farmer traded you water for cigarettes and MREs.
+10394	The water was contaminated. Half the platoon got sick.
+10395	Hostages in the School
+10396	Insurgents have taken a school full of children. Command wants an assault plan within the hour.
+10397	Volunteer for the breach
+10398	You breached through the roof. Every child got out alive.
+10399	The breach went loud early. The rescue took far longer than planned.
+10400	Snipe from the water tower
+10401	You took out the guard at the door at the exact right moment.
+10402	The angle was wrong. You could not get a clean shot.
+10403	Help negotiate
+10404	The negotiator got half the kids released before the assault.
+10405	The insurgents stopped answering the phone.
+10406	The chemical alarm screams. Someone shouts GAS GAS GAS. Your mask is in your pack.
+10407	Mask up in 9 seconds
+10408	You sealed your mask in record time. It was a false alarm.
+10409	Your mask fogged and you panicked for a few long seconds.
+10410	Mask a buddy first
+10411	You got your buddy masked before yourself. Nobody was hurt.
+10412	You breathed in a whiff of something awful before sealing up.
+10413	Hold your breath and run
+10414	You got upwind of the cloud. Smart thinking.
+10415	You ran straight into the cloud.
+10416	Ammo Depot Fire
+10417	A fire breaks out in the ammunition depot. Rounds are cooking off like popcorn.
+10418	Fight the fire
+10419	You got the fire under control before the main stockpile went up.
+10420	A crate exploded nearby and knocked you off your feet.
+10421	Evacuate the area
+10422	You cleared everyone out before the big blast.
+10423	The evacuation was slow and the blast shattered every window on base.
+10424	Move the fuel truck
+10425	You drove the fuel truck away from the fire just in time.
+10426	The truck stalled halfway. You ran for your life.
+10427	Another squad went silent six hours ago. Their last position was near a cave network.
+10428	Search the caves
+10429	You found them trapped by a rockfall and dug them out.
+10430	The caves were a maze. You barely found your way back out.
+10431	Search from the air
+10432	The helicopter spotted their signal mirror.
+10433	Clouds rolled in and the search was called off for the night.
+10434	Interrogate a captured fighter
+10435	He told you where they were. Everyone got home.
+10436	He lied. You wasted a day in the wrong valley.
+10437	A car is speeding toward the checkpoint and ignoring every warning signal.
+10438	Shoot the engine block
+10439	The car rolled to a stop 50 meters out. It was packed with explosives.
+10440	Your shots missed the engine. Everyone dove for cover.
+10441	Lower the barrier spikes
+10442	The spikes shredded its tires. The driver bailed out.
+10443	The spikes jammed half-raised.
+10444	Clear the civilians
+10445	You pushed the crowd back seconds before the car detonated.
+10446	The blast threw you into a wall.
+10447	Three detainees overpowered a guard and are running for the perimeter fence.
+10448	Tackle the leader
+10449	You brought him down before he reached the fence.
+10450	He was bigger than you thought. You took an elbow to the face.
+10451	Fire warning shots
+10452	They froze and put their hands up.
+10453	They kept running. One escaped into the night.
+10454	Sound the alarm
+10455	The quick reaction force rounded them up in minutes.
+10456	The alarm was broken. Chaos followed.
+10457	A flash flood is roaring down the dry riverbed where your vehicles are parked.
+10458	Drive them out
+10459	You got every truck up the bank as the water hit.
+10460	One truck got swept downstream with all your gear.
+10461	Climb to high ground
+10462	Everyone made it up the cliff safely.
+10463	The climb was brutal and someone broke an ankle.
+10464	Save the radio gear
+10465	You grabbed the radios just before the water arrived.
+10466	You got knocked down by the current and lost your rifle.
+10467	Drone Strike Request
+10468	You spot fighters loading weapons into a truck, but there is a house full of people right next to it.
+10469	Call the strike anyway
+10470	The precision strike hit only the truck. The house was spared.
+10471	The strike damaged the house. There will be an investigation.
+10472	Wait for the truck to move
+10473	The truck drove into the open and the strike was clean.
+10474	The truck disappeared into the city.
+10475	Lead a ground team instead
+10476	You seized the weapons without firing a shot at the house.
+10477	The fighters spotted you coming and opened fire.
+10478	An enemy fighter lies wounded in the road, begging for help. His friends could be watching.
+10479	Treat him
+10480	You saved his life. He later gave up his whole cell.
+10481	His friends opened fire while you were treating him.
+10482	Call the medic up
+10483	The medic stabilized him and he was taken prisoner.
+10484	It took too long. He did not make it.
+10485	Leave him and push on
+10486	You kept the patrol moving. Nobody else was hurt.
+10487	It turned out to be bait. The ambush came anyway.
+10488	Your squad is on a rooftop when fighters start shooting from three directions at once.
+10489	Throw grenades over the edge
+10490	The grenades silenced two positions.
+10491	One grenade bounced back. Everyone hit the deck.
+10492	Jump to the next roof
+10493	You leapt the gap and flanked the third position.
+10494	You came up short and hung off the ledge.
+10495	Stay low and call air
+10496	Helicopters arrived and ended the fight.
+10497	Air support was tied up somewhere else.
+10498	Half your platoon got food poisoning from local goat meat the night before a big operation.
+10499	Go out anyway
+10500	You toughed it out and completed the mission. Legendary.
+10501	You threw up on your own boots during the briefing.
+10502	Ask to postpone
+10503	Command agreed. Everyone recovered by morning.
+10504	Command said no. It was a miserable night.
+10505	Blame the cook
+10506	The cook got reassigned. The food got better.
+10507	It was actually your fault. You bought the goat.
+10508	An enemy tank column is rolling toward your position. You have two anti-tank missiles left.
+10509	Fire on the lead tank
+10510	You knocked out the lead tank and the column stalled.
+10511	The missile hit a decoy. The column kept coming.
+10512	Call the jets
+10513	Jets arrived and turned the column into scrap.
+10514	The jets were twenty minutes out.
+10515	Blow the bridge
+10516	The bridge collapsed and the tanks were stuck on the far side.
+10517	The charge only cracked the bridge.
+10518	In the middle of a firefight lull, a helicopter drops off mail. There is a letter from home.
+10519	Read it right now
+10520	It was good news from home. It got you through the rest of the tour.
+10521	Bad news. You had to keep fighting with a heavy heart.
+10522	You read it that night. Perfect timing.
+10523	It got soaked in the rain before you could read it.
+10524	Read it to the squad
+10525	Your mom's cookies recipe made everyone laugh.
+10526	It was a breakup letter. Everyone heard it.
+10527	Last Day of the Tour
+10528	It is your last day before going home. A final patrol is scheduled through the worst part of {country}.
+10529	Lead the patrol
+10530	You led one last patrol and brought every soldier home.
+10531	It turned into a firefight on your last day. Of course it did.
+10532	Volunteer for base duty
+10533	You spent the day packing. Nobody blamed you.
+10534	The base got rocketed anyway.
+10535	Ask the new guys to go
+10536	The new guys handled it fine.
+10537	They got lost. You had to go get them.
+10538	Very low
+10539	You've already served a combat tour this year.
+10540	No active wars
+10541	{1} isn't fighting any wars or sending troops anywhere in {2}.
+10542	Check back in another year. Things can change fast.
+10543	Active Conflicts · {1}
+10544	These are the conflicts {1} is involved in right now. Which one will you volunteer for?
+10545	This conflict started this year.
+10546	This has been going on for {1} year{2}.
+10547	Your role
+10548	ongoing
+10549	Deploy as a peacekeeper
+10550	Volunteer to fight
+10551	generic
+10552	I volunteered for a combat tour in {1} for {2}.
+10553	Your actions turned the fight.
+10554	The enemy retreated.
+10555	You completed the objective.
+10556	The enemy held their ground.
+10557	Your unit had to fall back.
+10558	The mission failed.
+10560	I was killed in action in {1}.
+10561	being killed in action in {1}
+10562	I was wounded in action in {1}.
+10563	You were wounded in the fighting.
+10566	wounds received in action
+10567	valor in combat
+10568	I came home from {1}{2}.
+10569	For wounds received in action in {1}
+10570	conspicuous gallantry above and beyond the call of duty
+10571	For {1} during {2}
+10572	{1}, you have been awarded the {2}.
+10573	Your tour in {1} for {2} is over. Welcome home!
+10574	senior
+10575	officer
+10576	junior
+10578	Air Force Achievement Medal
+10580	your commanding officer
+10581	You were awarded the Purple Heart.
+10582	You were awarded the {1}.
+10583	You received an Article 15 and forfeited half a month's pay.
+10584	honorable
+10585	I was dropped from the {1}.
+10586	You are no longer part of the {1}. You've been sent back to the regular {2}.
+10587	dishonorable
+10588	You received {1} {2} discharge from the {3}.
+10589	I was demoted to {1}.
+10590	You were reduced in rank to {1}.
+10591	You made it through.
+10592	It went badly.
+10593	You served your country in the {1} and left with honor in {2}. Thank you for your service.
+10594	Wear it with pride
+10595	You earned the nation's highest military honor in {1}{2}. It is a federal crime to sell or buy a Medal of Honor.
+10596	{1} (illegal to sell)
+10597	Sell it on the black market
+10598	I tried to sell my Medal of Honor on the black market.
+10599	selling a Medal of Honor
+10600	I sold my Medal of Honor to a shady collector for {1}.

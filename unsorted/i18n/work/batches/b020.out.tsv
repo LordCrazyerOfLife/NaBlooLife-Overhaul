@@ -1,0 +1,800 @@
+15455	una botella rota	uma garrafa quebrada
+15456	un atizador	um atiçador
+15457	sus manos desnudas	as mãos nuas
+15458	una llave de cruz	uma chave de roda
+15459	heridas por el ataque de {1}, {2}, con {3}	ferimentos do ataque de {1}, {2}, com {3}
+15460	{1} me atacó con {2}.	{1} me atacou com {2}.
+15461	¡{1} me atacó con {2}! Quedé gravemente lastimado.	{1} me atacou com {2}! Fiquei gravemente ferido.
+15462	¡{1}, {2}, sobrevivió a tu ataque y viene por ti con {3}!	{1}, {2}, sobreviveu ao seu ataque e está vindo atrás de você com {3}!
+15463	Intenta huir	Tente fugir
+15464	Suplica piedad	Implore misericórdia
+15465	Sientes que no deberías estar haciendo esto.	Você sente que não deveria estar fazendo isso.
+15466	Comete el asesinato	Cometa o assassinato
+15467	No le digas a nadie	Não conte a ninguém
+15468	Intenté asesinar a {1}, {2}, pero {3} sobrevivió.	Tentei matar {1}, {2}, mas {3} sobreviveu.
+15469	¡Tú {1}, pero {2} sobrevivió!	Você {1}, mas {2} sobreviveu!
+15470	Intenté asesinar a {1}, {2}.	Tentei matar {1}, {2}.
+15471	Eastern State Penitentiary	Eastern State Penitentiary
+15472	Sing Sing Prison	Sing Sing Prison
+15473	Auburn State Prison	Auburn State Prison
+15474	San Quentin State Prison	San Quentin State Prison
+15475	Yuma Territorial Prison	Yuma Territorial Prison
+15476	Huntsville State Penitentiary	Huntsville State Penitentiary
+15477	Newgate State Prison	Newgate State Prison
+15478	Wright & Associates	Wright & Associates
+15479	Phelps & Associates	Phelps & Associates
+15480	Lukes & Williamson	Lukes & Williamson
+15481	Ito & Matsuda	Ito & Matsuda
+15482	Castillo Law Group	Castillo Law Group
+15483	Hammond & Pierce	Hammond & Pierce
+15484	ladrillo	tijolo
+15485	¡Me arrestaron por {1}!	Fui preso por {1}!
+15486	agente municipal	guarda municipal
+15487	{1} policías{2}y el jefe de policía están todos en la escena.	{1} policiais{2}e o chefe de polícia estão todos na cena.
+15488	{1} policías{2} están todos en la escena.	{1} policiais{2} estão todos na cena.
+15489	El {1} te apunta con un revólver y te dice que levantes las manos.	O {1} aponta um revólver pra você e manda levantar as mãos.
+15490	El {1} te pone un par de grilletes de hierro en las muñecas.	O {1} prende um par de algemas de ferro nos seus pulsos.
+15491	cárcel	cadeia
+15492	calabozo	cela
+15493	Dos agentes te arrastran hacia el {1}.	Dois agentes te arrastam em direção ao {1}.
+15494	Una multitud se reúne para ver cómo el {1} te lleva.	Uma multidão se reúne pra ver o {1} te levar embora.
+15495	Un oficial te dice que pongas las manos detrás de la espalda.	Um policial manda você colocar as mãos atrás das costas.
+15496	Un oficial te pone de golpe unas esposas en las muñecas.	Um policial prende de uma vez as algemas nos seus pulsos.
+15497	Dos oficiales te aplastan contra la patrulla.	Dois policiais te prensam contra a viatura.
+15498	¡Te está arrestando el {1}!	Você está sendo preso pelo {1}!
+15499	¿Cómo te vas a portar?	Como você vai se comportar?
+15500	¡Te está arrestando la policía!	Você está sendo preso pela polícia!
+15501	Coopera con ellos	Coopere com eles
+15502	Cooperé con la policía durante mi arresto.	Cooperei com a polícia durante a minha prisão.
+15503	Coquetea con ellos	Flerte com eles
+15504	¡Coqueteé con el oficial que me arrestaba y me dejó ir!	Flertei com o policial que me prendia e ele me soltou!
+15505	Smooth criminal	Smooth criminal
+15506	¡Coqueteaste con el oficial que te arrestaba y decidió dejarte ir!	Você flertou com o policial que ia te prender e ele decidiu te soltar!
+15507	Coqueteé con la policía durante mi arresto. No funcionó.	Flertei com a polícia durante a prisão. Não funcionou.
+15508	No le hizo gracia	Não achou graça
+15509	A los oficiales no les hizo gracia tu coqueteo.	Os policiais não acharam graça no seu flerte.
+15510	¡Corrí de la policía y me escapé!	Corri da polícia e escapei!
+15511	¡Escapaste!	Você escapou!
+15512	¡Dejaste atrás a la policía y escapaste!	Você deixou a polícia para trás e escapou!
+15513	Intenté huir de la policía, pero me derribaron.	Tentei fugir da polícia, mas me derrubaram.
+15514	Intentaste huir, pero los oficiales te derribaron al suelo. Resistirse al arresto no se ve bien en la corte.	Você tentou fugir, mas os policiais te derrubaram no chão. Resistir à prisão não fica bem no tribunal.
+15515	Intenta sobornarlos	Tente subornar eles
+15516	Ignorar con poder real	Ignorar com poder real
+15517	Usé mi poder real para evitar que me arrestaran por {1}.	Usei meu poder real pra não ser preso por {1}.
+15518	La historia de mi tarjeta real de salir de la cárcel se filtró a la prensa.	A história do meu cartão real de sair da prisão vazou pra imprensa.
+15519	Privilegio real	Privilégio real
+15520	Su alteza	Vossa alteza
+15521	La noticia se filtró a la prensa y la gente no quedó impresionada.	A notícia vazou pra imprensa e as pessoas não ficaram impressionadas.
+15522	"{1}," dice el oficial, dando un paso atrás. La policía reconoció tu {2} y te dejó ir.{3}	"{1}," diz o policial, dando um passo pra trás. A polícia reconheceu seu {2} e te deixou ir.{3}
+15523	¿Cuánto les vas a ofrecer a la policía como soborno para que te dejen ir?	Quanto você vai oferecer à polícia de suborno pra te deixar ir?
+15524	Ofrece el soborno	Ofereça o suborno
+15525	Intenté sobornar a la policía con dinero que no tenía.	Tentei subornar a polícia com dinheiro que eu não tinha.
+15526	No tienes ese dinero. Los oficiales se rieron de ti.	Você não tem esse dinheiro. Os policiais riram de você.
+15527	Soborné a la policía {1} para que me dejaran ir.	Subornei a polícia {1} pra me deixarem ir.
+15528	El dinero habla	Dinheiro fala
+15529	¡Sobornaste a la policía {1}! ¡Te dejaron ir!	Você subornou a polícia {1}! Eles te deixaram ir!
+15530	Intenté sobornar a la policía {1}, pero me arrestaron igual.	Tentei subornar a polícia {1}, mas me prenderam mesmo assim.
+15531	Ahora se hacen los honestos	Agora eles querem ser os certinhos
+15532	¡Intentaste sobornar a la policía {1}!	Você tentou subornar a polícia {1}!
+15533	¡Te arrestaron igual!	Mesmo assim te prenderam!
+15534	Squire {1}, abogado rural	Squire {1}, advogado do interior
+15535	{1} & {2}, abogados litigantes	{1} & {2}, advogados de tribunal
+15536	¡Me acusaron de {1}!	Fui acusado de {1}!
+15537	La policía me identificó como un prófugo de {1}.	A polícia me identificou como foragido de {1}.
+15538	podría	poderia
+15539	enfrentar un pelotón de fusilamiento	enfrentar um pelotão de fuzilamento
+15540	morir en la horca por eso	ser enforcado por isso
+15541	un reformatorio	um reformatório
+15542	pueden enfrentar hasta {1} de trabajos forzados en {2}	podem pegar até {1} de trabalho forçado em {2}
+15543	enfrentan la pena de muerte	enfrentam a pena de morte
+15544	enfrentan hasta {1} en {2}	enfrentam até {1} em {2}
+15545	Todavía tienes una sentencia de muerte	Você ainda tem uma sentença de morte
+15546	Todavía debes {1}	Você ainda deve {1}
+15547	La policía también te identificó como prófugo. {1} por {2}, más tiempo extra por escapar.	A polícia também te identificou como foragido. {1} por {2}, mais tempo extra por ter fugido.
+15548	¿Quién hablará por ti ante el juez y un jurado de doce?	Quem vai falar por você diante do juiz e do júri de doze pessoas?
+15549	¿Qué bufete local vas a contratar para defenderte en la corte?	Qual escritório de advocacia local você vai contratar pra te defender no tribunal?
+15550	¡Te acusaron de {1} y {2}!{3}	Você foi acusado de {1} e {2}!{3}
+15551	Estás sin plata.	Você está sem grana.
+15552	Contraté a {1} para que me representara en la corte.	Contratei {1} pra me representar no tribunal.
+15553	Decidí defenderme solo en la corte.	Decidi me defender sozinho no tribunal.
+15554	La corte me asignó un abogado.	O tribunal designou um advogado pra me defender.
+15555	Contraté a un defensor público para que me representara en la corte.	Contratei um defensor público pra me representar no tribunal.
+15556	El juez te pidió que te declares sobre el cargo de {1}. Si te declaras culpable, podrías recibir una condena más corta que si te condenan en un juicio.	O juiz pediu que você se manifeste sobre a acusação de {1}. Se você se declarar culpado, pode receber uma pena menor do que se for condenado em julgamento.
+15557	¿Cómo te vas a declarar?	Como você vai se declarar?
+15558	culpable	culpado
+15559	No impugno	Não contesto
+15560	Me declaro culpable.	Me declaro culpado.
+15561	No impugno la acusación.	Não contesto a acusação.
+15562	Me declaro inocente.	Me declaro inocente.
+15563	¡El juez desestimó mi caso de {1}!	O juiz arquivou meu caso de {1}!
+15564	¡Me declararon inocente de {1}!	Fui considerado inocente de {1}!
+15565	¡El juez desestimó tu caso de {1} y retiró todos los cargos!	O juiz arquivou seu caso de {1} e retirou todas as acusações!
+15566	Eres libre de irte.	Você está livre pra ir.
+15567	¡El jurado te declaró inocente de {1}!	O júri considerou você inocente de {1}!
+15568	Casa de Refugio {1}	Casa de Refúgio {1}
+15569	la casa de trabajo del condado	a casa de trabalho do condado
+15570	el {2} del condado {1}	o {2} do condado {1}
+15571	Centro de Detención Juvenil {1}	Centro de Detenção Juvenil {1}
+15572	Prisión de seguridad {1} {2}	Prisão de segurança {1} {2}
+15573	{1} y fugarse de la cárcel	{1} e fugir da prisão
+15574	tres	três
+15575	cuatro	quatro
+15576	cinco	cinco
+15577	ahorcado hasta morir	enforcado até a morte
+15578	muerte por pelotón de fusilamiento	morte por pelotão de fuzilamento
+15579	muerte por {1}	morte por {1}
+15580	{1} año{2} en {3}	{1} ano{2} em {3}
+15581	{1} año{2} en un centro de detención juvenil	{1} ano{2} em um centro de detenção juvenil
+15582	{1} de trabajos forzados en {2}	{1} de trabalho forçado em {2}
+15583	{1} en prisión	{1} na prisão
+15584	Como prófugo, me mandaron de vuelta a la cárcel a cumplir {1}.	Como foragido, fui mandado de volta pra prisão cumprir {1}.
+15585	¡Me declararon culpable de {1} y me condenaron a {2}!	Fui condenado por {1} e sentenciado a {2}!
+15586	Tu sentencia de muerte por {1} sigue en pie.	Sua sentença de morte por {1} continua de pé.
+15587	Eso incluye el {1} que todavía debías por {2} y {3} por escapar de la cárcel.	Isso inclui o {1} que você ainda devia por {2} e {3} por fugir da prisão.
+15588	El juez desestimó tu caso de {1}	O juiz arquivou seu caso de {1}
+15589	El jurado te declaró inocente de {1}	O júri considerou você inocente de {1}
+15590	{1}, pero sigues siendo un prófugo de {2}.	{1}, mas você ainda é foragido de {2}.
+15591	Te mandaron de vuelta a cumplir {1}.{2}	Você foi mandado de volta pra cumprir {1}.{2}
+15592	¡Te declararon culpable de {1} y te condenaron a {2}!{3}	Você foi condenado por {1} e sentenciado a {2}!{3}
+15593	De vuelta a la cárcel	De volta à prisão
+15594	Te obligaron a dejar {1}.	Você foi obrigado a largar {1}.
+15595	trampilla	alçapão
+15596	Una multitud llena el patio de {1} para verte colgar. Los vendedores de pastel gritan por encima del ruido, los niños están sentados en los hombros de sus padres y el verdugo revisa el nudo de la soga.	Uma multidão lotou o pátio de {1} pra ver você ser enforcado. Vendedores de torta gritam por cima do barulho, crianças estão sentadas nos ombros dos pais e o carrasco checa o nó da corda.
+15597	Subes los trece escalones hasta la trampilla.	Você sobe os treze degraus até o alçapão.
+15598	Di tus últimas palabras	Diga suas últimas palavras
+15599	Dije mis últimas palabras en la horca de {1} mientras la multitud se burlaba.	Disse minhas últimas palavras na forca de {1} enquanto a multidão vaiava.
+15600	ahorcamiento	enforcamento
+15601	Reza pidiendo perdón	Reze pedindo perdão
+15602	Recé pidiendo perdón en la horca de {1}.	Rezei pedindo perdão na forca de {1}.
+15603	Maldice a la multitud	Amaldiçoe a multidão
+15604	Maldije a la multitud desde la horca de {1}.	Amaldiçoei a multidão da forca de {1}.
+15605	Quédate en silencio	Fique em silêncio
+15606	Me quedé en silencio en la horca de {1}.	Fiquei em silêncio na forca de {1}.
+15607	Ejecución al amanecer	Execução ao amanhecer
+15608	Al amanecer te llevan al patio de {1} y te atan a un poste de madera. Seis fusileros se paran en línea. Uno de ellos tiene una bala de salva, así que ninguno sabrá nunca quién disparó el tiro fatal.	Ao amanhecer você é levado ao pátio de {1} e amarrado a um poste de madeira. Seis atiradores ficam enfileirados. Um deles tem uma bala de festim, então nenhum vai saber nunca quem deu o tiro fatal.
+15609	"¡Listos! ¡Apunten!"	"Preparar! Mirar!"
+15610	Rechaza la venda	Recuse a venda
+15611	Rechacé la venda y enfrenté el pelotón de fusilamiento en {1}.	Recusei a venda e encarei o pelotão de fuzilamento em {1}.
+15612	un pelotón de fusilamiento	um pelotão de fuzilamento
+15613	Acepta la venda	Aceite a venda
+15614	Me vendaron y me fusiló un pelotón en {1}.	Me vendaram e um pelotão de fuzilamento me matou em {1}.
+15615	Grita tus últimas palabras	Grite suas últimas palavras
+15616	Grité mis últimas palabras al pelotón de fusilamiento en {1}.	Gritei minhas últimas palavras pro pelotão de fuzilamento em {1}.
+15617	Mi condena por asesinato salió en todos los titulares y me volví infame.	Minha condenação por assassinato saiu em todas as manchetes e eu virei infame.
+15618	Mi última condena por asesinato me hizo aún más infame.	Minha última condenação por assassinato me deixou ainda mais infame.
+15619	Tu condena por asesinato salió en titulares en todo el país.	Sua condenação por assassinato saiu em manchetes no país inteiro.
+15620	Ahora todo el mundo sabe tu nombre.	Agora todo mundo sabe o seu nome.
+15621	Tu última condena volvió a poner tu nombre en todos los titulares.	Sua última condenação colocou seu nome de volta em todas as manchetes.
+15622	Perdí mi trabajo como {1} {2}.	Perdi meu emprego como {1} {2}.
+15623	Perdí mi trabajo de medio tiempo como {1} {2}.	Perdi meu emprego de meio período como {1} {2}.
+15624	centro	unidade
+15625	Me mandaron a {1}, de seguridad {2}: {3}.	Me mandaram pra {1}, de segurança {2}: {3}.
+15626	freelife/sounds/jail-bars.wav	freelife/sounds/jail-bars.wav
+15627	encarcelado	preso
+15628	Volví a la escuela en {1}.	Voltei pra escola em {1}.
+15629	Vuelves a la escuela en {1}.	Você voltou pra escola em {1}.
+15630	Mantenimiento de sala de calderas	Manutenção da casa de caldeiras
+15631	Fabricante de señales de carretera	Fabricante de placas de rodovia
+15632	Fabricante de placas de matrícula	Fabricante de placas de carro
+15633	Zapatero militar	Sapateiro militar
+15634	Sastre militar	Costureiro militar
+15635	Una pandilla de élite	Uma gangue de elite
+15636	Tienes que ser muy respetado para unirte a esta pandilla.	Você precisa ser muito respeitado pra entrar nessa gangue.
+15638	Tienes que tener un historial comprobado de violencia para unirte a esta pandilla.	Você precisa ter um histórico comprovado de violência pra entrar nessa gangue.
+15639	Una pandilla temida	Uma gangue temida
+15640	Tienes que ser respetado y temido para unirte a esta pandilla.	Você precisa ser respeitado e temido pra entrar nessa gangue.
+15641	Cash Money Wreckers	Cash Money Wreckers
+15642	Una pandilla adinerada	Uma gangue rica
+15643	Tienes que ser rico para unirte a esta pandilla.	Você precisa ser rico pra entrar nessa gangue.
+15644	Blue Ball Bulls	Blue Ball Bulls
+15645	Una pandilla despiadada	Uma gangue cruel
+15647	Una pandilla de extranjeros	Uma gangue de estrangeiros
+15648	Tienes que ser de otro país para unirte a esta pandilla.	Você precisa ser de outro país pra entrar nessa gangue.
+15649	Una pandilla inteligente	Uma gangue inteligente
+15650	Tienes que ser inteligente para unirte a esta pandilla.	Você precisa ser inteligente pra entrar nessa gangue.
+15651	Una pandilla de guapos	Uma gangue de gatos
+15652	Tienes que ser guapo para unirte a esta pandilla.	Você precisa ser bonito pra entrar nessa gangue.
+15653	Una pandilla de adultos mayores	Uma gangue de idosos
+15654	Tienes que ser adulto mayor para unirte a esta pandilla.	Você precisa ser idoso pra entrar nessa gangue.
+15655	Una pandilla nada temida	Uma gangue nada temida
+15656	Cualquiera puede unirse a esta pandilla. Nadie quiere.	Qualquer um pode entrar nessa gangue. Ninguém quer.
+15657	Rayar un carro	Riscar um carro
+15658	Allanamiento de morada	Invasão de domicílio
+15659	Lanzar fuegos artificiales	Soltar fogos de artifício
+15660	Lanzarle huevos a un patrullero	Jogar ovos numa viatura
+15661	robo de vehículo	roubo de veículo
+15662	secuestro	sequestro
+15663	condena	sentença
+15664	Tarjeta para salir de la cárcel gratis	Cartão pra sair da prisão grátis
+15665	¡Sal de la cárcel cuando quieras!	Saia da prisão quando quiser!
+15666	Apela tu condena	Recorra da sua sentença
+15667	soborno	suborno
+15668	Soborna a los guardias	Suborne os guardas
+15669	conyugal	conjugal
+15670	Organiza una visita conyugal	Marque uma visita íntima
+15671	Desahógate	Desabafe
+15672	fuga	fuga
+15673	Intenta escapar	Tente fugir
+15674	pandillas	gangues
+15675	Miembro de {1}	Membro de {1}
+15676	Únete a una pandilla	Entre numa gangue
+15677	enfermería	enfermaria
+15678	Busca atención médica	Procure atendimento médico
+15679	Envía una carta a alguien	Mande uma carta pra alguém
+15680	mente	mente
+15681	Pasa el tiempo de forma productiva	Passe o tempo de forma produtiva
+15682	trabajos	trabalhos
+15683	Consigue un trabajo en prisión	Consiga um trabalho na prisão
+15684	patio	pátio
+15685	Inicia un motín	Comece um motim
+15686	¿Seguro que quieres rendirte con esta vida?	Tem certeza de que quer desistir dessa vida?
+15687	Salir de la cárcel gratis	Sair da prisão de graça
+15688	¿Usar tu tarjeta para salir de la cárcel gratis y salir ya mismo?	Usar seu cartão pra sair da prisão grátis agora mesmo?
+15689	¡Usé mi tarjeta para salir de la cárcel gratis y salí de prisión!	Usei meu cartão de sair da prisão grátis e saí da prisão!
+15690	Ya apelaste tu condena este año.	Você já recorreu da sua sentença este ano.
+15691	¿Qué bufete local vas a contratar para apelar tu condena?	Qual escritório de advocacia local você vai contratar pra recorrer da sua sentença?
+15692	Condena conmutada	Pena comutada
+15693	¡{1} logró que te conmutaran la pena de muerte a {2} en prisión!	{1} conseguiu comutar sua pena de morte para {2} na prisão!
+15694	Mi pena de muerte fue conmutada en apelación.	Minha pena de morte foi comutada em recurso.
+15695	Departamento de Policía de {1}	Departamento de Polícia de {1}
+15696	¡Contraté a {1} para apelar mi condena y me anularon la condena!	Contratei {1} pra recorrer da minha sentença e a condenação foi anulada!
+15697	Apelación concedida	Recurso aceito
+15698	{1} apeló tu condena, pero el juez la negó.	{1} recorreu da sua sentença, mas o juiz negou.
+15699	Contraté a {1} para apelar mi condena. Fue denegada.	Contratei {1} pra recorrer da minha sentença. Foi negado.
+15700	Los guardias del pabellón de la muerte se rieron de tu soborno.	Os guardas do corredor da morte riram do seu suborno.
+15701	Intenté sobornar a un guardia del pabellón de la muerte. Se rió de mí.	Tentei subornar um guarda do corredor da morte. Ele riu de mim.
+15702	¿Cuánto les vas a ofrecer a los guardias como soborno para que te dejen ir?	Quanto você vai oferecer aos guardas de suborno pra te deixarem ir?
+15703	No tienes esa plata. Los guardias se rieron de ti.	Você não tem essa grana. Os guardas riram de você.
+15704	Intenté sobornar a un guardia de prisión con dinero que no tenía.	Tentei subornar um guarda da prisão com dinheiro que eu não tinha.
+15705	¡Soborné a un guardia con {1} y salí de prisión!	Subornei um guarda com {1} e saí da prisão!
+15706	¡Intentaste sobornar a los guardias {1}!	Você tentou subornar os guardas {1}!
+15707	¡Te reportaron con el director!	Eles denunciaram você pro diretor!
+15708	Intenté sobornar a un guardia de prisión con {1}, pero me reportaron.	Tentei subornar um guarda da prisão com {1}, mas fui denunciado.
+15709	Tuviste una visita conyugal con {1}. Te sientes mucho mejor.	Você teve uma visita íntima com {1}. Você se sente bem melhor.
+15710	Tuve una visita conyugal con {1}.	Tive uma visita íntima com {1}.
+15711	Ya tuviste una visita conyugal este año.	Você já teve uma visita íntima este ano.
+15712	Te quedaste dormido llorando en tu celda.	Você chorou até dormir na sua cela.
+15713	Lloraste sobre tu almohada. Algunos reclusos te escucharon.	Você chorou no travesseiro. Alguns presos ouviram.
+15714	Lo sacaste todo. Te sientes un poco mejor.	Você desabafou tudo. Se sente um pouco melhor.
+15715	Lloré en mi celda de prisión.	Chorei na minha cela.
+15716	Ya intentaste escapar este año. Los guardias te vigilan de cerca.	Você já tentou fugir este ano. Os guardas estão de olho em você.
+15717	El médico de la prisión te curó. Te sientes un poco mejor.	O médico da prisão te remendou. Você se sente um pouco melhor.
+15718	El médico de la prisión dijo que no tienes nada y te mandó de vuelta a tu celda.	O médico da prisão disse que você não tinha nada e te mandou de volta pra cela.
+15719	Fui a la enfermería de la prisión.	Fui à enfermaria da prisão.
+15720	¿Seguro que quieres intentar iniciar un motín?	Tem certeza de que quer tentar começar um motim?
+15721	La prisión sigue en confinamiento por tu último motín.	A prisão ainda está em confinamento por causa do seu último motim.
+15722	Los guardias están en alerta máxima. No hay salida este año.	Os guardas estão em alerta máximo. Não tem saída este ano.
+15723	¡El guardia se mueve dos veces por cada movimiento tuyo! Solo se mueve hacia ti y trata de caminar horizontalmente primero.	O guarda se move duas vezes pra cada movimento seu! Ele só se move na sua direção e tenta andar na horizontal primeiro.
+15724	cuadrado	quadrado
+15725	¡Me escapé de {1}! Soy libre.	Escapei de {1}! Estou livre.
+15726	¡El guardia te atrapó intentando escapar! Tu condena fue extendida.	O guarda te pegou tentando fugir! Sua sentença foi estendida.
+15727	Intenté escapar de la prisión, pero un guardia me atrapó. Mi condena fue extendida.	Tentei fugir da prisão, mas um guarda me pegou. Minha sentença foi estendida.
+15728	Te rendiste con tu fuga y volviste a tu celda.	Você desistiu da fuga e voltou pra cela.
+15729	Intenté escapar de la prisión, pero me rendí.	Tentei fugir da prisão, mas desisti.
+15730	Tu pandilla	Sua gangue
+15731	Eres miembro de {1}.	Você é membro de {1}.
+15732	Sal de {1}	Saia de {1}
+15733	Dejé la pandilla {1} de la prisión.	Saí da gangue {1} da prisão.
+15734	¡Intenta unirte a {1} hoy!	Tente entrar em {1} hoje!
+15735	Únete a {1}	Entre pra {1}
+15736	respetado	respeitado
+15737	impresionante	impressionante
+15738	{1} te rechazó. No eres lo bastante {2} para entrar.	{1} recusou você. Você não é {2} o bastante pra entrar.
+15739	Intenté unirme a la pandilla {1} de la prisión, pero me rechazaron.	Tentei entrar na gangue {1} da prisão, mas me recusaram.
+15740	¡Ahora eres miembro de {1}!	Agora você é membro de {1}!
+15741	Me uní a la pandilla {1} de la prisión.	Entrei na gangue {1} da prisão.
+15742	Tu trabajo ·	Seu trabalho ·
+15743	Dejaste tu trabajo en prisión como {1} {2}.	Você largou seu trabalho na prisão como {1} {2}.
+15744	Dejé mi trabajo en prisión.	Larguei meu trabalho na prisão.
+15745	¿Postularte para trabajar de {1} {2}?	Candidatar-se a uma vaga de {1} {2}?
+15746	No eres lo bastante inteligente para dar clases a otros reclusos.	Você não é inteligente o bastante pra dar aula pros outros presos.
+15747	¡Conseguiste el trabajo! Ahora eres {1} de la prisión.	Você conseguiu o trabalho! Agora você é {1} da prisão.
+15748	Conseguí un trabajo en prisión como {1} {2}.	Consegui um trabalho na prisão como {1} {2}.
+15749	El director rechazó tu solicitud para el trabajo de {1}.	O diretor recusou sua candidatura para a vaga de {1}.
+15750	Postulé para ser {1} de la prisión, pero me rechazaron.	Me candidatei a ser {1} da prisão, mas fui recusado.
+15751	biblioteca	biblioteca
+15752	Lee un libro	Leia um livro
+15753	Levanta pesas en el patio	Levante peso no pátio
+15754	meditar	meditar
+15755	Encuentra paz interior	Encontre paz interior
+15756	Habla con un poder superior	Fale com um poder superior
+15757	Ya hiciste eso este año.	Você já fez isso este ano.
+15758	una novela de misterio	um romance de mistério
+15759	un libro de derecho	um livro de direito
+15760	un libro sobre pájaros	um livro sobre pássaros
+15761	un libro de autoayuda	um livro de autoajuda
+15762	Leíste {1} en la biblioteca de la prisión.	Você leu {1} na biblioteca da prisão.
+15763	Leí un libro en la biblioteca de la prisión.	Li um livro na biblioteca da prisão.
+15764	Hiciste pesas en el patio de la prisión. Los otros reclusos lo notaron.	Você malhou no pátio da prisão. Os outros presos perceberam.
+15765	Hice ejercicio en el patio de la prisión.	Malhei no pátio da prisão.
+15766	Meditaste en tu celda y encontraste un poco de paz.	Você meditou na sua cela e encontrou um pouco de paz.
+15767	Medité en mi celda de prisión.	Medite na minha cela.
+15768	Rezaste en tu celda. Te sientes un poco más en paz.	Você rezou na sua cela. Se sente um pouco mais em paz.
+15769	Recé en mi celda de prisión.	Rezei na minha cela.
+15770	No te queda nadie afuera.	Você não tem mais ninguém lá fora.
+15771	Enviaste una carta desde prisión a {1}, {2}.	Você mandou uma carta da prisão pra {1}, {2}.
+15772	Envié una carta a {1}, {2}.	Mandei uma carta pra {1}, {2}.
+15773	Meterte con {1}	Mexer com {1}
+15774	¡Te metiste con {1}, que explotó y te dio una paliza!	Você mexeu com {1}, que surtou e deu uma surra em você!
+15775	Me metí con {1} en el patio de la prisión. {2} me dio una paliza.	Mexi com {1} no pátio da prisão. {2} me deu uma surra.
+15776	le robó el postre de la bandeja a	roubou a sobremesa da bandeja de
+15777	hizo tropezar a	fez tropeçar
+15778	escupió en la sopa de	cuspiu na sopa de
+15779	escondió las pantuflas de	escondeu os chinelos de
+15780	Tú {1} {2}. Los otros reclusos se rieron.	Você {1} {2}. Os outros presos riram.
+15781	Me metí con {1} en el patio de la prisión.	Mexi com {1} no pátio da prisão.
+15782	Los tatuajes de {1} son una locura	As tatuagens de {1} são uma loucura
+15783	{1} tiene una linda sonrisa	{1} tem um sorriso bonito
+15784	{1} se ve fuerte	{1} parece forte
+15785	{1} es un gran compañero de celda	{1} é um ótimo colega de cela
+15786	Le dijiste a {1} que {2}.	Você disse pra {1} que {2}.
+15787	¿Seguro que quieres atacar a {1}?	Tem certeza de que quer atacar {1}?
+15788	un criminal de cuarta	um criminoso de quinta
+15789	un inútil	um inútil
+15790	un perdedor patético	um perdedor patético
+15791	Llamaste a {1} {2}.	Você chamou {1} de {2}.
+15792	Te rompieron la nuez de Adán.	Quebraram seu pomo de adão.
+15793	Te pegaron en el tobillo.	Bateram no seu tornozelo.
+15794	Te rompieron las costillas.	Quebraram suas costelas.
+15795	Te rompieron la nariz.	Quebraram seu nariz.
+15796	Te pisotearon la mano.	Pisaram na sua mão.
+15797	Te tumbaron dos dientes.	Derrubaram dois dos seus dentes.
+15798	Te estrellaron la cabeza contra la pared.	Bateram sua cabeça contra a parede.
+15799	Te patearon los riñones.	Chutaram seus rins.
+15800	Te dislocaron el hombro.	Deslocaram seu ombro.
+15801	¿Cómo vas a atacar a {1}?	Como você vai atacar {1}?
+15802	Elige tu movimiento:	Escolha seu movimento:
+15803	Ataqué a {1} y la pandilla {2} me dio una paliza.	Ataquei {1} e a gangue {2} me deu uma surra.
+15804	¿Se necesita una pandilla entera, eh?	Precisa de uma gangue inteira, né?
+15805	¡La pandilla {1} te dio una paliza por meterte con uno de sus miembros!	A gangue {1} te deu uma surra por mexer com um dos membros deles!
+15806	una paliza de la pandilla {1}	uma surra da gangue {1}
+15807	Intenté {1} {2} pero fallé.	Tentei {1} {2} mas errei.
+15808	Fallaste	Você errou
+15809	¡Intentaste {1} {2} pero fallaste!	Você tentou {1} {2} mas errou!
+15810	Ataqué a {1} en el patio de la prisión y gané.	Ataquei {1} no pátio da prisão e venci.
+15811	Toma eso	Toma essa
+15812	¡Le asestaste{1} {2} a {3} en {4}!	Você deu{1} {2} em {3} no {4}!
+15813	Ataqué a {1} en el patio de la prisión y perdí.	Ataquei {1} no pátio da prisão e perdi.
+15814	¡Atacaste a {1}, pero {2} te dejó hecho papilla!	Você atacou {1}, mas {2} te arrebentou!
+15815	¡Recluta a tantos presos como puedas para unirse al motín! No choques contra las paredes, los guardias ni tu cadena de presos.	Recrute o máximo de presos que puder pra se juntar ao motim! Não bata nas paredes, nos guardas nem na sua corrente de presos.
+15816	¡Mueve el mouse (o desliza) para cambiar de dirección!	Mova o mouse (ou deslize) pra mudar de direção!
+15817	Presos reclutados:	Presos recrutados:
+15818	Intenté iniciar un motín en la prisión, pero fracasó.	Tentei começar um motim na prisão, mas falhou.
+15819	Motín fallido	Motim fracassado
+15820	Chocaste contra una pared. Los guardias disolvieron tu motín antes de que empezara.	Você bateu numa parede. Os guardas acabaram com seu motim antes de começar.
+15821	Chocaste de frente con un guardia. Los guardias disolvieron tu motín antes de que empezara.	Você deu de cara com um guarda. Os guardas acabaram com seu motim antes de começar.
+15822	Chocaste con tu propio grupo. Los guardias disolvieron tu motín.	Você bateu no seu próprio grupo. Os guardas acabaram com seu motim.
+15823	¡Inicié un motín en la prisión!	Comecei um motim na prisão!
+15824	¡Iniciaste un motín en la prisión! Los otros reclusos te respetan más ahora.	Você começou um motim na prisão! Os outros presos te respeitam mais agora.
+15825	Te trasladaron a {1} para cumplir tu condena.	Você foi transferido pra {1} pra cumprir sua sentença.
+15826	Me trasladaron a {1}.	Fui transferido pra {1}.
+15827	El director dice que te liberará si le das información sobre otro recluso.	O diretor diz que vai te soltar se você der informação sobre outro preso.
+15828	Cuéntale todo	Conte tudo pra ele
+15829	Le di información al director sobre otro recluso a cambio de mi libertad.	Dei informação pro diretor sobre outro preso em troca da minha liberdade.
+15831	Le canté al director, pero no me soltó.	Dedurei pro diretor, mas ele não me soltou.
+15832	No soy ningún soplón	Eu não sou dedo-duro
+15833	No dijiste ni una palabra. Los otros reclusos lo respetan.	Você não disse uma palavra. Os outros presos respeitam isso.
+15834	Me negué a cantarle al director.	Me recusei a dedurar pro diretor.
+15835	Estás frente a la junta de libertad condicional.	Você está diante da junta de liberdade condicional.
+15836	Me dieron libertad condicional después de cumplir {1}.	Me concederam liberdade condicional depois de cumprir {1}.
+15837	Me negaron la libertad condicional después de cumplir {1}.	Me negaram a liberdade condicional depois de cumprir {1}.
+15838	A la junta no le gustó tu respuesta: "{1}"	A junta não gostou da sua resposta: "{1}"
+15839	Te negaron la libertad condicional y tu condena continúa.	Sua liberdade condicional foi negada e sua sentença continua.
+15840	Fui ejecutado por {1} en {2}.	Fui executado por {1} em {2}.
+15841	Hoy es tu fecha de ejecución.	Hoje é a sua data de execução.
+15842	Te ejecutaron por {1} en {2}.	Você foi executado por {1} em {2}.
+15843	ejecución por {1}	execução por {1}
+15844	El gobernador conmutó mi pena de muerte a cadena perpetua con trabajos forzados.	O governador comutou minha pena de morte pra prisão perpétua com trabalhos forçados.
+15845	El gobernador conmutó tu pena de muerte. Pasarás el resto de tus días en trabajos forzados.	O governador comutou sua pena de morte. Você vai passar o resto dos seus dias em trabalho forçado.
+15846	Mi ejecución fue aplazada por {1}.	Minha execução foi adiada por {1}.
+15847	Tu ejecución programada fue aplazada por {1}.	Sua execução agendada foi adiada por {1}.
+15848	Me liberaron de {1} después de cumplir {2}.	Fui solto de {1} depois de cumprir {2}.
+15849	llamada	ligação
+15850	abusón	valentão
+15851	¡{1} te está buscando pelea en el patio de la prisión!	{1} está arrumando briga com você no pátio da prisão!
+15852	{1} me buscó pelea. Gané.	{1} arrumou briga comigo. Eu venci.
+15853	¡Le ganaste a {1} en la pelea!	Você venceu {1} na briga!
+15854	{1} me buscó pelea y me dio una paliza.	{1} arrumou briga comigo e me deu uma surra.
+15855	{1} te dio una paliza.	{1} te deu uma surra.
+15856	Me alejé de una pelea con {1}.	Saí fora da briga com {1}.
+15857	Te alejaste. Algunos reclusos piensan que eres blando.	Você saiu fora. Alguns presos acham que você é mole.
+15858	Avisa a un guardia	Conte pra um guarda
+15859	Le canté a un guardia sobre {1}.	Dedurei {1} pra um guarda.
+15860	Le contaste a un guardia sobre {1}. Los otros reclusos te llaman soplón.	Você contou pra um guarda sobre {1}. Os outros presos estão te chamando de dedo-duro.
+15861	un paquete de apoyo	um pacote de apoio
+15862	una pila de libros	uma pilha de livros
+15863	unas galletas caseras	uns biscoitos caseiros
+15864	una manta calentita	um cobertor quentinho
+15865	un álbum de fotos	um álbum de fotos
+15866	una bolsa de snacks	um saco de salgadinhos
+15867	unas medias nuevas	umas meias novas
+15868	un libro de crucigramas	um livro de palavras cruzadas
+15869	una almohada suave	um travesseiro macio
+15870	una baraja	um baralho
+15871	una foto familiar	uma foto de família
+15872	un cuaderno de dibujo y unos lápices	um caderno de desenho e uns lápis
+15873	una carta escrita a mano y unos sellos	uma carta escrita à mão e uns selos
+15874	una caja de dulces	uma caixa de doces
+15875	Igual le mandaste a {1} una nota de agradecimiento.	Mesmo assim você mandou pra {1} um bilhete de agradecimento.
+15876	Los guardias confiscaron {1} de {2}, en el reparto de correo.{3}	Os guardas confiscaram {1} de {2}, na hora da correspondência.{3}
+15877	Aquí nadie te respeta lo suficiente como para que no te lo quiten.	Aqui dentro ninguém te respeita o bastante pra deixar isso intocado.
+15878	{1} me mandó {2} en {3}, pero los guardias se lo quedaron.	{1} me mandou {2} em {3}, mas os guardas confiscaram.
+15879	Le escribiste a {1} una nota de agradecimiento sincera. {2} se emocionó de verdad.	Você escreveu pra {1} um bilhete de agradecimento sincero. {2} ficou muito comovido.
+15880	Aceptaste {1} de {2}.{3}	Você aceitou {1} de {2}.{3}
+15881	Le mandé a {1} una nota de agradecimiento.	Mandei pra {1} um bilhete de agradecimento.
+15882	{1} me mandó {2} en {3}.{4}	{1} me mandou {2} em {3}.{4}
+15883	{1} te mandó {2}.	{1} te mandou {2}.
+15884	Devuélvelo	Devolva
+15885	Le devolviste {1} a {2}. {3} quedó dolido.	Você devolveu {1} pra {2}. {3} ficou magoado.
+15886	Devolví {1} que {2} me mandó en {3}.	Devolvi {1} que {2} me mandou em {3}.
+15887	Manda una nota de agradecimiento	Mande um bilhete de agradecimento
+15888	pelea	briga
+15889	Pandillas rivales acaban de armar una pelea enorme en {1}.	Gangues rivais acabaram de começar uma briga enorme em {1}.
+15890	Atrapado en eso	Pego no meio
+15891	Te pegó una bandeja voladora mientras mirabas la pelea.	Você levou uma bandeja voadora na cara enquanto assistia à briga.
+15892	Me lastimé viendo una pelea de pandillas.	Me machuquei assistindo a uma briga de gangues.
+15893	Asiento de primera fila	Lugar na primeira fila
+15894	Viste la pelea desde una distancia segura.	Você assistiu à briga de uma distância segura.
+15895	Vi una pelea de pandillas en {1}.	Assisti a uma briga de gangues em {1}.
+15896	Repórtalo a un guardia	Denuncie pra um guarda
+15897	Los guardias disolvieron la pelea. Algunos reclusos te vieron hablando con ellos.	Os guardas acabaram com a briga. Alguns presos viram você falando com eles.
+15898	Le reporté una pelea de pandillas a los guardias.	Denunciei uma briga de gangues pros guardas.
+15899	Te escabulliste antes de que alguien te notara.	Você escapuliu antes que alguém notasse.
+15900	Me alejé de una pelea de pandillas en {1}.	Saí fora de uma briga de gangues em {1}.
+15901	adicto	viciado
+15902	compañero de cuarto	colega de quarto
+15903	compañero de celda	colega de cela
+15904	Tu {1} está en abstinencia y actúa muy raro, gritando y arañando las paredes toda la noche.	Seu {1} está em abstinência e agindo de um jeito muito perturbador, gritando e arranhando as paredes a noite toda.
+15905	Noche difícil	Noite difícil
+15906	Te dormiste llorando.	Você chorou até dormir.
+15907	Me dormí llorando en {1}.	Chorei até dormir em {1}.
+15908	Ayúdalos	Ajude eles
+15909	Buena acción	Boa ação
+15910	Los calmaste y les trajiste agua.	Você acalmou eles e trouxe água pra eles.
+15911	Ayudé a mi {1} a salir de la abstinencia.	Ajudei meu {1} a passar pela abstinência.
+15912	Los empujaste de vuelta a su litera. Un guardia te levantó un reporte.	Você empurrou eles de volta pras camas. Um guarda te deu uma advertência.
+15913	Me levantaron un reporte por empujar a mi {1}.	Me deram uma advertência por empurrar meu {1}.
+15914	Te toca tu llamada semanal.	Você recebeu sua ligação semanal.
+15916	Un guardia te pilló haciendo una broma telefónica y te quitó el teléfono.	Um guarda pegou você fazendo trote e tirou seu direito ao telefone.
+15917	Me pillaron haciendo una broma telefónica en el correccional.	Me pegaram fazendo trote no reformatório.
+15918	Hiciste una broma telefónica a una pizzería. Fue buenísimo.	Você fez trote pra uma pizzaria. Foi hilário.
+15919	Hice una broma telefónica desde el correccional.	Fiz um trote do reformatório.
+15920	Reportarme como desaparecido	Me dar como desaparecido
+15921	A la policía no le hizo gracia. A los guardias tampoco.	A polícia não achou graça. Os guardas também não.
+15922	Llamé a la policía y me reporté como desaparecido del correccional.	Liguei pra polícia e me dei como desaparecido do reformatório.
+15923	Pedir comida	Pedir comida
+15924	No sé cómo, la pizza llegó de verdad.	Não sei como, a pizza chegou mesmo.
+15925	Usé mi llamada para pedir una pizza al correccional.	Usei minha ligação pra pedir uma pizza no reformatório.
+15926	Un chico más grande en la cafetería dice que tienes que darle tu desayuno, o si no.	Um garoto maior na cantina diz que você tem que passar seu café da manhã pra ele, senão.
+15927	Entregaste tu desayuno y te quedaste con hambre.	Você entregou seu café da manhã e ficou com fome.
+15928	Le di mi desayuno a un abusón en el correccional.	Dei meu café da manhã pra um valentão no reformatório.
+15929	El abusón te atacó cuando te alejaste.	O valentão pulou em você quando você saiu fora.
+15930	Un abusón me atacó en la cafetería del correccional.	Um valentão me pegou na cantina do reformatório.
+15931	Te mantuviste firme	Você ficou firme
+15932	Te alejaste y el abusón te dejó en paz.	Você saiu fora e o valentão deixou você em paz.
+15933	Me alejé de un abusón en la cafetería del correccional.	Saí fora de um valentão na cantina do reformatório.
+15934	Un promotor de discotecas cualquiera	Um promoter de balada qualquer
+15935	Un proxeneta cualquiera	Um cafetão qualquer
+15936	Una actriz porno cualquiera	Uma atriz pornô qualquer
+15937	Un inversionista de riesgo cualquiera	Um investidor de risco qualquer
+15938	Un narco cualquiera	Um traficante qualquer
+15939	Un abogado cualquiera	Um advogado qualquer
+15940	Una celebridad cualquiera	Uma celebridade qualquer
+15941	curva	curva
+15942	frontera	fronteira
+15943	círculo	círculo
+15944	celda	cela
+15945	línea	linha
+15946	tutorial	tutorial
+15947	Estás pensando en hackear la cuenta bancaria de alguien.	Você está pensando em hackear a conta bancária de alguém.
+15948	Empezar hackeo	Começar hack
+15949	¡Te encontraste con un firewall!	Você encontrou um firewall!
+15950	Reconfigura las vías lógicas de la computadora para saltarte el firewall antes de que el sistema te expulse.	Reconfigure os caminhos lógicos do computador pra contornar antes que o sistema te expulse.
+15951	900 60px "Avenir Next", Mulish, sans-serif	900 60px "Avenir Next", Mulish, sans-serif
+15952	Hackeé la cuenta bancaria de {1} y robé {2}.	Hackeei a conta bancária de {1} e roubei {2}.
+15953	Hackeaste la cuenta bancaria de {1} y robaste {2}.	Você hackeou a conta bancária de {1} e roubou {2}.
+15954	Intenté hackear la cuenta bancaria de {1}, pero el firewall me expulsó.	Tentei hackear a conta bancária de {1}, mas o firewall me expulsou.
+15955	El sistema te expulsó antes de que pudieras entrar a la cuenta bancaria de {1}.	O sistema te expulsou antes que você conseguisse entrar na conta bancária de {1}.
+15956	hackeo	hacking
+15957	señora mayor	senhora idosa
+15958	vecino metido	vizinho intrometido
+15959	guardia de seguridad	segurança
+15960	paseador de perros	passeador de cães
+15961	taxista	taxista
+15962	sounds/explosion-real.ogg#t=0.55	sounds/explosion-real.ogg#t=0.55
+15964	Ya robaste 4 autos este año. Todos los policías de la ciudad te buscan, así que mantente tranquilo hasta el año que viene.	Você já roubou 4 carros este ano. Todo policial da cidade tá atrás de você, então fica na sua até o ano que vem.
+15965	Ves algunos autos vulnerables.	Você vê uns carros vulneráveis.
+15966	Elige tu vehículo:	Escolha seu veículo:
+15967	Róbalo	Roube
+15968	Recorrí las calles.	Rondei pelas ruas.
+15969	Vamos	Bora
+15970	¡Robaste {1} con éxito!	Você roubou {1} com sucesso!
+15971	¡Intenté robar {1} pero llegó la policía antes de que pudiera arrancarlo!	Tentei roubar {1}, mas a polícia chegou antes que eu conseguisse ligar!
+15972	¡Intentaste robar {1}, pero {2} te vio y llamó a la policía antes de que lo pudieras arrancar!	Você tentou roubar {1}, mas {2} viu e chamou a polícia antes que você conseguisse ligar!
+15973	Te cuesta arrancar {1} y empiezas a ponerte nervioso.	Está difícil ligar {1} e você começa a ficar nervoso.
+15974	Sigue intentando	Continue tentando
+15975	Huye de la escena	Fuja da cena
+15976	Huí de la escena antes de poder robar {1}.	Fugi da cena antes de conseguir roubar {1}.
+15977	Huiste de la escena antes de que alguien te viera intentando robar {1}.	Você fugiu da cena antes que alguém te visse tentando roubar {1}.
+15978	guitarra	guitarra
+15979	osito de peluche	ursinho de pelúcia
+15980	fajo de billetes	maço de dinheiro
+15981	hipster	hipster
+15982	agente inmobiliario	corretor de imóveis
+15983	bibliotecario	bibliotecário
+15984	pastor	pastor
+15985	corredor de bolsa	corretor da bolsa
+15986	mimo	mímico
+15987	la casa de {1}	a casa de {1}
+15988	No encuentras casas para robar.	Você não encontra nenhuma casa pra arrombar.
+15989	Estás pensando en asaltar una casa.	Você está pensando em arrombar uma casa.
+15990	Elige una casa:	Escolha uma casa:
+15991	Asalta la casa	Arrombe a casa
+15992	¡Decidí asaltar {1}!	Decidi arrombar {1}!
+15993	dueño	dono
+15994	Seguir	Seguir
+15995	Emboscar	Emboscar
+15996	Dispersar	Dispersar
+15997	¡Roba todos los objetos que puedas de {1} y escapa sin que te atrapen!	Roube o máximo de itens que puder de {1} e escape sem ser pego!
+15998	Objetos recogidos:	Itens coletados:
+15999	¡Desliza para cambiar de dirección!	Deslize pra mudar de direção!
+16000	900 25.2px sans-serif	900 25.2px sans-serif
+16001	{1} Robé {2} y la casa de empeño me dio {3} por eso.	{1} Roubei {2} e a casa de penhores me deu {3} por isso.
+16002	¡Asaltaste {1} y robaste {2}!	Você arrombou {1} e roubou {2}!
+16003	La casa de empeño te dio {1} por el botín.	A casa de penhores deu {1} pelo butim.
+16004	{1} Escapé sin robar nada.	{1} Escapei sem roubar nada.
+16005	Escapaste de {1} sin robar nada ni que te atraparan.	Você escapou de {1} sem roubar nada e sem ser pego.
+16006	{1} Su perro me atrapó, pero logré huir antes de que llegara la policía.	{1} O cachorro deles me pegou, mas consegui fugir antes da polícia chegar.
+16007	¡El perro de {1} te atrapó!	O cachorro de {1} te pegou!
+16008	Lograste huir antes de que llegara la policía.	Você conseguiu fugir antes que a polícia chegasse.
+16009	¡El dueño de casa te atrapó y te entregó a la policía!	O dono da casa te pegou e te entregou pra polícia!
+16010	¡El perro de {1} te atrapó y llamó la atención de la policía!	O cachorro de {1} te pegou e chamou a atenção da polícia!
+16011	¡El perro de {1} ladró y alertó a la policía!	O cachorro de {1} latiu e alertou a polícia!
+16012	¡Un policía te atrapó!	Um policial te pegou!
+16013	El dueño de casa	O dono da casa
+16014	Su perro	O cachorro deles
+16015	Un policía	Um policial
+16016	{1} {2} me atrapó en el acto.	{1} {2} me pegou no flagrante.
+16017	¡Un vecino te vio prendiéndole fuego a {n} y llamó a la policía!	Um vizinho viu você botando fogo em {n} e chamou a polícia!
+16018	¡Una cámara de seguridad te grabó prendiéndole fuego a {n}!	Uma câmera de segurança pegou você botando fogo em {n}!
+16019	¡Un bombero te vio huyendo de {n} en llamas!	Um bombeiro viu você fugindo de {n} em chamas!
+16020	¡Un transeúnte te reconoció cerca de {n} y llamó a la policía!	Um pedestre reconheceu você perto de {n} e chamou a polícia!
+16021	El olor a gasolina en tu ropa te delató cuando llegó la policía a {n}.	O cheiro de gasolina na sua roupa te entregou quando a polícia chegou em {n}.
+16022	¡Un policía de franco te vio prender fuego a {n} y te derribó!	Um policial de folga viu você botar fogo em {n} e te derrubou!
+16023	Quema un auto, un contenedor o un campo	Queime um carro, uma caçamba ou um campo
+16024	Incendia una casa o un negocio	Queime uma casa ou um negócio
+16025	Quema un lugar lleno de gente	Queime um lugar lotado de gente
+16026	Quema un monumento famoso hasta los cimientos	Queime um marco famoso até o chão
+16027	Deja que el destino elija un blanco	Deixe o destino escolher um alvo
+16028	El Soplete de Medianoche	O Maçarico da Meia-Noite
+16029	La Amenaza del Fósforo	A Ameaça do Palito
+16030	El Incendiario Fantasma	O Incendiário Fantasma
+16031	La Antorcha Humana	A Tocha Humana
+16032	gente	pessoas
+16033	Los medios todavía no te han notado	A mídia ainda não percebeu você
+16034	ambulancia	ambulância
+16035	sirena	sirene
+16036	Prende fuego	Ateie fogo
+16037	Requiere {1}% de notoriedad	Requer {1}% de notoriedade
+16038	Decidí no prenderle fuego a {1}.	Decidi não botar fogo em {1}.
+16039	Decidiste dejar {1} tranquilo.	Você decidiu deixar {1} em paz.
+16040	sounds/a16sfx_Camping_Start.wav	sounds/a16sfx_Camping_Start.wav
+16041	fueron	foram
+16042	{1} heridos y {2} muertos en el incendio.	{1} feridos e {2} mortos no incêndio.
+16043	{1} muerto en el incendio.	{1} morto no incêndio.
+16044	{1} herido en el incendio.	{1} ferido no incêndio.
+16045	y le echó más combustible	e jogou mais combustível
+16046	y se quedó a ver cómo ardía	e ficou pra ver queimar
+16047	Le prendí fuego a {1}{2}.{3}	Botei fogo em {1}{2}.{3}
+16048	El combustible extra hizo el fuego aún más grande.	O combustível extra deixou o fogo ainda maior.
+16049	Te quedaste a ver cómo ardía.	Você ficou pra ver queimar.
+16050	El incendio causó unos {1} en daños.{2}	O incêndio causou cerca de {1} em prejuízos.{2}
+16051	Los medios empezaron a llamarte "{1}" por tu racha de incendios.	A mídia começou a te chamar de "{1}" por causa da sua sequência de incêndios.
+16052	Tu fama de incendiario está creciendo. Ahora los blancos más grandes están a tu alcance.	Sua fama de incendiário está crescendo. Alvos maiores agora estão ao seu alcance.
+16053	Me quemé vivo intentando prenderle fuego a {1}.	Morri queimado tentando botar fogo em {1}.
+16054	¡Las llamas se avivaron y te envolvieron mientras le prendías fuego a {1}!	As chamas aumentaram e te engoliram enquanto você botava fogo em {1}!
+16056	Me quemé feo intentando prenderle fuego a {1}.	Me queimei feio tentando botar fogo em {1}.
+16057	¡Las llamas se avivaron y te quemaste feo intentando prenderle fuego a {1}!	As chamas aumentaram e você se queimou feio tentando botar fogo em {1}!
+16058	Intenté prenderle fuego a {1}, pero no prendía.	Tentei botar fogo em {1}, mas não pegou.
+16059	Intentaste prenderle fuego a {1}, pero no prendía.	Você tentou botar fogo em {1}, mas não pegou.
+16060	Me pillaron intentando prenderle fuego a {1}.	Me pegaram tentando botar fogo em {1}.
+16061	Prender fuego a {1}	Botar fogo em {1}
+16062	Echarle más combustible	Jogar mais combustível
+16063	Mirar cómo arde	Ver queimar
+16065	Estás pensando en secuestrar a alguien y pedir rescate.	Você está pensando em sequestrar alguém e pedir resgate.
+16066	Un desconocido cualquiera	Um estranho qualquer
+16067	Secuestra a esa persona	Sequestre essa pessoa
+16068	El desconocido	O estranho
+16069	Intenté secuestrar a {1}, pero {2} se defendió y me mató.	Tentei sequestrar {1}, mas {2} reagiu e me matou.
+16071	¡{1} se defendió mientras intentabas secuestrar a {2}!	{1} reagiu enquanto você tentava sequestrar {2}!
+16072	{1} te dominó y te golpeó hasta matarte.	{1} dominou você e bateu até a morte.
+16073	una paliza de {1} durante un secuestro fallido	uma surra de {1} durante um sequestro malsucedido
+16074	¡{1} se defendió y te dejó con heridas fatales!	{1} reagiu e deixou você com ferimentos fatais!
+16075	heridas de un secuestro fallido	ferimentos de um sequestro fracassado
+16076	Intenté secuestrar a {1}, pero {2} se defendió, me dejó muy herido y llamó a la policía.	Tentei sequestrar {1}, mas {2} reagiu, me feriu feio e chamou a polícia.
+16077	{1} te dejó muy herido y llamó a la policía.	{1} te feriu feio e chamou a polícia.
+16078	Intenté secuestrar a {1}, pero {2} se defendió y me dejó muy herido. Huí antes de que llegara la policía.	Tentei sequestrar {1}, mas {2} reagiu e me feriu feio. Fugi antes que a polícia chegasse.
+16079	{1} te dejó muy herido, pero lograste escapar.	{1} te feriu feio, mas você conseguiu escapar.
+16080	Secuestré a {1} y cobré un rescate de {2} antes de soltarlo.	Sequestrei {1} e recebi um resgate de {2} antes de soltar.
+16081	Secuestraste a {1} y exigiste {2} por su regreso sano y salvo.	Você sequestrou {1} e exigiu {2} pra devolver a pessoa sã e salva.
+16082	¡Pagaron el rescate y los soltaste!	O resgate foi pago e você soltou!
+16083	Secuestré a {1}, pero nadie pagó el rescate, así que lo solté.	Sequestrei {1}, mas ninguém pagou o resgate, então soltei.
+16084	Secuestraste a {1} y exigiste {2}, pero nadie pagó el rescate.	Você sequestrou {1} e exigiu {2}, mas ninguém pagou o resgate.
+16085	Los soltaste.	Você soltou.
+16086	Arruiné el secuestro de {1}.	Estraguei o sequestro de {1}.
+16087	¡Arruinaste el secuestro de {1} y llegó la policía!	Você estragou o sequestro de {1} e a polícia apareceu!
+16088	Estás pensando en vender drogas.	Você está pensando em vender drogas.
+16089	Elige un comprador:	Escolha um comprador:
+16090	Un desconocido en la calle	Um estranho na rua
+16091	Elige una droga:	Escolha uma droga:
+16092	Cierra el trato	Feche o negócio
+16093	Intenté venderle {1} a un policía encubierto.	Tentei vender {1} pra um policial disfarçado.
+16094	¡El desconocido al que intentaste venderle {1} era un policía encubierto!	O estranho pra quem você tentou vender {1} era um policial disfarçado!
+16095	Vendí {1} a {2} por {3}.	Vendi {1} pra {2} por {3}.
+16096	¡Vendiste {1} a {2} por {3}!	Você vendeu {1} pra {2} por {3}!
+16097	Intenté venderle {1} a {2}, pero no les interesaba.	Tentei vender {1} pra {2}, mas não estavam interessados.
+16098	Ofreciste vender {1} a {2}, pero no les interesaba.	Você ofereceu vender {1} pra {2}, mas não estavam interessados.
+16099	{1} me denunció a la policía por intentar venderle {2}.	{1} me denunciou pra polícia por tentar vender {2}.
+16100	¡{1} te denunció a la policía por intentar venderle {2}!	{1} denunciou você pra polícia por tentar vender {2}!
+16101	una tienda de conveniencia	uma loja de conveniência
+16102	el auto de un vecino	o carro de um vizinho
+16103	una banca de parque	um banco de praça
+16105	un patrullero	uma viatura
+16106	el ayuntamiento	a prefeitura
+16107	Pinta graffiti con aerosol	Pinte grafite com spray
+16108	pintó graffiti con aerosol en	pichou com grafite
+16109	Rompe las ventanas	Quebre as janelas
+16110	rompió las ventanas de	quebrou as janelas de
+16111	Tírale huevos	Jogue ovos
+16112	le tiró huevos a	jogou ovos em
+16113	Cubre con papel higiénico	Cubra com papel higiênico
+16114	Ráyalo	Risque
+16115	rayó	riscou
+16116	Patéalo hasta que se rompa	Chute até quebrar
+16117	vandalismo	vandalismo
+16118	Estás pensando en vandalizar algo.	Você está pensando em vandalizar alguma coisa.
+16119	Elige un objetivo:	Escolha um alvo:
+16120	Elige un método:	Escolha um método:
+16121	Vandalízalo	Vandalize
+16122	¡Tú {1} {2} y te saliste con la tuya!	Você {1} {2} e saiu impune!
+16123	Me pillaron vandalizando {1}.	Me pegaram vandalizando {1}.
+16124	Pistola de juguete	Arma de brinquedo
+16125	una pistola de juguete	uma arma de brinquedo
+16126	Pistola paralizante	Arma de choque
+16127	una pistola paralizante	uma arma de choque
+16128	Palo de golf	Taco de golfe
+16129	Cóctel Molotov	Coquetel Molotov
+16130	un cóctel Molotov	um coquetel Molotov
+16131	Espuma de fiesta	Espuma de festa
+16132	Uñas acrílicas afiladas	Unhas de acrílico afiadas
+16133	uñas acrílicas afiladas	unhas de acrílico afiadas
+16134	Clip desenrollado	Clipe desenrolado
+16135	un clip desenrollado	um clipe desenrolado
+16136	Bate de béisbol	Taco de beisebol
+16137	Banana en el bolsillo	Banana no bolso
+16138	una banana en el bolsillo	uma banana no bolso
+16139	Bomba falsa	Bomba falsa
+16140	una bomba falsa	uma bomba falsa
+16141	Máscara de The Purge	Máscara de The Purge
+16142	con máscara de The Purge	com máscara de The Purge
+16143	Máscara de Guy Fawkes	Máscara de Guy Fawkes
+16144	con máscara de Guy Fawkes	com máscara de Guy Fawkes
+16145	Disfraz de peluche	Fantasia de pelúcia
+16146	con disfraz de peluche	com fantasia de pelúcia
+16147	Disfraz de Shrek	Fantasia do Shrek
+16148	con disfraz de Shrek	com fantasia do Shrek
+16149	Disfraz de Willy Wonka	Fantasia do Willy Wonka
+16150	con disfraz de Willy Wonka	com fantasia do Willy Wonka
+16151	Traje de Batman	Traje do Batman
+16152	con traje de Batman	com traje do Batman
+16153	Disfraz de Santa Claus	Fantasia de Papai Noel
+16154	como Santa Claus	de Papai Noel
+16155	Policía	Policial
+16156	como policía	como policial
+16157	Persona sin hogar	Morador de rua
+16159	Pasamontañas	Balaclava
+16160	con pasamontañas	de balaclava
+16161	Maquillaje de payaso	Maquiagem de palhaço
+16162	con maquillaje de payaso	com maquiagem de palhaço
+16163	Medias de nailon sobre la cara	Meia-calça no rosto
+16164	con medias de nailon sobre la cara	com meia-calça no rosto
+16165	en bus	de ônibus
+16166	en taxi	de táxi
+16167	en el metro	de metrô
+16168	en tren	de trem
+16169	Palo saltarín	Pogo
+16170	en palo saltarín	num pogo
+16171	Patines	Patins
+16172	en patines	de patins
+16173	Monopatín eléctrico	Patinete elétrico
+16174	en monopatín eléctrico	num patinete elétrico
+16175	en hoverboard	num hoverboard
+16176	Auto robado	Carro roubado
+16177	en un auto robado	num carro roubado
+16178	en bicicleta	de bicicleta
+16179	A pie	A pé
+16180	Banco Comunitario {1}	Banco Comunitário {1}
+16181	Cooperativa de Crédito {1}	Cooperativa de Crédito {1}
+16182	Ahorros y Préstamos {1}	Poupança e Empréstimos {1}
+16183	Primer Banco Nacional de {1}	Primeiro Banco Nacional de {1}
+16184	Banco de {1}	Banco de {1}
+16185	Cooperativa Federal de Crédito {1}	Cooperativa Federal de Crédito {1}
+16186	en tu {1}	no seu {1}
+16187	Estás planeando un asalto a un banco. Elige con cuidado.	Você está planejando um assalto a banco. Escolha com cuidado.
+16188	Asáltalo	Assalte
+16189	Elige tu banco:	Escolha seu banco:
+16190	Elige tu arma:	Escolha sua arma:
+16191	Elige tu disfraz:	Escolha seu disfarce:
+16192	Elige tu escape:	Escolha sua fuga:
+16193	¡Robé {1} usando {2} disfrazado {3}, y escapé {4} con {5}!	Roubei {1} usando {2} disfarçado {3}, e escapei {4} com {5}!
+16194	¡Atraco exitoso!	Assalto bem-sucedido!
+16195	¡Robaste {1} con éxito usando {2} disfrazado {3}!	Você roubou {1} com sucesso usando {2} disfarçado {3}!
+16196	¡Escapaste {1} y te llevaste {2}!	Você escapou {1} e saiu com {2}!
+16197	Me atraparon intentando robar {1}.	Me pegaram tentando assaltar {1}.
+16198	Asalto desastroso	Assalto desastroso
+16199	¡Te atraparon intentando robar {1} usando {2} disfrazado {3}!	Você foi pego tentando roubar {1} usando {2} disfarçado {3}!
+16200	La policía llegó para arrestarte.	A polícia chegou pra prender você.
+16201	Cartero jubilado	Carteiro aposentado
+16202	Una cara común. Un riesgo extraordinario.	Uma cara comum. Um risco extraordinário.
+16203	Nadie revisa la firma de todos modos.	Ninguém confere a assinatura mesmo.
+16204	Misma estatura, mismo pelo. ¿Suficientemente parecido?	Mesma altura, mesmo cabelo. Parece o suficiente?
+16205	Un historial crediticio impecable, por ahora.	Um histórico de crédito impecável, por enquanto.
+16206	Nunca trituran su correo.	Nunca trituram as correspondências.
+16207	Su contraseña probablemente es el nombre de su perro.	A senha deles provavelmente é o nome do cachorro.
+16208	Correo de phishing	E-mail de phishing
+16209	Roba su correo	Roube a correspondência deles
+16210	Revisa su basura	Vasculhe o lixo deles
+16211	Skimmer de tarjetas en una gasolinera	Skimmer de cartão num posto de gasolina
+16212	Hazte pasar por su banco por teléfono	Se passe pelo banco deles por telefone
+16213	Hackea sus redes sociales	Hackeie as redes sociais deles
+16214	Estás pensando en robarle la identidad a alguien.	Você está pensando em roubar a identidade de alguém.
+16215	Ver identidad	Ver identidade
+16216	Estado civil	Estado civil
+16217	Tu habilidad criminal	Sua habilidade criminal
+16218	Intenta robar la identidad	Tente roubar a identidade
+16219	Elige a otra persona	Escolha outra pessoa
+16220	Robé la identidad de {1}, abrí {2} tarjeta{3} de crédito a nombre de {4} y me llevé {5}.	Roubei a identidade de {1}, abri {2} cartão{3} de crédito no nome de {4} e levei {5}.
+16221	Te hiciste pasar por {1}, abriste tarjetas de crédito a nombre de {2} y vaciaste las cuentas. Nadie sospecha nada.	Você se passou por {1}, abriu cartões de crédito no nome de {2} e esvaziou as contas. Ninguém desconfia de nada.
+16222	Dinero robado:	Dinheiro roubado:
+16223	Tarjetas abiertas:	Cartões abertos:
+16224	Me atraparon intentando robar la identidad de {1}.	Me pegaram tentando roubar a identidade de {1}.
+16225	Intento de identidad: fallido	Tentativa de identidade: falhou
+16226	Atención policial: alta	Atenção da polícia: alta
+16227	Tu intento de hacerte pasar por {1} levantó sospechas en el banco. Ya se avisó a la policía.	Sua tentativa de se passar por {1} levantou suspeita no banco. A polícia foi avisada.
+16228	¿En qué travesuras quieres meterte?	Em que tipo de travessura você quer se meter?
+16229	Tirarle huevos a una casa	Jogar ovos numa casa
+16230	Le tiré huevos a una casa de mi barrio.	Joguei ovos numa casa do meu bairro.
+16231	Haz una broma telefónica	Faça um trote
+16232	Hice una broma telefónica a un número al azar. ¡Cayeron!	Fiz um trote pra um número aleatório. Caíram!
+16233	haciendo bromas telefónicas	fazendo trotes
+16234	Pintar graffiti	Pichar com grafite
+16235	Pinté graffiti en una pared del centro.	Pichei grafite numa parede do centro.
+16236	Llamar y salir corriendo	Toque e corra
+16237	Le jugué llamar y salir corriendo a mis vecinos.	Fiz toque e corra nos meus vizinhos.
+16238	allanamiento	invasão de propriedade
+16239	¿De qué tienda quieres robar?	De qual loja você quer roubar?
+16240	Un supermercado	Um mercado
+16241	Robé una barra de dulce de un supermercado.	Furtei uma barra de chocolate de um mercado.
+16242	robo en tienda	furto em loja
+16243	Una tienda de ropa	Uma loja de roupas
+16244	Robé una chaqueta de una tienda de ropa y la vendí.	Furtei uma jaqueta de uma loja de roupas e vendi.
+16245	Una tienda de electrónicos	Uma loja de eletrônicos
+16246	Robé unos audífonos de una tienda de electrónicos y los vendí.	Furtei um fone de ouvido de uma loja de eletrônicos e vendi.
+16247	Ves a {1}, un {3} de {2} años, con una billetera asomando del bolsillo trasero de {4}.	Você vê {1}, {3} de {2} anos, com uma carteira saindo do bolso de trás de {4}.
+16248	Agarra la billetera	Pegue a carteira
+16249	Le robé a {1} del bolsillo y me llevé algo de plata.	Bati carteira de {1} e levei uma grana.
+16250	Retirarse	Desistir
+16251	Me acobardé y no le robé a {1}.	Amarelei e não bati a carteira de {1}.
+16252	Hay un paquete en el porche de tu vecino.	Tem um pacote na varanda do seu vizinho.
+16253	unos tenis	um tênis
+16254	una funda de celular	uma capinha de celular
+16255	un altavoz inteligente	um alto-falante inteligente
+16256	una caja de comida para perro	uma caixa de ração de cachorro
+16257	una cartera de diseñador	uma bolsa de grife
+16258	una bolsa de calcetines	um saco de meias
+16259	Robé un paquete del porche de mi vecino. Tenía {1} adentro.	Roubei um pacote da varanda do meu vizinho. Tinha {1} dentro.
+16260	Dejé el paquete de mi vecino en paz.	Deixei o pacote do meu vizinho em paz.
+16261	Un tren de carga lleno de cosas de valor está pasando por la ciudad.	Um trem de carga cheio de coisas de valor está passando pela cidade.
+16263	Me acobardé y no asalté el tren.	Amarelei e não assaltei o trem.
+16264	Desfalqué {1} de {2}.	Desviei {1} de {2}.
+16265	malversación	desvio de dinheiro

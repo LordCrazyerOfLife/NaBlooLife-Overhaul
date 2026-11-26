@@ -1,0 +1,800 @@
+19498	mejorado	melhorado
+19499	{1} trató mi {2}. Sigue ahí, pero me siento un poco mejor.	{1} tratou meu {2}. Ainda está lá, mas me sinto um pouco melhor.
+19500	Algo de mejora	Alguma melhora
+19501	Sigue con el tratamiento para frenarlo.	Continue o tratamento para desacelerar isso.
+19502	{1} no pudo curar tu {2}, pero el tratamiento te ayudó a sentirte un poco mejor.{3}	{1} não conseguiu curar seu {2}, mas o tratamento ajudou você a se sentir um pouco melhor.{3}
+19503	fallido	falhou
+19504	{1} intentó tratar mi {2}, pero no funcionó.	{1} tentou tratar meu {2}, mas não funcionou.
+19505	El tratamiento de {1} para tu {2} no funcionó.	O tratamento de {1} para seu {2} não funcionou.
+19506	{1} trató mi {2}, pero todavía sigo sufriendo por eso.	{1} tratou meu {2}, mas eu ainda sofro com isso.
+19507	El tratamiento de {1} ayudó un poco, pero sigues sufriendo de {2}. Esto va a requerir mucho más tratamiento.	O tratamento de {1} ajudou um pouco, mas você ainda sofre de {2}. Isso vai exigir muito mais tratamento.
+19508	Decidí no tratar mi {1}.	Decidi não tratar meu {1}.
+19509	Visita a un médico	Visite um médico
+19510	Ve a urgencias	Vá para o pronto-socorro
+19511	Prueba un tratamiento alternativo	Tente um tratamento alternativo
+19512	Visita al curandero	Visite o curandeiro
+19513	¿Correr a urgencias para que te revisen y te estabilicen?	Correr para o pronto-socorro para ser examinado e estabilizado?
+19514	Ve a urgencias	Vá ao pronto-socorro
+19515	No te puedes permitir ir a urgencias.	Você não pode pagar o pronto-socorro.
+19516	Urgencias estabilizaron mi {1}.	O pronto-socorro estabilizou meu {1}.
+19517	Fui a urgencias para que me revisaran.	Fui ao pronto-socorro para ser examinado.
+19518	Los médicos de urgencias estabilizaron tu {1} y te mandaron a casa. Deberías ver a un médico de todos modos.	Os médicos do pronto-socorro estabilizaram seu {1} e mandaram você para casa. Você ainda deveria ver um médico.
+19519	Los médicos de urgencias te revisaron, te arreglaron y te mandaron a casa.	Os médicos do pronto-socorro examinaram você, deram um jeito e mandaram você para casa.
+19520	No tienes ninguna enfermedad conocida que tratar. Visita a un médico primero para que te diagnostiquen.	Você não tem nenhuma doença conhecida para tratar. Visite um médico primeiro para receber um diagnóstico.
+19521	Prueba un tratamiento alternativo para una de tus dolencias.	Tente um tratamento alternativo para uma de suas doenças.
+19522	Elige tu dolencia:	Escolha sua doença:
+19523	¡Probé {1} y curó mi {2}!	Testei {1} e curou meu {2}!
+19524	¡{1} curó tu {2}!	{1} curou seu {2}!
+19525	Probé {1} para mi {2}, pero no sirvió.	Testei {1} para meu {2}, mas não ajudou.
+19526	Sin mejoras	Sem melhora
+19527	{1} no hizo nada por tu {2}.	{1} não fez nada pelo seu {2}.
+19528	Un curandero se ofrece a curar lo que sea que te aflija con un remedio ancestral. Los resultados no están garantizados.	Um curandeiro se oferece para curar o que aflige você com um remédio ancestral. Os resultados não são garantidos.
+19529	Deja que el curandero me trate	Deixe o curandeiro me tratar
+19530	No te puedes permitir al curandero.	Você não pode pagar o curandeiro.
+19531	Bebí una poción de un curandero.	Bebi uma poção de um curandeiro.
+19532	una poción de curandero	uma poção de curandeiro
+19533	¡Un curandero de algún modo curó mi {1}!	Um curandeiro de alguma forma curou meu {1}!
+19535	El remedio del curandero me hizo sentir mal.	O remédio do curandeiro me deixou doente.
+19536	Eso fue un error	Isso foi um erro
+19537	El remedio del curandero te hizo sentir muy mal.	O remédio do curandeiro fez você passar muito mal.
+19538	Fui a ver a un curandero, pero no pasó nada.	Fui ver um curandeiro, mas não aconteceu nada.
+19539	No pasó nada	Não aconteceu nada
+19540	El curandero cantó y agitó unas plumas. Te sientes exactamente igual.	O curandeiro cantou e agitou algumas penas. Você se sente exatamente igual.
+19541	Amor en el aire	Amor no ar
+19542	Notas que todos los que conoces están en pareja, menos tú.	Você nota que todo mundo que conhece está em casal, menos você.
+19543	Ayúdame a encontrar pareja	Me ajude a encontrar um par
+19544	La verdad, no me importa	Na verdade, tudo bem
+19545	Decidí que estaba bien estar soltero.	Decidi que estava tudo bem ser solteiro.
+19546	Tu oficial al mando informa al equipo de una misión de rescate que pondrá en peligro sus vidas en aguas infestadas de tiburones y pide voluntarios. ¿Qué harás?	Seu oficial comandante informa a equipe sobre uma missão de resgate que coloca vidas em risco em águas infestadas de tubarões e pede voluntários. O que você vai fazer?
+19547	Ofrecer como voluntario a otro guardia	Oferecer outro guarda como voluntário
+19548	Ofrecí a {1} como voluntario para una misión de rescate. Un tiburón lo mordió.	Ofereci {1} como voluntário para uma missão de resgate. Um tubarão mordeu ele.
+19549	Cebo para tiburones	Isca de tubarão
+19550	Ofreciste a {1} como voluntario para la misión. Un tiburón le arrancó un pedazo de la pierna y desde entonces no te habla.	Você ofereceu {1} como voluntário para a missão. Um tubarão arrancou um pedaço da perna dele e, desde então, ele não fala mais com você.
+19551	Ofrecí a {1} como voluntario para una misión de rescate en aguas infestadas de tiburones.	Ofereci {1} como voluntário para uma missão de resgate em águas infestadas de tubarões.
+19552	Ofreciste a {1} como voluntario. Completó el rescate y se llevó todo el mérito.	Você ofereceu {1} como voluntário. Ele completou o resgate e ficou com todo o crédito.
+19553	Esconderse en el baño	Se esconder no banheiro
+19554	Me escondí en el baño para evitar una misión de rescate peligrosa.	Me escondi no banheiro para evitar uma missão de resgate perigosa.
+19555	Tu oficial al mando te encontró escondido en el baño. No le hizo gracia.	Seu oficial comandante achou você escondido no banheiro. Não ficou nada impressionado.
+19556	Me ofrecí como voluntario para una misión de rescate y un tiburón me devoró.	Me ofereci como voluntário para uma missão de resgate e fui devorado por um tubarão.
+19557	¡Un tiburón me mordió durante una misión de rescate!	Fui mordido por um tubarão durante uma missão de resgate!
+19558	¡Ataque de tiburón!	Ataque de tubarão!
+19559	Un tiburón te mordió durante el rescate, pero aun así sacaste a todos del agua.	Um tubarão mordeu você durante o resgate, mas mesmo assim você tirou todo mundo da água.
+19560	Me ofrecí como voluntario para una misión de rescate y salvé a {1} personas de aguas infestadas de tiburones.	Me ofereci como voluntário para uma missão de resgate e salvei {1} pessoas de águas infestadas de tubarões.
+19561	¡Rescataste a {1} personas de aguas infestadas de tiburones sin un rasguño!	Você resgatou {1} pessoas de águas infestadas de tubarões sem um arranhão!
+19562	Pasar tiempo con mi familia me ayudó a recuperarme de la depresión.	Passar tempo com minha família me ajudou a me recuperar da depressão.
+19563	ayudó	ajudou
+19564	Me recuperé de {1}.	Me recuperei de {1}.
+19565	un infarto masivo	um infarto maciço
+19566	Mi {1} empeoró.	Meu {1} piorou.
+19567	complicaciones por el SIDA	complicações da AIDS
+19568	Descubrí que tengo {1}.	Descobri que tenho {1}.
+19569	Te has sentido fatal y descubriste que tienes {1}.	Você tem se sentido péssimo e descobriu que tem {1}.
+19570	Ve a un médico antes de que empeore.	Vá ao médico antes que piore.
+19571	Algo no se sentía bien ahí abajo.	Alguma coisa não estava bem ali embaixo.
+19572	Algo va mal	Algo está errado
+19573	Deberías ver a un médico.	Você deveria ver um médico.
+19574	sounds/a16_sndAgeButton.wav	sounds/a16_sndAgeButton.wav
+19575	sounds/a16_sndDismissButton.wav	sounds/a16_sndDismissButton.wav
+19576	sounds/a16_sndChoiceButton.wav	sounds/a16_sndChoiceButton.wav
+19577	freelife/sounds/atm.wav	freelife/sounds/atm.wav
+19578	sounds/church-bells.wav?v=2	sounds/church-bells.wav?v=2
+19579	sounds/tavern-chatter.wav?v=2	sounds/tavern-chatter.wav?v=2
+19580	sounds/a16_sndPetHorse.wav	sounds/a16_sndPetHorse.wav
+19581	sounds/gallop.wav?v=2	sounds/gallop.wav?v=2
+19582	sounds/rock-break.wav	sounds/rock-break.wav
+19583	sounds/coins-change.mp3	sounds/coins-change.mp3
+19584	sounds/fishing-reel.wav	sounds/fishing-reel.wav
+19585	sounds/fish-splash.wav	sounds/fish-splash.wav
+19586	sounds/wolf-howl.wav	sounds/wolf-howl.wav
+19587	sounds/a16_sndPetBird.wav	sounds/a16_sndPetBird.wav
+19588	sounds/axe-chop.wav	sounds/axe-chop.wav
+19589	sounds/tree-fall.wav	sounds/tree-fall.wav
+19590	sounds/saw-stroke.wav	sounds/saw-stroke.wav
+19591	sounds/crowd-jeer.wav	sounds/crowd-jeer.wav
+19592	sounds/trapdoor.wav	sounds/trapdoor.wav
+19593	sounds/rope-creak.wav	sounds/rope-creak.wav
+19594	sounds/fire-crackle.wav	sounds/fire-crackle.wav
+19595	sounds/anvil-hammer.wav	sounds/anvil-hammer.wav
+19596	sounds/a16_sndRiot.wav	sounds/a16_sndRiot.wav
+19597	sounds/store-bell.mp3	sounds/store-bell.mp3
+19598	a[href], .pet-rand, .ev-surprise	a[href], .pet-rand, .ev-surprise
+19599	.hr-sel select	.hr-sel select
+19600	sounds2018/a16_snd{1}.wav	sounds2018/a16_snd{1}.wav
+19601	sounds/a16_sndMainScreenToList.wav	sounds/a16_sndMainScreenToList.wav
+19602	freelife/dry-pop-up-notification-alert.wav	freelife/dry-pop-up-notification-alert.wav
+19603	freelife/sounds/dialog-pop.mp3	freelife/sounds/dialog-pop.mp3
+19604	freelife/sounds/ow.wav	freelife/sounds/ow.wav
+19605	freelife/sounds/girl-scream.wav	freelife/sounds/girl-scream.wav
+19606	freelife/sounds/dog-bark.wav	freelife/sounds/dog-bark.wav
+19607	freelife/sounds/police-siren.wav?v=2	freelife/sounds/police-siren.wav?v=2
+19608	freelife/sounds/cat-meow.wav	freelife/sounds/cat-meow.wav
+19609	freelife/sounds/pet-dog.wav	freelife/sounds/pet-dog.wav
+19610	freelife/sounds/thunder.wav	freelife/sounds/thunder.wav
+19611	freelife/kenney/voice-male-hold.ogg	freelife/kenney/voice-male-hold.ogg
+19612	freelife/sounds/man-scream.wav	freelife/sounds/man-scream.wav
+19613	freelife/sounds/monster-growl.wav	freelife/sounds/monster-growl.wav
+19614	freelife/sounds/monster-bite.wav	freelife/sounds/monster-bite.wav
+19615	freelife/sounds/bat-chirp.wav	freelife/sounds/bat-chirp.wav
+19616	freelife/kenney/fighter-fight.ogg	freelife/kenney/fighter-fight.ogg
+19617	freelife/kenney/voice-you_win.ogg	freelife/kenney/voice-you_win.ogg
+19618	freelife/kenney/voice-you_lose.ogg	freelife/kenney/voice-you_lose.ogg
+19619	freelife/sounds/achievement.mp3	freelife/sounds/achievement.mp3
+19620	freelife/sounds/age-up.mp3	freelife/sounds/age-up.mp3
+19621	freelife/sounds/heirloom-reveal.mp3	freelife/sounds/heirloom-reveal.mp3
+19622	freelife/sounds/flashlight.mp3	freelife/sounds/flashlight.mp3
+19623	freelife/sounds/car-horn.wav	freelife/sounds/car-horn.wav
+19624	freelife/kenney/voice-correct.ogg	freelife/kenney/voice-correct.ogg
+19625	freelife/sounds/buzzer.wav	freelife/sounds/buzzer.wav
+19626	freelife/kenney/voice-congratulations.ogg	freelife/kenney/voice-congratulations.ogg
+19627	sonidos	sons
+19628	error	erro
+19629	suspendido	suspenso
+19630	menú	menu
+19631	#jmX, #propX, #toast button	#jmX, #propX, #toast button
+19632	freelife/sounds/stat-up.mp3	freelife/sounds/stat-up.mp3
+19633	freelife/sounds/stat-down.mp3	freelife/sounds/stat-down.mp3
+19634	sounds/a16_sndMenuButton.wav	sounds/a16_sndMenuButton.wav
+19635	sounds/a16_sndFeedbackScenarioAppears.wav	sounds/a16_sndFeedbackScenarioAppears.wav
+19636	sounds/a16_sndFeedbackScenarioDismissed.wav	sounds/a16_sndFeedbackScenarioDismissed.wav
+19637	sounds/a16_sndScenarioAppears.wav	sounds/a16_sndScenarioAppears.wav
+19638	.ev-wrap, .jm-wrap	.ev-wrap, .jm-wrap
+19639	sounds/a16_sndAchievement.wav	sounds/a16_sndAchievement.wav
+19640	sounds/a16_sndDamageMale.wav	sounds/a16_sndDamageMale.wav
+19641	Meterse en una pelea	Entrar em uma briga
+19642	BitLife Recoded, ¡disfrútalo y espera bugs!	BitLife Recoded, aproveite e espere bugs!
+19643	Todos empezamos en algún lugar	Todos começamos em algum lugar
+19644	Envejece por primera vez	Envelheça pela primeira vez
+19645	sounds/a16_sndFlashlightOn.wav	sounds/a16_sndFlashlightOn.wav
+19646	sounds/a16_sndRewardReveal.wav	sounds/a16_sndRewardReveal.wav
+19647	sounds/a16_sndPray.wav	sounds/a16_sndPray.wav
+19648	¡Arrastra la linterna por el ático para descubrir tu próxima reliquia!	Arraste a lanterna pelo sótão para descobrir sua próxima relíquia!
+19649	encontrado	encontrado
+19650	linterna	lanterna
+19651	abuelo	avô
+19652	Vendí el {1} {2} de mi familia por {3}.	Vendi o {1} {2} da minha família por {3}.
+19653	Vendiste el {1} {2} de tu familia por {3}.	Você vendeu o {1} {2} da sua família por {3}.
+19654	Ver tu reliquia	Ver sua relíquia
+19655	Deshazte de eso	Se livre disso
+19656	descartar	descartar
+19657	Donarlo a caridad	Doar para caridade
+19658	Jugar con eso	Brincar com isso
+19659	Tiraste a la basura el {1} de tu familia. Tu {2} se quedaría destrozado.	Você jogou fora o {1} da sua família. Seu {2} ficaria de coração partido.
+19660	Tiré a la basura el {1} de mi familia.	Joguei fora o {1} da minha família.
+19661	Donaste el {1} de tu familia a caridad. Valía unos {2}.	Você doou o {1} da sua família para caridade. Valia cerca de {2}.
+19662	Doné el {1} de mi familia a caridad.	Doei o {1} da minha família para caridade.
+19663	Ya jugaste con tu {1} este año.	Você já brincou com seu {1} este ano.
+19664	Te lo pasaste genial.	Você se divertiu muito.
+19665	Te trajo viejos recuerdos familiares.	Isso trouxe velhas lembranças da família.
+19666	Te preguntaste quién más en la familia había jugado con eso.	Você se perguntou quem mais na família brincou com isso.
+19667	Fue más divertido de lo que esperabas.	Foi mais divertido do que você esperava.
+19668	Jugaste con el {1} de tu familia. {2}	Você brincou com o {1} da sua família. {2}
+19669	Jugué con el {1} de mi familia.	Brinquei com o {1} da minha família.
+19670	Esta reliquia {1} ha estado en tu familia durante {2} año{3}. Te la pasó tu {4} y la encontraste en el ático en {5}.	Esta relíquia {1} está na sua família há {2} ano{3}. Ela passou de geração em geração desde seu {4}, e você a encontrou no sótão em {5}.
+19671	En la familia desde	Na família desde
+19672	Años en la familia	Anos na família
+19673	¡Intenta vender el {1} de tu familia hoy!	Tente vender o {1} da sua família hoje!
+19674	Venderlo a una casa de empeño	Vender para uma casa de penhores
+19675	a una casa de empeño	para uma casa de penhores
+19676	¡Sube a subasta el {1} de tu familia!	Coloque o {1} da sua família em leilão!
+19677	En la familia desde:	Na família desde:
+19678	Elige tu precio inicial:	Escolha seu preço inicial:
+19679	Subastarlo	Leiloar
+19680	un curador de museo	um curador de museu
+19681	un tasador de antigüedades de la tele	um avaliador de antiguidades da TV
+19682	un aficionado a la historia	um fã de história
+19683	un cazador de recuerdos de celebridades	um caçador de memorabilia de celebridades
+19684	Subí a subasta el {1} de mi familia en {2}.	Coloquei o {1} da minha família em leilão em {2}.
+19685	en subasta a {1}	em leilão para {1}
+19686	Mejor no, guárdalo en la familia	Deixa assim, mantenha na família
+19687	Decidí conservar el {1} de mi familia.	Decidi manter o {1} da minha família.
+19688	¡Encontré {1} en el ático!	Encontrei {1} no sótão!
+19689	El valor promedio de este artículo {1} es {2}.	O valor médio deste item {1} é {2}.
+19690	¡Consigue otra reliquia ahora!	Pegue outra relíquia agora!
+19691	encoger	encolher
+19692	.hl-res .item	.hl-res .item
+19693	revelar	revelar
+19694	¡Descubre nuevas formas de jugar!	Descubra novas formas de jogar!
+19695	pum	bang
+19696	Guarda esta vida y empieza una nueva	Salve esta vida e comece uma nova
+19697	guardar	salvar
+19698	Guarda esta vida en este navegador	Salve esta vida neste navegador
+19699	usuarios	usuários
+19700	Ver vidas pasadas	Ver vidas passadas
+19701	Cambia entre tus vidas guardadas	Alterne entre suas vidas salvas
+19702	cosas	coisas
+19703	Usa tus ventajas de cuenta	Use seus benefícios de conta
+19704	comunidad	comunidade
+19705	Mira qué están haciendo otros jugadores de BitLife	Veja o que outros jogadores de BitLife estão fazendo
+19706	Conséguelas todas	Consiga todas
+19707	trofeo	troféu
+19708	Gánalas todas	Ganhe todas
+19709	cementerio	cemitério
+19710	Compara tus vidas pasadas	Compare suas vidas passadas
+19711	ciudades	cidades
+19712	¡Agrega tu ciudad natal al juego!	Adicione sua cidade natal ao jogo!
+19713	¡Haz que tus amigos aparezcan en el juego!	Faça seus amigos aparecerem no jogo!
+19714	Editar equipos deportivos	Editar times esportivos
+19715	¡Cambia los nombres de los equipos y más!	Mude os nomes dos times e mais!
+19716	Personaliza tus favoritos	Personalize seus favoritos
+19717	ayuda	ajuda
+19718	Busca ayuda y/o contáctanos	Busque ajuda e/ou entre em contato
+19719	Colecciónalos todos	Colecione todos
+19720	expansión	expansão
+19721	ajustes	configurações
+19722	temas	temas
+19723	canjear	resgatar
+19724	Canjea un código de regalo	Resgate um código de presente
+19725	Un proyecto hecho en solitario	Um projeto feito sozinho
+19726	Canjea un código de mod	Resgate um código de mod
+19727	Los paquetes de trabajos no están disponibles ahora mismo.	Os pacotes de empregos não estão disponíveis agora.
+19728	¡Guardaste esta vida en este navegador con éxito!	Você salvou esta vida neste navegador com sucesso!
+19729	No se pudo guardar esta vida. Tu navegador puede estar bloqueando el almacenamiento del sitio (modo privado) o está lleno.	Não foi possível salvar esta vida. Seu navegador pode estar bloqueando o armazenamento do site (modo privado) ou ele está cheio.
+19730	¿Quieres guardar tu vida actual y empezar una nueva?	Você quer salvar sua vida atual e começar uma nova?
+19731	Disfruta de nuestros memes favoritos de BitLife	Aproveite nossos memes favoritos de BitLife
+19732	Entérate de las noticias de BitLife en Snap	Fique por dentro das notícias do BitLife no Snap
+19733	Sigue nuestra cuenta oficial de TikTok	Siga nossa conta oficial no TikTok
+19734	Mantente al tanto de las noticias de BitLife HQ	Fique por dentro das notícias da BitLife HQ
+19735	Mira nuestros videos favoritos de BitLife	Veja nossos vídeos favoritos do BitLife
+19736	Visita nuestro centro de ayuda	Visite nosso centro de ajuda
+19737	Solicitar eliminación de cuenta	Solicitar exclusão de conta
+19738	Decirle a un amigo...	Contar pra um amigo...
+19739	niños	crianças
+19740	/api/leaderboard?sort={1}	/api/leaderboard?sort={1}
+19741	Jugado en {1}	Jogado em {1}
+19742	Todavía no hay puntuaciones en las últimas 24 horas.	Ainda não há pontuações nas últimas 24 horas.
+19743	Clasificaciones de hoy	Classificações de hoje
+19744	Estas son las mejores puntuaciones del mundo en las últimas 24 horas.	Estas são as melhores pontuações do mundo nas últimas 24 horas.
+19745	¡Cada nueva puntuación dura un día en la clasificación antes de caer!	Cada nova pontuação dura um dia na classificação antes de sair!
+19746	¡Las puntuaciones de patrimonio neto solo se registran para la primera vida de un legado!	As pontuações de patrimônio líquido só são registradas para a primeira vida de um legado!
+19747	Marca los rasgos con los que quieres nacer. Déjalos todos sin marcar para ninguno.	Marque os traços com os quais quer nascer. Deixe todos desmarcados para nenhum.
+19748	superestrella	superestrela
+19749	casas	casas
+19750	atributos	atributos
+19751	Modo Free Life	Modo Free Life
+19752	Aspecto azul nevado y pantalla de carga del pingüino	Visual azul nevado e tela de carregamento do pinguim
+19753	Modo Oscuro de Free Life	Modo Escuro do Free Life
+19754	El aspecto azul nevado sobre un fondo oscuro	O visual azul nevado sobre um fundo escuro
+19755	El clásico aspecto rojo de BitLife++ y su pantalla de carga	O clássico visual vermelho do BitLife++ e sua tela de carregamento
+19756	Bloqueado: necesita el mod Unlock All Themes	Bloqueado: precisa do mod Unlock All Themes
+19757	Ponte oscuro	Fique escuro
+19758	Ponte claro	Fique claro
+19759	Ponte superestrella	Fique superestrela
+19760	Ponte terrorífico	Fique assustador
+19761	Modo Oscuro de Halloween	Modo Escuro de Halloween
+19762	Ponte aún más terrorífico	Fique ainda mais assustador
+19763	Ponte festivo	Fique festivo
+19764	copo de nieve	floco de neve
+19765	Modo Oscuro de Navidad	Modo Escuro de Natal
+19766	Ponte helado	Fique gelado
+19767	Vive como una estrella	Viva como uma estrela
+19768	Modo Oscuro de Famous	Modo Escuro de Famous
+19769	Estrella de la noche	Estrela da noite
+19770	Vuelve a donde empezó todo	Volte ao começo de tudo
+19771	Activa Unlock All Themes en Ajustes → Mod Workshop para usar este tema.	Ative Unlock All Themes em Configurações → Mod Workshop para usar este tema.
+19772	Abuelos, tías, tíos y primos + 150 eventos familiares	Avós, tias, tios e primos + 150 eventos de família
+19773	Botón de conservar reliquia	Botão de manter relíquia
+19774	El botón de buscar reliquias se queda ahí y nunca desaparece	O botão de encontrar relíquias fica lá e nunca desaparece
+19775	Estatua dorada de Neko	Estatua dourada de Neko
+19776	Suerte en el juego: ganancias de casino y carreras de caballos un 20% mayores, y más suerte en el blackjack	Sorte no jogo: ganhos de cassino e corridas de cavalos 20% maiores e mais sorte no blackjack
+19777	Paquete de trabajos ampliado	Pacote de empregos ampliado
+19778	Trabajos de restaurante y grandes empleadores en Ocupación	Empregos de restaurante e grandes empregadores em Ocupação
+19779	Pinta, exhibe y vende tu arte desde Ocupación y Escuela. Gana seguidores y desbloquea Fama	Pinte, exponha e venda sua arte em Ocupação e Escola. Ganhe fãs e desbloqueie Fama
+19780	Los trabajos con título solo aceptan su especialidad principal (p. ej. Contador = Contabilidad), no las especialidades alternativas que reportaron los jugadores	Empregos com diploma só aceitam sua especialidade principal (ex.: Contador = Contabilidade), não as especialidades alternativas que os jogadores relataram
+19781	Omitir requisitos de trabajo	Pular requisitos de emprego
+19782	Solicita cualquier trabajo sin el título, especialidad, experiencia o rango adecuados (el comportamiento anterior)	Se candidate a qualquer emprego sem o diploma, especialidade, experiência ou patente certos (o comportamento antigo)
+19783	Precios de coches realistas	Preços de carros realistas
+19784	Precios reales para cada coche; los coches desgastados se venden por menos	Preços reais para cada carro; carros desgastados vendem por menos
+19785	Agrega coches personalizados como el Tesla Model S y el Cybertruck a los concesionarios	Adiciona carros personalizados como o Tesla Model S e o Cybertruck às concessionárias
+19786	Muestra el año calendario junto a tu edad, p. ej. "Age: 5 years (2019)"	Mostra o ano calendário ao lado da sua idade, ex.: "Age: 5 years (2019)"
+19787	Mira el árbol genealógico en Bienes: tu linaje hasta 5 generaciones atrás, con un antepasado famoso	Veja a árvore genealógica em Bens: sua linhagem até 5 gerações atrás, com um ancestral famoso
+19788	Muestra a tus difuntos antepasados del árbol genealógico en Relaciones fallecidas, dentro de Relaciones	Mostre seus antepassados falecidos da árvore genealógica em Relações falecidas, em Relacionamentos
+19789	Nacer en una vida famosa	Nascer em uma vida famosa
+19790	Tus padres y parientes pueden ser celebridades (incluso megaestrellas): su fama llena tu barra de Fama (hasta 100%) y te trae seguidores cada año	Seus pais e parentes podem ser celebridades (até megastrelas): a fama deles enche sua barra de Fama (até 100%) e traz seguidores todo ano
+19791	Nacer con genes raros como heterocromía, síndrome del hombre lobo o dos cabezas. Se heredan en familia y Vida personalizada te deja elegirlos	Nascer com genes raros como heterocromia, síndrome do lobisomem ou duas cabeças. Eles correm na família e a Vida personalizada deixa você escolher
+19792	Mostrar su dinero	Mostrar o dinheiro deles
+19793	Los perfiles muestran exactamente cuánto dinero tiene cada persona	Os perfis mostram exatamente quanto dinheiro cada pessoa tem
+19794	Dar dinero ilimitado	Dar dinheiro ilimitado
+19795	Dar dinero no tiene límite de $10,000. Dale a cualquiera todo lo que tengas	Dar dinheiro não tem limite de $10,000. Dê a qualquer pessoa tanto quanto você tiver
+19796	Sale con cuantas personas quieras a la vez, sin límite. ¡Tu pareja nunca se entera!	Saia com quantas pessoas quiser ao mesmo tempo, sem limite. Seu parceiro nunca descobre!
+19797	Carreras MOS (francotirador, médico, piloto…), selección de Fuerzas Especiales, guerras, medallas reales e insignias de rango	Carreiras MOS (atirador de elite, médico, piloto…), seleção de Forças Especiais, guerras, medalhas reais e insígnias de patente
+19798	Con Military Expanded, algunos soldados del Ejército y la Infantería de Marina tienen cicatrices o un parche en el ojo	Com Military Expanded, alguns soldados do Exército e da Marinha têm cicatrizes ou um tapa-olho
+19799	A los veteranos los invitan a reencuentros de guerra décadas después de haber servido	Os veteranos são convidados para reencontros de guerra décadas depois de terem servido
+19800	Medallas en Bienes	Medalhas em Bens
+19801	Muestra cada medalla militar que has ganado en tu pestaña de Bienes	Mostre todas as medalhas militares que você ganhou na aba Bens
+19802	papal	papal
+19803	Ampliación de carrera papal	Expansão de carreira papal
+19804	Sigue una carrera en la Iglesia católica, asciende en el clero, conviértete en cardenal, participa en cónclaves papales y, quizá, llega a ser Papa.	Siga uma carreira na Igreja Católica, suba no clero, torne-se cardeal, participe de conclaves papais e, quem sabe, vire Papa.
+19805	Agrega Vender drogas a Actividades → Crimen	Adiciona Vender drogas em Atividades → Crime
+19806	Robo de coches ilimitado	Roubo de carros ilimitado
+19807	Roba cuantos coches quieras cada año en lugar de 4. ¡Aún pueden atraparte!	Roube quantos carros quiser a cada ano em vez de 4. Você ainda pode ser pego!
+19808	Nunca te atrapan por asesinato ni robo de coches. La policía nunca aparece.	Você nunca é pego por assassinato ou roubo de carros. A polícia nunca aparece.
+19809	Siempre ganar en los tribunales	Sempre ganar nos tribunais
+19810	Cada caso termina en No culpable, sin importar tu abogado ni tu declaración.	Todo caso termina em Inocente, não importa seu advogado nem sua declaração.
+19811	Ir a prisión por asesinato te hace famoso. Más muertos significan más fama: un conteo enorme se mantiene en 100% durante años, luego se desvanece lentamente pero nunca desaparece del todo	Ir para a prisão por assassinato deixa você famoso. Mais mortes significam mais fama: um número enorme fica em 100% por anos, depois desaparece devagar, mas nunca some completamente
+19812	Mira todos los animales exóticos a la vez, con precios reales (Actividades → Mascotas)	Veja todos os animais exóticos de uma vez, com preços reais (Atividades → Pets)
+19813	Enfermedades de mascotas ampliadas	Doenças de pets ampliadas
+19814	Más de 100 enfermedades específicas por especie para perros, gatos, mamíferos pequeños, aves, reptiles, peces, caballos y exóticos (las 6 enfermedades de mascotas propias de BitLife siempre están activas)	Mais de 100 doenças específicas por espécie para cães, gatos, mamíferos pequenos, aves, répteis, peixes, cavalos e exóticos (as 6 doenças de pets do próprio BitLife sempre estão ativas)
+19815	Alertas de síntomas de mascotas	Alertas de sintomas de pets
+19816	Cuando una mascota muestra signos de enfermedad, una ventana emergente te avisa, además de la historia de vida	Quando um pet mostra sinais de doença, um popup avisa você, além da história de vida
+19817	Cualquier peinado y color, más arcoíris y más de 100 efectos de cabello	Qualquer penteado e cor, mais arco-íris e mais de 100 efeitos de cabelo
+19818	61 peinados nuevos (hip-hop, largo, corto, además de afros, twists, locs y trenzas) en Barber Expanded	61 novos penteados (hip-hop, longo, curto, além de afros, twists, locs e tranças) no Barber Expanded
+19819	Compton Varrio Locos 38St Gang	Compton Varrio Locos 38St Gang
+19820	Tatuajes faciales de pandilla: letras en la frente, piezas en la mejilla de 38th St & Street Gang y lágrimas. Elígelos en Nueva vida → Apariencia o Salón y spa	Tatuagens faciais de gangue: letras na testa, peças na bochecha de 38th St & Street Gang e lágrimas. Escolha em Nova vida → Aparência ou Salão & Spa
+19821	Tatuajes faciales de pandilla: piezas en la frente de BLP Trece, Barrio Pardinos X3 y Got Barrio P, piezas en la mejilla de BLSP y lágrimas	Tatuagens faciais de gangue: peças na testa de BLP Trece, Barrio Pardinos X3 e Got Barrio P, peças na bochecha de BLSP e lágrimas
+19822	Tatuajes faciales de pandilla: piezas en la frente de Bloodel Street Piru, Everybody Killa Gangstaz, WBLST y SPY BP, piezas en la mejilla de BLST Piru y Bloodel Piru, y lágrimas	Tatuagens faciais de gangue: peças na testa de Bloodel Street Piru, Everybody Killa Gangstaz, WBLST e SPY BP, peças na bochecha de BLST Piru e Bloodel Piru e lágrimas
+19823	Color de piel y ojos, más arcoíris y otros efectos	Cor de pele e olhos, mais arco-íris e outros efeitos
+19824	Desbloquear todos los sombreros y gafas de sol	Desbloquear todos os chapéus e óculos de sol
+19825	Lleva cualquier sombrero, corona o gafas	Use qualquer chapéu, coroa ou óculos
+19826	Desbloquear todos los temas	Desbloquear todos os temas
+19827	Usa todos los temas en Menú principal → Temas: Superstar, Halloween, Christmas, Famous, Rainbow y 2018 BitLife	Use todos os temas no Menu principal → Temas: Superstar, Halloween, Christmas, Famous, Rainbow e 2018 BitLife
+19828	Haz el tuyo	Faça o seu
+19829	Crea tus propios mods	Crie seus próprios mods
+19830	BitLife++ es una versión recodificada por completo, o sea que puedes descargar el código fuente, meterlo en cualquier editor de código con IA y conseguir cualquier opción que siempre quisiste en BitLife. ¡Mira mi código fuente aquí!	BitLife++ é uma versão totalmente recodificada, ou seja, você pode baixar o código-fonte, colocar em qualquer editor de código com IA e conseguir qualquer opção que sempre quis no BitLife. Veja meu código-fonte aqui!
+19831	arrastrando	arrastando
+19832	rueda	roda
+19833	príncipe	príncipe
+19834	{1} de {2} (consorte)	{1} de {2} (consorte)
+19835	{1}, consorte de {2}	{1}, consorte de {2}
+19836	duque	duque
+19837	Fundó la línea real como {1}	Fundou a linhagem real como {1}
+19838	Se casó con la familia real y se convirtió en {1}	Casou-se com a família real e tornou-se {1}
+19839	Reinó como {1}	Reinou como {1}
+19840	En {1}, {2} se convirtió en el primer {3} de {4} y fundó la dinastía de la que desciende todo {5} real.	Em {1}, {2} tornou-se o primeiro {3} de {4}, fundando a dinastia da qual descende todo {5} real.
+19841	{1} se casó con la familia real y desde {2} reinó junto al cónyuge de {3} como {4}.	{1} casou-se com a família real e, a partir de {2}, reinou ao lado do cônjuge de {3} como {4}.
+19842	{1} heredó el título en {2} y reinó como {3}.	{1} herdou o título em {2} e reinou como {3}.
+19843	monedas, sellos y billetes	moedas, selos e notas
+19844	las paredes de cada gran casa	as paredes de cada grande casa
+19845	{1} era una de las personas más reconocidas de {2}, con el retrato de {3} en {4}.	{1} era uma das pessoas mais reconhecidas de {2}, com o retrato de {3} em {4}.
+19846	Boda real vista por	Casamento real assistido por
+19847	toda la nación	toda a nação
+19848	miles	milhares
+19849	Coronado en {1}	Coroado em {1}
+19850	Una fortuna de {1}	Uma fortuna de {1}
+19851	Jefe de Estado	Chefe de Estado
+19852	Miembro de la nobleza	Membro da nobreza
+19853	tiara	tiara
+19854	{1} {2} sigue guardado en la bóveda familiar.	{1} {2} ainda fica guardado no cofre da família.
+19855	el valle del Dordogne (Francia)	o vale de Dordogne (França)
+19856	el Jura de Suabia (Alemania)	o Jura da Suábia (Alemanha)
+19857	las montañas de Altai (Siberia)	as montanhas de Altai (Sibéria)
+19858	las montañas de Zagros (Irán)	as montanhas de Zagros (Irã)
+19860	la costa cantábrica (España)	a costa cantábrica (Espanha)
+19861	los montes Cárpatos (Rumania)	as montanhas dos Cárpatos (Romênia)
+19862	una fiebre en el primer invierno	uma febre no primeiro inverno
+19863	el frío intenso de un invierno de la Edad de Hielo	o frio intenso de um inverno da Idade do Gelo
+19864	hambre, en un invierno en que nunca llegaron los rebaños de renos	fome, num inverno em que as manadas de renas nunca chegaram
+19865	un ataque de lobo al recoger bayas	um ataque de lobo ao colher bagas
+19866	caer desde las rocas sobre la cueva	cair das rochas acima da caverna
+19867	ahogarse pescando en el río	se afogar pescando no rio
+19868	una fiebre que ninguna hierba podía curar	uma febre que nenhuma erva podia curar
+19869	comer hongos venenosos	comer cogumelos venenosos
+19870	la mordedura de una víbora	a mordida de uma víbora
+19871	un ataque de hiena cerca del campamento	um ataque de hiena perto do acampamento
+19872	ser pisoteado por un mamut lanudo durante una cacería	ser pisoteado por um mamute lanoso durante uma caçada
+19873	un ataque de oso de las cavernas	um ataque de urso das cavernas
+19874	una emboscada de un gato diente de sable	uma emboscada de um gato dente-de-sabre
+19875	una herida de lanza infectada	um ferimento de lança infectado
+19876	una pelea con un clan rival	uma briga com um clã rival
+19877	caer al agua al romperse el hielo fino del río	cair na água ao quebrar o gelo fino do rio
+19878	congelarse en una ventisca al rastrear renos	congelar numa tempestade de neve ao rastrear renas
+19879	un derrumbe de rocas dentro de la cueva	uma queda de rochas dentro da caverna
+19880	un diente infectado	um dente infectado
+19881	morir de hambre durante un invierno cruel	morrer de fome durante um inverno rigoroso
+19882	ser embestido por un rinoceronte lanudo	ser chifrado por um rinoceronte lanoso
+19883	complicaciones en el parto	complicações no parto
+19884	vejez (¡raro en la Edad de Piedra!)	velhice (raro na Idade da Pedra!)
+19885	neumonía en un largo invierno de la Edad de Hielo	pneumonia num longo inverno da Idade do Gelo
+19886	una cadera rota que nunca sanó	um quadril quebrado que nunca sarou
+19887	una fiebre en la temporada fría	uma febre na estação fria
+19888	complicaciones al dar a luz a {1}	complicações ao dar à luz {1}
+19889	porcelana	porcelana
+19890	Famoso a nivel regional	Famoso regionalmente
+19891	Reconocido a nivel nacional	Reconhecido nacionalmente
+19892	Conocido internacionalmente	Conhecido internacionalmente
+19893	Dejó atrás a {1}	Deixou para trás {1}
+19894	No se pudo guardar esta vida	Não foi possível salvar esta vida
+19895	Mi {1}, {2}, falleció. Yo sigo con la historia de la familia.	Meu {1}, {2}, faleceu. Eu continuo a história da família.
+19896	Heredé {1} del testamento de mi {2}.	Herdei {1} do testamento do meu {2}.
+19897	El testamento de mi {1} no me dejó nada.	O testamento do meu {1} não me deixou nada.
+19898	cosa	coisa
+19899	Mi {1} nunca escribió un testamento, así que no heredé ninguna{2}.	Meu {1} nunca escreveu um testamento, então não herdei nenhuma{2}.
+19900	mineral y minerales	minério e minerais
+19901	El {1} de la familia pasó a mí.	O {1} da família passou para mim.
+19902	Heredé la granja familiar, {1}.	Herdei a fazenda da família, {1}.
+19903	Heredé el oro y la plata de la familia.	Herdei o ouro e a prata da família.
+19904	Heredé el negocio familiar{1}: {2}.	Herdei o negócio da família{1}: {2}.
+19905	Heredé la patente familiar{1} y las regalías que vienen con {2}.	Herdei a patente da família{1} e os royalties que vêm com {2}.
+19906	Heredé el {1} familiar.	Herdei o {1} da família.
+19907	Un nuevo capítulo	Um novo capítulo
+19908	Ahora eres {1}, el {2} de {3}.	Agora você é {1}, o {2} de {3}.
+19909	¡Tu {1} te dejó {2} en el testamento!	Seu {1} deixou {2} para você no testamento!
+19910	El testamento de tu {1} no te dejó nada.	O testamento do seu {1} não deixou nada para você.
+19911	Tu {1} no escribió un testamento, así que no heredaste nada.	Seu {1} não escreveu um testamento, então você não herdou nada.
+19912	Cambié de vida desde {1}, mi {2}.	Troquei de vida a partir de {1}, meu {2}.
+19913	Estoy viviendo una vida completamente nueva.	Estou vivendo uma vida totalmente nova.
+19914	Cambio de vida	Troca de vida
+19915	Ahora eres {1}{2}.	Agora você é {1}{2}.
+19916	La vida de {1} quedó guardada. Puedes volver cuando quieras desde Mis vidas.	A vida de {1} foi salva. Você pode voltar quando quiser em Minhas vidas.
+19917	¿Dejar esta vida y jugar como {1} {2} (edad {3})? Esta vida se guarda primero.	Sair desta vida e jogar como {1} {2} (idade {3})? Esta vida é salva primeiro.
+19918	Edita a tu {1}, un {3} de {2} años.	Edite seu {1}, um {3} de {2} anos.
+19919	{1}Editar apariencia de {2}	{1}Editar aparência de {2}
+19920	{1}Editar atributos de {2}	{1}Editar atributos de {2}
+19921	green nl-save nl-end	green nl-save nl-end
+19922	¡Empieza una nueva vida!	Comece uma nova vida!
+19923	¡Empieza la vida de {1}!	Comece a vida de {1}!
+19924	país	país
+19925	{1}Rasgo genético: {2}	{1}Traço genético: {2}
+19926	Selecciona tu talento especial	Selecione seu talento especial
+19927	{1}Selecciona tu apariencia	{1}Selecione sua aparência
+19928	{1}Selecciona tus atributos	{1}Selecione seus atributos
+19929	¡Empieza con $1,000,000!	Comece com $1,000,000!
+19930	Empieza famoso	Comece famoso
+19931	empezar	começar
+19932	millón	milhão
+19933	¡Elige el año en que naces (1800-1899 o 1980-2026)!	Escolha o ano em que você nasce (1800-1899 ou 1980-2026)!
+19934	{1}Año aleatorio	{1}Ano aleatório
+19935	¡Elige cuantos quieras!	Escolha quantos quiser!
+19936	¡Elige tu país!	Escolha seu país!
+19937	¡Elige tu lugar o ciudad!	Escolha seu lugar ou cidade!
+19938	¡Elige tu estatus real!	Escolha seu status real!
+19939	¡Elige tu talento especial!	Escolha seu talento especial!
+19940	gafas	óculos
+19941	barba	barba
+19942	ceja	sobrancelha
+19943	¡Edita la apariencia de tu {1}!	Edite a aparência do seu {1}!
+19944	¡Selecciona tu apariencia!	Selecione sua aparência!
+19945	.nl-look canvas	.nl-look canvas
+19946	más cercano	mais próximo
+19947	¡Edita los atributos de tu {1}!	Edite os atributos do seu {1}!
+19948	¡Selecciona tus atributos!	Selecione seus atributos!
+19949	¡Selecciona tu nombre!	Selecione seu nome!
+19950	¡Elige tu género!	Escolha seu gênero!
+19951	Mejor primera compra	Melhor primeira compra
+19952	¡Compra el paquete y ahorra! ¡Desbloquea los 11 paquetes de trabajos!	Compre o pacote e economize! Desbloqueie todos os 11 pacotes de empregos!
+19953	Modo Luchador Definitivo	Modo Lutador Definitivo
+19954	¡Prepárate para la pelea!	Se prepare para a briga!
+19955	vampiro	vampiro
+19956	¡Ve a por la yugular!	Vá para a jugular!
+19957	director	diretor
+19958	¡Conviértete en un director de cine famoso!	Torne-se um diretor de cinema famoso!
+19959	lujo	luxo
+19960	Disfruta de las ventajas de ser VIP	Aproveite as vantagens de ser VIP
+19961	al aire libre	ao ar livre
+19962	Pasa tiempo con la Madre Naturaleza	Passe tempo com a Mãe Natureza
+19963	Paquete de expansión de casero	Pacote de expansão de senhorio
+19964	Paquete de expansión de casino	Pacote de expansão de cassino
+19965	¡Abre tu propio casino!	Abra seu próprio cassino!
+19966	carreras	corridas
+19967	Paquete de expansión de carreras	Pacote de expansão de corridas
+19968	¡Compite en carreras callejeras, carreras de F1 y más!	Compita em corridas de rua, corridas de F1 e mais!
+19969	Paquete de expansión de agente secreto	Pacote de expansão de agente secreto
+19970	¡Crea una agencia de espías, acepta misiones y más!	Crie uma agência de espiões, aceite missões e mais!
+19971	Paquete de expansión del mercado negro	Pacote de expansão do mercado negro
+19972	¡Abre un museo, compra contrabando y más!	Abra um museu, compre contrabando e mais!
+19973	Paquete de expansión del zoológico	Pacote de expansão do zoológico
+19974	¡Abre tu propio zoológico, colecciona animales y más!	Abra seu próprio zoológico, colecione animais e mais!
+19975	Paquete Fama y Fortuna	Pacote Fama e Fortuna
+19976	¡Vive una vida de puro lujo!	Viva uma vida de puro luxo!
+19977	Paquete El crimen paga	Pacote O crime compensa
+19978	¡Conviértete en el señor del crimen más rico de BitLife!	Torne-se o chefão do crime mais rico do BitLife!
+19979	fiesta	festa
+19980	Paquete Fiestero	Pacote Festeiro
+19981	¡Date un paseo por el lado SALVAJE de la vida!	Dê um passeio no lado SELVAGEM da vida!
+19982	¡Consigue ese trabajo soñado!	Consegue aquele emprego dos sonhos!
+19983	diploma	diploma
+19984	¡Conviértete en experto de la noche a la mañana!	Torne-se especialista da noite para o dia!
+19985	¡Haz los bebés de tus sueños!	Faça os bebês dos seus sonhos!
+19986	pulsera	pulseira
+19987	¡Conviértete en la persona favorita de todos!	Torne-se a pessoa favorita de todos!
+19988	hoja	lâmina
+19989	La hoja del asesino	A lâmina do assassino
+19990	¡Salirte con la tuya con un asesinato!	Sair impune de um assassinato!
+19991	aura	aura
+19992	¡Genera estilo sin esfuerzo!	Gere estilo sem esforço!
+19993	hada	fada
+19994	Toque de polvo de hadas	Toque de pó de fada
+19995	¡Embárcate en el viaje de tu vida!	Embarque na viagem da sua vida!
+19996	¡Haz que llueva dinero!	Faça chover dinheiro!
+19997	¡Emigra a cualquier país que elijas!	Emigre para qualquer país que escolher!
+19998	cerdito	porquinho
+19999	Alcancía dorada	Cofrinho dourado
+20000	¡Hazte rico rápido!	Fique rico rápido!
+20001	¡Mantén todos tus vehículos automáticamente!	Mantenha todos os seus veículos automaticamente!
+20002	¡Nunca contraigas una ETS!	Nunca pegue uma DST!
+20003	racha	sequência
+20004	Protectores de racha (x5)	Protetores de sequência (x5)
+20005	¡Mantén viva tu racha!	Mantenha sua sequência viva!
+20006	¡Accede a desafíos anteriores!	Ganhe acesso a desafios anteriores!
+20007	¡Desbloquea un tema exclusivo de BitLife!	Desbloqueie um tema exclusivo do BitLife!
+20008	¡Elimina los anuncios, juega generaciones ilimitadas y más!	Se livre dos anúncios, jogue gerações ilimitadas e mais!
+20009	¡Personaliza vidas nuevas, empieza vidas reales y más!	Personalize vidas novas, comece vidas reais e mais!
+20010	inversor	investidor
+20011	Paquete de expansión de inversor	Pacote de expansão de investidor
+20012	¡Invierte en acciones, bonos, criptomonedas y más!	Invista em ações, títulos, cripto e mais!
+20013	secta	seita
+20014	Paquete de expansión SECTA	Pacote de expansão SEITA
+20015	¡Crea una comuna, lidera a tus seguidores y más!	Crie uma comuna, lidere seus seguidores e mais!
+20016	¡Dispara tu camino al estrellato!	Decole rumo ao estrelato!
+20017	¡Postúlate a un cargo político!	Concorra a um cargo político!
+20018	Máquina del tiempo ilimitada	Máquina do tempo ilimitada
+20019	¡Viaja al pasado cuantas veces quieras!	Volte no tempo quantas vezes quiser!
+20020	sounds/a16_sndBoost.wav	sounds/a16_sndBoost.wav
+20021	Un amigo que es cirujano plástico te ofrece una operación gratis de implantes de pantorrillas, y te dice que no conoce a nadie que los aproveche tanto como tú.	Um amigo que é cirurgião plástico te oferece um procedimento grátis de implantes de panturrilha, dizendo que não conhece ninguém que aproveite tanto quanto você.
+20022	Últimamente te has sentido inseguro por tus pantorrillas delgadas.	Ultimamente você tem se sentido inseguro com suas panturrilhas magras.
+20023	¡Hagámoslo!	Vamos fazer isso!
+20024	No, quizá pruebe el ciclismo	Não, talvez eu tente andar de bicicleta
+20025	Aceptaste la oferta de un cirujano plástico de implantes de pantorrillas gratis.	Você aceitou a oferta de um cirurgião plástico de implantes de panturrilha grátis.
+20026	Un maquillador de famosos te descubre en el centro comercial y te ofrece un cambio de look gratis, diciendo que tienes mucho que arreglar.	Um maquiador de celebridades te nota no shopping e oferece uma transformação grátis, dizendo que você é uma obra em andamento.
+20027	Últimamente has evitado los espejos.	Ultimamente você tem evitado espelhos.
+20028	¡Cámbame el look!	Me transforme!
+20029	No gracias, me gusta mi cara	Não obrigado, eu gosto da minha cara
+20030	Dejaste que un maquillador de celebridades te diera un cambio de look gratis.	Você deixou um maquiador de celebridades te dar uma transformação grátis.
+20031	Tu dentista se ofrece a blanquearte y alinearte los dientes gratis si dejas que usen tus fotos de antes y después en un anuncio.	Seu dentista se oferece para clarear e alinhar seus dentes de graça se você deixar usar suas fotos de antes e depois num anúncio.
+20032	Llevas meses escondiendo tu sonrisa.	Você tem escondido seu sorriso há meses.
+20033	¡Sonríe para la cámara!	Sorria para a câmera!
+20034	No, me quedo con mis dientes	Não, fico com meus dentes
+20035	Dejaste que tu dentista arreglara tus dientes a cambio de unas fotos de antes y después.	Você deixou seu dentista arrumar seus dentes em troca de umas fotos de antes e depois.
+20036	Un entrenador personal de tu gimnasio dice que puede cambiar tu cuerpo en un mes, gratis, si sigues su plan.	Um personal trainer da sua academia diz que pode mudar seu corpo em um mês, de graça, se você seguir o plano dele.
+20037	Te has sentido fuera de forma.	Você tem se sentido fora de forma.
+20038	¡Apúntame!	Me inscreva!
+20039	No, el sofá me llama	Não, o sofá está chamando
+20040	Aceptaste un mes gratis de entrenamientos con un entrenador personal.	Você aceitou um mês grátis de treinos com um personal trainer.
+20041	Un amigo dermatólogo te ofrece un tratamiento láser gratis para la piel, y dice que ha visto cosas peores, pero no mucho.	Um amigo dermatologista oferece um tratamento a laser grátis para sua pele, dizendo que já viu pior, mas não muito.
+20042	Últimamente tu piel te ha estado molestando.	Ultimamente sua pele tem incomodado você.
+20043	¡A zapear!	Vamos zapear!
+20044	No, los láseres me dan miedo	Não, laser me assusta
+20045	Recibiste un tratamiento láser de piel gratis de un amigo dermatólogo.	Você ganhou um tratamento a laser na pele de graça de um amigo dermatologista.
+20046	Mucho más sexy	Muito mais sexy
+20047	Transformación	Transformação
+20048	Te ves bien	Você está ótimo
+20049	Te sientes genial	Você se sente ótimo
+20050	Sano como un caballo	Saudável como um cavalo
+20051	Un nuevo aire	Uma nova vida
+20052	Un amigo te dice que su equipo de remo necesita un reemplazo esta semana.	Um amigo te diz que a equipe de remo dele precisa de um substituto nesta semana.
+20053	Has estado buscando la forma de ponerte un poco más firme.	Você tem procurado uma forma de ficar um pouco mais definido.
+20054	¿Dónde está mi remo?	Onde está meu remo?
+20055	Prefiero lanchas rápidas	Eu prefiro lanchas rápidas
+20056	Supliste en el equipo de remo de tu amigo durante la semana.	Você substituiu no time de remo do seu amigo durante a semana.
+20057	Un nutricionista en el mercado de agricultores se ofrece a planear tus comidas durante un mes, gratis.	Um nutricionista na feira livre se oferece para planejar suas refeições por um mês, de graça.
+20058	Últimamente solo has comido comida basura.	Ultimamente você só tem comido comida lixo.
+20059	¡Dame de comer col rizada!	Me dê couve!
+20060	Pásame las papas fritas	Passe as batatas fritas
+20061	Dejaste que un nutricionista planeara tus comidas durante un mes.	Você deixou um nutricionista planejar suas refeições por um mês.
+20062	Un vecino te invita a unirte a su club de running matutino.	Um vizinho te convida para entrar no clube de corrida matinal dele.
+20063	Estos días te quedas sin aliento solo de subir las escaleras.	Esses dias você fica sem fôle só de subir as escadas.
+20064	¡Atame las zapatillas!	Amarre meus tênis!
+20065	Yo solo corro tarde	Eu só corro atrasado
+20066	Te uniste al club de running matutino de tu vecino.	Você entrou no clube de corrida matinal do seu vizinho.
+20067	Un instructor de yoga te ofrece un mes de clases gratis después de verte encorvado sobre el teléfono.	Um instrutor de yoga oferece um mês de aulas grátis depois de ver você curvado sobre o celular.
+20068	Tu espalda te ha estado matando.	Suas costas têm matado você.
+20069	No soy tan flexible	Não sou tão flexível
+20070	Tomaste un mes gratis de clases de yoga.	Você fez um mês grátis de aulas de yoga.
+20071	Buenas vibras	Boas vibrações
+20072	Te sientes mejor	Você se sente melhor
+20073	Le diste la vuelta a esa cara de enojo	Virou essa carranca de cabeça para baixo
+20074	Un amigo te invita a pasar la tarde abrazando cachorritos en un refugio de animales.	Um amigo te convida para passar a tarde abraçando filhotes num abrigo de animais.
+20075	Últimamente te has sentido deprimido.	Ultimamente você tem se sentido para baixo.
+20076	¡Que vengan los cachorritos!	Traga os filhotes!
+20077	Yo soy más de gatos	Eu sou mais de gatos
+20078	Pasaste la tarde abrazando cachorritos en un refugio de animales.	Você passou a tarde abraçando filhotes num abrigo de animais.
+20079	Tu compañero de trabajo tiene una entrada extra para un show de comedia en vivo esta noche.	Seu colega de trabalho tem um ingresso sobrando para um show de stand-up hoje à noite.
+20080	No te has reído en semanas.	Você não ri há semanas.
+20081	¡Hazme reír!	Me faça rir!
+20082	Prefiero estar deprimido	Eu prefiro ficar mal-humorado
+20083	Fuiste a un show de comedia en vivo y te reíste hasta llorar.	Você foi a um show de stand-up e riu até chorar.
+20084	Un spa te ofrece un día gratis de mimos por ser su cliente número un millón.	Um spa oferece um dia grátis de mimos por você ser o cliente número um milhão.
+20085	Has estado muy estresado.	Você tem estado muito estressado.
+20086	¡Date un gusto!	Se dê um presente!
+20087	Los spas están sobrevalorados	Spas são superestimados
+20088	Pasaste un día gratis siendo mimado en un spa.	Você passou um dia grátis sendo mimado num spa.
+20089	Cerebro grande	Cérebro grande
+20090	Sabelotodo	Sabe-tudo
+20091	El conocimiento es poder	Conhecimento é poder
+20092	Un profesor jubilado se ofrece a darte clases gratis a cambio de ayuda con su jardín.	Um professor aposentado se oferece para te dar aulas grátis em troca de ajuda no jardim dele.
+20093	Últimamente te has sentido un poco lento.	Ultimamente você tem se sentido um pouco lento.
+20094	¡Enséñame todo!	Me ensine tudo!
+20095	Odio la jardinería	Eu odeio jardinagem
+20096	Cambiaste trabajo de jardín por clases de un profesor jubilado.	Você trocou trabalho de jardim por aulas de um professor aposentado.
+20097	Tu biblioteca local ofrece un curso gratis de lectura rápida.	Sua biblioteca local oferece um curso grátis de leitura rápida.
+20098	No has terminado un libro en años.	Você não termina um livro há anos.
+20099	Los libros son aburridos	Livros são chatos
+20100	Tomaste un curso gratis de lectura rápida en la biblioteca.	Você fez um curso grátis de leitura rápida na biblioteca.
+20101	Un club de ajedrez te invita a jugar con ellos cada semana.	Um clube de xadrez te convida para jogar com eles toda semana.
+20102	Has estado buscando una forma de agudizar tu mente.	Você tem procurado uma forma de aguçar sua mente.
+20103	El ajedrez es para nerds	Xadrez é para nerds
+20104	Te uniste a un club de ajedrez semanal.	Você entrou num clube de xadrez semanal.
+20105	Dejé pasar la oportunidad de mejorar mi {1}.	Pulei a chance de melhorar meu {1}.
+20106	propio	próprio
+20107	color-mix(in srgb, {1} 16%, #26282c)	color-mix(in srgb, {1} 16%, #26282c)
+20108	Restaurar compra anterior...	Restaurar compra anterior...
+20109	¡Ya tienes {1}!	Você já tem {1}!
+20110	sounds/a16_sndLuxuryPurchaseAsset.wav	sounds/a16_sndLuxuryPurchaseAsset.wav
+20111	¡Gracias!	Obrigado!
+20112	{1} es tuyo ahora. ¡Disfrútalo!	{1} é seu agora. Aproveite!
+20113	Restaurar compra anterior	Restaurar compra anterior
+20114	¡Todas tus compras anteriores se han restaurado!	Todas as suas compras anteriores foram restauradas!
+20115	sin partida jugable	sem save jogável
+20116	eligiendo	escolhendo
+20117	No se encontró la vida guardada, empezando una nueva	Vida salva não encontrada, começando uma nova
+20118	basura	lixo
+20119	Última vez jugado {1}	Última vez jogado {1}
+20120	Empezar nueva vida	Começar nova vida
+20121	Vidas en este dispositivo	Vidas neste dispositivo
+20122	¿Seguro que quieres borrar a {1} {2}? Esto no se puede deshacer.	Tem certeza que quer apagar {1} {2}? Isso não pode ser desfeito.
+20123	Cambiar a esta vida	Mudar para esta vida
+20124	Borrar esta vida	Apagar esta vida
+20125	Última vez jugado:	Última vez jogado:
+20126	¿Dejar esta vida y continuar como {1} {2}? Esta vida se guarda primero.	Sair desta vida e continuar como {1} {2}? Esta vida é salva primeiro.
+20127	Ahora, elige a alguien para ser.	Agora, escolha alguém para ser.
+20128	Conviértete en otra persona en BitLife.	Torne-se outra pessoa no BitLife.
+20129	Empieza eligiendo un género.	Comece escolhendo um gênero.
+20130	sano	saudável
+20131	inteligente	inteligente
+20132	atractivo	atraente
+20133	insalubre	insalubre
+20134	poco atractivo	pouco atraente
+20135	y eres {1}	e você é {1}
+20136	{1} eres bastante {2}	{1} você é bem {2}
+20137	#log .year h3	#log .year h3
+20138	¡Tu nueva vida ha comenzado!	Sua nova vida começou!
+20139	a envejecer de un año a la vez.	a envelhecer um ano por vez.
+20140	Toma decisiones sobre la marcha.	Tome decisões no caminho.
+20141	Vive tu mejor (o peor) vida.	Viva sua melhor (ou pior) vida.
+20142	Con sus propias palabras	Com suas próprias palavras
+20143	Acta de nacimiento perdida	Registro de nascimento perdido
+20144	Un retrato antiguo	Um retrato antigo
+20145	Un oficio olvidado	Um ofício esquecido
+20146	Una carta perdida	Uma carta perdida
+20147	Una reliquia muy querida	Uma relíquia muito querida
+20149	Una lápida reparada	Uma lápide restaurada
+20150	Una nota de herencia	Uma nota de herança
+20151	Un libro de texto antiguo	Um livro escolar antigo
+20152	Una historia del pueblo	Uma história da vila
+20153	Un hermano desconocido	Um irmão desconhecido
+20154	Una rivalidad famosa	Uma rivalidade famosa
+20155	Un libro de caridad	Um livro de caridade
+20156	Un archivo inundado	Um arquivo inundado
+20157	La canción de la familia	A música da família
+20158	Una nota de despedida	Uma nota de despedida
+20159	El sindicato	O sindicato
+20160	Un diario de viaje	Um diário de viagem
+20161	Un botiquín	Um armário de remédios
+20162	Un grabado perdido	Uma gravação perdida
+20163	El primer aprendiz	O primeiro aprendiz
+20164	Página de censo perdida	Página de censo perdida
+20165	Un discurso público	Um discurso público
+20166	Leyenda contra realidad	Lenda contra fato
+20167	Conocido por:	Conhecido por:
+20168	canciones número uno y giras mundiales con entradas agotadas	músicas número um e turnês mundiais esgotadas
+20170	álbumes de platino y videos musicales virales	álbuns de platina e videoclipes virais
+20171	Influencer de redes sociales	Influenciador de redes sociais
+20172	publicaciones virales y millones de seguidores	posts virais e milhões de seguidores
+20173	giras por estadios y álbumes legendarios	turnês por estádios e álbuns lendários
+20174	campeonatos ganados y temporadas récord	vitórias em campeonatos e temporadas recordes
+20175	un reality show exitoso y titulares interminables	um reality show de sucesso e manchetes sem fim
+20176	portadas de revistas y desfiles de moda	capas de revistas e desfiles de moda
+20177	fundar una famosa empresa tecnológica	fundar uma famosa empresa de tecnologia
+20178	programas de cocina en la tele y libros de cocina más vendidos	programas de culinária na TV e livros de receitas mais vendidos
+20179	presentar las noticias de la noche	ancorar o telejornal da noite
+20180	novelas más vendidas adaptadas al cine	romances mais vendidos adaptados para o cinema
+20181	altos cargos y discursos televisados	altos cargos e discursos televisados
+20182	Megaestrella global	Megastrela global
+20183	{1} se hizo famoso en {2} por {3}.	{1} ficou famoso em {2} por {3}.
+20184	{1} es una de las personas más famosas del mundo, con {2} seguidores; la cara de {3} está en vallas publicitarias de todos los países.	{1} é uma das pessoas mais famosas do planeta, com {2} seguidores; a cara de {3} está em outdoors em todos os países.
+20185	Hoy {1} tiene {2} seguidores, y los paparazzi siguen a toda la familia a todas partes.	Hoje {1} tem {2} seguidores, e os paparazzi seguem a família inteira por todo lado.
+20186	Conocido en todos los países del mundo	Conhecido em todos os países do planeta
+20187	Un nombre conocido en todo el mundo	Um nome conhecido em todo o mundo
+20188	Reconocido dondequiera que vaya	Reconhecido por onde vai
+20189	Bien conocido en su campo	Bem conhecido na área dele
+20190	Ser parte de esta familia significa que todo el mundo conoce tu nombre.	Fazer parte desta família significa que o mundo inteiro conhece seu nome.
+20191	El apellido familiar abre puertas en todas partes.	O sobrenome da família abre portas em todo lugar.
+20192	Los fans de mi famosa familia le dieron a mi nueva cuenta {1} seguidores al instante.	Os fãs da minha família famosa deram à minha nova conta {1} seguidores na hora.
+20193	Mi {1} abrió una cuenta de {2} a mi nombre con {3} dentro.	Meu {1} abriu uma conta de {2} em meu nome com {3} dentro.
+20194	Tu {1}, {2}, abrió una cuenta de {3} a tu nombre en {4} y puso {5} dentro.	Seu {1}, {2}, abriu uma conta de {3} em seu nome no {4} e colocou {5} dentro.
+20195	Genera {1}% de interés anual, y verás cuánto crece cada año. Puedes verlo en la pestaña Banco.	Rende {1}% ao ano, e você vai ver quanto cresce todo ano. Você pode ver na aba Banco.
+20196	una de las familias más famosas del mundo	uma das famílias mais famosas do planeta
+20197	una familia famosa	uma família famosa
+20198	una megaestrella global	uma megastrela global
+20199	, y mi	, e meu
+20200	Nací en {1}: mi {2}.	Nasci em {1}: meu {2}.
+20201	Los helicópteros de noticias rodearon el hospital y mi primera foto se vendió por millones.	Helicópteros de notícias circundaram o hospital e minha primeira foto vendeu por milhões.
+20202	Los paparazzi esperaban afuera del hospital.	Os paparazzi esperavam do lado de fora do hospital.
+20203	Nací en una familia famosa: mi {1}, {2}, es {3}.	Nasci numa família famosa: meu {1}, {2}, é {3}.
+20204	Mi familia famosa me ayudó a ganar {1} seguidores nuevos este año.	Minha família famosa me ajudou a ganhar {1} novos seguidores este ano.
+20205	la Guerra de Independencia de Estados Unidos	a Guerra de Independência dos Estados Unidos
+20206	la Revolución francesa	a Revolução Francesa
+20207	las guerras napoleónicas	as guerras napoleônicas
+20208	la Guerra de 1812	a Guerra de 1812
+20209	la Guerra de Crimea	a Guerra da Criméia
+20210	la Guerra Civil de Estados Unidos	a Guerra Civil dos Estados Unidos
+20211	la Guerra Franco-Prusiana	a Guerra Franco-Prussiana
+20212	la Segunda Guerra de los Bóeres	a Segunda Guerra dos Bôeres
+20213	Primera Guerra Mundial	Primeira Guerra Mundial
+20214	Segunda Guerra Mundial	Segunda Guerra Mundial
+20215	la Guerra de Corea	a Guerra da Coreia
+20216	la Guerra de Vietnam	a Guerra do Vietnã
+20217	la fiebre del oro de California	a corrida do ouro da Califórnia
+20218	la fiebre del oro victoriana	a corrida do ouro vitoriana
+20219	la fiebre del oro de Klondike	a corrida do ouro de Klondike
+20220	Héroe condecorado de {1}	Herói condecorado de {1}
+20221	{1} se alistó en {2} con apenas {3} años. Durante una batalla brutal en {4}, {5} volvió al fuego enemigo {6} veces y llevó a {7} soldados heridos a un lugar seguro.	{1} se alistou em {2} com apenas {3} anos. Durante uma batalha brutal em {4}, {5} voltou ao fogo inimigo {6} vezes e levou {7} soldados feridos para a segurança.
+20222	{1} recibió {2} y volvió a casa con un desfile en {3}. Los periódicos llamaron a {4} «el {5} más valiente que haya existido».	{1} recebeu {2} e voltou para casa com uma parada em {3}. Os jornais chamaram {4} de «o {5} mais corajoso que já viveu».
+20223	Salvó {1} vidas en el campo de batalla	Salvou {1} vidas no campo de batalha
+20224	Ascendido a {1} en el campo de batalla	Promovido a {1} em campo
+20225	Una estatua de {1} se erige en {2}	Uma estátua de {1} se ergue em {2}
+20226	La medalla de {1} sigue pasando de generación en generación en la familia {2}.	A medalha de {1} ainda passa de geração em geração na família {2}.
+20227	Enfermera legendaria del campo de batalla de {1}	Enfermeira lendária do campo de batalha de {1}
+20228	{1} se ofreció como voluntario de enfermería en {2}, trabajando en hospitales de campaña justo detrás de las líneas del frente.	{1} se voluntariou como enfermeiro em {2}, trabalhando em hospitais de campanha logo atrás da linha de frente.
+20229	Cuando bombardearon el hospital, {1} se negó a irse y mantuvo vivos a {2} pacientes toda la noche a la luz de una linterna. Los soldados llamaron a {3} «el Ángel de las Trincheras».	Quando o hospital foi bombardeado, {1} se recusou a sair e manteve {2} pacientes vivos durante a noite à luz de lanterna. Os soldados chamaram {3} de «o Anjo das Trincheiras».
+20230	Condecorado por valor bajo fuego	Condecorado por bravura sob fogo
+20231	Entrenó a más de {1} enfermeras nuevas después de la guerra	Treinou mais de {1} novas enfermeiras depois da guerra
+20232	Fundó un hospital que aún existe hoy	Fundou um hospital que ainda existe hoje
+20233	Las escuelas de enfermería siguen enseñando la historia de esa noche.	As escolas de enfermagem ainda ensinam a história daquela noite.
+20234	{1} n.º {2} en {3}	{1} n.º {2} em {3}
+20235	Compositor de la corte real	Compositor da corte real
+20236	{1} ya tocaba el clavicordio a los {2} años. En {3}, un duque oyó tocar a {4} y contrató a {5} como compositor de la corte real.	{1} já tocava cravo aos {2} anos. Em {3}, um duque ouviu {4} tocar e contratou {5} como compositor da corte real.
+20237	{1} «{2}» se interpretó en todas las grandes salas de conciertos de la época, y dicen que el público lloró en su estreno.	{1} «{2}» foi executada em todas as grandes salas de concerto da época, e diz-se que o público chorou na estreia.
+20238	Compuso {1} obras	Compôs {1} obras
+20239	un rey y una reina	um rei e uma rainha
+20240	Tocó para {1}	Tocou para {1}
+20241	Las partituras originales escritas a mano de {1} se guardan en una biblioteca nacional.	As partituras originais manuscritas de {1} ficam guardadas numa biblioteca nacional.
+20242	Capitán infame de {1}	Capitão infame de {1}
+20243	{1} robó un barco mercante en {2} y lo renombró {3}. En menos de un año {4} comandaba una tripulación de {5}.	{1} roubou um navio mercante em {2} e o renomeou {3}. Em menos de um ano {4} comandava uma tripulação de {5}.
+20244	«Capitán {1}» asaltó {2} barcos, tenía una recompensa de {3} por la cabeza de {4} y nunca fue capturado.	«Capitão {1}» atacou {2} navios, tinha uma recompensa de {3} pela cabeça de {4} e nunca foi capturado.
+20245	Capturó {1} barcos	Capturou {1} navios
+20246	Una recompensa de {1} (una fortuna en aquella época)	Uma recompensa de {1} (uma fortuna naquele tempo)
+20247	Un tesoro enterrado que nunca se encontró	Um tesouro enterrado que nunca foi encontrado
+20248	La familia todavía tiene un mapa antiguo que supuestamente lleva al tesoro de {1}.	A família ainda tem um mapa antigo que supostamente leva ao tesouro de {1}.
+20249	la trampa para ratones de resorte	a ratoeira de mola
+20250	una lavadora accionada a manivela	uma máquina de lavar com manivela
+20251	la tabla de planchar plegable	a tábua de passar roupa dobrável
+20252	un fósforo impermeable	um fósforo impermeável
+20253	la pajita de papel	o canudo de papel
+20254	un diseño de freno de bicicleta que aún se usa hoy	um design de freio de bicicleta que ainda é usado hoje
+20255	una radio accionada a manivela	um rádio com manivela
+20256	el pelador de papas automático	o descascador de batatas automático
+20257	un nuevo tipo de tapa de botella	um novo tipo de tampa de garrafa
+20258	el trapeador que se escurre solo	o esfregão que se torce sozinho
+20259	una cámara de bolsillo	uma câmera de bolso
+20260	el primer rizador eléctrico de cabello	o primeiro modelador de cabelo elétrico
+20261	Trabajando en un cobertizo estrecho en {1}, {2} pasó {3} años experimentando antes de patentar {4} en {5}.	Trabalhando num galpão apertado em {1}, {2} passou {3} anos mexendo até patentear {4} em {5}.
+20262	En una década ya estaba en hogares de todo {1}. {2} rechazó famosamente una oferta de compra de {3} porque «es mi bebé».	Em uma década já estava em lares por todo {1}. {2} recusou famosamente uma oferta de compra de {3} porque «é meu bebê».
+20263	Patente concedida en {1}	Patente concedida em {1}
+20264	Tuvo {1} patentes en total	Teve {1} patentes no total
+20265	la Exposición Universal	a Feira Mundial
+20266	Presentado en {1}	Destaque em {1}
+20267	Alguien de la familia todavía tiene el prototipo original en una caja en el ático.	Alguém da família ainda tem o protótipo original numa caixa no sótão.
+20268	mudo	mudo
+20269	Cine mudo	Cinema mudo
+20270	Hollywood de la Época Dorada	Hollywood da Era de Ouro
+20271	vendiendo flores en una esquina	vendendo flores numa esquina
+20272	atendiendo mesas en un diner	servindo mesas num diner
+20273	cantando en una feria de la iglesia	cantando numa festa da igreja
+20274	trabajando en una tienda de textiles	trabalhando numa loja de tecidos
+20275	{1} fue descubierto {2} y protagonizó la primera película de {3} en {4}.	{1} foi descoberto {2} e estrelou o primeiro filme de {3} em {4}.
+20276	del cine mudo	do cinema mudo
+20277	El papel de {1} en «{2}» hizo de {3} una de las caras más reconocibles {4}. Los fans asediaban a {5} en cada estreno.	O papel de {1} em «{2}» fez de {3} uma das faces mais reconhecíveis {4}. Os fãs cercavam {5} em cada estreia.
+20278	Apareció en {1} películas	Apareceu em {1} filmes
+20279	Hizo el salto al cine sonoro en 1929	Deu o salto para o cinema falado em 1929
+20280	Tiene una estrella en un paseo de la fama	Tem uma estrela numa calçada da fama
+20281	Los viejos rollos de películas de {1} aún se proyectan en noches de cine clásico.	Os velhos rolos de filmes de {1} ainda são exibidos em noites de cinema clássico.
+20282	trompeta	trompete
+20283	saxofón	saxofone
+20284	piano	piano
+20285	clarinete	clarinete
+20286	cantante	cantor
+20287	músico	músico
+20288	Jazz {1} de los {2}s	Jazz {1} dos {2}s
+20289	actuaciones nocturnas llenas de humo	sets noturnos cheios de fumaça
+20290	{1} tocaba {2} en los clubes de {3} hasta que un cazatalentos oyó a {4} en {5}.	{1} tocava {2} nas casas noturnas de {3} até que um caçador de talentos ouviu {4} em {5}.
+20291	El disco de {1} «{2} Blues» vendió más de {3} copias, y {4} recorrió el mundo con la propia big band de {5}.	O disco de {1} «{2} Blues» vendeu mais de {3} cópias, e {4} excursionou o mundo com a própria big band de {5}.
+20292	Grabó {1} álbumes	Gravou {1} álbuns
+20293	Tocó ante una multitud de {1},000 personas	Tocou para uma multidão de {1},000 pessoas
+20294	Incluido en un salón de la fama del jazz	Introduzido num salão da fama do jazz
+20295	micrófono	microfone
+20296	El viejo {2} de {1} cuelga en la pared de un museo.	O velho {2} de {1} está pendurado na parede de um museu.
+20297	los 100 metros	os 100 metros
+20298	natación	natação
+20299	esgrima	esgrima
+20300	lucha libre	luta livre
+20301	gimnasia	ginástica

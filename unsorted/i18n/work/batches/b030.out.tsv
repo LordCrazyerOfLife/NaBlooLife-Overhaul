@@ -1,0 +1,800 @@
+23521	{n} dejó de hablarte por el resto de la semana.	{n} parou de falar com você pelo resto da semana.
+23522	{n} dijo: "Eres igual que tu abuelo. Testarudo hasta que se acaba el dinero."	{n} disse: "Você é igual ao seu avô. Teimoso até o dinheiro acabar."
+23523	{n} le dijo a toda la familia que estás "jugándote la vida".	{n} contou pra toda a família que você está "jogando sua vida fora".
+23524	{n} dijo: "Cuando llegue a cero, no te presto ni un centavo."	{n} disse: "Quando chegar a zero, não te empresto nem um centavo."
+23525	{n} llamó, un poco más callado de lo normal. "Vi que tu cartera vale {amt} ahora. Estaba equivocado. Perdón por haberte presionado para que vendieras."	{n} ligou, um pouco mais quieto que o normal. "Vi que sua carteira vale {amt} agora. Eu estava errado. Desculpe ter te forçado a vender."
+23526	{n} dijo: "Te debo una disculpa. Yo entré en pánico. Tú no. Tenías razón."	{n} disse: "Te devo um pedido de desculpas. Eu entrei em pânico. Você não. Você tinha razão."
+23527	{n} apareció con un pastel. "Este es el pastel de 'estaba equivocado'. Tus inversiones se recuperaron. Debí confiar en ti."	{n} apareceu com uma torta. "Essa é a torta do 'eu estava errado'. Seus investimentos voltaram. Eu devia ter confiado em você."
+23528	{n} dijo: "Le dije a todos que te jugabas la vida. Ahora les voy a decir que también estaba equivocado."	{n} disse: "Contei pra todo mundo que você estava jogando sua vida fora. Agora vou contar que eu também estava errado."
+23529	{n} mandó un mensaje: "ok, tenías razón sobre las acciones. lo siento. no lo pongas raro"	{n} mandou uma mensagem: "ok, você tinha razão sobre as ações. desculpa. não faz disso algo estranho"
+23530	{n} dijo: "Miraba el mercado todos los días esperando que lo perdieras todo. En vez de eso, ganaste. Perdón, y estoy orgulloso de ti."	{n} disse: "Acompanhei o mercado todo dia esperando que você perdesse tudo. Em vez disso, você ganhou. Desculpa, e estou orgulhoso de você."
+23531	{n} dijo: "Te quedaste cuando te dije que huyeras. Eso requirió coraje. Perdón por haber dudado de ti."	{n} disse: "Você segurou quando eu te mandei sair correndo. Isso mostrou coragem. Desculpa ter duvidado de você."
+23532	{n} dijo: "Tenía miedo por ti. Eso fue todo. Pero debí callarme. Perdón."	{n} disse: "Eu estava com medo por você. Só isso. Mas devia ter ficado quieto. Desculpa."
+23533	{n} dijo: "Perdón por dudar de ti. En serio. También... ahora que te va tan bien, ¿podrías darme {ask}? Las cosas han estado difíciles."	{n} disse: "Desculpa ter duvidado de você. Sério. Aliás... agora que você está indo tão bem, pode me dar {ask}? As coisas estão apertadas."
+23534	{n} se disculpó y enseguida preguntó: "Entonces, hipotéticamente, ¿podrías prestarme {ask}?"	{n} pediu desculpas e logo perguntou: "Então, hipoteticamente, você pode me emprestar {ask}?"
+23535	{n} dijo: "Estaba equivocado, tenías razón. Ahora, sobre ese {ask} que necesito para mi coche..."	{n} disse: "Eu estava errado, você tinha razão. Agora, sobre aquele {ask} que preciso pro meu carro..."
+23536	{n} dijo: "Perdón por decirte que vendieras. ¿Podrías poner {ask} en lo que sea que compraste, por mí?"	{n} disse: "Desculpa te ter mandado vender. Você pode colocar {ask} no que quer que tenha comprado, por mim?"
+23537	{n} dijo: "Te debo una disculpa. Y espero que me prestes {ask} de todos modos."	{n} disse: "Te devo um pedido de desculpas. E espero que você me empreste {ask} mesmo assim."
+23538	{n} dijo: "Mira, ya dije perdón. ¿Podemos hablar también del {ask} que necesito para el alquiler?"	{n} disse: "Olha, eu já pedi desculpa. Podemos falar também sobre o {ask} que preciso pro aluguel?"
+23539	{n} se emocionó. "Te lo devolveré. Probablemente."	{n} ficou com os olhos d'água. "Vou te pagar de volta. Provavelmente."
+23540	{n} dijo: "Vaya. Vale. Ya dije perdón, ¿no?"	{n} disse: "Uau. Ok. Eu já pedi desculpa, não foi?"
+23541	Acepta la disculpa, no la petición	Aceite o pedido de desculpas, não o favor
+23542	{n} dijo: "Bueno, vale la pena intentarlo."	{n} disse: "Justo. Vale a pena tentar."
+23543	perdón	desculpa
+23545	{n} te abrazó. "Nunca me dejes darte consejos financieros otra vez."	{n} te abraçou. "Nunca mais me deixe te dar conselhos financeiros."
+23546	{n} puso los ojos en blanco. "Sí, sí. Disfrútalo."	{n} rolou os olhos. "Sim, sim. Aproveite."
+23547	{n} se veía herido, pero lo entendía.	{n} pareceu magoado, mas entendeu.
+23548	Mi {1}, {2}, se disculpó por decirme que vendiera mis inversiones.	Meu {1}, {2}, pediu desculpas por me mandar vender meus investimentos.
+23549	¿Venderlo todo?	Vender tudo?
+23550	Vender todo	Vender tudo
+23551	{n} suspiró aliviado. "Gracias. Esta noche por fin podré dormir."	{n} suspirou aliviado. "Obrigado. Agora consigo dormir esta noite."
+23552	Vendiste todo por {1}.	Você vendeu tudo por {1}.
+23553	Aguanta	Segura
+23554	Dile que se meta en sus asuntos	Fala pra cuidar da vida dele
+23555	Mi {1}, {2}, me presionó para vender mis inversiones después de que se desplomaran.	Meu {1}, {2}, me pressionou a vender meus investimentos depois que caíram.
+23556	sounds/a16_sndClosingBell.wav	sounds/a16_sndClosingBell.wav
+23557	repunte	alta
+23558	desplome	quebra
+23559	fiebre	febre
+23560	bonos	títulos
+23561	Invertir en criptomonedas	Investir em criptomoedas
+23562	fondos	fundos
+23563	Buscar fondos atractivos	Procurar fundos atraentes
+23564	centavo	centavo
+23565	Invertir en empresas locales	Investir em empresas locais
+23566	acciones	ações
+23567	Moderado: se mueve con el mercado y su sector	Moderado: acompanha o mercado e seu setor
+23568	Muy alto: las pequeñas empresas locales pueden quebrar	Muito alto: pequenas empresas locais podem falir
+23569	Extremo: subidas, desplomes y monedas que fracasan por completo	Extremo: altas, quedas e moedas que falham completamente
+23570	Más bajo: repartido entre muchas empresas	Mais baixo: distribuído entre várias empresas
+23571	De bajo a alto, según el emisor	De baixo a alto, dependendo do emissor
+23572	ford	ford
+23573	Delta Air Lines	Delta Air Lines
+23574	delta	delta
+23575	McDonald's	McDonald's
+23576	acción	ação
+23577	The Home Depot	The Home Depot
+23578	oracle	oracle
+23579	zoom	zoom
+23580	Bob's Bait & Tackle	Bob's Bait & Tackle
+23581	Main Street Pizza	Main Street Pizza
+23582	Lucky Lotto Kiosk	Lucky Lotto Kiosk
+23583	Glow Tan Salon	Glow Tan Salon
+23584	Tiny Tots Daycare	Tiny Tots Daycare
+23585	Hilltop Car Wash	Hilltop Car Wash
+23586	Swamp Gas Energy	Swamp Gas Energy
+23587	Mom & Pop Hardware	Mom & Pop Hardware
+23588	Sears, Roebuck	Sears, Roebuck
+23589	Pier 1 Imports	Pier 1 Imports
+23590	Toys "R" Us	Toys "R" Us
+23591	Research In Motion	Research In Motion
+23592	blackberry	blackberry
+23593	blockbuster	blockbuster
+23594	índice	índice
+23595	Fondo Total del Mercado Accionario	Fundo Total do Mercado de Ações
+23596	Fondo Internacional Total	Fundo Internacional Total
+23597	Fondo de Mercados Emergentes	Fundo de Mercados Emergentes
+23598	gestionado	gerenciado
+23599	Fondo de Crecimiento Gestionado	Fundo de Crescimento Gerenciado
+23600	Fondo Total de Bonos	Fundo Total de Títulos
+23601	bono	título
+23602	Fondo del Sector Tecnológico	Fundo do Setor de Tecnologia
+23603	Fondo del Sector Salud	Fundo do Setor de Saúde
+23604	Fondo del Sector Energía	Fundo do Setor de Energia
+23605	Fondo del Sector Financiero	Fundo do Setor Financeiro
+23606	Fondo del Sector Consumo	Fundo do Setor de Consumo
+23607	Fondo del Sector Industrial	Fundo do Setor Industrial
+23608	Fondo del Sector Materiales	Fundo do Setor de Materiais
+23609	Fondo del Sector Comunicaciones	Fundo do Setor de Comunicações
+23610	listados	listagens
+23611	Bono del Gobierno {1}	Título do Governo {1}
+23612	Bono Municipal {1}	Título Municipal {1}
+23613	invertir	investir
+23614	Debes tener al menos {1} años para {2}.	Você precisa ter pelo menos {1} anos para {2}.
+23615	El año pasado {1}	Ano passado {1}
+23616	Gestiona tu cartera de inversiones	Gerencie sua carteira de investimentos
+23617	inversiones	investimentos
+23618	Ver tu rendimiento de por vida	Ver seu desempenho ao longo da vida
+23619	(Asesor financiero)	(Consultor financeiro)
+23620	asesor	consultor
+23621	Contratar un asesor financiero	Contratar um consultor financeiro
+23622	Comprar un periódico	Comprar um jornal
+23623	opinión	opinião
+23624	Ver qué dice otra persona	Ver o que outra pessoa diz
+23625	Aún no se inventa · Bitcoin llega en {1}	Ainda não inventado · Bitcoin chega em {1}
+23626	Tu rendimiento como inversionista.	Seu desempenho como investidor.
+23627	Comisiones pagas al asesor	Taxas pagas ao consultor
+23628	Cada 5 segundos es un día de trading · 1 Semana avanza 7 días	A cada 5 segundos é um dia de negociação · 1 Semana avança 7 dias
+23629	· Ganancia total	· Lucro total
+23630	Vender todo...	Vender tudo...
+23632	¿Vender {1} participacione{2} por unos {3}?{4}	Vender {1} participaçõe{2} por uns {3}?{4}
+23633	Vendí toda mi cartera de inversiones por {1}.	Vendi toda minha carteira de investimentos por {1}.
+23634	Retirar todo	Resgatar tudo
+23635	Vendiste todo lo que había en tu cartera.	Você vendeu tudo da sua carteira.
+23636	Aquí tienes un resumen de tu cartera de inversiones.	Aqui está um resumo da sua carteira de investimentos.
+23637	Tu cartera de inversiones generó {1} en rendimientos después de comisiones.	Sua carteira de investimentos acumulou {1} em retornos após taxas.
+23638	Fue un año difícil para tu cartera, ya que su valor disminuyó {1}.	Foi um ano difícil para sua carteira, pois seu valor diminuiu {1}.
+23639	¡Ya está disponible el informe anual de tu cartera de inversiones!	O relatório anual da sua carteira de investimentos já está disponível!
+23641	Pagado a ti	Pago a você
+23642	Rendimiento (después de comisiones)	Retorno (após taxas)
+23643	Tu cartera · Edad	Sua carteira · Idade
+23644	Falló · no vale nada	Falhou · sem valor
+23645	· vence a los {1} años	· vence aos {1} anos
+23646	★ Mayor subida	★ Maior alta
+23647	Cupón {1} · plazo de {2} años	Cupom {1} · prazo de {2} anos
+23648	{1} fracasó y ya no se puede comprar.	{1} falhou e não pode mais ser comprado.
+23649	Aún no cotiza en bolsa	Ainda não está na bolsa
+23650	{1} no sale a bolsa hasta {2}.	{1} só abre capital em {2}.
+23651	{1} ya no se negocia.	{1} não é mais negociado.
+23652	{1} ({2} al año por bono)	{1} ({2} por ano por título)
+23653	{1} años, capital devuelto al vencimiento	{1} anos, principal devolvido no vencimento
+23654	Precio por bono	Preço por título
+23655	Más alto: las empresas pueden entrar en mora	Mais alto: empresas podem entrar em falência
+23656	¡Invierte en {1}{2} hoy!	Invista em {1}{2} hoje!
+23657	No elegiste cuántos comprar.	Você não escolheu quantos comprar.
+23658	Fondos insuficientes	Fundos insuficientes
+23659	No te alcanza para tanto {1}.	Você não tem dinheiro suficiente para tanto {1}.
+23660	¿Comprar {1} por {2}?	Comprar {1} por {2}?
+23661	Compraste {1}.	Você comprou {1}.
+23662	Copiar dirección de la billetera	Copiar endereço da carteira
+23663	Ver frase semilla	Ver frase de recuperação
+23664	Pedir la opinión de alguien	Pedir opinião de alguém
+23665	Precio desde {1}	Preço desde {1}
+23666	{1} cada uno · quedan {2} en efectivo	{1} cada um · restam {2} em dinheiro
+23667	token	token
+23668	{1} acción{2} de {3}	{1} ação{2} de {3}
+23669	Sano y salvo	São e salvo
+23670	Mt. Gox	Mt. Gox
+23671	compra	compra
+23672	venta	venda
+23673	Tu recibo de {1}: {2} {3}	Seu recibo de {1}: {2} {3}
+23674	{1} {2} {3} ({4}) a {5} cada uno.	Você {1} {2} {3} ({4}) a {5} cada um.
+23675	Gracias por operar con {1}.	Obrigado por negociar com {1}.
+23676	fondo	fundo
+23677	{1} fracasó. Las monedas no valen nada.	{1} falhou. As moedas não valem nada.
+23678	Comprar más de este {1}	Comprar mais deste {1}
+23679	Cambiar a otra criptomoneda	Trocar para outra cripto
+23680	Ahora mismo no hay otras criptomonedas a las que cambiar.	Agora não há outras criptomoedas para trocar.
+23681	Mover monedas robadas de una criptomoneda a otra dificulta rastrearlas.	Mover moedas roubadas de uma criptomoeda para outra dificulta rastreá-las.
+23682	Cambia parte de tu {1} por otra criptomoneda.{2}	Troque parte do seu {1} por outra criptomoeda.{2}
+23683	Cambiarlo	Trocar
+23684	No elegiste cuánto cambiar.	Você não escolheu quanto trocar.
+23685	Esa criptomoneda no se está negociando ahora.	Essa criptomoeda não está sendo negociada agora.
+23686	todo tu	todo o seu
+23687	¿Cambiar {1} {2} por {3}?	Trocar {1} {2} por {3}?
+23688	Cambié {1} por {2}.	Troquei {1} por {2}.
+23689	Cambiaste {1} por {2}.	Você trocou {1} por {2}.
+23690	Cambiar a:	Trocar para:
+23691	Recibes:	Você recebe:
+23692	Vale {1} después de la comisión	Vale {1} após a taxa
+23693	Vender una parte	Vender parte
+23694	tabla	tabela
+23695	acciones	ações
+23696	Esta posición la gestiona tu asesor. Venderla saca el dinero de su cuenta.	Esta posição é gerenciada pelo seu consultor. Vender tira o dinheiro da conta dele.
+23697	¡Vende hoy parte de tu {1}!{2}	Venda hoje parte do seu {1}!{2}
+23698	No elegiste cuántos vender.	Você não escolheu quantos vender.
+23699	participación	posição
+23700	¿Vender {1} {2}{3} por {4}?	Vender {1} {2}{3} por {4}?
+23701	ganancia	lucro
+23702	pérdida	prejuízo
+23703	Vendí toda mi participación en {1} por {2}.	Vendi toda minha posição em {1} por {2}.
+23704	tokens	tokens
+23705	Retirando fondos	Resgatando
+23706	Vendiste todos tus {1} {2}.	Você vendeu todos os seus {1} {2}.
+23707	Vendiste {1} de tus {2} {3}.	Você vendeu {1} dos seus {2} {3}.
+23708	Costo base eliminado	Custo base removido
+23709	gobierno	governo
+23710	inversión	investimento
+23711	Obtuviste una ganancia con tu venta reciente de {1} y debes {3} de impuestos al {2}.	Você lucrou com a venda recente de {1} e deve {3} de impostos ao {2}.
+23712	Declarar la venta y pagar el impuesto	Declarar a venda e pagar o imposto
+23713	Declaré mis ganancias de {1} y pagué {2} en impuestos.	Declarei meus ganhos com {1} e paguei {2} em impostos.
+23714	No declarar la venta	Não declarar a venda
+23715	Decidí no declarar mis ganancias de {1}.	Decidi não declarar meus ganhos com {1}.
+23716	{n} espera tener un año fuerte	{n} deve ter um ano forte
+23717	{n} presenta un producto nuevo y popular	{n} lança produto novo e quente
+23718	Los analistas dudan del panorama de {n}	Analistas questionam as perspectivas de {n}
+23719	El CEO de {n} bajo investigación	CEO da {n} sob investigação
+23720	¿Está a punto de estallar la burbuja de {n}?	A bolha da {n} está prestes a estourar?
+23721	Los economistas predicen un año fuerte para la bolsa	Economistas preveem um ano forte para a bolsa
+23722	El temor a la recesión se apodera de la bolsa	Medo de recessão toma conta da bolsa
+23723	Se espera que la bolsa se mantenga estable	Bolsa deve se manter estável
+23724	Mejora el panorama de los bonos del Gobierno	Melhoram as perspectivas dos títulos públicos
+23725	Se debilita el panorama de los bonos del Gobierno	Pioram as perspectivas dos títulos públicos
+23726	Mercado de bonos en calma	Mercado de títulos tranquilo
+23727	un tipo en el gimnasio	um cara na academia
+23728	un desconocido en el autobús	um estranho no ônibus
+23729	tu cartero	seu carteiro
+23730	un bro de las criptos en una fiesta	um bro de cripto numa festa
+23731	Los bonos de {1} son lo más seguro que hay	Os títulos de {1} são o máximo em segurança
+23732	{1} va a entrar en mora, que no se olviden	{1} vai falhar, marca minhas palavras
+23733	{1} se va a la luna	{1} vai à lua
+23734	{1} está a punto de desplomarse	{1} está prestes a cair
+23735	Le pregunté a {1} sobre {2}.	Perguntei a {1} sobre {2}.
+23736	Le preguntaste a {1}{2} sobre {3}.	Você perguntou a {1}{2} sobre {3}.
+23737	Dijeron {1}.	Eles disseram {1}.
+23738	Exanalista de fondos de cobertura que dejó Wall Street por una vida más tranquila.	Ex-analista de hedge funds que deixou Wall Street por uma vida mais tranquila.
+23739	Armó su lista de clientes dentista por dentista.	Montou a lista de clientes um dentista por vez.
+23740	Jura por los fondos indexados de bajo costo.	Jura pelos fundos indexados de baixo custo.
+23741	Ama una buena historia de recuperación.	Adora uma boa história de virada.
+23742	Afirma haber predicho los últimos tres desplomes.	Afirma ter previsto as últimas três quedas.
+23743	MBA nocturno y hustle desde el día uno.	MBA noturno e hustle desde o primeiro dia.
+23744	Gestor de dinero de tercera generación.	Gestor de dinheiro de terceira geração.
+23745	Entró en las finanzas después de ganar un concurso de acciones en la secundaria.	Entrou nas finanças depois de ganhar um concurso de ações no ensino médio.
+23746	Lee cada informe anual de principio a fin.	Lê todo relatório anual de capa a capa.
+23747	Cree que las criptos son el futuro. Más o menos.	Acha que cripto é o futuro. Mais ou menos.
+23748	dos bolos profesionales	dois jogadores de boliche profissionais
+23749	un chef de TV menor	um chef de TV menor
+23750	un concesionario local	um revendedor de carros local
+23751	un mago famoso	um mágico famoso
+23752	el subcampeón de un reality	o vice-campeão de um reality show
+23753	el contador de una estrella del pop	o contador de uma estrela pop
+23754	un entrenador de ligas menores	um treinador de ligas menores
+23755	una heredera de comida para gatos	uma herdeira de ração para gatos
+23756	un presentador del tiempo	um apresentador do tempo
+23757	Disponible este año	Disponível este ano
+23758	{1}% de comisión · {2} años de experiencia	{1}% de comissão · {2} anos de experiência
+23759	{1}% de las ganancias netas realizadas	{1}% dos ganhos líquidos realizados
+23760	{1} cobra {2}% de las ganancias netas que {3} logra para ti, después de recuperar pérdidas pasadas. {4} solo puede invertir el dinero que le des (mínimo {5}). Las aportaciones automáticas empiezan desactivadas.	{1} cobra {2}% dos lucros líquidos que {3} realiza pra você, depois de compensar perdas passadas. {4} só pode investir o dinheiro que você entregar (mínimo {5}). As contribuições automáticas começam desligadas.
+23761	{1} solo acepta clientes con al menos {2} para invertir.	{1} só aceita clientes com pelo menos {2} para investir.
+23762	¿Cuánto dinero quieres darle a tu asesor financiero, {1}, para que invierta por ti?	Quanto dinheiro você quer dar ao seu consultor financeiro, {1}, para investir por você?
+23763	Dárselo	Dar
+23764	Muy poco	Muito pouco
+23765	{1} necesita al menos {2}.	{1} precisa de pelo menos {2}.
+23766	Contraté a {1} {2} como mi asesor financiero y le di {3} {4} para invertir.	Contratei {1} {2} como meu consultor financeiro e dei {3} {4} para investir.
+23767	Para invertir:	Para investir:
+23768	{1} se queda en tu cuenta bancaria	{1} fica na sua conta bancária
+23769	Le di a mi asesor financiero, {1}, {2} para invertir.	Dei ao meu consultor financeiro, {1}, {2} para investir.
+23770	{1} invirtió {2} por ti.	{1} investiu {2} por você.
+23771	Nada que retirar	Nada para resgatar
+23772	{1} no te está gestionando ningún dinero.	{1} não está gerenciando dinheiro algum para você.
+23773	¿Cuánto quieres que {1} te devuelva? {2} venderá participaciones de forma pareja para conseguirlo.	Quanto você quer que {1} te devolva? {2} vai vender posições uniformemente para conseguir.
+23774	Retirarlo	Resgatar
+23775	Retiré {1} de mi cuenta de inversiones gestionada.	Resgatei {1} da minha conta de investimentos gerenciada.
+23776	{1} envió {2} de vuelta a tu cuenta bancaria.	{1} enviou {2} de volta à sua conta bancária.
+23777	A ti:	Para você:
+23778	{1} sigue invertido	{1} continua investido
+23779	retirado de {1} antes de {2}	retirado de {1} antes de {2}
+23780	dinero movido a {1}	dinheiro movido para {1}
+23781	Darle dinero a {1} para invertir	Dar dinheiro a {1} para investir
+23782	Sacar dinero ({1} gestionado)	Tirar dinheiro ({1} gerenciado)
+23783	Ver cómo le va a {1}	Ver como {1} está indo
+23784	riesgo	risco
+23785	{1}% de tu saldo bancario cada año	{1}% do seu saldo bancário por ano
+23786	Preguntarle a {1} por una inversión	Perguntar a {1} sobre um investimento
+23787	Años contigo	Anos com você
+23788	"El año pasado toda tu cartera dio {1} después de mis comisiones."	"Ano passado toda sua carteira rendeu {1} depois das minhas taxas."
+23789	"Dale un año. Los mercados necesitan tiempo."	"Dê um ano. O mercado precisa de tempo."
+23790	Comisiones pagadas (total)	Taxas pagas (total)
+23791	Ganancias realizadas (últimas)	Ganhos realizados (últimos)
+23792	Pérdidas acumuladas	Prejuízos acumulados
+23793	Comisión cobrada (última)	Taxa cobrada (última)
+23794	¿Cómo debe {1} invertir tu dinero? Los cambios se aplican de inmediato.	Como {1} deve investir seu dinheiro? As mudanças valem na hora.
+23795	Le pedí a mi asesor financiero, {1}, que invirtiera de forma más {2}.	Pedi ao meu consultor financeiro, {1}, para investir de forma mais {2}.
+23796	equilibrada	equilibrada
+23797	{1} cambió tu cuenta a una mezcla {2}{3}.	{1} mudou sua conta para uma mistura {2}{3}.
+23798	Cada año, mueve automáticamente parte de tu saldo bancario a {1}. {2} nunca toca tu cuenta bancaria de otra forma.	Todo ano, mova parte do seu saldo bancário para {1} automaticamente. {2} nunca mexe na sua conta bancária de outro modo.
+23799	5% cada año	5% por ano
+23800	10% cada año	10% por ano
+23801	25% cada año	25% por ano
+23802	Configuré aportes automáticos del {1}% a mi asesor financiero.	Configurei contribuições automáticas de {1}% para meu consultor financeiro.
+23803	Desactivé los aportes automáticos a mi asesor financiero.	Desliguei as contribuições automáticas para meu consultor financeiro.
+23804	por más que {1} haya leído sobre criptos, {2} sigue sin entenderlas	por mais que {1} tenha lido sobre cripto, {2} ainda não entende
+23805	{1} parece infravalorado ahora mismo	{1} parece subavaliado agora
+23806	{1} compraría {2} si {3} estuviera en tu lugar	{1} compraria {2} se {3} fosse você
+23807	{1} debería tener un año fuerte	{1} deve ter um ano forte
+23808	{1} se alejaría de {2}	{1} ficaria longe de {2}
+23809	{1} parece sobrevalorado	{1} parece supervalorizado
+23810	{1} merece una corrección	{1} merece uma correção
+23811	Le pregunté a mi asesor financiero, {1}, sobre {2}.	Perguntei ao meu consultor financeiro, {1}, sobre {2}.
+23812	Le preguntaste a tu asesor financiero, {1}, la opinión de {2} sobre {3}.	Você perguntou ao seu consultor financeiro, {1}, a opinião de {2} sobre {3}.
+23813	¿Despedir a {1}? Tus participaciones gestionadas siguen siendo tuyas y pasan a autogestionadas. {2} del dinero sin invertir vuelve a tu cuenta bancaria.	Demitir {1}? Suas posições gerenciadas continuam suas e passam a ser autogerenciadas. {2} do dinheiro não investido volta para sua conta bancária.
+23814	Despedí a mi asesor financiero, {1} {2}.	Demití meu consultor financeiro, {1} {2}.
+23815	Despediste a {1}. Ahora gestionas esas inversiones tú mismo.	Você demitiu {1}. Agora você mesmo gerencia esses investimentos.
+23816	No te alcanza para un periódico.	Você não tem dinheiro para um jornal.
+23817	Compré un periódico para leer las noticias financieras.	Comprei um jornal para ler as notícias financeiras.
+23818	Titulares financieros de hoy:	Manchetes financeiras de hoje:
+23819	Mira {1}	Olha {1}
+23820	Le pedí consejos de inversión a {1}.	Pedi conselhos de investimento a {1}.
+23821	Le pediste consejos de inversión a {1}{2}.	Você pediu conselhos de investimento a {1}{2}.
+23822	{1}{2} · el año pasado {3}	{1}{2} · ano passado {3}
+23823	Mercado cerrado · Sube de edad para seguir operando	Mercado fechado · Avance de idade para continuar negociando
+23824	Precio en vivo · Día {1}/365	Preço ao vivo · Dia {1}/365
+23825	El gráfico de precios en vivo empieza el próximo día de trading	O gráfico de preços ao vivo começa no próximo dia de negociação
+23826	Cada 5 segundos es un día de trading. Pulsa 1 Semana para avanzar 7 días.	A cada 5 segundos é um dia de negociação. Pressione 1 Semana para avançar 7 dias.
+23827	Vender todo ahora	Vender tudo agora
+23828	En vivo · Día {1}/365	Ao vivo · Dia {1}/365
+23829	El gráfico en vivo empieza el próximo día de trading	O gráfico ao vivo começa no próximo dia de negociação
+23830	Mercado cerrado · Día 365/365	Mercado fechado · Dia 365/365
+23831	· sube de edad para seguir operando	· avance de idade para continuar negociando
+23832	Día {1}/365 · {2} el último día de trading	Dia {1}/365 · {2} no último dia de negociação
+23833	total	total
+23834	gráfico	gráfico
+23835	cartera	carteira
+23836	{1} fracasó. Esas monedas ya no valen nada.	{1} falhou. Essas moedas agora não valem nada.
+23837	El {1} entró en mora.	O {1} entrou em falência.
+23838	El {1} entró en mora. Perdí los {2} invertidos.	O {1} entrou em falência. Perdi os {2} investidos.
+23839	Mi {1} venció y devolvió {2}.	Meu {1} venceu e pagou {2}.
+23840	Mis bonos me pagaron {1}.	Meus títulos me pagaram {1}.
+23841	Mi asesor financiero, {1}, {2}.	Meu consultor financeiro, {1}, {2}.
+23842	Envié {1} automáticamente a mi asesor financiero.	Enviei {1} automaticamente ao meu consultor financeiro.
+23843	{1} renunció como tu asesor. Tus participaciones ahora están autogestionadas.	{1} renunciou como seu consultor. Suas posições agora são autogerenciadas.
+23844	Mi asesor financiero, {1}, renunció.	Meu consultor financeiro, {1}, pediu demissão.
+23845	a menos que tu saldo vuelva a subir por encima de	a menos que seu saldo volte a ficar acima de
+23846	{1} advirtió que {2} podría dejarte como cliente{3}.	{1} avisou que {2} pode te dispensar como cliente{3}.
+23847	Mi cartera de inversiones rindió {1} el año pasado, una ganancia de {2}.	Minha carteira de investimentos rendeu {1} no ano passado, um lucro de {2}.
+23848	Mi cartera de inversiones perdió {1}% el año pasado, una pérdida de {2}.	Minha carteira de investimentos perdeu {1}% no ano passado, um prejuízo de {2}.
+23849	Mi inversión en {1} subió {2}%.	Meu investimento em {1} subiu {2}%.
+23850	El Gobierno auditó mis finanzas y encontró {1} en ganancias de inversión no declaradas.	O governo auditou minhas finanças e encontrou {1} em ganhos de investimento não declarados.
+23851	y {1} otra inversión{2}	e {1} outro investimento{2}
+23852	El {1} auditó tus finanzas y descubrió que nunca declaraste las ganancias por vender tus {2}{3}!	O {1} auditou suas finanças e descobriu que você nunca declarou os lucros de vender seus {2}{3}!
+23853	Te acusan de evasión de impuestos.	Você está sendo acusado de sonegação de impostos.
+23854	Acciones, oro y plata	Ações, ouro e prata
+23855	Monedas y lingotes de oro y plata	Moedas e barras de ouro e prata
+23856	Se copió la dirección de tu billetera de {1} ({2}):	O endereço da sua carteira de {1} ({2}) foi copiado:
+23857	Pégalo en un correo a alguien que quiera pagarte en {1}.	Cole num e-mail para alguém que quiser te pagar em {1}.
+23858	{1} tiene tu frase semilla.	{1} tem sua frase de recuperação.
+23859	Cualquiera con estas palabras puede mover tu {1}. Crea una billetera nueva para dejarlos fuera.	Qualquer pessoa com essas palavras ainda pode movimentar seu {1}. Crie uma carteira nova para bloqueá-los.
+23860	Cualquiera que tenga estas palabras puede llevarse todo el {1} de esta billetera a su propia dirección. Nunca se las des a nadie.	Qualquer pessoa com essas palavras pode pegar todo o {1} desta carteira e mandar para o próprio endereço. Nunca as entregue a ninguém.
+23861	Estas 12 palabras controlan tu billetera de {1}. Fueron copiadas.{2}{3}	Estas 12 palavras controlam sua carteira de {1}. Foram copiadas.{2}{3}
+23862	Crear una billetera nueva	Criar uma carteira nova
+23863	Creé una billetera de {1} nueva para que nadie más tuviera mi frase semilla.	Criei uma carteira de {1} nova para que ninguém mais tivesse minha frase de recuperação.
+23864	Billetera nueva	Carteira nova
+23865	Tu billetera de {1} tiene una dirección nueva y una frase semilla nueva. La antigua ya no sirve.	Sua carteira de {1} tem um endereço novo e uma frase de recuperação nova. A antiga não serve mais.
+23866	Se envió {1} {2} desde tu billetera {3}	{1} {2} foi enviado da sua carteira {3}
+23867	Esta transacción se firmó con la frase semilla de tu billetera y no se puede revertir.	Esta transação foi assinada com a frase de recuperação da sua carteira e não pode ser revertida.
+23868	no-reply@wallet.app	no-reply@wallet.app
+23869	Alguien usó mi antigua frase semilla de {1} para vaciar mi billetera otra vez.	Alguém usou minha frase de recuperação antiga de {1} para esvaziar minha carteira de novo.
+23870	Billetera vaciada	Carteira esvaziada
+23871	Todo el {1} de tu billetera de {2} fue enviado a	Todo o {1} da sua carteira de {2} foi enviado para
+23872	{1} sigue teniendo tu frase semilla. Crea una billetera nueva para detenerlo.	{1} ainda tem sua frase de recuperação. Crie uma carteira nova para impedir.
+23873	Criptos esta semana	Cripto esta semana
+23874	Tu cartera · Semanas 1-{1}	Sua carteira · Semanas 1-{1}
+23875	Semana {1} · {2} · Día {3}/7	Semana {1} · {2} · Dia {3}/7
+23876	Nómina (1 semana)	Salário (1 semana)
+23877	Me pagaron {1}.	Recebi {1}.
+23878	Semana {1}: {2}Mis inversiones {3} {4} esta semana.	Semana {1}: {2}Meus investimentos {3} {4} esta semana.
+23879	Semana {1} de 52	Semana {1} de 52
+23880	Los mercados están cerrados por el resto del año. Sube de edad para seguir operando.	Os mercados estão fechados pelo resto do ano. Avance de idade para continuar negociando.
+23881	Semana {1}: me pagaron {2}.	Semana {1}: recebi {2}.
+23882	Corre esa cadena	Corre essa corrente
+23883	Un hombre con pasamontañas sale de un callejón, te clava una pistola en el pecho y dice: "Dame ese {item}. Ahora."	Um homem com touca ninja sai de um beco, encosta uma pistola no seu peito e diz: "Passa essa {item}. Agora."
+23884	Le di mi {item} a un pistolero enmascarado. Temblé durante horas.	Entreguei minha {item} a um atirador mascarado. Fiquei tremendo por horas.
+23885	Agarrar la pistola	Pegar a arma
+23886	Agarré la pistola, se la arranqué de la mano y salió corriendo. Me quedé con mi {item}.	Peguei a arma, torci a mão dele e ele saiu correndo. Fiquei com minha {item}.
+23887	Fui por la pistola y se disparó. Me arrancó mi {item} del cuello mientras estaba en el suelo.	Fui pegar a arma e ela disparou. Ele arrancou minha {item} do meu pescoço enquanto eu estava no chão.
+23888	Corrí a una tienda llena de gente y lo perdí. Mi {item} está a salvo.	Corri para uma loja cheia de gente e o perdi. Minha {item} está segura.
+23889	Corrí y disparó. Me alcanzó y me arrancó mi {item}.	Corri e ele atirou. Me alcançou e arrancou minha {item}.
+23890	Calmarlo	Acalmar ele
+23891	Le hablé con calma hasta que perdió los nervios y se fue. Me quedé con mi {item}.	Falei com ele calmamente até ele perder a coragem e ir embora. Fiquei com minha {item}.
+23892	No quiso hablar. Apretó más la pistola y me quitó mi {item}.	Ele não quis conversar. Apertou mais a arma e tomou minha {item}.
+23893	Arrebatar y salir corriendo	Arrancar e sair correndo
+23894	Un tipo en motoneta te arranca tu {item} y sale a toda velocidad por la acera.	Um cara de motoneta arranca sua {item} de você e sai em alta velocidade pela calçada.
+23895	Perseguirlo	Perseguir ele
+23896	Lo perseguí dos cuadras, lo tiré de la motoneta y recuperé mi {item}.	Persegui ele por dois quarteirões, derrubei da motoneta e recuperei minha {item}.
+23897	Lo perseguí pero tropecé con el bordillo. Se fue con mi {item}.	Persegui ele, mas tropecei na calçada. Ele fugiu com minha {item}.
+23898	Lanzarle algo	Jogar algo nele
+23899	Le lancé mi botella de agua y lo tiré de la motoneta. Recuperé mi {item}.	Joguei minha garrafa d'água nele e o derrubei da motoneta. Recuperei minha {item}.
+23900	Mi lanzamiento falló por mucho. Desapareció con mi {item}.	Meu arremesso errou feio. Ele sumiu com minha {item}.
+23901	Un ladrón en motoneta me arrebató mi {item} y yo solo lo vi irse.	Um ladrão de motoneta arrancou minha {item} e eu só fiquei olhando.
+23902	Emboscada en el semáforo	Emboscada no semáforo
+23903	Dos hombres rodean tu coche en un semáforo. Uno golpea la ventana con una pistola y señala tu {item}.	Dois homens cercam seu carro no semáforo. Um encosta a arma na janela e aponta para sua {item}.
+23904	Bajar la ventana y entregarlo	Abaixar a janela e entregar
+23905	Entregué mi {item} por la ventana a un pistolero en un semáforo.	Entreguei minha {item} pela janela a um atirador no semáforo.
+23906	Acelerar a fondo y pasar el semáforo	Acelerar fundo e passar o semáforo
+23907	Aceleré a fondo y crucé la intersección, dejándolos ahí parados. Me quedé con mi {item}.	Acelerei fundo e cruzei o cruzamento, deixando eles parados. Fiquei com minha {item}.
+23908	Aceleré y dispararon contra la ventana trasera. Choqué contra un poste y me quitaron mi {item}.	Acelerei e eles atiraram na janela de trás. Bati num poste e tomaram minha {item}.
+23909	Chocarlos	Bater neles
+23910	Abrí la puerta de golpe contra uno de ellos y me fui. Mi {item} siguió conmigo.	Abri a porta de repente contra um deles e saí. Minha {item} ficou comigo.
+23911	Intenté chocarlos, pero me sacaron del coche y me quitaron mi {item}.	Tentei bater neles, mas me arrastaram para fora do carro e tomaram minha {item}.
+23912	Asalto en la gasolinera	Assalto no posto de gasolina
+23913	Estás cargando combustible cuando un coche para a tu lado. Un hombre baja con una pistola y grita pidiendo tu {item}.	Você está abastecendo quando um carro para ao seu lado. Um homem desce com arma e grita pedindo sua {item}.
+23914	Me robaron mi {item} en una gasolinera.	Fui assaltado e perdi minha {item} no posto de gasolina.
+23915	Rociarlo con la manguera de gasolina	Jogar gasolina nele com a mangueira
+23916	Le eché gasolina en la cara y volvió tropezando a su coche, ciego. Me quedé con mi {item}.	Joguei gasolina na cara dele e ele voltou cambaleando pro carro, cego. Fiquei com minha {item}.
+23917	Lo rocié, pero su compañero me golpeó por la espalda. Me quitaron mi {item}.	Joguei nele, mas o parceiro bateu por trás. Tomaram minha {item}.
+23918	Agacharse detrás de la bomba	Se abaixar atrás da bomba
+23919	Me agaché detrás de la bomba y grité hasta que el empleado tocó la alarma. Huyeron.	Me abaixei atrás da bomba e gritei até o atendente acionar o alarme. Eles fugiram.
+23920	Rodeó la bomba, me golpeó con la pistola y me quitó mi {item}.	Ele contornou a bomba, me agrediu com a arma e tomou minha {item}.
+23921	Bienvenida en el garaje	Festa de boas-vindas na garagem
+23922	Entras al garaje en coche. Antes de que baje la puerta, dos hombres enmascarados se deslizan por debajo con pistolas en la mano. Quieren tu {item}.	Você entra na garagem de carro. Antes da porta fechar, dois homens mascarados entram rastejando com armas em punho. Querem sua {item}.
+23923	Dos hombres enmascarados me siguieron al garaje y me quitaron mi {item}.	Dois homens mascarados me seguiram até a garagem e tomaram minha {item}.
+23924	Poner marcha atrás	Dar ré
+23926	Puse marcha atrás, pero uno disparó contra el parabrisas. Me quitaron mi {item}.	Dei ré, mas um atirou no para-brisa. Tomaram minha {item}.
+23927	Tocar el claxon sin parar	Buzinar sem parar
+23928	Toqué el claxon sin parar hasta que salieron los vecinos. Huyeron.	Buzinei sem parar até os vizinhos saírem. Eles fugiram.
+23929	Nadie vino. Me sacaron del coche a tirones y me quitaron mi {item}.	Ninguém veio. Me puxaram para fora do carro e tomaram minha {item}.
+23930	Seguido desde el club	Seguindo desde a boate
+23931	Un coche te ha estado siguiendo desde que saliste del club. En tu puerta, bajan tres hombres y uno apunta con una pistola a tu {item}.	Um carro vem te seguindo desde que você saiu da boate. Na sua porta, três homens descem e um aponta a arma para sua {item}.
+23932	Me siguieron a casa desde el club y me robaron mi {item}.	Me seguiram até casa a partir da boate e roubaram minha {item}.
+23933	Le lancé un puñetazo al primero y entraron en pánico y huyeron. Me quedé con mi {item}.	Parti para cima do primeiro e eles entraram em pânico e fugiram. Fiquei com minha {item}.
+23934	Lancé el puñetazo, pero eran tres. Me golpearon y me quitaron mi {item}.	Parti para cima, mas eram três. Eles me bateram e tomaram minha {item}.
+23935	Correr adentro y cerrar con llave	Correr para dentro e trancar a porta
+23936	Entré y cerré con llave antes de que me alcanzaran. Mi {item} está a salvo.	Entrei e tranquei a porta antes que me alcançassem. Minha {item} está segura.
+23937	Me alcanzaron en las escaleras y me arrancaron mi {item}.	Me pegaram na escada e arrancaram minha {item}.
+23938	Alguien se acerca pidiendo una selfi. Mientras posas, dos amigos lo agarran por detrás y uno saca un cuchillo. Quieren tu {item}.	Alguém chega pedindo uma selfie. Enquanto você posa, dois amigos pegam você por trás e um tira uma faca. Querem sua {item}.
+23939	Un fan falso me preparó una trampa y sus amigos me quitaron mi {item} a punta de cuchillo.	Um fã falso armou pra mim e os amigos tomaram minha {item} na ponta da faca.
+23940	Darle un codazo al que te sujeta	Dar cotovelo em quem está te segurando
+23941	Di un codazo, me solté y corrí. Me quedé con mi {item}.	Dei um cotovelo, me soltei e corri. Fiquei com minha {item}.
+23942	Me solté, pero el cuchillo me alcanzó el brazo. Se llevaron mi {item}.	Me soltei, mas a faca acertou meu braço. Levaram minha {item}.
+23943	Pedir ayuda a gritos	Gritar por ajuda
+23944	Grité y un grupo de gente se dio la vuelta. Huyeron con las manos vacías.	Gritei e um grupo virou. Eles fugiram de mãos vazias.
+23945	Grité, pero se fueron en segundos con mi {item}.	Gritei, mas sumiram em segundos com minha {item}.
+23946	Asalto en el estacionamiento	Assalto no estacionamento
+23947	Un hombre sale de detrás de una columna del estacionamiento con un cuchillo. "Qué buena {item}", dice. "Quítatela."	Um homem sai de trás de uma coluna no estacionamento com uma faca. "Bonita {item}", diz. "Tira isso."
+23948	Quítatela y tírala	Tira e jogue
+23949	Un hombre con un cuchillo me quitó mi {item} en un estacionamiento.	Um homem com faca tomou minha {item} no estacionamento.
+23950	Subir al coche y cerrar con llave	Entrar no carro e trancar
+23951	Me lancé al coche, cerré las puertas y me fui. Mi {item} está a salvo.	Mergulhei no carro, tranquei as portas e saí. Minha {item} está segura.
+23952	Llegó a la puerta antes de que la cerrara y me quitó mi {item}.	Ele chegou na porta antes de eu trancar e tomou minha {item}.
+23953	Pelear con él	Lutar com ele
+23954	Lo aparté con las llaves del coche. Salió corriendo.	Afastei ele com as chaves do carro. Ele fugiu.
+23955	Peleé con él, pero me cortó y me quitó mi {item}.	Lutei com ele, mas ele me cortou e tomou minha {item}.
+23956	Golpe y robo	Batida e roubo
+23957	Una SUV te choca por detrás en una carretera tranquila. Cuando bajas a revisar el daño, el conductor se acerca con una pistola y apunta a tu {item}.	Um SUV bate na traseira do seu carro numa estrada tranquila. Quando você desce para ver o dano, o motorista chega com arma e aponta para sua {item}.
+23958	Me chocaron por detrás a propósito y me robaron mi {item}.	Bateram na minha traseira de propósito e roubaram minha {item}.
+23959	Volver al coche y arrancar	Voltar pro carro e dirigir
+23960	Volví al coche y salí a toda velocidad. Me quedé con mi {item}.	Voltei pro carro e saí em alta velocidade. Fiquei com minha {item}.
+23961	Disparó cuando subía. Paré y le entregué mi {item}.	Ele atirou quando eu entrava. Parei e entreguei minha {item}.
+23962	Fingir que llamas al 911	Fingir ligar para o 911
+23963	Grité que la policía ya iba en camino. Se lo creyó y se fue.	Gritei que a polícia já estava a caminho. Ele caiu e foi embora.
+23964	Se rió, me apartó el teléfono de un golpe y me quitó mi {item}.	Ele riu, bateu no telefone e tomou minha {item}.
+23965	Un coche con una luz intermitente te detiene. Dos "agentes" sin número de placa dicen que tu {item} coincide con un reporte de robo y que deben llevársela.	Um carro com luz piscando te para. Dois "policiais" sem número de identificação dizem que sua {item} combina com um registro de roubo e precisam levá-la.
+23966	Dos policías falsos me detuvieron y se llevaron mi {item} como "prueba".	Dois policiais falsos me pararam e levaram minha {item} como "prova".
+23967	Pedir sus números de placa	Pedir os números de identificação
+23968	Pedí los números de placa y llamé a la policía de verdad. Los falsos salieron a toda prisa.	Pedi os números e liguei para a polícia de verdade. Os falsos saíram rapidinho.
+23969	Se enfadaron, me sacaron del coche a tirones y me quitaron mi {item}.	Eles ficaram bravos, me arrastaram para fora do carro e tomaram minha {item}.
+23970	Conducir a la comisaría más cercana	Dirigir até a delegacia mais próxima
+23971	Les dije que los seguiría a la comisaría. Desaparecieron en la siguiente curva.	Disse que ia segui-los até a delegacia. Eles sumiram na próxima curva.
+23972	Me rodearon y se llevaron mi {item} de todos modos.	Eles me encurralaram e levaram minha {item} mesmo assim.
+23973	Tu conductor de rideshare cierra las puertas y toma un desvío. Un hombre en el asiento trasero se inclina con una pistola y dice: "El {item}. Despacio."	Seu motorista de aplicativo tranca as portas e faz uma curva errada. Um homem no banco de trás se inclina com arma e diz: "A {item}. Devagar."
+23974	Mi viaje en rideshare era una trampa. Un pistolero en el asiento trasero me quitó mi {item}.	Meu aplicativo era uma armadilha. Um atirador no banco de trás tomou minha {item}.
+23975	Agarrar el volante	Pegar o volante
+23976	Agarré el volante y viré bruscamente contra el bordillo. Salté y corrí con mi {item}.	Peguei o volante e joguei na calçada. Pulei e corri com minha {item}.
+23977	Agarré el volante y chocamos. Me quitaron mi {item} mientras estaba aturdido.	Peguei o volante e batemos. Tomaram minha {item} enquanto eu estava atordoado.
+23978	Saltar en el próximo semáforo	Pular no próximo semáforo
+23979	Abrí la puerta en un semáforo en rojo y rodé fuera. Mi {item} vino conmigo.	Destranquei a porta no semáforo vermelho e rolei para fora. Minha {item} veio comigo.
+23980	Me agarró del cuello cuando intentaba saltar y me arrancó mi {item}.	Ele pegou minha camisa quando tentei pular e arrancou minha {item}.
+23981	Saliendo de la joyería	Saindo da joalheria
+23982	Tres cuadras después, notas que los mismos dos hombres que estaban fuera de la joyería siguen siguiéndote. Se acercan a ti y a tu {item}.	Três quarteirões depois, você nota que os mesmos dois homens da joalheria ainda estão te seguindo. Eles estão chegando perto de você e da sua {item}.
+23983	Meterse en un restaurante lleno de gente	Entrar correndo num restaurante cheio
+23984	Me metí en un restaurante lleno y esperé a que se fueran. Mi {item} está a salvo.	Fui para um restaurante lotado e esperei eles saírem. Minha {item} está segura.
+23985	Esperaron afuera y me atacaron al salir. Me quitaron mi {item}.	Eles esperaram do lado de fora e me atacaram quando saí. Tomaram minha {item}.
+23986	Girarse y enfrentarlos	Virar e encarar eles
+23987	Me giré y me puse en guardia. Decidieron que no valía la pena.	Virei e me preparei. Eles decidiram que não valia a pena.
+23988	Los enfrenté y me tiraron al suelo. Me quitaron mi {item}.	Encarei eles e me derrubaram. Tomaram minha {item}.
+23989	Darles el {item} antes de que se ponga feo	Dar a {item} antes que fique feio
+23990	Les di mi {item} a dos hombres que me seguían antes de que se pusiera feo.	Dei minha {item} para dois homens que me seguiam antes que ficasse feio.
+23991	Estás en un cajero de noche cuando te clavan una pistola en la espalda. "Tarjeta, efectivo y esa {item}", dice una voz.	Você está num caixa eletrônico de madrugada quando encostam uma arma nas suas costas. "Cartão, dinheiro e essa {item}", diz uma voz.
+23992	Darle todo	Dar tudo pra ele
+23993	Me robaron en un cajero. Se llevó mi efectivo y mi {item}.	Fui assaltado no caixa eletrônico. Ele levou meu dinheiro e minha {item}.
+23994	Girarse y pelear	Girar e lutar
+23995	Giré y le hice soltar la pistola. Salió corriendo.	Girei e fiz a arma cair. Ele fugiu.
+23996	Giré y disparó. Me quitó mi {item} y huyó.	Girei e ele atirou. Tomou minha {item} e fugiu.
+23997	Ofrecer solo el efectivo	Oferecer só o dinheiro
+23998	Le di mi efectivo y salió corriendo antes de notar mi {item}.	Entreguei meu dinheiro e ele fugiu antes de notar minha {item}.
+23999	Se llevó el efectivo y después me arrancó también mi {item}.	Ele pegou o dinheiro e depois arrancou minha {item} também.
+24000	Hombres enmascarados irrumpen en el restaurante donde comes. Uno va directo a tu mesa y apunta a tu {item}.	Homens mascarados invadem o restaurante onde você está comendo. Um vai direto na sua mesa e aponta para sua {item}.
+24001	Hombres enmascarados asaltaron el restaurante donde comía y me quitaron mi {item}.	Homens mascarados assaltaram o restaurante onde eu comia e tomaram minha {item}.
+24002	Volcar la mesa sobre él	Virar a mesa nele
+24003	Le lancé la mesa encima y toda la banda huyó. Me quedé con mi {item}.	Joguei a mesa nele e a turma toda fugiu. Fiquei com minha {item}.
+24004	Volqué la mesa, pero su compañero me disparó. Me quitaron mi {item}.	Virei a mesa, mas o parceiro atirou em mim. Tomaram minha {item}.
+24005	Meterlo en tu comida	Colocar na sua comida
+24006	Metí mi {item} en la sopa y juré que no llevaba ninguna. Pasaron de largo.	Coloquei minha {item} na sopa e jurei que não estava usando nenhuma. Eles seguiram em frente.
+24007	Me vio esconderla y pescó mi {item} del cuenco.	Ele me viu esconder e tirou minha {item} da tigela.
+24008	Dos hombres te siguen al baño del club y bloquean la puerta. Uno abre un cuchillo de un golpe y asiente mirando tu {item}.	Dois homens te seguem no banheiro da boate e bloqueiam a porta. Um abre a faca de repente e olha para sua {item}.
+24009	Dársela	Dar pra eles
+24010	Dos hombres me acorralaron en el baño de un club y me quitaron mi {item}.	Dois homens me encurralaram no banheiro da boate e tomaram minha {item}.
+24011	Abrirse paso a golpes	Abrir caminho lutando
+24012	Me abrí paso a golpes hasta la puerta y avisé al portero. Los sacaron.	Abri caminho lutando até a porta e chamei o segurança. Eles foram expulsos.
+24013	Peleé, pero el cuchillo me alcanzó. Se fueron con mi {item}.	Lutei, mas a faca me acertou. Eles saíram com minha {item}.
+24014	Gritar pidiendo seguridad	Gritar pedindo segurança
+24015	Grité pidiendo seguridad y los porteros entraron a toda prisa.	Gritei pedindo segurança e os seguranças entraram correndo.
+24016	La música estaba demasiado alta. Nadie me oyó y me quitaron mi {item}.	A música estava alta demais. Ninguém me ouviu e tomaram minha {item}.
+24017	Llaman a la puerta de tu habitación de hotel. "Servicio de habitación." Al abrir, un hombre entra a empujones con una pistola y va directo a tu {item}.	Batidas na porta do quarto do hotel. "Serviço de quarto." Ao abrir, um homem entra empurrando com arma e vai direto na sua {item}.
+24018	Un falso camarero de servicio de habitación me robó mi {item} en mi cuarto de hotel.	Um falso atendente de quarto roubou minha {item} no meu quarto de hotel.
+24019	Cerrar la puerta de golpe sobre su brazo	Bater a porta no braço dele
+24020	Cerré la puerta de golpe sobre el brazo que sostenía la pistola y corrió por el pasillo. Me quedé con mi {item}.	Bati a porta no braço da arma e ele correu pelo corredor. Fiquei com minha {item}.
+24021	Cerré la puerta de golpe, pero la forzó y me quitó mi {item}.	Bati a porta, mas ele forçou e tomou minha {item}.
+24022	Encerrarse en el baño	Se trancar no banheiro
+24023	Me encerré en el baño con mi {item} y llamé a recepción. Huyó.	Me tranquei no banheiro com minha {item} e liguei pra recepção. Ele fugiu.
+24024	Tiró la puerta del baño a patadas y me quitó mi {item}.	Ele chutou a porta do banheiro e tomou minha {item}.
+24025	Despiertas con una linterna en la cara. Tres hombres enmascarados están junto a tu cama con pistolas. Quieren todas tus joyas: {item}.	Você acorda com uma lanterna na cara. Três homens mascarados estão sobre sua cama com armas. Querem todas as suas joias: {item}.
+24026	Decirles dónde está	Mostrar onde está
+24027	Hombres enmascarados entraron a mi casa de noche y me quitaron mi {item}.	Homens mascarados invadiram minha casa de noite e tomaram minha {item}.
+24028	Agarrar la pistola debajo de la almohada	Pegar a arma debaixo do travesseiro
+24029	Sacé mi pistola y salieron disparados por la ventana. Todo sigue aquí.	Tirei minha arma e eles saíram correndo pela janela. Tudo continua aqui.
+24030	Fui a por mi pistola y dispararon. Se fueron con mi {item}.	Fui pegar minha arma e eles atiraram. Saíram com minha {item}.
+24031	Pulsar el botón de pánico	Apertar o botão de pânico
+24032	Pulsé el botón de pánico. La alarma sonó y huyeron.	Apertei o botão de pânico. O alarme tocou e eles fugiram.
+24033	Sonó la alarma, pero agarraron mi {item} al salir.	O alarme disparou, mas pegaram minha {item} na saída.
+24034	Llegas temprano a casa y oyes taladrar. Dos ladrones están abriendo tu caja fuerte, donde guardas tu {item}.	Você chega cedo em casa e ouve furadeira. Dois ladrões estão arrombando seu cofre, onde você guarda sua {item}.
+24035	Salir sin hacer ruido y llamar a la policía	Sair quietinho e ligar pra polícia
+24036	Llamé a la policía y atraparon a dos ladrones junto a mi caja fuerte. Mi {item} está a salvo.	Liguei pra polícia e eles pegaram dois ladrões no meu cofre. Minha {item} está segura.
+24037	Oyeron las sirenas y se fueron con mi {item} antes de que llegara la policía.	Eles ouviram as sirenes e sumiram com minha {item} antes da polícia chegar.
+24038	Irrumpir gritando	Invadir gritando
+24039	Irrumpí gritando y soltaron todo y huyeron.	Invadi gritando e eles largaram tudo e fugiram.
+24040	Irrumpí y uno me golpeó con el taladro. Me quitaron mi {item}.	Invadei e um bateu com a furadeira. Tomaram minha {item}.
+24041	Esconderse hasta que se vayan	Se esconder até eles saírem
+24042	Me escondí mientras los ladrones abrían mi caja fuerte y se llevaban mi {item}.	Me escondi enquanto os ladrões arrombavam meu cofre e levavam minha {item}.
+24043	Un repartidor pide una firma. Al abrir la puerta, empuja hacia dentro, saca una pistola y intenta agarrar tu {item}.	Um entregador pede uma assinatura. Ao abrir a porta, ele empurra para dentro, tira arma e tenta pegar sua {item}.
+24044	Dejar que se la lleve	Deixar levar
+24045	Un falso repartidor entró a la fuerza y me quitó mi {item}.	Um falso entregador entrou à força e tomou minha {item}.
+24046	Empujarlo de vuelta afuera	Empurrar ele de volta pra fora
+24047	Lo empujé afuera y cerré la puerta con cerrojo. Me quedé con mi {item}.	Empurrei ele para fora e tranquei a porta com chave. Fiquei com minha {item}.
+24048	Lo empujé, pero se sostuvo y disparó. Me quitó mi {item}.	Empurrei ele, mas ele se firmou e atirou. Tomou minha {item}.
+24049	Lanzarle tu perro	Soltar seu cachorro nele
+24050	Mi perro fue a por su pierna y salió corriendo gritando.	Meu cachorro foi na perna dele e ele fugiu gritando.
+24051	Mi perro solo movió la cola. Me quitó mi {item}.	Meu cachorro só abanou o rabo. Tomou minha {item}.
+24052	Vuelves de un viaje y encuentras tu habitación patas arriba. Solo falta tu {item}. Quien lo hizo sabía exactamente dónde buscar.	Você volta de uma viagem e encontra seu quarto revirado. Só sua {item} está faltando. Quem fez isso sabia exatamente onde procurar.
+24053	La policía rastreó mi {item} robada hasta una casa de empeños y la recuperó.	A polícia rastreou minha {item} roubada até uma loja de penhores e recuperou.
+24054	La policía tomó la denuncia, pero nunca encontraron mi {item}.	A polícia fez o boletim, mas minha {item} nunca foi encontrada.
+24055	Contratar a un detective privado	Contratar um detetive particular
+24056	Un detective privado descubrió que mi asistenta lo planeó. Recuperé mi {item}.	Um detetive particular descobriu que minha faxineira armou tudo. Recuperei minha {item}.
+24057	El detective privado no encontró nada. Mi {item} desapareció.	O detetive particular não achou nada. Minha {item} sumiu.
+24058	Alguien en quien confiaba robó mi {item}. Nunca supe quién fue.	Alguém em quem eu confiava roubou minha {item}. Nunca soube quem foi.
+24059	Ladrón de la fiesta en la piscina	Ladrão da festa na piscina
+24060	Después de tu fiesta en casa, tu {item} desapareció del lavabo del baño. Alguien de la fiesta la cogió.	Depois da sua festa em casa, sua {item} sumiu do lavatório do banheiro. Alguém na festa pegou.
+24061	Revisar las cámaras de seguridad	Checar as câmeras de segurança
+24062	Las cámaras grabaron a un invitado guardándose mi {item}. La recuperé.	As câmeras pegaram um convidado guardando minha {item}. Recuperei.
+24063	La cámara apuntaba al lado equivocado. Mi {item} desapareció.	A câmera estava apontando pro lado errado. Minha {item} sumiu.
+24064	Llamar a todos y acusarlos	Ligar pra todo mundo e acusar
+24065	Un invitado se quebró y devolvió mi {item}.	Um convidado cedeu e devolveu minha {item}.
+24066	Acusé a todos y perdí algunos amigos. Mi {item} nunca apareció.	Acusei todo mundo e perdi alguns amigos. Minha {item} nunca apareceu.
+24067	Un invitado en mi fiesta robó mi {item}.	Um convidado da minha festa roubou minha {item}.
+24068	Romper y robar	Quebrar e roubar
+24069	Oyes cristales romperse abajo. Alguien lanzó un ladrillo por la ventana y está cogiendo tu {item} de la vitrina.	Você ouve vidro quebrando embaixo. Alguém jogou um tijolo pela janela e está pegando sua {item} da vitrine.
+24070	Bajar y pelear	Descer e lutar
+24071	Bajé corriendo y lo perseguí hasta la ventana rota.	Desci correndo e persegui ele até a janela quebrada.
+24072	Bajé corriendo y recibí un puñetazo en la cara. Se fue con mi {item}.	Desci correndo e levei um soco na cara. Ele fugiu com minha {item}.
+24073	Quedarse arriba y llamar al 911	Ficar em cima e ligar pro 911
+24074	La policía llegó rápido y lo atrapó en el jardín con mi {item}.	A polícia chegou rápido e pegou ele no quintal com minha {item}.
+24075	Cuando llegó la policía, ya se había ido con mi {item}.	Quando a polícia chegou, ele já tinha sumido com minha {item}.
+24076	Un ladrón rompió mi ventana y me quitó mi {item}.	Um ladrão quebrou minha janela e tomou minha {item}.
+24077	Se va la luz. Un momento después, unas linternas recorren tu sala y una voz dice: "Sabemos lo del {item}. ¿Dónde está?"	A luz acaba. Um momento depois, lanternas varrem sua sala e uma voz diz: "Sabemos sobre a {item}. Onde está?"
+24078	Decirles dónde está	Dizer onde está
+24079	Los ladrones cortaron la luz y me quitaron mi {item}.	Os ladrões cortaram a energia e tomaram minha {item}.
+24080	Decir que la vendiste	Dizer que vendeu
+24081	Juré que la había vendido el mes pasado. Revolvieron todo, no encontraron nada y se fueron.	Jurei que tinha vendido mês passado. Eles reviraram tudo, não acharam nada e saíram.
+24082	No me creyeron y encontraron mi {item} en diez minutos.	Eles não acreditaram em mim e acharam minha {item} em dez minutos.
+24083	Pelear a oscuras	Lutar no escuro
+24084	Yo conocía mi casa a oscuras y ellos no. Huyeron.	Eu conhecia minha casa no escuro e eles não. Eles fugiram.
+24085	Lancé un golpe a oscuras y me dispararon. Se fueron con mi {item}.	Ataquei no escuro e atiraram em mim. Eles saíram com minha {item}.
+24086	Presumir en redes sociales	Exibir nas redes sociais
+24087	Tu última publicación lucía tu {item}. Ahora una banda que rastreó la ubicación de la foto te tiene acorralado a la salida de tu edificio.	Sua última publicação exibia sua {item}. Agora uma turma que rastreou a localização da foto te encurralou do lado do seu prédio.
+24088	Una banda me localizó por una publicación en redes y me quitó mi {item}.	Uma turma me rastreou pela publicação nas redes e tomou minha {item}.
+24089	Correr al vestíbulo	Correr pro saguão
+24090	Corrí al vestíbulo y el portero les cerró la puerta.	Corri pro saguão e o porteiro trancou a porta pra eles.
+24091	Me alcanzaron en la puerta y me arrancaron mi {item}.	Eles me pegaram na porta e arrancaram minha {item}.
+24092	Me defendí con fuerza y salieron corriendo.	Revirei com força e eles fugiram.
+24093	Eran demasiados. Me quitaron mi {item}.	Eram muitos. Tomaram minha {item}.
+24094	En casa te das cuenta de que tu {item} desapareció. Recuerdas al desconocido que te chocó en el metro.	Em casa você percebe que sua {item} sumiu. Você lembra do estranho que esbarrou em você no metrô.
+24095	Denunciarlo a la policía del transporte	Reportar pra polícia do metrô
+24096	La policía del transporte atrapó a un carterista con mi {item}.	A polícia do transporte pegou um batedor de carteira com minha {item}.
+24097	La policía del transporte nunca encontró mi {item}.	A polícia do transporte nunca achou minha {item}.
+24098	Buscar en casas de empeño por tu cuenta	Procurar em lojas de penhores por conta própria
+24099	Encontré mi {item} en el escaparate de una casa de empeños y la recompré.	Achei minha {item} na vitrine de uma loja de penhores e recomprei.
+24100	Busqué en todas las casas de empeño de la ciudad y no encontré nada.	Procurei em todas as lojas de penhores da cidade e não achei nada.
+24101	Un carterista me robó mi {item} en el metro.	Um batedor de carteira roubou minha {item} no metrô.
+24102	Rehén en la cocina	Refém na cozinha
+24103	rehén	refém
+24104	Entras a la cocina y te quedas quieto. Un hombre enmascarado apunta con una pistola a la cabeza de {who}. "Todas las joyas", dice. "O tu {rel} muere." Se refiere a tu {item}.	Você entra na cozinha e congela. Um homem mascarado aponta arma para a cabeça de {who}. "Todas as joias", diz. "Ou seu {rel} morre." Ele quer sua {item}.
+24105	Un pistolero tomó a mi {rel} {who} como rehén en nuestra cocina. Le di mi {item}.	Um atirador fez meu {rel} {who} de refém na nossa cozinha. Entreguei minha {item}.
+24106	Abalanzarse sobre él	Partir pra cima dele
+24107	Me abalancé sobre él y lo tiré al suelo. {who} está a salvo.	Pulei nele e o derrubei no chão. {who} está seguro.
+24108	Me abalancé sobre él y disparó. Huyó con mi {item}.	Pulei nele e ele atirou. Ele fugiu com minha {item}.
+24109	Señalar a {who} que se tire al suelo	Sinalizar para {who} se jogar no chão
+24110	{who} se tiró al suelo y le di con una sartén. Quedó inconsciente.	{who} se jogou no chão e bati com uma frigideira. Ele desmaiou.
+24111	{who} dudó. Entró en pánico, disparó y huyó con mi {item}.	{who} hesitou. Ele entrou em pânico, atirou e fugiu com minha {item}.
+24112	Suena tu teléfono. Una voz distorsionada dice que tienen a {who}. Oyes llorar a tu {rel} de fondo. El rescate es tu {item}, dejada en la estación de tren a medianoche.	Seu telefone toca. Uma voz distorcida diz que estão com {who}. Você ouve seu {rel} chorando ao fundo. O resgate é sua {item}, deixada na estação de trem à meia-noite.
+24113	Dejar las joyas	Deixar as joias
+24114	Los secuestradores tomaron a mi {rel} {who}. Pagué el rescate con mi {item} y volvió a casa sano y salvo.	Os sequestradores levaram meu {rel} {who}. Paguei o resgate com minha {item} e ele voltou para casa são e salvo.
+24115	Me negué a pagar. Dos días después {who} escapó y volvió caminando a casa.	Recusei pagar. Dois dias depois {who} escapou e voltou andando pra casa.
+24116	Me negué a pagar. Los secuestradores no bromeadaban.	Recusei pagar. Os sequestradores não estavam blefando.
+24117	Llamar al FBI	Ligar pro FBI
+24118	El FBI rastreó la llamada y rescató a {who}. Los secuestradores fueron arrestados.	O FBI rastreou a ligação e resgatou {who}. Os sequestradores foram presos.
+24119	Los secuestradores vieron a los agentes. Salió horriblemente mal.	Os sequestradores avistaram os agentes. Deu tudo errado.
+24120	Rastrear el teléfono por tu cuenta	Rastrear o telefone por conta própria
+24121	Rastreé el teléfono hasta un almacén y saqué a {who} yo mismo.	Rastreei o telefone até um galpão e tirei {who} eu mesmo.
+24122	Encontré el almacén, pero me estaban esperando.	Achei o galpão, mas eles estavam me esperando.
+24123	Asalto de coche con la familia	Roubo de carro com a família
+24124	Dos hombres abren de golpe las puertas de tu coche en un semáforo. Uno apunta con una pistola a la cabeza de {who} en el asiento del copiloto. "La {item}, ahora."	Dois homens abrem as portas do seu carro no semáforo. Um aponta arma para a cabeça de {who} no banco do passageiro. "A {item}, agora."
+24125	Los ladrones de coches apuntaron con una pistola a mi {rel} {who} y me quitaron mi {item}.	Os ladrões de carro apontaram arma para meu {rel} {who} e tomaram minha {item}.
+24126	Aceleré a fondo y los tiré del coche. {who} está alterado pero a salvo.	Acelerei fundo e joguei eles para fora do carro. {who} está abalado, mas seguro.
+24127	Aceleré a fondo y disparó contra el coche.	Acelerei fundo e ele atirou contra o carro.
+24128	Supliqué y dejaron bajar a {who} antes de huir. No se llevaron mi {item}.	Implorei e eles deixaram {who} sair antes de fugir. Não levaram minha {item}.
+24129	No les importó. Se llevaron mi {item}.	Eles não ligaram. Levaram minha {item}.
+24130	En la cena, un hombre agarra a {who} de la mesa, le pone una pistola en el cuello y retrocede hacia la puerta. "La {item} o me lo llevo conmigo."	No jantar, um homem pega {who} da mesa, encosta arma no pescoço e recua até a porta. "A {item} ou eu levo ele comigo."
+24131	Un hombre agarró a mi {rel} {who} durante la cena. Le lancé mi {item} y lo soltó.	Um homem pegou meu {rel} {who} no jantar. Joguei minha {item} pra ele e o soltou.
+24132	Abalanzarse sobre él	Partir pra cima dele
+24133	Me abalancé sobre él y todo el restaurante se echó encima. {who} está a salvo.	Pulei nele e todo o restaurante foi pra cima. {who} está seguro.
+24134	Me abalancé y disparó antes de que alguien pudiera detenerlo.	Pulei nele e ele atirou antes de alguém poder impedir.
+24135	Ganar tiempo hasta que llegue la policía	Ganar tempo até a polícia chegar
+24136	Lo entretuve hasta que la policía entró a golpes y lo arrestó.	Segurei ele até a polícia entrar arrombando e prender.
+24137	Oyó las sirenas y entró en pánico.	Ele ouviu as sirenes e entrou em pânico.
+24138	Llega una videollamada de un número desconocido. {who} está atado a una silla. Un hombre aparece en pantalla: "Deja la {item} en el contenedor detrás del centro comercial en una hora."	Chega uma videochamada de número desconhecido. {who} está amarrado numa cadeira. Um homem aparece: "Deixe a {item} no lixo atrás do shopping em uma hora."
+24139	Dejar las joyas	Deixar as joias
+24140	Los secuestradores mostraron a mi {rel} {who} en una videollamada. Dejé mi {item} en un contenedor y lo liberaron.	Os sequestradores mostraram meu {rel} {who} numa videochamada. Deixei minha {item} no lixo e ele foi libertado.
+24141	Dejar joyas falsas en su lugar	Deixar falsas no lugar
+24142	Dejé joyas falsas. Cuando se dieron cuenta, la policía ya había encontrado a {who}.	Deixei joias falsas. Quando perceberam, a polícia já tinha achado {who}.
+24143	Revisaron las joyas allí mismo. Supieron que eran falsas.	Eles checaram as joias na hora. Sabiam que eram falsas.
+24144	La policía vigiló el contenedor y atrapó al secuestrador. Encontraron a {who} a salvo.	A polícia ficou de olho no lixo e pegou o sequestrador. {who} foi achado seguro.
+24145	El secuestrador vio un coche sin identificar.	O sequestrador avistou um carro sem identificação.
+24146	Una furgoneta frena con chirridos cuando {who} camina al coche. Dos hombres arrastran a tu {rel} adentro y uno te apunta con una pistola. "Lanza la {item} a la furgoneta y nadie se lastima."	Uma van freia cantando pneu quando {who} caminha para o carro. Dois homens arrastam seu {rel} para dentro e um aponta arma pra você. "Jogue a {item} na van e ninguém se machuca."
+24147	Lanzarla adentro	Jogar pra dentro
+24148	Hombres en una furgoneta agarraron a mi {rel} {who}. Les di mi {item} y lo sacaron del vehículo.	Homens numa van pegaram meu {rel} {who}. Dei minha {item} e eles o tiraram de lá.
+24149	Saltar a la furgoneta	Pular na van
+24150	Salté detrás de {who} y peleé con ellos hasta que nos tiraron a los dos fuera.	Pulei atrás de {who} e lutei com eles até jogarem os dois para fora.
+24151	Salté adentro y me dispararon. Se fueron con mi {item}.	Pulei pra dentro e atiraram em mim. Eles saíram com minha {item}.
+24152	Anotar la placa	Anotar a placa
+24153	Memoricé la placa. La policía los paró a una milla de distancia y liberó a {who}.	Memorizei a placa. A polícia os parou a uma milha daqui e libertou {who}.
+24154	La policía encontró la furgoneta demasiado tarde.	A polícia achou a van tarde demais.
+24155	Asalto en la cena familiar	Invasão no jantar em família
+24156	Hombres enmascarados tiran la puerta a patadas durante la cena familiar. Uno saca a {who} de la silla y le apunta con una pistola. "Todas las joyas de la casa", dice. Se refiere a tu {item}.	Homens mascarados chutam a porta durante o jantar em família. Um tira {who} da cadeira e aponta arma pra ele. "Todas as joias da casa", diz. Ou seja, sua {item}.
+24157	Darles todo	Dar tudo pra eles
+24158	Hombres enmascarados apuntaron a mi {rel} {who} durante la cena. Les di mi {item}.	Homens mascarados apontaram arma para meu {rel} {who} no jantar. Dei minha {item}.
+24159	Me defendí y toda la familia se echó encima. Huyeron.	Revirei e toda a família foi pra cima. Eles fugiram.
+24160	Me defendí y hubo disparos.	Revirei e houve tiros.
+24161	Ofrecer efectivo en su lugar	Oferecer dinheiro no lugar
+24162	Les ofrecí todo mi efectivo, lo tomaron y se fueron. Nunca consiguieron mi {item}.	Ofereci todo meu dinheiro, eles pegaram e saíram. Nunca levaram minha {item}.
+24163	Se llevaron el efectivo y mi {item}.	Levaram o dinheiro e minha {item}.
+24164	Pistoleros irrumpen en una fiesta a la que vas. Uno agarra a {who} por el pelo y te apunta. "Vimos la {item} en tu perfil. Entrégala o despídete."	Atiradores invadem uma festa que você está. Um pega {who} pelo cabelo e aponta pra você. "Vimos a {item} no seu perfil. Entrega ou se despede."
+24165	Pistoleros asaltaron una fiesta y tomaron a mi {rel} {who} como rehén hasta que les di mi {item}.	Atiradores invadiram uma festa e fizeram meu {rel} {who} de refém até eu dar minha {item}.
+24166	Me abalancé sobre él y los invitados ayudaron a sujetarlo. {who} está a salvo.	Pulei nele e os convidados ajudaram a imobilizar. {who} está seguro.
+24167	Me abalancé sobre él y disparó contra la gente.	Pulei nele e ele atirou na multidão.
+24168	Ofrecerse en su lugar	Se oferecer no lugar
+24169	Me ofrecí en su lugar. En el intercambio {who} escapó y la policía lo atrapó afuera.	Me ofereci no lugar. Na troca {who} fugiu e a polícia pegou ele do lado de fora.
+24170	Se rió, me empujó al suelo y me quitó mi {item}.	Ele riu, me empurrou no chão e tomou minha {item}.
+24171	Rehenes en casa	Reféns em casa
+24172	Llegas a casa y encuentras la puerta abierta. Un hombre apunta a {who} en la sala. "Abre la caja fuerte donde está tu {item} o aprieto el gatillo."	Você chega em casa e encontra a porta da frente aberta. Um homem aponta arma para {who} na sala. "Abra o cofre com sua {item} dentro ou eu atiro."
+24173	Abrir la caja fuerte	Abrir o cofre
+24174	Un pistolero tomó a mi {rel} {who} como rehén en la sala hasta que abrí la caja fuerte. Se llevó mi {item}.	Um atirador fez meu {rel} {who} de refém na sala até eu abrir o cofre. Levou minha {item}.
+24175	Fingir que olvidaste la combinación	Fingir esquecer a senha
+24176	Gané tiempo con códigos equivocados hasta que llegó la policía y lo arrestó.	Ganhei tempo com senhas erradas até a polícia chegar e prender.
+24177	Perdió la paciencia.	Ele perdeu a paciência.
+24178	Agarrar un arma y pelear	Pegar uma arma e lutar
+24179	Agarré una lámpara y lo dejé inconsciente.	Peguei uma luminária e ele desmaiou.
+24180	Me vio ir por la lámpara y disparó.	Ele me viu ir na luminária e atirou.
+24181	De vacaciones, {who} desaparece. Una nota bajo la puerta de tu hotel dice que devolverán a tu {rel} a cambio de tu {item}.	De férias, {who} desaparece. Um bilhete debaixo da porta do hotel diz que seu {rel} voltará em troca da sua {item}.
+24182	Hacer el intercambio	Fazer a troca
+24183	Secuestraron a mi {rel} {who} de vacaciones. Cambié mi {item} por su vida.	Sequestraram meu {rel} {who} nas férias. Troquei minha {item} pela vida dele.
+24184	Ir a la policía local	Ir na polícia local
+24185	La policía local encontró a {who} en una villa alquilada y arrestó a los secuestradores.	A polícia local achou {who} numa villa alugada e prendeu os sequestradores.
+24186	La policía local estaba metida en el asunto.	A polícia local estava envolvida.
+24187	Contratar un equipo de rescate	Contratar uma equipe de resgate
+24188	Un equipo de rescate privado sacó a {who} en plena noche.	Uma equipe de resgate particular tirou {who} no meio da noite.
+24189	El rescate salió mal.	O resgate deu errado.
+24190	amante	amante
+24191	No pude conseguir el dinero.	Não consegui o dinheiro.
+24192	Salió mal	Deu errado
+24193	{1} murió.	{1} foi morto.
+24194	{1} sobrevivió, pero por los pelos.	{1} sobreviveu, mas por pouco.
+24195	La broma se volvió contra ellos. Era falso.	A piada virou contra eles. Era falso.
+24196	una herida de bala durante un robo	um ferimento a bala durante um assalto
+24197	heridas por un robo	ferimentos de um assalto
+24198	transparente	transparente
+24199	perla	pérola
+24201	14K Oro Blanco	14K Ouro Branco
+24202	aretes	brincos
+24203	dije	pingente
+24204	Collar con dije {1}	Colar com pingente {1}
+24205	Pulsera tenis {1}	Pulseira tênis {1}
+24206	La Estrella Polar	A Estrela Polar
+24208	Corazón de Escarlata	Coração de Escarlata
+24209	Luna de Persia	Lua da Pérsia
+24210	Lágrima de Cuervo	Lágrima de Corvo
+24211	Zafiro de los Mares	Safira dos Mares
+24212	Estrella del Norte	Estrela do Norte
+24213	Sangre de Dragón	Sangue de Dragão
+24214	Corazón de las Profundidades	Coração das Profundezas
+24215	El Legado Rosa	O Legado Rosa
+24216	El Eslabón Goliat	O Elo Golias
+24217	cadena	corrente
+24218	Cadena tenis Glaciar	Corrente tênis Glaciar
+24219	Eslabón Monarca Rosado	Elo Monarca Rosé
+24220	Cuerda dorada de Midas	Corda dourada de Midas
+24221	Cubana Triple Corona	Cubana Tripla Coroa
+24222	Collar Real de Rubí	Colar Real de Rubi
+24223	Rey de la Selva	Rei da Selva
+24224	Cruz de Hielo Sagrado	Cruz de Gelo Sagrada
+24225	Dije Bóveda Rosa	Pingente Cofre Rosa
+24226	La Bolsa de Dinero	O Saco de Dinheiro
+24227	Mariposa Monarca de Diamantes	Borboleta Monarca de Diamantes
+24228	Cubana Serpiente de Esmeralda	Cubana Serpente de Esmeralda
+24229	Cascada de Luz	Cachoeira de Luz
+24230	Cubana de Oro Sólido	Cubana de Ouro Sólido
+24231	Cubana Bala de Plata	Cubana Bala de Prata
+24232	Cubana Diamantada	Cubana Diamantada
+24233	Cubana Escarcha Dorada	Cubana Geada Dourada
+24234	Cubana Limonada Rosa	Cubana Limonada Rosa
+24235	Collar Corona de Espinas	Colar Coroa de Espinhos
+24236	Cruz de Fe Dorada	Cruz de Fé Dourada
+24237	Calavera Jinete Fantasma	Caveira Cavaleiro Fantasma
+24238	Escudo del Rey León	Brasão do Rei Leão
+24239	El Gran Signo del Dinero	O Grande Sinal do Dinheiro
+24240	Keep It 100	Keep It 100
+24241	El Mundo Es Tuyo	O Mundo É Seu
+24242	Cruz Floral Real	Cruz Floral Real
+24243	Collar Colmillo de Hielo	Colar Presa de Gelo
+24244	Collar Lluvia de Diamantes	Colar Chuva de Diamantes
+24245	Collar Jardín Dorado	Colar Jardim Dourado
+24246	Agotado	Esgotado
+24247	Vuelve el año que viene	Volte no ano que vem
+24248	Anillo de cóctel {1}	Anel de coquetel {1}
+24249	Aretes de candelabro {1}	Brincos de lustre {1}
+24250	Collar llamativo {1}	Colar marcante {1}
+24251	Aretes de aro de oro	Brincos de argola de ouro
+24252	Aretes de gota de plata	Brincos de gota de prata
+24253	Collar con dije de oro	Colar com pingente de ouro
+24254	Collar con dije de plata	Colar com pingente de prata
+24255	Pulsera de eslabones de oro	Pulseira de elos de ouro
+24256	Pulsera de eslabones de plata	Pulseira de elos de prata
+24257	Cadena de eslabones cubanos	Corrente de elos cubanos
+24258	Dije de perla de oro	Pingente de pérola de ouro
+24259	dije	pingente
+24260	Dije de perla de plata	Pingente de pérola de prata
+24261	Reloj de esfera azul	Relógio de mostrador azul
+24262	Reloj de esfera roja	Relógio de mostrador vermelho
+24263	Reloj de esfera turquesa	Relógio de mostrador turquesa
+24264	Reloj de esfera rosa	Relógio de mostrador rosa
+24265	Reloj de esfera naranja	Relógio de mostrador laranja
+24266	Reloj de esfera amarilla	Relógio de mostrador amarelo
+24267	Reloj de arte grafiti	Relógio de arte grafite
+24268	Reloj deportivo de diamantes	Relógio esportivo de diamantes
+24269	Cronógrafo de oro blanco	Cronógrafo de ouro branco
+24270	Cronógrafo de carreras vintage	Cronógrafo de corrida vintage
+24271	Reloj de bolsillo real antiguo	Relógio de bolso real antigo
+24272	Reloj de diamantes arcoíris	Relógio de diamantes arco-íris
+24273	ellos	eles
+24274	estos	estes
+24275	esto	isto
+24276	¡Compra {1}{2} hoy!	Compre {1}{2} hoje!
+24277	Compré {1}{2}{3} a {4} por {5}.	Comprei {1}{2}{3} de {4} por {5}.
+24278	Ahora eres dueño de {1}{2}.	Agora você é dono de {1}{2}.
+24279	limpio	limpo
+24280	Limpiar todas las joyas...	Limpar todas as joias...
+24281	Limpié todas mis joyas.	Limpei todas minhas joias.
+24282	Limpiaste todas tus joyas. ¡Parecen nuevas!	Você limpou todas as suas joias. Parecem novas!
+24283	Tasar {1}	Avaliar {1}
+24284	Limpiar {1}	Limpar {1}
+24285	Deshacerse de {1}	Se livrar de {1}
+24286	Donar {1} a una organización benéfica	Doar {1} para uma instituição de caridade
+24287	Regalar {1} a alguien	Dar {1} para alguém
+24288	Comprado a {1}	Comprado de {1}
+24289	Años en la familia	Anos na família
+24290	Una tasación cuesta {1}.	Uma avaliação custa {1}.
+24291	Un joyero profesional tasó tu {1}.	Um joalheiro profissional avaliou sua {1}.
+24292	Por desgracia, el joyero descubrió que tu {1} {2} falsa, hecha con materiales baratos.	Infelizmente, o joalheiro descobriu que sua {1} {2} falsa, feita com materiais baratos.
+24293	Valor estimado: {1}	Valor estimado: {1}
+24294	Costo de la tasación: {1}	Taxa de avaliação: {1}
+24295	Descubrí que mi {1} {2} falsa.	Descobri que minha {1} {2} falsa.
+24296	¡El joyero confirmó que {1} {2} auténtica!	O joalheiro confirmou que {1} {2} é autêntica!
+24297	Tasé mi {1}.	Avaliei minha {1}.
+24298	¡Intenta vender tu {1} hoy!	Tente vender sua {1} hoje!
+24299	Venderla a alguien como auténtica	Vender como autêntica para alguém
+24300	Nadie quiso comprar tu {1}.	Ninguém quis comprar sua {1}.
+24301	Intenté vender mi {1} como auténtica, pero nadie picó.	Tentei vender minha {1} como autêntica, mas ninguém mordeu a isca.
+24302	{1} {2} aceptó darte {3} por tu {4}.	{1} {2} concordou em te dar {3} pela sua {4}.
+24303	Venderla a {1}	Vender para {1}
+24304	Llenándome los bolsillos	Enchendo meus bolsos
+24305	Vendiste tu {1} a {2} {3} por {4}.	Você vendeu sua {1} para {2} {3} por {4}.
+24306	Vendí mi {1} a {2} {3} por {4}.	Vendi minha {1} para {2} {3} por {4}.
+24307	Intenté pasar mi {1} por auténtica, pero el comprador lo descubrió y llamó a la policía.	Tentei passar minha {1} por autêntica, mas o comprador percebeu e chamou a polícia.
+24308	Es auténtica, te lo juro	É autêntica, eu te digo
+24309	{1} detectó que el {2} que vendiste {3} era falso y te denunció a la policía.	{1} identificou que o {2} que você vendeu {3} era falso e te entregou à polícia.
+24310	El comprador pagó {1}, sin saber que el {2} {3} falso.	O comprador pagou {1}, sem saber que o {2} {3} falso.
+24311	Pasé una {1} falsa por auténtica y vendí {2} por {3}.	Passei uma {1} falsa por autêntica e vendi {2} por {3}.
+24312	El comprador detecta la falsificación	Comprador detecta falsificação
+24313	¡Tu {1} {2} falsa!	Sua {1} {2} falsa!
+24314	El comprador se dio cuenta de que el {1} {2} falso y se negó a comprar {3}.{4}	O comprador percebeu que o {1} {2} era falso e recusou comprar {3}.{4}
+24315	Un comprador me dijo que mi {1} {2} falsa.	Um comprador me disse que minha {1} {2} falsa.
+24316	Un comprador se dio cuenta de que mi {1} {2} falsa.	Um comprador percebeu que minha {1} {2} falsa.
+24317	Intenté vender una {1} falsa como auténtica y el comprador llamó a la policía.	Tentei vender uma {1} falsa como autêntica e o comprador chamou a polícia.
+24318	El comprador reporta el fraude	Comprador reporta fraude
+24319	El comprador descubrió la falsificación y contactó a la policía.	O comprador descobriu a falsificação e contatou a polícia.
+24320	Tu {1} {2} ya está impecable.	Sua {1} {2} já está impecável.
+24321	Se ven	Parecem
+24322	Se ve	Parece
+24323	Limpiaste tu {1}. ¡{2} como nueva!	Você limpou sua {1}. {2} novinha!
+24324	Limpié mi {1}.	Limpei minha {1}.
+24325	Le diste tu {2} a {1}, ¡y {3} se dio cuenta de que {4} era falso!	Você deu sua {2} para {1}, e {3} percebeu que {4} era falso!
+24326	Le diste tu {1} a {2}. ¡{3} le encantó!	Você deu sua {1} para {2}. {3} adorou!

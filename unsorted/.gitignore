@@ -1,0 +1,26 @@
+# generated / scratch
+__pycache__/
+*.pyc
+*.bak
+*.bak-*
+*~
+node_modules/
+Thumbs.db
+# string-extraction scratch files
+*.all.txt
+*.tpl.txt
+*.clean.txt
+*.strings.txt
+*.missing.txt
+_art-src/_preview/
+# mobile build output (the workflow creates these)
+mobile/www/
+mobile/node_modules/
+mobile/android/
+mobile/ios/
+mobile/package-lock.json
+
+# mobile build output
+mobile/www/
+mobile/android/
+mobile/ios/

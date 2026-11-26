@@ -1,0 +1,800 @@
+33191	Surprise works. Hostage safe.
+33192	The hostage is moved before you arrive.
+33193	You find a better entry point. Success.
+33194	The hostage is executed. Brutal.
+33195	A partner commander wants your team to support an assault on a village. Your legal advisor says the target list is shaky. What's your call?
+33196	Refuse to support
+33197	The assault is canceled. Later, the list proves mostly wrong.
+33198	Support with limits
+33199	You only engage confirmed fighters. Clean operation.
+33200	The limits are ignored the moment shooting starts.
+33201	Full support
+33202	The intel was right.
+33203	Investigators arrive within a week.
+33204	Your team has run raids five nights straight. Higher wants one more tonight. Your Marines are making mistakes. What do you do?
+33205	Request a rest night
+33206	Approved. The next raid is flawless.
+33207	Denied. You go anyway, tired.
+33208	Go tonight
+33209	Adrenaline carries you. Another success.
+33210	A tired mistake gets you hurt.
+33211	You lead a visit, board, search and seizure on a suspected weapons smuggling dhow at night. The crew is acting jumpy. How do you board?
+33212	Fast and loud
+33213	Crew surrenders instantly. Rockets found in the hold.
+33214	A crewman fires from the wheelhouse.
+33215	Hail and negotiate
+33216	They comply. Weapons seized.
+33217	They dump the cargo overboard while you talk.
+33218	As {rank}, you command a Raider battalion. Congress wants MARSOC cut to save money. You're asked to testify. What do you emphasize?
+33219	Budget saved. Senators praise the Raiders.
+33220	The cuts go through anyway.
+33221	Combat record
+33222	Strong testimony. Funding preserved.
+33223	A senator calls it 'cowboy diplomacy'.
+33224	You're asked to shift Raiders from counterterrorism to great-power competition. Some old operators resist. How do you lead the change?
+33225	Explain the why
+33226	The force adapts. History will thank you.
+33227	Resistance slows it down.
+33228	Force it through
+33229	Done quickly.
+33230	Morale tanks. Retention drops.
+33231	You visit the family of a Raider killed under your command. His father is angry and blames you. What do you say?
+33232	Listen and grieve with him
+33233	He calms down. You stay in touch for years.
+33234	He doesn't want to hear it. Not yet.
+33235	A news story reveals misconduct by Raiders under your command. Your boss wants to know how you'll respond. What's your plan?
+33236	You clean house. Trust restored slowly.
+33237	Minimize it
+33238	It blows over.
+33239	More stories come out. You're relieved.
+33240	You represent US special operations at an allied summit. A foreign general proposes a joint mission with risky terms. What do you say?
+33241	Agree with conditions
+33242	A successful joint mission follows.
+33243	The mission struggles on unclear command.
+33244	Relations cool, but risk avoided.
+33245	After 26 years, you're being considered for general. Your body is wrecked and your family wants you home. What do you do?
+33246	Go for general
+33247	You pin on a star.
+33248	Not selected. Time to plan retirement.
+33249	You hang up the uniform with honors.
+33250	You're asked to dedicate a memorial for fallen Raiders, including some you sent into battle. What do you say?
+33251	It takes a long time. Nobody leaves.
+33252	Short speech
+33253	Dignified and brief.
+33254	Your battalion's injury rates are climbing and operators are burning out. Training tempo is to blame. What do you do?
+33255	Cut the tempo
+33256	Injuries drop. Readiness actually improves.
+33257	Bring in performance staff
+33258	Strength coaches and physical therapists work miracles.
+33259	Funding for it gets denied.
+33260	You brief senior leaders on a sensitive operation in {country}. One asks a question you can't answer. What do you do?
+33261	'I'll find out'
+33262	Honesty is valued at this level.
+33263	Nobody catches it.
+33264	Someone knows the real answer. Embarrassing.
+33265	Old Teammate Calls
+33266	A former Raider you served with as a captain calls you at midnight. He's out of the service and sounds like he's in crisis. What do you do?
+33267	Drive to see him
+33268	You get him to a VA program. He's still alive years later.
+33269	He thanks you, flatly. You worry for weeks.
+33270	At a family reunion, your uncle insists Raiders are just 'Navy SEAL wannabes'. Everyone is watching. What do you do?
+33271	Explain politely
+33272	He doesn't listen, but your aunt is impressed.
+33273	Challenge him to push-ups
+33274	He taps out at 12. You do 80.
+33275	He pulls a muscle. Now it's your fault.
+33276	You eat potato salad in peace.
+33277	{buddy} wants the team to pool money for a big lottery jackpot. Everyone's in. Are you?
+33278	Throw in $20
+33279	You actually win a small share!
+33280	Nothing. Of course.
+33281	Nobody wins. You feel smug.
+33282	The team watches a military action movie. It's wildly inaccurate. {buddy} is yelling at the screen. Do you join in?
+33283	Yell along
+33284	Best movie night ever.
+33285	You keep a mental list of errors.
+33286	A Gold Star family organizes a memorial ruck. It's 22 miles on a weekend. Will you go?
+33287	Do the ruck
+33288	Your feet are destroyed. Your heart is full.
+33289	The family sends a thank-you note.
+33290	A kid at a Veterans Day parade asks if you've ever been scared. What do you tell him?
+33291	'All the time'
+33292	His dad nods. The kid looks amazed.
+33293	He thinks you're a superhero. It's a lie.
+33294	A local gym influencer challenges you to a pull-up contest on camera. Do you accept?
+33295	You win. The video goes viral.
+33296	He wins. The video still goes viral.
+33297	No camera time. OPSEC intact.
+33298	RASP Day One
+33299	RASP day one at Fort Moore. A cadre screams that half of you will quit by Friday. He's looking at you. What will you do?
+33300	You become furniture. Furniture doesn't get smoked. Mostly.
+33301	Sound off loudly
+33302	'HOOAH, SERGEANT!' He moves on, almost impressed.
+33303	He did not ask you a question. You learn that in the front-leaning rest.
+33304	The Creed Test
+33305	A cadre demands you recite the Ranger Creed, all six stanzas, right now. You know five of them. What will you do?
+33306	The sixth stanza comes back mid-sentence. Rangers lead the way.
+33307	You blank on 'Readily will I display...' and spend an hour remembering it in the dirt.
+33308	Admit you're short
+33309	Honesty earns pushups and an assignment to recite it 50 times tonight.
+33310	RASP 12-mile ruck, 3 hours to make it. Mile 9 and your legs are concrete. What will you do?
+33311	You cross with four minutes to spare and immediately lie in the gravel.
+33312	Your hamstring locks. You miss the time hack.
+33313	Steady pace
+33314	Steady wins. Barely.
+33315	Steady was too slow by 90 seconds.
+33316	RASP combat water survival. Blindfolded, full kit, walk off the high dive. What will you do?
+33317	Step off
+33318	Splash, drop the rifle-free gear, swim out. Easy. Ish.
+33319	You panic underwater. Divers pull you out.
+33320	The cadre helps you off. With his boot.
+33321	Recycle or Quit
+33322	Week three of RASP. Your shins are cracked with stress fractures. Medical offers you a recycle. What will you do?
+33323	Take the recycle
+33324	Six weeks of healing, then you do it all again. Smarter this time.
+33325	Hide it and push
+33326	You graduate on broken legs. Legendary, and stupid.
+33327	A shin snaps on a run. Medical drop.
+33328	RASP graduation. A Ranger places the tan beret on your head. {buddy} didn't make it. What will you do?
+33329	{buddy} says they'll be back next class. You believe it.
+33330	Celebrate in Columbus
+33331	Big steak, bigger bar tab. Worth it.
+33332	{buddy} from a regular infantry unit says Rangers are 'just infantry with good PR.' What will you do?
+33333	You buy him a beer. Quiet confidence.
+33334	Challenge him to a ruck
+33335	You smoke him on a 10-miler. He buys the beer.
+33336	He's a marathoner. Humbling.
+33337	Monday formation. Your haircut is three days old and the first sergeant says it's 'luxurious.' What will you do?
+33338	Get it cut at lunch
+33339	High and tight, back to standard.
+33340	Argue the standard
+33341	You lose. You always lose this one.
+33342	Turn-in after the range. The armorer rejects your rifle for the fourth time. 'Carbon in the bolt carrier.' What will you do?
+33343	Scrub it again
+33344	Fifth time's the charm. It's 2200.
+33345	Swap with a clean one
+33346	Nobody checks serials. You're free.
+33347	They check serials. Article 15.
+33348	Carry the 240
+33349	Your squad leader hands you the M240 machine gun for a 15-mile movement. Nobody else wants it. What will you do?
+33350	Hump it all the way
+33351	Your shoulders hate you. Your squad leader remembers.
+33352	Ask to rotate it
+33353	Reasonable. Squad rotates every 3 miles.
+33354	Somebody left a door unlocked. The whole platoon is getting smoked. {buddy} whispers it was you. What will you do?
+33355	Step forward
+33356	You own it. The smoke session ends sooner. Respect gained.
+33357	Everyone suffers longer. {buddy} knows.
+33358	Ranger School, Darby phase. You're graded patrol leader and your squad is stumbling in the dark. What will you do?
+33359	Tight control
+33360	You hit the objective on time. GO.
+33361	Your squad gets lost. NO-GO.
+33362	Trust your team leaders
+33363	They step up. GO.
+33364	Nobody steps up. NO-GO.
+33365	Ranger School, mountains of north Georgia. Freezing rain, 90 lb ruck, three hours of sleep in four days. What will you do?
+33366	Keep humping
+33367	You make it to Florida phase.
+33368	Hypothermia. Medical recycle.
+33369	Help the weak guy
+33370	Your peers rank you high. That matters.
+33371	Florida phase. Waist-deep swamp at night. Something big just splashed nearby. What will you do?
+33372	Keep moving
+33373	It was probably a log. Probably.
+33374	It was not a log. Gator bite.
+33375	Freeze and listen
+33376	The squad bumps into you. Swearing ensues.
+33377	Day 50 of Ranger School. You see a vending machine in the woods and try to buy a soda from a tree. What will you do?
+33378	Snap out of it
+33379	{buddy} slaps you. 'It's a tree, man.' You laugh like a maniac.
+33381	The RI writes it up for a hilarious after-action.
+33382	Ranger School peer evals. Your squad wants to 'peer' the guy who keeps falling asleep on watch. What will you do?
+33383	Peer him honestly
+33384	He gets recycled. Harsh, but he was endangering the patrol.
+33385	Protect him
+33386	He stays. He thanks you. He falls asleep again.
+33387	Ranger School graduation. Your mom pins the tab on your shoulder. You've lost 30 pounds. What will you do?
+33388	Eat everything
+33389	Two pizzas, a cake, and a gallon of milk. Your stomach rebels.
+33390	Hug your mom
+33391	She cries. You almost do.
+33392	Ranger School. You find a granola bar in an old fighting position. Eating it is a 'major minus.' What will you do?
+33393	Best granola bar of your life.
+33394	An RI sees the wrapper. Major minus.
+33395	You dream about it for weeks.
+33396	First Night Raid
+33397	First deployment to {country}. Your first night raid. Your heart is pounding as the helicopter descends. What will you do?
+33398	Do your job
+33399	You stack, flow, clear your corner. Exactly like training.
+33400	Shot through the arm on the breach.
+33401	Freeze briefly
+33402	A team leader shoves you forward. You recover. You'll be better.
+33403	Clearing a compound in {country}, you push into a room alone. A man is reaching under a mattress. What will you do?
+33404	Shout commands
+33405	He freezes. It was a cell phone. You did it right.
+33406	killed clearing a room in a night raid
+33407	It was a pistol.
+33408	He had a grenade. You saved the stack.
+33409	It was a phone. Investigation.
+33410	Combat jump onto an airfield in {country}. 500 feet, night, and your static line is tangled with another jumper. What will you do?
+33411	Fight free
+33412	Free. Canopy opens. You hit the runway and roll.
+33413	You land hard on asphalt. Broken leg.
+33414	Pop reserve
+33415	Reserve opens. You land off-target but alive.
+33416	killed in a combat parachute accident
+33417	The reserve tangles too.
+33418	Airfield seizure. Your job: clear the runway of vehicles and obstacles before the first C-17 lands in 30 minutes. What will you do?
+33419	Hotwire a truck
+33420	You drive the truck off the runway. Planes land on time.
+33421	Truck won't start. You push.
+33422	Push with team
+33423	Slow but it works.
+33424	Hunter Sand Fleas
+33425	Field training at Hunter Army Airfield. The sand fleas are eating you alive. What will you do?
+33426	Your team leader nods. You're itchy for a week.
+33427	Bug spray hoarding
+33428	You hide the bug spray. {buddy} notices.
+33429	Joint Base Lewis-McChord. It's been raining for 40 straight days. Your gear smells like a swamp. What will you do?
+33430	Dry everything
+33431	Your barracks room becomes a laundromat.
+33432	Accept the mildew
+33433	Trench foot is very real.
+33434	Friday night in Savannah. {buddy} wants to drive back to Hunter after six beers. What will you do?
+33435	Take his keys
+33436	Uber home. {buddy} is mad, then thankful.
+33437	Ride with him
+33438	You make it back. You promise never again.
+33439	He crashes into a parked car. MPs.
+33440	Released for Standards
+33441	You failed a PT test by 3 points and the battalion is threatening to RFS you. What will you do?
+33442	Train hard and retest
+33443	You crush the retest. Stay in batt.
+33444	You fail again. Back to regular Army.
+33445	Beg your squad leader
+33446	He gets you a second chance.
+33447	'Standards are standards.'
+33448	You're carrying the breaching charge. The door is metal and thicker than expected. What will you do?
+33449	Double the charge
+33450	Door gone. So is the doorframe. Good enough.
+33451	Overpressure rattles your brain. Mild TBI.
+33452	Use standard charge
+33453	Door blows. Clean.
+33454	Door holds. The team goes to a window.
+33455	Combatives tournament. You're matched against a former college wrestler. What will you do?
+33456	Go for the choke
+33457	Rear-naked choke. He taps. The company goes wild.
+33458	He suplexes you. Your company winces.
+33459	Survive the rounds
+33460	You don't win, but you don't get tapped.
+33461	You get tapped anyway.
+33462	{buddy} snuck a handle of whiskey into the barracks. Alcohol is banned. Inspection is tomorrow. What will you do?
+33463	Dump it
+33464	{buddy} mourns the whiskey. You both pass inspection.
+33465	Drink it now
+33466	Best night. Nobody catches you.
+33467	Staff duty smells it. Article 15.
+33468	JMPI before a training jump. You realize your reserve handle is rubber-banded wrong. What will you do?
+33469	Tell the jumpmaster
+33470	Fixed. He thanks you for paying attention.
+33471	Jump anyway
+33472	Main opens fine. Reserve not needed.
+33473	Main fails. Reserve fails.
+33474	{buddy} is about to fail a land nav test and asks to follow you. It's an individual event. What will you do?
+33475	{buddy} fails. You feel bad, but it's on them.
+33476	Let him follow
+33477	You both pass. Nobody saw.
+33478	An RI saw. Integrity violation for both.
+33479	Sleeping on Guard
+33480	Patrol base, 0400. You've slept 2 hours in 3 days. Your eyes close mid-sector scan. What will you do?
+33481	Stand up
+33482	Standing keeps you awake. Barely.
+33483	Rest eyes
+33484	You wake up with nobody noticing.
+33485	Team leader finds you asleep. Article 15.
+33486	A grey-haired veteran of the 1993 Mogadishu battle speaks at your company. He asks if anyone has questions. What will you do?
+33487	Ask about fear
+33488	He says fear never left, he just stopped listening to it. You write that down.
+33489	You listen. The room is dead silent.
+33490	{country}. Your squad is pinned by fire from a rooftop. Your team leader yells 'Suppress!' What will you do?
+33491	Rapid fire
+33492	Your rounds keep their heads down. Squad maneuvers.
+33493	Exposed. You're hit.
+33494	Grenade launcher
+33495	Your 40mm lands right on the rooftop. Silence.
+33496	Miss. Over-shoot.
+33497	As team leader, a private keeps failing standards. He's a good kid. The platoon sergeant asks your opinion on RFS. What will you do?
+33498	He goes to the 82nd. He'll do fine there.
+33499	Fight for him
+33500	He stays and improves.
+33501	He fails again. Your judgment is questioned.
+33502	You make squad leader. The previous one was beloved. Your guys keep comparing you. What will you do?
+33503	Earn it slowly
+33504	Six months later, they compare the next guy to you.
+33505	Crack down hard
+33506	They fall in line.
+33507	Mutiny vibes. Platoon sergeant intervenes.
+33508	Night raid in {country}. Your team stacks on a door. You hear a woman and children inside. What will you do?
+33509	Interpreter calls them out. Women and kids exit. Clean.
+33510	A fighter used them as cover.
+33511	Breach fast
+33512	Fast entry. Nobody hurt.
+33513	A child is injured in the breach.
+33514	A fighter barricaded in a room has already wounded one Ranger. What will you do?
+33515	Call for callout
+33516	He surrenders after 20 minutes.
+33517	He refuses. Now you need another plan.
+33518	Grenade and assault
+33519	Clean assault. Bronze Star with V.
+33520	killed assaulting a barricaded shooter
+33521	He's waiting.
+33522	Your squad finds the high-value target hiding in a spider hole. He's begging. What will you do?
+33523	Capture him
+33524	Jackpot. Intel flows for months.
+33525	Nobody sees.
+33526	assault on a detainee
+33527	Helmet cam footage.
+33528	Military Working Dog
+33529	The working dog attached to your squad alerts on a wall. The handler says 'something's there.' What will you do?
+33530	Hidden weapons cache. Good dog.
+33531	It was a rat.
+33532	A fighter pops out of a hide behind you.
+33533	The Chinook carrying your squad lands hard. Smoke fills the cabin. Two Rangers aren't moving. What will you do?
+33534	Drag them out
+33535	Everyone out before the fire. Commendation.
+33536	Smoke inhalation and burns.
+33537	Secure perimeter
+33538	Others handle the casualties. Perimeter holds.
+33539	You're a sniper team leader. A man on a rooftop is talking on a radio and watching your assault force. What will you do?
+33540	Report and observe
+33541	He moves off. Assault force adjusts.
+33542	He called in an RPG team.
+33543	Request to engage
+33544	Approved. Spotter eliminated.
+33545	Denied. Not enough hostile intent.
+33546	Your Ranger medic is down and {buddy} is bleeding badly. Everyone in the regiment is trained in first responder care. What will you do?
+33547	Tourniquet, chest seal, needle decompression. {buddy} lives.
+33548	You do everything right. {buddy} doesn't make it.
+33549	Get the medic up
+33550	The medic is only stunned. He takes over.
+33551	Twelve deployments in nine years. Your hands shake when you're not working. What will you do?
+33552	You start sleeping. Your squad notices you're calmer.
+33553	Thirteenth deployment. The shakes get worse.
+33554	Leave batt
+33555	You move to a training unit. The quiet is strange.
+33556	After years as a breacher, you're forgetting words and getting headaches daily. What will you do?
+33557	Get screened
+33558	TBI diagnosis. Treatment helps. You're off the breach team.
+33559	The headaches get worse.
+33560	Your battalion picks you and {buddy} for the Best Ranger Competition. 60 hours, nonstop events. What will you do?
+33561	Train six months
+33562	You place top three. Legendary.
+33563	You finish, but in the middle of the pack.
+33564	Your sergeant major is disappointed.
+33565	'I will never leave a fallen comrade.' A Ranger's body is in a building still taking fire. What will you do?
+33566	Recover him
+33567	You bring him home. Silver Star.
+33568	killed recovering a fallen Ranger
+33569	You're hit inside the building.
+33570	Wait for fires
+33571	Building suppressed. Recovery succeeds.
+33572	The body is lost for 2 days.
+33573	Raid Wrong House
+33574	Your squad raids a compound. Bad grid. It's a family of farmers. Everyone's terrified. What will you do?
+33575	Apologize and pay
+33576	You arrange condolence money. The family accepts.
+33577	Leave quickly
+33578	The village turns against you.
+33579	A wounded enemy fighter lies in the courtyard. Your medic is busy. What will you do?
+33580	He lives and becomes a valuable source.
+33581	Leave him
+33582	He dies. Was it your call?
+33583	Exfil helicopter is taking fire. The pilots say 60 seconds or they leave. Two guys are still clearing. What will you do?
+33584	Go get them
+33585	You drag them back in 55 seconds.
+33586	killed during a hot exfil
+33587	Hit on the run back.
+33588	Radio them
+33589	They hustle. Everyone on.
+33590	One misses the bird. Second exfil required.
+33591	You catch a Ranger in your squad selling extra ammo to a civilian contact on base. What will you do?
+33592	He's out of the Army.
+33593	Handle internally
+33594	He stops.
+33595	It comes out later. You're both punished.
+33596	You keep saying 'what?' Your wife says the TV is too loud. What will you do?
+33597	See audiology
+33598	Hearing aids. Annoying but helpful.
+33599	It gets worse.
+33600	You're the new platoon sergeant. Your lieutenant is fresh out of Ranger School and very confident. What will you do?
+33601	Mentor quietly
+33602	He becomes a great officer, crediting you years later.
+33603	He learns hard lessons. The platoon suffers.
+33604	Divorce papers arrive by email while you're in {country}. Your team needs you tonight. What will you do?
+33605	You do the mission. You fall apart after.
+33607	He listens. It helps a little.
+33608	Mid-firefight, a fighter steps out with hands up. {buddy} raises his weapon. What will you do?
+33609	He's taken prisoner. Laws of war upheld.
+33610	Nobody saw. You'll always know.
+33611	Helmet camera. Court-martial.
+33612	You find a laptop and cash on the objective. A teammate suggests pocketing the cash. What will you do?
+33613	Bag it all
+33614	Intel analysts love the laptop.
+33615	Pocket some cash
+33616	Nobody counts it.
+33617	larceny
+33618	Cash was photographed on site.
+33619	Your 60mm mortar section must fire within 30 meters of friendlies. The math is tight. What will you do?
+33620	Fire carefully
+33621	Rounds on target. Assault resumes.
+33622	A short round. Friendly casualties.
+33623	Refuse the mission
+33624	Assault force calls you cautious.
+33625	A private in your squad gets a DUI downtown. The first sergeant asks if you knew he had a problem. What will you do?
+33626	Admit you suspected
+33627	Honest answer. Lessons learned for everyone.
+33628	Nobody pushes.
+33629	Other privates say you knew.
+33630	Your platoon is pinned. AC-130 says rounds would land 40 meters from you. What will you do?
+33631	Call it
+33632	Perfect fires. Platoon saved. Silver Star.
+33633	killed by danger-close fires
+33634	Rounds hit too close.
+33635	Maneuver out
+33636	You flank and win.
+33637	killed maneuvering under fire
+33638	Flank exposed.
+33639	A grenade lands in the room with your fire team. Nowhere to throw it back. What will you do?
+33640	Cover the grenade
+33641	The grenade's fuse was partly defective. You live, badly hurt. Medal of Honor.
+33642	killed shielding teammates from a grenade
+33643	Your team survives because of you.
+33644	It goes off outside.
+33645	Hold the Corner
+33646	Your team holds a building corner while the platoon evacuates wounded. Fighters are massing. What will you do?
+33647	Hold to the end
+33648	You hold until the last bird leaves. Distinguished Service Cross.
+33649	killed holding a corner during evacuation
+33650	Your position falls.
+33651	Fall back in bounds
+33653	Hit while bounding.
+33654	Ranger School Again
+33655	Your squad leader says you need your tab to keep advancing. You've been putting it off. What will you do?
+33656	Tab earned. Promotion follows.
+33657	Recycled twice. Dropped.
+33658	Your career stalls.
+33659	Brother's Funeral
+33660	{buddy} died on the last deployment. His family asks you to speak at the funeral. What will you do?
+33661	You tell the story of {buddy} carrying you through RASP. Everyone cries.
+33662	You can't. You stand in the back.
+33663	Combat Jump NCO
+33664	Combat jump. Your squad lands scattered across the drop zone. Enemy fire coming from the tower. What will you do?
+33665	Rally on you
+33667	Shot while rallying.
+33668	Push to objective
+33669	Small groups converge. Objective secure.
+33670	Disorganized. Mission delayed.
+33671	As first sergeant, you must decide whether to pass a soldier with a positive drug test for Ranger school. What will you do?
+33672	Kick him out
+33673	Standards maintained.
+33674	He becomes a great NCO.
+33675	He fails again. Your judgment questioned.
+33676	Your first day as a Ranger platoon leader. Your platoon sergeant has 9 combat deployments; you have zero. What will you do?
+33677	Ask him to teach
+33678	He respects you for it. Partnership forms.
+33679	Prove yourself
+33680	You smoke everyone on the run. Grudging respect.
+33681	They roll their eyes behind your back.
+33682	You get a raid tasking with 3 hours until launch. Intel is thin. What will you do?
+33683	Quick plan, launch
+33684	Fast, violent, successful.
+33685	killed on a rushed raid
+33686	Holes in the plan.
+33687	Request more time
+33688	Granted. Target moves.
+33690	Fast and surprising. Airfield seized in 20 minutes.
+33691	Wind scatters the jumpers.
+33692	Cleaner. Planes roll in.
+33693	First plane takes fire on the runway.
+33694	Task Force Brief
+33695	You brief a two-star general on tonight's raid plan. He wants 'more aggression.' What will you do?
+33696	Defend your plan
+33697	He nods. 'Good. Execute.'
+33698	Add aggression
+33699	More risk. It works out.
+33700	Weather is marginal for the helicopter infil. The target is only there tonight. What will you do?
+33701	Rough flight but successful.
+33702	Brownout. Hard landing.
+33703	Safe. The target escapes.
+33704	The AC-130 overhead reports 'squirters' fleeing your target. Some might be civilians. What will you do?
+33705	Track, don't engage
+33706	You follow them to a second compound. Bonus target.
+33707	They were armed.
+33708	They were shepherds.
+33709	Ranger Orientation Program for officers. Your peers include a West Point first captain and a former college athlete. What will you do?
+33710	Outwork them
+33711	You rank top of class.
+33712	You burn out halfway.
+33713	Team up
+33714	You all pass. Friends for life.
+33715	You have to call the parents of a private killed on your raid. What will you do?
+33716	Call personally
+33717	Hardest call of your life. The father thanks you.
+33718	Write a letter
+33719	They wanted to hear your voice.
+33720	A private in your platoon did something heroic. Higher wants to downgrade the award. What will you do?
+33721	Fight for it
+33722	He gets the Silver Star he earned.
+33723	Downgraded to Bronze. You tried.
+33724	He gets a commendation.
+33725	Intel says the target compound is empty of civilians. Your gut says otherwise. What will you do?
+33726	Request more ISR
+33727	Drone spots a wedding. Raid postponed. Good call.
+33728	Trust intel
+33729	Intel was right.
+33730	Civilian casualties. Investigation.
+33731	You take command of a Ranger rifle company. The previous commander was fired. What will you do?
+33732	You learn what went wrong. You fix it.
+33733	Clean house
+33734	New leaders, fresh energy.
+33735	You fire the wrong people.
+33737	Use runners
+33738	Old school works.
+33739	Messengers get lost.
+33740	Mission scrubbed.
+33741	A female officer who earned her tab joins your company. Some NCOs are grumbling. What will you do?
+33742	Standard is standard. She earned the tab. Grumbling stops.
+33743	Grumbling gets worse.
+33744	You're the battalion S3 (operations officer). Three missions, two helicopters. What will you do?
+33745	Highest value target first.
+33746	Split assets
+33747	Barely enough.
+33748	All three go poorly.
+33749	An American contractor is held in {country}. Your company is tasked. What will you do?
+33750	Night assault
+33751	Hostage rescued. Bronze Star.
+33752	Wait for confirmation
+33753	Hostage is moved. Missed window.
+33754	Your battalion commander rates you second of six captains. You want top block. What will you do?
+33755	Top block next rating.
+33756	Battalion commander sees through it.
+33757	Training jump at night. Winds above limits. Your men want to jump. What will you do?
+33758	Smart. Ground is too windy.
+33759	Rough but everyone okay.
+33760	Several injuries. Investigation.
+33761	A Ranger in your company is accused of misconduct on deployment. He's a star performer. What will you do?
+33762	Facts are facts.
+33763	Quietly handle
+33764	IG finds out.
+33765	Your company has done 40 raids in 60 days. The men are exhausted. Higher wants more. What will you do?
+33766	Stand-down granted.
+33767	'Find a way.'
+33768	Mistakes start happening.
+33769	A documentary crew wants to film your company. PAO approves. What will you do?
+33770	Allow it
+33771	Great film. Recruiting jumps.
+33772	PAO is annoyed.
+33773	Your detainees will be transferred to a partner prison known for torture. What will you do?
+33774	Report concerns
+33775	Transfer halted pending review.
+33776	Transfer anyway
+33777	Your conscience suffers.
+33778	Ranger Leaders Course
+33779	You're chosen to teach young lieutenants. A student is clearly struggling. What will you do?
+33780	He passes and thanks you.
+33781	Fail him
+33782	Standards held.
+33783	Your company's vehicle convoy is ambushed. Lead vehicle is burning. What will you do?
+33784	Assault the ambush
+33785	You flank and destroy them. Bronze Star with V.
+33786	killed leading a counter-ambush
+33787	Heavy fire.
+33788	Major's board. Your file is good but not great. A mentor offers to call the board president. What will you do?
+33789	You'll stand on your record.
+33790	It looks bad.
+33791	Your spouse says you've missed every birthday for four years. What will you do?
+33792	Ask for staff job
+33793	Family time improves.
+33794	Spouse moves out.
+33795	You take command of the 75th Ranger Regiment. Op tempo is crushing. What will you do?
+33796	Protect the force
+33797	You push back on some missions. Readiness rises.
+33798	Say yes to all
+33799	Missions flourish. Suicides rise.
+33800	A Ranger was killed by friendly fire. Higher wants to report it as enemy action. What will you do?
+33801	Family learns truth. You keep integrity.
+33802	Nobody finds out.
+33803	It comes out.
+33804	Pentagon wants to cut the regiment's budget. What will you do?
+33805	Budget saved.
+33806	Generals annoyed.
+33807	Accept cuts
+33808	Training suffers.
+33809	Media wants your thoughts on Mogadishu at the anniversary. What will you do?
+33810	Honor the fallen
+33811	Moving speech. Veterans thank you.
+33812	PAO is disappointed.
+33813	Three Rangers took their own lives this year. What will you do?
+33814	Mental health push
+33815	Embedded psychologists in each battalion.
+33816	PowerPoint brief
+33817	Nothing changes.
+33818	The Pentagon wants more Rangers. They suggest lowering RASP standards. What will you do?
+33819	Quality drops.
+33820	Congress asks if Rangers are being over-deployed. What will you do?
+33821	Be candid
+33822	Truth told. Some generals unhappy.
+33823	Stay on message
+33824	Safe answer.
+33825	The Ranger Memorial adds new names this year. You give the address. What will you do?
+33826	Read each name
+33827	Twenty minutes. The silence is profound.
+33828	Efficient. Families wanted more.
+33829	Your command sergeant major disagrees with your new policy publicly. What will you do?
+33830	Discuss privately
+33831	You compromise. Partnership stronger.
+33832	Overrule publicly
+33833	NCO corps grumbles.
+33834	A report surfaces of hazing in one battalion. What will you do?
+33835	Painful but credibility kept.
+33836	It goes viral. You're relieved.
+33837	After 26 years, you're offered a final command or retirement. What will you do?
+33838	Tan beret folded away. A peaceful life.
+33839	One more command
+33840	The Army keeps you.
+33841	Ranger Rendezvous at Fort Moore. Old Rangers, young Rangers, beer. What will you do?
+33842	Swap stories
+33843	You meet a Vietnam Ranger. He buys your beer.
+33844	Compete in events
+33845	You win the stretcher carry.
+33846	St. Patrick's
+33847	St. Patrick's Day in Savannah. The whole city is green and so is {buddy}. What will you do?
+33848	{buddy} makes it home. You're a hero.
+33849	Legendary night.
+33850	MPs catch you.
+33851	Hurricane at Hunter
+33852	A hurricane is bearing down on Hunter Army Airfield. What will you do?
+33853	Help evacuate
+33854	Grandmas, dogs, a parrot rescued.
+33855	Secure family
+33856	Karaoke night. {buddy} dares you to perform the Ranger Creed to a power ballad. What will you do?
+33857	Standing ovation from drunk Rangers.
+33858	{buddy} does it alone. Legendary.
+33859	A third-grade class sends cards and candy. One card says 'Please don't die.' What will you do?
+33860	The class goes wild.
+33861	Share candy
+33862	Team morale skyrockets.
+33863	You tweak your back during a max deadlift. What will you do?
+33865	Back to full.
+33866	It heals.
+33867	Herniated disc.
+33868	Rangers Lead the Way
+33869	A kid at the airport sees your tan beret and asks if you're a superhero. What will you do?
+33870	'No, just a soldier who trains hard.' He salutes you.
+33871	You give him a scroll patch. He'll remember forever.
+33872	You're an airman at an air station waiting for an A-School slot. The swimmers there run a brutal prep workout and invite you. Do you go?
+33873	Train with them daily
+33874	By the time your orders come, you can do the pool test in your sleep.
+33875	You overdo it and strain a shoulder.
+33876	Train on your own
+33877	You get fitter, but miss their tricks.
+33878	The swimmers stop inviting you. That's a bad sign.
+33879	Day one at Aviation Survival Technician A-School in Elizabeth City. The instructor says most of you won't graduate. What's your plan?
+33880	Be the gray man
+33881	Never first, never last. You survive week one.
+33882	Lead from the front
+33883	Instructors notice your effort and leadership.
+33884	You burn out by Thursday and instructors notice that too.
+33885	Find a study buddy
+33886	You and {buddy} quiz each other every night.
+33887	Instructors play panicked survivors in the pool. One climbs on your head and pushes you under. Your lungs burn. What do you do?
+33888	Sink and escape
+33889	You go deep, he lets go, you get behind him. Textbook.
+33890	You swallow half the pool and get pulled out.
+33891	Fight to the surface
+33892	You muscle up for air. Not pretty.
+33893	He dunks you again. Fail.
+33894	Tap out
+33895	You live to retest, but instructors remember.
+33896	During a buddy tow evolution, {buddy} cramps and goes limp for real, not as an act. Instructors haven't noticed. What do you do?
+33897	Yell 'real world'
+33898	Instructors jump in immediately. He's fine. They respect the call.
+33899	Tow him yourself
+33900	You get him to the wall. He owes you forever.
+33901	You both go under. Instructors pull you out.
+33902	The Quitting Itch
+33903	Week four of A-School. You can barely lift your arms. A recruiter mentions an easier rating with a signing bonus. Do you quit?
+33904	You decide you'd rather drown than quit. Dramatic, but effective.
+33905	You go to a desk job. You think about it often.
+33906	Call home first
+33907	Your dad says, 'You never quit anything.' You stay.
+33908	Your family tells you to come home. It shakes you.
+33909	Half of A-School is parachute rigging and sewing. Your stitches look like a toddler made them. The instructor is unimpressed. What do you do?
+33910	Practice after hours
+33911	Your seams get straight. You can now hem your own pants.
+33912	Still crooked. But less crooked.
+33913	'Your gear keeps people alive,' the instructor says flatly.
+33914	The EMT portion of training is pure memorization. Your national registry exam is tomorrow. You're shaky on cardiac. What do you do?
+33915	Stay up studying
+33916	You pass with room to spare.
+33917	Exhausted, you second-guess yourself. Retest needed.
+33918	Sleep well
+33919	Rested brain, clear answers. Pass.
+33920	The cardiac questions sink you. Retest.
+33921	You graduate A-School as an Aviation Survival Technician. Your family drove 10 hours to watch. How do you celebrate?
+33922	Dinner with family
+33923	Your grandmother tells the waiter you're a 'lifeguard for boats'. Close enough.
+33924	Night out with the class
+33925	Legendary night. Everyone shows up on time the next day.
+33926	Someone fights a bouncer. You're all in trouble.
+33927	Sleep for a day
+33928	You've earned it.
+33929	Your orders arrive. You can rank your choice of air stations. What do you put first?
+33930	Kodiak, Alaska
+33931	Bering Sea, crab boats, brutal cold. You'll learn fast.
+33932	Florida station
+33933	Warm water, migrants, hurricanes. Never boring.
+33934	Small Great Lakes station
+33935	Quiet, until the ice rescues start.
+33936	Your first real hoist off a sailboat. The mast is swaying 15 feet each way. The flight mechanic is watching you. What do you do?
+33937	Get in the water first
+33938	Smart. You avoid the mast and hoist the sailor from the water.
+33939	Direct deploy to deck
+33940	You land on deck perfectly.
+33941	The mast catches you on the swing.
+33942	A long search pattern in rough air. You're about to vomit in the helicopter, which the crew will never let you forget. What do you do?
+33943	Grab a bag discreetly
+33944	They notice anyway. You're 'Chum' for a month.
+33945	You hold it together. Barely.
+33946	You lose the fight. All over your fins.
+33947	Ask for the window
+33948	Fresh air helps. Small victory.
+33949	You pull a kayaker out of 45-degree water. She's shivering violently and confused. The flight back is 30 minutes. What do you do?
+33950	Gently insulate
+33951	Wet clothes off, blankets on, handled gently. She's talking by landing.
+33952	She stops shivering. That's bad. The hospital pulls her through.
+33953	Rub her arms to warm her
+33954	She makes it.
+33955	Cold blood rushes to her core. Her heart rhythm goes bad.
+33956	Duty Night Boredom
+33957	It's 0200 on a quiet duty night. {buddy} wants to sneak out for pizza. If a case drops, you have 30 minutes to launch. What do you do?
+33958	A case drops at 0230. You're ready.
+33959	Go get pizza
+33960	Best pizza of your life. Nobody noticed.
+33961	The alarm sounds while you're at the counter. Launch is delayed.
+33962	Order delivery
+33963	The delivery guy is confused by the hangar. Worth it.
+33964	Fishing Boat Fire
+33965	A fishing boat is burning off the coast. Crew members jumped. You see three heads in the water and a fourth man still aboard. What do you do?
+33966	Get the swimmers first
+33967	Three out of the water. The fourth jumps too, and you get him.
+33968	You get three. The fourth is never found.
+33969	Board the burning boat
+33970	You get him off seconds before fuel ignites.
+33971	Burns on your arms. You still get him off.
+33972	In heavy surf during a rescue, you lose a fin. The survivor is 30 yards away and drifting toward rocks. What do you do?
+33973	Swim with one fin
+33974	Slower but you reach him before the rocks.
+33975	The surf slams you both into the rocks.
+33976	Signal for re-hoist
+33977	The helo repositions and drops you closer. It works.
+33978	Sloppy Gear Check
+33979	You're running late for a launch and skip part of your harness check. Your flight mech asks if you're good. What do you say?
+33980	Admit it, check fast
+33981	A strap was twisted. You fix it. The mech nods.
+33982	Nothing goes wrong. This time.
+33983	The strap slips under load. You're dangling sideways.
+33984	You recover a teenager who drowned near a beach. It's your first body. The family is on the shore. What do you do afterward?
+33985	It helps to say it out loud.
+33986	Pretend it's fine
+33987	You see his face when you close your eyes.
+33988	Gym until you can't think
+33989	It helps some. Not enough.
+33990	A training hop with a new pilot. Your hover position is drifting and you're being dragged through the water. What do you do?
+33991	Signal to stop
+33992	Pilot adjusts. Training is for learning.
+33993	Hang on
+33994	It smooths out.
+33995	You swallow a lot of the Atlantic.
+33996	A video of your rescue goes viral. Strangers recognize you at the grocery store. {buddy} is teasing you. What do you do?
+33997	You deflect all praise. People like you more.

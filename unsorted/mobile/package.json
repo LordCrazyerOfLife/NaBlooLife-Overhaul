@@ -1,0 +1,16 @@
+{
+  "name": "yourlife-mobile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Capacitor wrapper that packs the YourLife web game into an Android APK and an iOS IPA (built by .github/workflows/mobile-build.yml)",
+  "scripts": {
+    "prepare-www": "node prepare-www.mjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/ios": "^6.2.0",
+    "sharp": "^0.33.5"
+  }
+}

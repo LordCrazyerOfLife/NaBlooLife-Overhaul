@@ -1,0 +1,44 @@
+/* YourLife — local UI fonts.
+ * Keeps every text style on the font it was designed for instead of falling
+ * back to whatever the operating system ships with. Files live in /fonts.
+ */
+@font-face {
+  font-family: "Mulish";
+  src: url("fonts/Mulish-latin.woff2") format("woff2");
+  font-weight: 200 1000;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Nunito";
+  src: url("fonts/Nunito-latin.woff2") format("woff2");
+  font-weight: 200 1000;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bungee";
+  src: url("fonts/Bungee-latin.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Kaushan Script";
+  src: url("fonts/KaushanScript-latin.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Numeric UI (money, ages, stats) lines up better with tabular figures. */
+.phone {
+  font-variant-numeric: tabular-nums;
+}
+.stat b,
+.hud b,
+.topbar b,
+.jm table td,
+.jc table td {
+  font-variant-numeric: tabular-nums;
+}

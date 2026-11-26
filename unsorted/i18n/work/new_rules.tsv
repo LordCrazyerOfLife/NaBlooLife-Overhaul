@@ -1,0 +1,107 @@
+^The ball drops to you in the box in the 89th minute\. (.+) needs a win\. The defender is closing, the keeper is off his line\.$	El balón te cae en el área en el minuto 89. $1 necesita ganar. El defensor se cierra y el portero está adelantado.	A bola cai para você na área no minuto 89. $1 precisa vencer. O zagueiro fecha e o goleiro está adiantado.
+^(.+) is one point above the drop\. The opponents are fighting for the same thing\. The pitch is a swamp\.$	$1 está un punto arriba del descenso. Los rivales pelean por lo mismo. La cancha es un pantano.	$1 está um ponto acima do rebaixamento. Os adversários lutam pelo mesmo. O campo é um pântano.
+^The anthem plays, the lights go down, and the away side is a European giant\. (.+) has never gone further than this\.$	Suena el himno, se apagan las luces y el visitante es un gigante europeo. $1 nunca llegó tan lejos.	O hino toca, as luzes se apagam e o visitante é um gigante europeu. $1 nunca foi tão longe.
+^I took (.+) to recover\.$	Me tomé $1 para recuperarme.	Levei $1 para me recuperar.
+^I got hurt during (.+) training\.$	Me lesioné durante el entrenamiento de $1.	Me machuquei durante o treino de $1.
+^I trained (.+) in (.+)\.$	Entrené $1 en $2.	Treinei $1 em $2.
+^I signed for the (.+) academy\.$	Firmé por la academia del $1.	Assinei pela base do $1.
+^You are now a (.+) academy player\. The first team is a long way up, but the door is open\.$	Ahora eres jugador de la academia del $1. El primer equipo queda muy arriba, pero la puerta está abierta.	Agora você é jogador da base do $1. O time principal está muito acima, mas a porta está aberta.
+^(.+) will not offer you a professional contract\. Your agent finds a trial at (.+)\.$	$1 no te ofrecerá un contrato profesional. Tu agente te consigue una prueba en $2.	$1 não vai te oferecer um contrato profissional. Seu agente consegue um teste no $2.
+^I signed a one-year deal with (.+) after being released\.$	Firmé un contrato de un año con $1 después de que me liberaran.	Assinei um contrato de um ano com $1 depois de ser dispensado.
+^It is not the fairytale, but it is a contract\. (.+) believes in you enough to give you a year\.$	No es el cuento de hadas, pero es un contrato. $1 cree en ti lo suficiente para darte un año.	Não é o conto de fadas, mas é um contrato. $1 acredita em você o suficiente para te dar um ano.
+^I moved abroad to start my career at (.+)\.$	Me fui al extranjero para empezar mi carrera en $1.	Fui para o exterior para começar minha carreira no $1.
+^You pack one suitcase and sign for (.+)\. Nobody here knows your name yet\.$	Haces una maleta y firmas por $1. Aquí nadie conoce tu nombre todavía.	Você faz uma mala e assina com $1. Aqui ninguém conhece seu nome ainda.
+^(.+) wants to promote you to the first team\. Your agent has the paperwork\. Your body has opinions\.$	$1 quiere subirte al primer equipo. Tu agente tiene los papeles. Tu cuerpo tiene opiniones.	$1 quer te promover ao time principal. Seu agente tem os papéis. Seu corpo tem opiniões.
+^I signed my first professional contract with (.+)\.$	Firmé mi primer contrato profesional con $1.	Assinei meu primeiro contrato profissional com $1.
+^You are a first-team footballer\. The academy kids are already asking for your shirt\.$	Eres futbolista del primer equipo. Los chicos de la academia ya te piden la camiseta.	Você é futebolista do time principal. Os garotos da base já estão pedindo sua camisa.
+^I signed pro terms and went on loan to (.+)\.$	Firmé como profesional y me fui cedido a $1.	Assinei como profissional e fui emprestado ao $1.
+^You sign for (.+) and immediately join (.+) on loan\. Regular minutes are the plan\.$	Firmas por $1 y te unes de inmediato a $2 como cedido. El plan es tener minutos regulares.	Você assina com $1 e logo se junta ao $2 por empréstimo. O plano é ter minutos regulares.
+^I won the (.+) with my country\.$	Gané el $1 con mi país.	Venci o $1 com meu país.
+^We won the (.+)!$	¡Ganamos el $1!	Vencemos o $1!
+^I moved to (.+) to keep playing\.$	Me mudé a $1 para seguir jugando.	Me mudei para $1 para continuar jogando.
+^You join (.+)\. Less pressure, more minutes, and a chance to finish properly\.$	Te unes a $1. Menos presión, más minutos y una oportunidad de terminar bien.	Você se junta ao $1. Menos pressão, mais minutos e uma chance de terminar bem.
+^I signed a new contract with (.+)\.$	Firmé un nuevo contrato con $1.	Assinei um novo contrato com $1.
+^You stay at (.+)\. The wage goes up (\d+)% and the release clause goes with it\.$	Te quedas en $1. El sueldo sube $2% y la cláusula de rescisión sube con él.	Você fica no $1. O salário sobe $2% e a cláusula de rescisão sobe junto.
+^I transferred from (.+) to (.+)\.$	Me transfirieron de $1 a $2.	Fui transferido do $1 para o $2.
+^You are a (.+) player\. New city, new dressing room, same hunger\.$	Eres jugador del $1. Nueva ciudad, nuevo vestuario, la misma hambre.	Você é jogador do $1. Cidade nova, vestiário novo, a mesma fome.
+^I helped beat (.+) (\d+)-(\d+) in a derby\.$	Ayudé a vencer $2-$3 a $1 en un clásico.	Ajudei a vencer o $1 por $2 a $3 num clássico.
+^We drew (\d+)-(\d+) with (.+)\.$	Empatamos $1-$2 con $3.	Empatamos em $1 a $2 com $3.
+^We lost (\d+)-(\d+) to (.+)\.$	Perdimos $1-$2 contra $3.	Perdemos de $1 a $2 para $3.
+^Finish in the top (\d+)$	Terminar entre los $1 primeros	Terminar entre os $1 primeiros
+^Average rating ([\d.]+) or better$	Calificación promedio $1 o mejor	Nota média $1 ou melhor
+^I started my football career as a (.+)\.$	Empecé mi carrera de fútbol como $1.	Comecei minha carreira de futebol como $1.
+^(.+) · Reputation (\d+)$	$1 · Reputación $2	$1 · Reputação $2
+^Won the (.+)$	Ganó el $1	Venceu o $1
+^Out in the (.+)$	Eliminado en $1	Eliminado nas $1
+^Qualified for the (.+) · play it week by week$	Clasificado para $1 · jugarlo semana a semana	Classificado para $1 · jogar semana a semana
+^(.+) Golden Boot$	Bota de Oro de $1	Chuteira de Ouro de $1
+^(.+) Golden Ball$	Balón de Oro de $1	Bola de Ouro de $1
+^You must be at least (\d+) years old\.$	Debes tener al menos $1 años.	Você precisa ter pelo menos $1 anos.
+^You need the (.+) first\.$	Primero necesitas $1.	Você precisa do $1 primeiro.
+^You are now licensed: (.+)\. (.+)$	Ahora tienes licencia: $1. $2	Agora você tem licença: $1. $2
+^The exam costs (.+) and you can't afford it\.$	El examen cuesta $1 y no puedes pagarlo.	A prova custa $1 e você não pode pagar.
+^(\d+)/(\d+) correct\. Now the practical test\.$	$1/$2 correctas. Ahora la prueba práctica.	$1/$2 corretas. Agora a prova prática.
+^You got (\d+)/(\d+)\. You needed (\d+)\. Retaking costs (.+)\.$	Sacaste $1/$2. Necesitabas $3. Repetirlo cuesta $4.	Você tirou $1/$2. Precisava de $3. Refazer custa $4.
+^The practical retake costs (.+)\.$	Repetir la práctica cuesta $1.	Refazer a prática custa $1.
+^(\d+)/(\d+) good attempts, (\d+) needed\. Your written exam is still valid\. A retake costs (.+)\.$	$1/$2 intentos buenos, necesitabas $3. Tu examen escrito sigue válido. Repetir cuesta $4.	$1/$2 tentativas boas, precisava de $3. Sua prova escrita continua válida. Refazer custa $4.
+^Take the written exam \((.+)\)$	Hacer el examen escrito ($1)	Fazer a prova escrita ($1)
+^(\d+)/(\d+) correct$	$1/$2 correctas	$1/$2 corretas
+^(\d+)/(\d+) licenses: driving, boats, planes, guns$	$1/$2 licencias: conducir, botes, aviones, armas	$1/$2 licenças: direção, barcos, aviões, armas
+^I got my (.+)!$	¡Conseguí mi $1!	Consegui minha $1!
+^I failed the written exam for my (.+)\.$	Fallé el examen escrito de mi $1.	Falhei na prova escrita da minha $1.
+^I failed the practical test for my (.+)\.$	Fallé la prueba práctica de mi $1.	Falhei na prova prática da minha $1.
+^You won (.+) at (.+)!$	Ganaste $1 en $2!	Você ganhou $1 em $2!
+^You lost (.+) at (.+)\.$	Perdiste $1 en $2.	Você perdeu $1 em $2.
+^You broke even at (.+)\.$	Quedaste a mano en $1.	Você ficou no zero a zero em $1.
+^You have (.+) riding on this bet\.$	Tienes $1 en juego en esta apuesta.	Você tem $1 em jogo nesta aposta.
+^Higher \(x([\d.]+)\)$	Más alta (x$1)	Mais alta (x$1)
+^Lower \(x([\d.]+)\)$	Más baja (x$1)	Mais baixa (x$1)
+^Cash out (.+)$	Cobrar $1	Sacar $1
+^Bet (.+)$	Apostar $1	Apostar $1
+^Call (.+)$	Igualar $1	Pagar $1
+^Draw! \((.+)\)$	¡Sortear! ($1)	Sortear! ($1)
+^Picked (\d+)/10 · top prize x([\d.]+)$	Elegiste $1/10 · premio mayor x$2	Escolheu $1/10 · prêmio máximo x$2
+^Ball (\d+)/20 · hits: (\d+)$	Bola $1/20 · aciertos: $2	Bola $1/20 · acertos: $2
+^(\d+) hits! x([\d.]+)$	¡$1 aciertos! x$2	$1 acertos! x$2
+^(\d+) hit\. No prize$	$1 acierto. Sin premio	$1 acerto. Sem prêmio
+^(\d+) hits\. No prize$	$1 aciertos. Sin premio	$1 acertos. Sem prêmio
+^The point is (\d+)\. Roll it again before a 7\.$	El punto es $1. Tíralo otra vez antes de un 7.	O ponto é $1. Role de novo antes de um 7.
+^Rolled (\d+)\. Point is (\d+)\.$	Salió $1. El punto es $2.	Saiu $1. O ponto é $2.
+^(\d+)! The point is made\.$	$1! Punto hecho.	$1! Ponto feito.
+^Full time: (.+)$	Final del partido: $1	Fim de jogo: $1
+^GOAL! (.+) \((\d+)'\)$	¡GOL! $1 ($2')	GOL! $1 ($2')
+^The dealer bets (.+)\.$	El crupier apuesta $1.	O crupiê aposta $1.
+^Which local casino will you visit to play (.+)\?$	¿A qué casino local irás a jugar $1?	Em qual cassino local você vai jogar $1?
+^Again \((.+)\)$	Otra vez ($1)	De novo ($1)
+^(\d{4}) catalogue$	Catálogo de $1	Catálogo de $1
+^Bid (.+)$	Pujar $1	Dar lance de $1
+^Jump bid (.+)$	Puja grande $1	Lance alto de $1
+^Statement bid (.+)$	Puja contundente $1	Lance de impacto de $1
+^Pay for authentication \((.+)\)$	Pagar la autenticación ($1)	Pagar a autenticação ($1)
+^The experts say the (.+) is a fake\. The house withdraws the lot\. Your (.+) fee bought you a good escape\.$	Los expertos dicen que $1 es falso. La casa retira el lote. Tu cuota de $2 te compró una buena salida.	Os especialistas dizem que $1 é falso. A casa retira o lote. Sua taxa de $2 te comprou uma boa saída.
+^The (.+) didn't reach its reserve and was withdrawn\.$	$1 no alcanzó su reserva y fue retirado.	$1 não atingiu a reserva e foi retirado.
+^(.+) bids (.+)\.$	$1 puja $2.	$1 dá lance de $2.
+^You bid (.+)\.$	Pujaste $1.	Você deu lance de $1.
+^I won the (.+) at auction for (.+)\.$	Gané $1 en subasta por $2.	Ganhei $1 no leilão por $2.
+^I lost the (.+) at auction\.$	Perdí $1 en la subasta.	Perdi $1 no leilão.
+^I sold my (.+) at auction for (.+)\.$	Vendí mi $1 en la subasta por $2.	Vendi meu $1 no leilão por $2.
+^(\d+) lots this year · bid, sell, invest$	$1 lotes este año · puja, vende, invierte	$1 lotes este ano · dê lances, venda, invista
+^(\d+)-year old (.+)$	$1 años de antigüedad · $2	$1 anos de uso · $2
+^Oil on canvas by (.+)$	Óleo sobre lienzo de $1	Óleo sobre tela de $1
+^(.+) watch$	$1 reloj	$1 relógio
+^(.+) chain$	$1 cadena	$1 corrente
+^Donate (.+)$	Donar $1	Doar $1
+^Ape in with (.+)$	Entrar con $1	Entrar com $1
+^You invested (.+) in \$SILLY\. The developer stopped updating it on (.+)\. Your investment is now worth \$0\.00\.$	Invertiste $1 en $SILLY. El desarrollador dejó de actualizarlo el $2. Tu inversión ahora vale $0.00.	Você investiu $1 em $SILLY. O desenvolvedor parou de atualizá-lo em $2. Seu investimento agora vale $0.00.
+^I invested (.+) in \$SILLY\.$	Invertí $1 en $SILLY.	Investi $1 em $SILLY.
+^I paid (.+) at a charity gala auction\.$	Pagué $1 en una subasta de gala benéfica.	Paguei $1 num leilão de gala beneficente.
+^"Owned by (.+)" - fame multiplies the price \(x([\d.]+)\)\.$	"Propiedad de $1": la fama multiplica el precio (x$2).	"De propriedade de $1": a fama multiplica o preço (x$2).
+^Notorious provenance: macabre-memorabilia collectors are circling \(x([\d.]+)\)\.$	Procedencia macabra: los coleccionistas de memorabilia morbosa están rondando (x$1).	Procedência macabra: os colecionadores de memorabilia mórbida estão rondando (x$1).
+^My family put (\d+) of my things up for auction and raised (.+)\.(.*)$	Mi familia subastó $1 de mis cosas y recaudó $2.$3	Minha família leiloou $1 das minhas coisas e arrecadou $2.$3
+^ My name made everything sell for more\.$	 Mi nombre hizo que todo se vendiera por más.	 Meu nome fez tudo vender por mais.
+^(.+) · est\. (.+) · (.+)$	$1 · est. $2 · $3	$1 · est. $2 · $3
+^with provenance ~(.+)$	con procedencia ~$1	com procedência ~$1
+^Wear (.+) on your (.+)$	Poner $1 en tu $2	Usar $1 no seu $2
+^(.+) is loaded now\.$	$1 ya está cargado.	$1 já está carregado.
+^(.+) will be off the next time YourLife loads\.$	$1 estará apagado la próxima vez que cargues YourLife.	$1 ficará desligado na próxima vez que o YourLife carregar.
+^(.+) will be skipped the next time YourLife loads\.$	$1 se omitirá la próxima vez que cargues YourLife.	$1 será ignorado na próxima vez que o YourLife carregar.

@@ -1,0 +1,311 @@
+== futbol.js: 729 strings, 309 missing
+    use strict
+    Premier League
+    Champions League
+    Manchester City
+    Aston Villa
+    Crystal Palace
+    Nottingham Forest
+    Leeds United
+    Hull City
+    Coventry City
+    Birmingham City
+    Blackburn Rovers
+    Sheffield United
+    Norwich City
+    West Bromwich Albion
+    Stoke City
+    Swansea City
+    Preston North End
+    Bristol City
+    Real Zaragoza
+    Sporting Gijón
+    Racing Santander
+    Deportivo La Coruña
+    Real Oviedo
+    UD Las Palmas
+    Granada CF
+    Cádiz CF
+    Levante UD
+    Hamburger SV
+    Schalke 04
+    Hertha BSC
+    Werder Bremen
+    1. FC Köln
+    Fortuna Düsseldorf
+    Hannover 96
+    Karlsruher SC
+    Greuther Fürth
+    Czech Republic
+    United States
+    Costa Rica
+    El Salvador
+    Unknown FC
+    The academy coach puts you on for the last twenty minutes of a trial match. There are scouts by the corner flag and your legs feel like paper.
+    You demand it, beat your man twice and set up the winner. The coach writes your name down.
+    You keep possession, win a tackle and do nothing wrong. The coach notices the maturity.
+    You play safe and invisible. Nothing goes wrong, nothing goes right.
+    You try a rabona and fall over. The coach calls it 'circus football'.
+    Your speech lands like a wet ball. Someone giggles. You want the floor to swallow you.
+    You tackle everything and win the derby. The loud kid claps you off the pitch.
+    You refuse. The coach decides you lack ambition.
+    The exercises do not help. You spend the season looking like a giraffe on ice.
+    You adapt quickly. By the end of the month the gangly phase is behind you.
+    The coach tries you deeper. The extra height helps and you see the game differently.
+    The new position does not fit. You spend weeks unsure where to stand.
+    You slide it across and your strike partner taps it in. Assist of the season.
+    You hold it, draw the defender and win a corner. From the corner, you score the winner.
+    It is the derby. The away end has been singing about your family for ninety minutes. A rival midfielder stamps on your ankle off the ball.
+    You shove him, he swings, and he gets the red card. The crowd loves you.
+    You swing and connect. Both of you go off. The manager is waiting in the tunnel.
+    You ignore him, but the ankle swells up and you are half a yard off it all game.
+    The referee warns him. He spends the rest of the game on a yellow card and disappears.
+    The referee tells you to stop complaining. The treatment continues.
+    The keeper is stranded. The goal is empty. Your teammate is screaming for a square ball, but you are the one with the angle.
+    You shoot from thirty yards and it dips under the bar. Goal of the month.
+    You square it and your teammate rolls it in. The team goal is the highlight of the week.
+    You go around him and walk it in. The stadium cannot believe it.
+    The keeper reads it and takes the ball off your toe. You look ridiculous.
+    Your speech is met with blank stares. The second half is worse than the first.
+    The captain gives the speech. You chip in with one sentence and it lands.
+    Nobody says anything. The team comes out flat and loses 4-0.
+    You win every second ball. It is ugly, and it is exactly what the club needed.
+    You put your body in and come off limping. The match ends in a draw.
+    You keep the ball on the floor and score a goal that deserves a better pitch.
+    You send the keeper the wrong way and win the cup. The picture will hang in the club museum.
+    The striker misses. Everyone wonders why you did not take it.
+    The keeper stays up and catches it. You have made the most embarrassing miss of the season.
+    A fourth-tier team is holding you to 0-0 in the cup. Their keeper is having the game of his life. Their fans are singing about it.
+    You keep going and finally bundle one in. Professional job, no drama.
+    You knock and knock and it never opens. Extra time and penalties.
+    You shoot from everywhere and waste every attack. The manager is furious.
+    The referee waves play on and books you for diving. The giant-killing is on.
+    The shootout is won without you. You dance with everyone else.
+    They pick you apart on the counter. Three goals before half-time.
+    You defend as a unit and nick it late. The giant leaves in silence.
+    You defend for ninety minutes and concede in the last minute. So close.
+    You run at the rookie full-back all night and he is substituted at half-time.
+    Their full-back reads everything and you end up on the wing, anonymous.
+    The second leg is away from home and you are 2-0 down from the first. The manager tells you to score first or forget it.
+    You shoot from everywhere and one goes in. The comeback is on.
+    You waste every attack shooting from forty yards. The tie is dead by half-time.
+    Your final ball keeps letting you down. The striker gets nothing.
+    You play safe and need three goals in twenty minutes. It does not happen.
+    It is the final. The score is level. Extra time is coming. The manager asks who is fit enough to take a penalty.
+    You take the first and set the tone. The team is perfect from the spot.
+    You miss the first. The team chases the shootout from the start and loses.
+    The captain picks the takers and it works. You are the first to hug the keeper.
+    You keep the ball, win a free kick and help see the game out. The manager trusts you.
+    You do nothing wrong and nothing special. A cap is a cap.
+    You run at them, win the penalty and score the winner. Your family is crying in the stand.
+    You shoot from thirty-five yards and it flies in. Your first touch in international football.
+    You shoot from thirty-five yards and it lands in the car park.
+    The national manager wants you to play a role you have never played before. He says it is for the team. Your club manager disagrees.
+    You look lost in the new role. The national manager subs you at half-time.
+    Your club manager backs you. The national manager agrees to a compromise.
+    The two managers argue publicly. You are caught in the middle and play badly.
+    The national manager listens and plays you where you belong. You reward him with a goal.
+    He tells you the national team is not a place for preferences. You sit out.
+    You find a second wind and score in extra time. The country is in the semi-final.
+    Your legs give out. You come off and watch the penalties from the touchline.
+    The substitute scores the winner. The manager calls it the right decision.
+    The substitute misses the decisive penalty. You are left wondering.
+    You take the last penalty and miss. The silence at home is worse than the stadium.
+    The campaign ignores you and doubles down. The story runs for weeks.
+    You say nothing. The story dies and you keep everyone happy.
+    Your silence is read as support. Some fans never forgive it.
+    Safe and steady. Slow progress.
+    Balanced work.
+    Fast progress, heavy fatigue, injury risk.
+    Weeks 1-6
+    Two-a-days in the heat. Everyone is chasing a shirt.
+    The new season starts in the gym, not on the pitch.
+    Friendlies, running drills and early mornings.
+    Early season
+    Weeks 7-18
+    The league is on. Training squeezes in between matches.
+    Midweek sessions after the first matches.
+    The rhythm of the season sets in.
+    Weeks 19-30
+    Winter. Fixtures pile up and legs get heavy.
+    Cold mornings, packed calendar.
+    The cups take over the schedule.
+    Weeks 31-42
+    Everything is decided now. Every session counts.
+    The final stretch of the season.
+    Titles and relegations are settled in these weeks.
+    I signed pro terms and asked for playing time.
+    The club cannot find a loan in time. You stay and fight for minutes.
+    European Championship
+    Copa América
+    Gold Cup
+    I was called up to the national team for the first time.
+    Erling Haaland
+    Phil Foden
+    Bernardo Silva
+    Rúben Dias
+    Joško Gvardiol
+    Bruno Fernandes
+    Kobbie Mainoo
+    Lisandro Martínez
+    André Onana
+    Rasmus Højlund
+    Mason Mount
+    Mohamed Salah
+    Virgil van Dijk
+    Dominik Szoboszlai
+    Alexis Mac Allister
+    Luis Díaz
+    Bukayo Saka
+    Martin Ødegaard
+    Declan Rice
+    William Saliba
+    Gabriel Magalhães
+    Kai Havertz
+    Cole Palmer
+    Enzo Fernández
+    Moisés Caicedo
+    Reece James
+    Nicolas Jackson
+    Marc Cucurella
+    Kylian Mbappé
+    Vinícius Júnior
+    Jude Bellingham
+    Thibaut Courtois
+    Federico Valverde
+    Lamine Yamal
+    Robert Lewandowski
+    Marc-André ter Stegen
+    Antoine Griezmann
+    Julián Álvarez
+    Jan Oblak
+    Samuel Lino
+    José María Giménez
+    Harry Kane
+    Jamal Musiala
+    Joshua Kimmich
+    Manuel Neuer
+    Leroy Sané
+    Alphonso Davies
+    Julian Brandt
+    Karim Adeyemi
+    Gregor Kobel
+    Serhou Guirassy
+    Nico Schlotterbeck
+    Marcel Sabitzer
+    Ousmane Dembélé
+    Gianluigi Donnarumma
+    Achraf Hakimi
+    Khvicha Kvaratskhelia
+    Lautaro Martínez
+    Nicolò Barella
+    Alessandro Bastoni
+    Yann Sommer
+    Marcus Thuram
+    Hakan Çalhanoğlu
+    Rafael Leão
+    Mike Maignan
+    Theo Hernández
+    Christian Pulisic
+    Tijjani Reijnders
+    Fikayo Tomori
+    Dušan Vlahović
+    Kenan Yıldız
+    Gleison Bremer
+    Michele Di Gregorio
+    Manuel Locatelli
+    Andrea Cambiaso
+    Romelu Lukaku
+    Giovanni Di Lorenzo
+    Alex Meret
+    André-Frank Zambo Anguissa
+    Alessandro Buongiorno
+    Matteo Politano
+    Ángel Di María
+    Nicolás Otamendi
+    Anatoliy Trubin
+    Fredrik Aursnes
+    Vangelis Pavlidis
+    Viktor Gyökeres
+    Pedro Gonçalves
+    Morten Hjulmand
+    Gonçalo Inácio
+    Rui Silva
+    Jordan Henderson
+    Kenneth Taylor
+    Jorrel Hato
+    Remko Pasveer
+    Bertrand Traoré
+    Kopa Trophy
+    Yashin Trophy
+    I won the Ballon d'Or.
+    I decided to play one more year.
+    I told my agent to keep looking for the right move.
+    Your agent has been busy. These clubs want to talk, and your current club wants to keep you.
+    Win the league
+    Youth score of 65% or more
+    Finish the season fit (65%+)
+    Stay injury-free
+    I hit every objective the club set for me.
+    I hit some of the objectives the club set for me.
+    I missed all my objectives this season.
+    Rival FC
+    The medical file leaks
+    A journalist has your medical file from the time you hid your injury. The club wants to know what else you kept quiet.
+    Admit it publicly
+    You face the cameras and say it straight. The storm passes faster than you thought.
+    You deny it. Then a second source appears.
+    Blame the club doctor
+    It works for a week. Then the doctor talks to the press.
+    The photos resurface
+    Photos from that party are back on social media, now with a headline attached. Your sponsors are calling.
+    Post an apology
+    The apology lands well enough. The story fades in two days.
+    Silence works until it doesn't.
+    A sponsor drops you over it.
+    The photos come down. The story does not.
+    The rivalry boils over
+    Fuel the fire
+    Everyone talks about you. The manager is not delighted.
+    Shake hands in public
+    A calm photo, a calm week. Fans call it class.
+    Settle it on the pitch
+    You train like it is a final. It shows.
+    You push too hard and pull something.
+    The manager remembers
+    The manager has not forgotten what happened between you two. The team sheet on Saturday says it all.
+    Ask for a private talk
+    He listens, grudgingly. You are back in the squad by Saturday.
+    Prove it in training
+    You win every drill. He looks at you differently.
+    Ask your agent to find another club
+    Word gets out. The atmosphere gets heavier.
+    Your agent calls in a favor
+    The agent who made things happen for you now wants something back: a favor, a signature and no questions.
+    Do the favor
+    He keeps his side. You keep your mouth shut.
+    It turns out to be shady and it comes back on you.
+    He takes it badly but you sleep fine.
+    Fire him
+    A clean break. Finding a new one costs you.
+    The sponsor wants a favor
+    The brand that signed you wants you in a campaign that is a little more than you agreed to.
+    Do the campaign
+    A long shoot, a big check and your face on a billboard.
+    Stick to the contract
+    They grumble and respect it.
+    You squeeze a bit more out of them.
+    They walk away from the table. Ouch.
+    [futbol] step
+    .fb-tabs button
+    10px 14px
+    A football life ends, but the record stays. Start a new life to do it again.
+    You can start a football career from age 10. The school team is where every story begins.
+    National team titles
+    I paid for extra training sessions with a private coach.
+    I paid for private rehab to come back faster.
+    I asked for a raise and got it.
+    [futbol] special menu
+    [futbol] resume
+    [futbol] yearTick
+TOTAL 729 strings, 309 missing (57.6% covered)

@@ -1,0 +1,1223 @@
+{
+  "capture_path": "C:\\Users\\Mxzzy\\.claude\\projects\\C--Users-Mxzzy-Downloads-FreeLife\\5a6f3240-dbd5-4c5b-a074-aad61406aaf4\\tool-results\\mcp-rea-inspect_web_page-1795289769895.txt",
+  "capture_sha256": "a45576ca7282567436a4d671cfb5f30eb4a08332d86878c8d954da7fa7cd1721",
+  "capture_kind": "page-inspection",
+  "source_evidence_id": "ev_6e58b0278ee9d804569024b78504759e8ba83328e0e810f4a82151e197ad0c26",
+  "capture_completeness": {
+    "status": "policy_filtered",
+    "conditions": [
+      "attach_limited",
+      "policy_filtered"
+    ],
+    "policy_filtered_sections": [
+      "accessibility",
+      "console_text",
+      "json_body_shapes",
+      "metadata",
+      "resources",
+      "scripts",
+      "storage_keys",
+      "websocket_shapes",
+      "workers"
+    ],
+    "attach_limited_sections": [
+      "console_events",
+      "metadata",
+      "network_requests",
+      "websocket_connections",
+      "websocket_frames",
+      "workers"
+    ],
+    "truncated_sections": [],
+    "unavailable_sections": [
+      "workers"
+    ],
+    "excluded": [
+      {
+        "section": "accessibility",
+        "reason": "not_approved",
+        "count": 32
+      },
+      {
+        "section": "console_text",
+        "reason": "not_approved",
+        "count": null
+      },
+      {
+        "section": "json_body_shapes",
+        "reason": "not_approved",
+        "count": null
+      },
+      {
+        "section": "metadata",
+        "reason": "disallowed_origin",
+        "count": 3
+      },
+      {
+        "section": "resources",
+        "reason": "disallowed_origin",
+        "count": 4
+      },
+      {
+        "section": "resources",
+        "reason": "unsupported_url",
+        "count": 1
+      },
+      {
+        "section": "scripts",
+        "reason": "unattributed_origin",
+        "count": 6
+      },
+      {
+        "section": "storage_keys",
+        "reason": "not_approved",
+        "count": null
+      },
+      {
+        "section": "websocket_shapes",
+        "reason": "not_approved",
+        "count": null
+      },
+      {
+        "section": "workers",
+        "reason": "out_of_target_scope",
+        "count": 1
+      },
+      {
+        "section": "workers",
+        "reason": "unattributed_target",
+        "count": 1
+      }
+    ],
+    "dropped_events": {
+      "scripts": 0,
+      "network_requests": 0,
+      "console_events": 0,
+      "websocket_connections": 0,
+      "websocket_frames": 0,
+      "webmcp_tools": 0,
+      "timeline_events": 0,
+      "total": 0
+    }
+  },
+  "output_directory": "C:\\Users\\Mxzzy\\Downloads\\freelife2",
+  "analysis_input": {
+    "input_path": "C:\\Users\\Mxzzy\\Downloads\\freelife2\\files",
+    "format": "directory"
+  },
+  "scripts": [
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_058211ed54630f3c905bffde0c4ba080c9604f7f03ed4020ead0d90d073b89f7",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/cars.js?v=7",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-1-9ba1045599fdbecd9da9e397506a1d4ab6989400c5d88157f0a79fbeb522890d.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "8cc5e6feca69144718030a2d6b3c87232e1e77ee3b0c5bd7d95fe85d215bee45",
+        "bytes": 16919,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0d706ebeb653a0d67f78708e178a9d71512ff438940d23876a430eb5a1f20f9b",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/world-events.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/world-events.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e7659c8c9c690f958cbbebcac0d3391827230180be030a18118726b50380ef9c",
+        "bytes": 22838,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_15aba1f27f683d39f02c652a90e76b686f26ea9bf64a8344635e645f79d631a2",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/milev-seals.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-3-f00141960d3b8194c914fe9df164c0d626ba79e19dd045aa3d0950631a9a64dd.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "5d39009f7ae351a41d49efc73e845dfa4803c68eb611c617a5a455e21f05959f",
+        "bytes": 44022,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_1ae91b7ed3a19d1f66c08c02961ef21b925727cf1581f0e7546784b2f70c5482",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/emoji2018.js?v=8",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-4-68725541d5a650e71de9862bcfc88c49e47f5882d7bf26fbfc8d83021538255b.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "e7e71c4e4512abc23c958a3a16cd7af032d59c3b1d2652897775fa5acafccb34",
+        "bytes": 7784,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_1d890c30fe770f3f8dd71aa9576ebd4f1a1bcedc1dbe894f397b5830d2af16f5",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/random-names.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-5-5ccb16264d3127d6e8c55f5d9bb30da3f200fde933fb6c66d0c31703a6491e3f.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "a20d8b00bc219cd2f9f7d96c38436f8a3f6636167703e30eac298e9d933e7b78",
+        "bytes": 9712,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_231004d2806ae0aecb9bda8281d5c84a6e5f1178bb91541b4fe52ae83189fdf4",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/email-pool.js?v=9",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-6-28229c0f5141bbfa39041958b19292afb90a98ee69ec5c66dc946a7e58f7c483.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "5cab3fb0249ebd039f83ea278801af9c4280f3dfb6e9a21fb17b3d836f5b6050",
+        "bytes": 38096,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_2cf26e5f5677b3dd42aef741a05b59593bbeec134963fa0a88bdb052a89b6b09",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/work-events.js?v=r1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-7-d5bec0d012cd5dd758f1c40ea2d6195c1ada5e52e31b3cdd035aca08dfc65edb.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "3f4dfa1d7662592d5d425acdf77d4d255c972e330d8bd8cef261cdb0c4bafca7",
+        "bytes": 29398,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_39f6392bdc17ccd2d990502bb5077a2351e432e4b50e384905a74947491a49f1",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/blscroll.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-8-343fa0d19f1d56767781fc04aaeac671477835c3c315d97e41a347893bcbebb5.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "90a0f60ede6259e61c3f79d95f777ff8dcfca20c432bd95c7abcd67e86d35134",
+        "bytes": 1677,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_3b1a4b42b9315d04cca9aaea7dbd57e7a757e949a9013b3cb19e0a8810f194f9",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/family-events.js?v=3",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-9-e8414ca6bdc245be5b354fe9149d704e560e358459f6dca7016439006a3f7aae.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "96cfa47494c70955298ff9a73659ec112e4abe782ad86b8259c7fc7be1f7f793",
+        "bytes": 57250,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_3e3c9ba526d1e379386be0ce0be47c9a3cc0f1c78a5410dd50caedfd4ae6a32f",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/houses.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/houses.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "00f1f8110d78984b4207f2d10daf090e7895e9a2cbae9d4cb9b174fb5c243347",
+        "bytes": 1735,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_3e58c73819e6b600ea5e9b720947bc35386e7fa303ffc8f4e71f37f5a1445e3f",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/countries.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/countries.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "998e90e004f974aef83683b4a9010ad0587af1354906892b3ae84dbda1a700c0",
+        "bytes": 2847,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_4324f13d96e4e4d86ba336fd277978ef101ef5f172d3e1e45fee4f5ce0033431",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/game.html",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-12-3601759a443625c5cea35f52e4a0cb0533463f3e4ff9b74f01b444bf845bd3dc.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "f4c8e90f6cc90b7091806cfc1eb76f3a691db26bf01598e76836c913b4331ad9",
+        "bytes": 2093816,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_43906ea94da30472ffe878710328823a3cff961aa7ebe1ce51d3039c96559edc",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/cities.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/cities.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "f9dcd3464be0cf9231e39d1015aae436c389e60df149f0e9a8460f0b19eec971",
+        "bytes": 10439,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_48a660f259a8635331c9f5c967e3f394c0932ceb7a8f887fb0ddd8ae04856aaa",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/life-events.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-14-5306878583c027722a8b6d2ebcdac6f8dcbed19e714c6b0108055c8d6cda02b1.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "ea4c6756ffe527221b120c8ab595587234cd7bd90a8ce59cb623e7e7c1c8d3ca",
+        "bytes": 12658,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_494ef9487d7826a820bd772bd2e803ec281dc0475f861d74769c0f2cc44b7d40",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/fight-events.js?v=r1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-15-46881ad2bb71bde3feafd28361216b5200970ef5d2a9247d2d89c4f5bd355b60.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "72b3173effd1db8f871971681503ae54266bc21a61ed4abfb516cae766829825",
+        "bytes": 8568,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5478ae2dd1fad9c84b70169f43ae2a497fddb093f6b1bddd0797d267fcd70298",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/milev-rescueswimmers.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-16-bf2de103ad5e27373e0812ef3c98e0a091a64d3321ccdc0d6d6fe122f2fa2fd3.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "b121d1e8b7f8eaa919a7a51b213e8a6d00e4d02698906e92b5de15eb298f29bf",
+        "bytes": 47552,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_58ad4f2b8910e31f4384c6a45ab4a57680e451fff7e0c50dadedf6f4722948dd",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/arson-events.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-17-1de0ebd7bd6b47faee749bc13bfa88a57b2bbb3b8e6a13ff7182e514474cc87c.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "3962a5a3a02d852f22ba835c1cf11d794f53279cb337b42189d3f347ffb4be01",
+        "bytes": 19386,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_59c4ee827a00be5063b267913052f152e5bf0dc0f32a76f30a1c31ab157e1b47",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/faces/manifest.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/faces/manifest.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "36575790d91c0926c9a7310b2ba4ce97c339a5dff131f8dbc3e0f9319f659af6",
+        "bytes": 3139,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5ab14235483bea7142f42d0fa607e654f0fe4d3d284bf12f495f9cb1074357ae",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/milev-raiders.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-19-5d1cb8251d344951d2a171dae3e77366fbfa360ce0b59ba334972cf8fe7f98d9.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "0e4f00f1d02facf736c76cbca4f1d0c2c54b1892c7d7b2a27a98bf91218ad103",
+        "bytes": 52951,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7196f265b97aebf8d95ad3524b7cc49dec707aa987734d993a7a3ea10ba4559f",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/restaurants.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/restaurants.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d130c85b9e3ef1d65a708d446a0b242e0182bb57da3f1ea4cb84432512260284",
+        "bytes": 5333,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_792d840f112d6d9d640d3640bb080eb36b3966d481485c72c332ac461be20c7f",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/spend-events.js?v=r1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-21-a432e1a8d4f45dd1252dba96651cac32027ff855a093bfb8b2151bf1d296ed06.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "e16d2e8ef069694d87717f2ceab17da15dc199770a083c5042177ba2d33b47c5",
+        "bytes": 14805,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_795ea58b3773388de5f4f7bf5cc84699b251b7b3156fd04f013118dcadb0fe4b",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/artists.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-22-76096a126e8dbee8feb8587b65442782c148d412cdbb72d6c283ec853f897b4d.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "b3a34b05254cea23c178a91dff46050d554e1bc20ebbd3beaa7c357db9caabf4",
+        "bytes": 18417,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7a06cadbf4954a676e8bb8607ab4699172cc8e7af45a48bde0a1913fd9c933ef",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/walmart-role-events.js?v=r1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-23-b3068de712767bee1e771b4b2c06b0e671629744fbfbc0bc90da1298a75a5ca5.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "b49fd528ef111c0473f8b3410a782fff535b3f1ceea870f427a8464819abb0a8",
+        "bytes": 27562,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7ccd6d4d72fa55b8a33257613d87e4f6ee3f1f350fb989c82973bf02312b8f8c",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/employers.js?v=2",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-24-76762240397325b8e35625d7eeac9c71fa9c33011de6f6a27f915d7a1f9c666e.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "6fc2a39fa51baaffd7e5e545c6ac0b719ab6cd373176884130b57e27eaf1b295",
+        "bytes": 1731,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7f00d48e162af5ec90e94b7b304de49e8f37a218ac86679e6440be76ab6b5e74",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/danger-events.js?v=r1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-25-167a7e123c1919cca6608001bb9424c2921d16392fb66dd962fac8b538950d66.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "826d541bd0d092adbc683f79234b8b3f634cad9bf08292932630925b4c34fcc6",
+        "bytes": 7613,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_82477f7f73afefcc6e9c4ae0fab655ebabbe79c0645c7a7140aa952b45e3b9d1",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/faces/manifest-female.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/faces/manifest-female.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "96261df89b31c9a84cdb00b0fb55f1f4866b6dd5d5c1fbaf775976962b1b8f29",
+        "bytes": 3368,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_832c13287f0fabead311adcfb028bdb2614e860befb1bb8913e900f7203b3204",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/tax-engine.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-27-179584fa49bbe0b20b19d223bc87df97f54325d2425b5af1fd129dec61e7d949.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "117edaa57001e550481d1a4740c7c8e56138cd91066c1f913679cc55abe4cc15",
+        "bytes": 5210,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_86f97df1db40f15268d7915ef321d8b7acb0e9376b5d0e2ccf9c407492fa11ff",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/kid-social-events.js?v=r1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-28-f1e4db493935c3b7dea44d5377c5649341a047ddf28373f076c53ec2030b1906.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "61a0a947ba8610972a7594cd9149642c32bcc32c60413814f8c9f96e3e2df6de",
+        "bytes": 25889,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8911e628e4d0ba69c23eb12d4d5f136131b78321d246e8710db89af0aecab046",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/name-family-events.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-29-0a131e2bf7eeb6687a8ccdd20e16df37da043860eecd205c8946a3ca13719f90.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "6566b866e3df0ecebfa728d32067d3f3668a0034d9800620a4cac41f65d0cef1",
+        "bytes": 10708,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_92e9b1d78bd29ce9c0dd6d380f5fe94533add51f6326fbafad3459146dc2b23f",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/kid-events.js?v=r4",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-30-8d5e554f804020d3a5a1db316257b1d0353e88cc10cb611360c2a2149744dcaa.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "005a13604c7859002084c5bd5966e6d9ad911093cafd8c4db205eaa559f570ed",
+        "bytes": 36739,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9c59de72ca5d82c9a4929c555438e993bc2cbb5b6c3c533fea23d2f5f964b577",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/coworker-events.js?v=r1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-31-2378b50cb9f97e812cbe52512408fee0f870bb65fee05a600c0b74f17f0f6548.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "7a13562cf3fb27ac24711962363b2baa85821ad522d5bfa2bac09033f69c0bd7",
+        "bytes": 25165,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9c7c28e316f78a5de02af5553b62147237f64ccadecc7a15386f563a15b2523e",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/game.html",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-32-fa276cb813df56b546001863bba36fcc63a174b1f038096f02b199b4693b174a.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "3fa2bfe4ad3805d1a7e0a4f2e2bd0a18d35b3e45a0af3a627b5669ed79adff18",
+        "bytes": 1236,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_a4acb6a479da123dfc8e107c1b39e5f36b2bb35b5c4d3cf723d7e8d7f8c091ad",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/milev-general.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-33-cbabe7e5302498a452be6fd4386790268a9ff16a9ca62bd4728b50179178aa0b.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "de1ad766460a866d932ab848d3eb477b816f38aa59228011c8dc5e67b57e5fa1",
+        "bytes": 68932,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_a588e9507892a9ebc0383846db879a2628ba541c14f31624e2da733a5df7b356",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/country-names.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/country-names.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "2f462e7740e8594264829a277ac7db0e809dfc3e4e8d6cb686a6e55477cb56c5",
+        "bytes": 30141,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b074f054279a1d3b905e825553963ad791f235a60f7e1518bb39466e126c86c4",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/milev-greenberets.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-35-328b409afaf8f5ebad83936a7d164986528758c574fe57e2296400eda5f893eb.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "1b7fcca3df76cde6ef77852f9576fa3ee4e6d365cb650f38cf8e5131e17d5aed",
+        "bytes": 50264,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b515722cd1ce77636ab7445605300cb88580fa8fbe28c9aadabd6904efd564a5",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/prison-events.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-36-29f98c65ebad4a3cc21b91d64ec9d140a045cb57cb498fb7bc57efaedad94d92.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "0623ba9e713cf5691ef79075425d2a802f1c2c6bc8ec26fcb28b7fb5848a602f",
+        "bytes": 11900,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b95d12a50f1bf09b4ef388a06507244564428f300ea12848ac141067de13d116",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/wiki-words.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-37-bbaeba68b9fbeb696574986d3605d5cf1eb59d469b38306e3f4e1a77b84e3927.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "991175ce2773bab31edec31c33941909de9544c9ae5064ddb3fce17b4cd6dc00",
+        "bytes": 495553,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_bd5d637cda1bef500c37f45e696637f4abfe53ca76160ab447f398b360d97f72",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/pets.js?v=2",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-38-2b4845e81825fb0dde40c136698dc0933861aafa9df67ecf8cacbd4e3413bd96.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "3721386db6a9a56fc6ef008bdedee8ef16e25d4c607ea7b957fd6b2680e06120",
+        "bytes": 7752,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_c1f2c678a94c64bebcb98fc1403c0437c849e33c065446bb6d5740eb8ba8e90e",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/gamertags.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-39-c601541589587c36769ad4bb259983e270be940bedde7e833bfb13c0273a2d75.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "336080667b78b3593fa8964223552866f42b4bb8c2afbbad219df95339163590",
+        "bytes": 8889,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_c582d2a4290f85b11e4fc628a76911fd01b3709fb26083cf35d1a8c23853214d",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/parent-events.js?v=r1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-40-5e551a02a8db5bfcd9109cbdf8e680b22e84655ca016c77dc3cc720a1db8bbf6.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "c65b288a417c3230da5eca3c81f4b9472cfe7300de5f57479227cabced3af5e0",
+        "bytes": 22191,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_c6d7eea99019ef466120c0e3839bba5ca3429275bd0cbedf91263837d43b8e5a",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/jobs.js?v=10",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-41-ce70cb4c0238ccc61b624a9b15d8d56a22e316db09dcb855307d69d0adc5f8f5.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "6d1120b405f1a04c90238fd9fc1b5768854d336bf0737b9cdad7eb057ea45dba",
+        "bytes": 48772,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d5601f742b31f35a20a4a8d52af905a26ede8e51b25cec781d62393874b17a52",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/school-events.js?v=r2",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-42-4a4035a3895c56993d4f77be8e7eab6ad51fac199a82298f79e6c5f8efcd63fd.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "f3ed4668249e86ec42a7462aeb24b111646bb814faec6cbd9dd88bf6e0888ee9",
+        "bytes": 39317,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_da6ce966de43f14e4836c9324c1853f01c2d7c3ac264c1bfbaa03a9cf294ca07",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/acc/manifest.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/acc/manifest.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c28c4c7c61d820b3cf495512b5c74d3bc60bbf178851d552b7e0fb9ad5125f26",
+        "bytes": 33557,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_e41ab58421368b91dc34a3f729651920e4fa09e2d6c5b09e99b8b3fec8629d67",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/social-names.js?v=2",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-44-c20aeac1c7b00f2ad5a2c748cd2796ffde40c2c2e23613679ebfb55ac9862b61.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "6f01ec29586026c3e1ca999bb473f12b93a78a4219826f75751e02f87426315f",
+        "bytes": 155612,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_ee4dcbc4e63993e5fc1eff80083de0a238955966abf7597ed42886cc44f01729",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/milev-pararescue.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-45-6842eb04ac17ec646991a78b5a237d5ecffe2d8d20d7ad7c25d91825629d6737.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "7bb10ad2f0dc8a9e86f51676fc49a259de233d46e0f3dd31128f8f6596ef05c4",
+        "bytes": 44667,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f2a6517380bf1fde5ee6041ee8078712f817fe4e0fd716ebbab2d955c2b5ea9a",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/heirlooms.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/heirlooms.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "804d57dbdde3ceb9f1220352355ae6603e2b12d27fdef4f0569433bd277d9337",
+        "bytes": 8471,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f33d0eb1d4a94d7e35d4cab276e17afdfb306a6db2bebb6c4df61735cbf75925",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/freelife.js?v=10",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-47-1fded3c91941347dea427e38afadb6cd23b796514b26e8becdb123cfb92d51a6.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "8f880d51e0b28bb32f4d7ccef338854bbb6e662c4d12ab9f6b89c9ccbd194b7d",
+        "bytes": 26459,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f9fcf940478a4789a61bbbb2b2d17e2dc815bd9ab198961e658dc24002cee9d5",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/milev-delta.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-48-6942e5771d581565eab500e26ccc6dd3995e51995209112b701a879ffb9f8c6a.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "ba72a197f5170baf3fc5fbe98c1dc325e9e5be82a0172ad8dfb629955ac96cf8",
+        "bytes": 45504,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_fa11cf7ebc17d486346e9fd24d05a529c86841743754a359b53a739ecbaef234",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/names.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/20e00ed07cda5ea0aaf5839b5b3f90c5f349a6a34f1b8b221489b2459b82cd19/html/20222767/names.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "342a42e918b7957824c1f50092e85d75e9575ee418e4f45bd923e20a0c896d5d",
+        "bytes": 5445,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_fd83a81bc6c9d36f375ac1025538a327f9dd839485951494ccaab0def7e0df67",
+        "frame_id": "61E42798A2CD13763A1D7C5C1EBD08EB",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://html-classic.itch.zone/html/20222767/milev-rangers.js?v=1",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-50-362b5d260fbae6f851f53725249cc36a94117b1cc515a93a1f7fe91f8544c22e.js",
+        "layout": "isolated",
+        "layout_reason": "URL query, fragment, or credentials cannot select a canonical local module.",
+        "sha256": "05b4cfb18247a6afca253e6efb053cf0b8a52ef4d12a7207376ed46a85b8a2a5",
+        "bytes": 38702,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    }
+  ],
+  "limitations": [
+    "Observation starts when REA attaches; prior network and console activity is unavailable.",
+    "Worker targets are a final inventory snapshot, not worker-session observation. Their attached flag describes any debugging client; this page-session collector does not observe worker network, console, or script events, and short-lived workers may be absent from the snapshot.",
+    "Raw network headers, bodies, cookies, storage values, console objects, and WebSocket payloads are never retained; explicitly requested primitive console text is retained verbatim, while payload captures retain value-free shapes.",
+    "Source maps are reported only as declarative URLs and are not fetched.",
+    "URL-less scripts and console events without an allowed source URL are excluded because their origin cannot be proven.",
+    "CDP discovery could not establish the target's debugger attachment state.",
+    "Only script bytes retained in this capture are exported. Sources are not refetched or executed, and a response or Debugger source does not prove execution.",
+    "Ordinary unambiguous URL paths preserve relative module layouts by origin, including case-distinct spellings. Query variants, exact path collisions, file/directory prefixes, inline sources, and unrepresentable paths are isolated. A case-distinct pair is isolated only when the destination filesystem cannot store both spellings; the record names that pair. Browser module relationships of isolated paths remain unknown.",
+    "Local JavaScript analysis does not implement browser import maps, root-relative URL resolution, remote URL loading, or browser runtime behavior. It may strip import queries and fragments; isolated variants are not canonical targets.",
+    "Source-map declarations are retained as metadata. No source maps or missing dependencies are fetched or reconstructed.",
+    "Scenario response bytes preserve the output of Playwright's Response.body() API; any source-body provenance caveat from the capture is retained in this manifest. Debugger sources are the exposed text encoded as UTF-8. Redacted bytes are exported exactly as retained, and may no longer parse as JavaScript."
+  ]
+}

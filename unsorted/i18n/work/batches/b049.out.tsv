@@ -1,0 +1,800 @@
+38835	Sacaste a {n} en una cita. Se divertió un montón.	Você levou {n} para um encontro. Se divertiu demais.
+38836	Gané la confianza de {1}.	Ganhei a confiança de {1}.
+38837	Intenté acercarme a {1}, pero {2} mantuvo {3} distancia.	Tente me aproximar de {1}, mas {2} manteve {3} distância.
+38838	{n} fue amable pero mantuvo su distancia.	{n} foi educado, mas manteve distância.
+38839	{n} dijo que das repelús y les contó a todos sus amigos sobre ti.	{n} disse que você dá arrepios e contou para todos os amigos sobre você.
+38840	{n} te presentó a su compañero de cuarto, que ahora conoce tu cara.	{n} te apresentou ao colega de quarto, que agora conhece seu rosto.
+38841	{n} bloqueó tu número y publicó sobre "un acosador perturbador" en internet.	{n} bloqueou seu número e postou sobre "um stalker sinistro" online.
+38842	Mi intento de manipular a {1} salió mal.	Minha tentativa de manipular {1} deu errado.
+38843	{n} se giró en la acera y gritó: "¿Por qué me sigues? ¡Te he visto tres veces esta semana!"	{n} girou na calçada e gritou: "Por que você está me seguindo? Eu te vi três vezes nesta semana!"
+38844	{n} tocó la ventana de tu auto. "Sé que estás estacionado afuera de mi casa todas las noches. Basta."	{n} bateu na janela do seu carro. "Eu sei que você fica estacionado na minha porta toda noite. Para com isso."
+38845	{n} te acorraló en el supermercado. "Tienes que dejar de seguirme. Hablo en serio."	{n} te encurralou no supermercado. "Você precisa parar de me seguir. Eu falo sério."
+38846	{n} te señaló frente a una multitud y gritó: "¡Este perturbador me ha estado siguiendo!"	{n} apontou para você na frente da multidão e gritou: "É esse esquisito está me seguindo!"
+38847	{n} te mandó un mensaje furioso: "SÉ que eres tú afuera de mi ventana. Déjame en paz o llamo a la policía."	{n} te mandou uma mensagem furiosa: "EU SEI que é você na minha janela. Me deixa em paz ou eu chamo a polícia."
+38848	{n} te encaró en la puerta de su casa. "¿Estuviste en mi casa? Las cosas han cambiado de lugar."	{n} te confrontou na porta de casa. "Você esteve na minha casa? As coisas foram movidas."
+38849	{n} te sacó una foto. "La guardo para la policía si no te alejas."	{n} tirou uma foto sua. "Vou guardar isso para a polícia se você não sair."
+38850	{n} se acercó directo a tu mesa en la cafetería. "Todos los días. Cada día estás aquí cuando estoy yo. ¿Por qué?"	{n} foi direto até sua mesa na cafeteria. "Todo dia. Todos os dias você está aqui quando eu estou. Por quê?"
+38851	Los amigos de {n} te rodearon afuera del bar mientras {n} gritaba: "¡Ese es el que no deja de seguirme!"	Os amigos de {n} cercaram você na frente do bar enquanto {n} gritava: "É esse que fica me seguindo!"
+38852	{n} te encontró de nuevo en el banco frente a su trabajo. "¿No tienes nada mejor que hacer? ¡Deja de seguirme!"	{n} te achou de novo no banco em frente ao trabalho. "Você não tem vida? Para de me seguir!"
+38853	{n} dejó de trotar y se dio vuelta. "Me has seguido dos kilómetros. ¿Qué quieres?"	{n} parou de correr e virou. "Você está atrás de mim há dois quilômetros. O que quer?"
+38854	{n} vio tu auto en el espejo retrovisor y se detuvo. "¡Baja y explícate!"	{n} viu seu carro no retrovisor e encostou. "Saia e se explique!"
+38855	{n} golpeó la mesa con la mano. "Mi vecino te vio revisando mi basura. ¿Qué te pasa?"	{n} bateu a mão na sua mesa. "Meu vizinho te viu fuçando meu lixo. O que há com você?"
+38856	{n} te encaró en el estacionamiento. "Cambié de ruta a casa dos veces y aun así me encontraste."	{n} te confrontou na garagem. "Mudei o caminho de casa duas vezes e ainda assim você me achou."
+38857	{n} se acercó a ti en el gimnasio. "Ni siquiera entrenas. Solo te quedas parado mirándome."	{n} veio até você na academia. "Você nem malha. Fica só parado me olhando."
+38858	{n} publicó tu foto en internet preguntando "¿Alguien ha visto a esta persona siguiéndome?" y luego te escribió: "Aléjate."	{n} postou sua foto online perguntando "Alguém já viu essa pessoa me seguindo?" e depois te mandou mensagem: "Fique longe."
+38859	{n} te sorprendió mirando por su ventana y abrió la puerta de golpe. "¡Llamo al 911 ahora mismo!"	{n} te pegou olhando pela janela e abriu a porta. "Vou ligar 911 agora!"
+38860	{n} encontró una nota que dejaste caer con su horario completo. "¿Por qué tienes mi horario?!"	{n} achou um bilhete que você deixou cair com a agenda inteira. "Por que você tem minha agenda?!"
+38861	El perro de {n} empezó a ladrarte y {n} salió. "¿Otra vez tú? ¡Fuera de mi calle!"	O cachorro de {n} começou a latir para você e {n} saiu. "De novo você? Sai da minha rua!"
+38862	{n} te agarró del brazo en el pasillo. "No sé cuál es tu problema, pero tienes que parar."	{n} agarrou seu braço no corredor. "Não sei qual é o seu problema, mas você precisa parar."
+38863	{n} te recibió en la recepción de su trabajo. "Seguridad ya tiene tu foto. No vuelvas por aquí."	{n} te encontrou na recepção do trabalho. "A segurança já tem sua foto. Não volte aqui."
+38864	{n} te llamó desde un número bloqueado. "Sé lo que haces. Deja de seguirme o te arrepentirás."	{n} te ligou de um número bloqueado. "Eu sei o que você está fazendo. Pare de me seguir ou vai se arrepender."
+38865	{n} se dio vuelta en el paso de peatones. "¿Me estás siguiendo? Sé honesto conmigo."	{n} virou na faixa de pedestres. "Você está me seguindo? Seja honesto comigo."
+38866	{n} te detuvo junto a los buzones. "¿Por qué abrieron mi correo? Te vi merodeando por aquí."	{n} te parou perto das caixas de correio. "Por que minha correspondência foi aberta? Eu te vi dando voltas aqui."
+38867	{n} te señaló a un guardia de seguridad. "¡Esa persona me ha seguido toda la noche!"	{n} apontou você para um segurança. "Essa pessoa está me seguindo a noite toda!"
+38868	{n} apareció en TU puerta. "Ahora sabes cómo se siente. Deja de seguirme."	{n} apareceu na SUA porta. "Agora você sabe como é. Pare de me seguir."
+38869	{n} dijo con la voz temblorosa: "He estado durmiendo con las luces encendidas por tu culpa. Por favor, basta."	{n} disse com a voz tremendo: "Tenho dormido com as luzes acesas por causa de você. Por favor, para."
+38870	{n} te acorraló en una fiesta. "Todos dicen que has estado preguntando por mí. ¿Por qué?"	{n} te encurralou numa festa. "Todo mundo diz que você tem perguntado de mim. Por quê?"
+38871	{n} te encaró en la parada del autobús. "Tomas este autobús cada vez que yo. Eso no es coincidencia."	{n} te confrontou no ponto de ônibus. "Você pega esse ônibus toda vez que eu. Isso não é coincidência."
+38872	{n} te grabó con su teléfono mientras gritaba: "¡Saluda a internet, acosador!"	{n} gravou você no celular enquanto gritava: "Diga oi para a internet, stalker!"
+38873	{n} te miró fijamente mucho rato, aceptó tu disculpa y se fue.	{n} olhou feio para você por muito tempo, aceitou seu pedido de desculpas e foi embora.
+38874	{n} suspiró. "Bien. Solo... dame un poco de espacio, ¿sí?"	{n} suspirou. "Tá. Só... me dê um espaço, ok?"
+38875	{n} pareció aliviado. "Está bien. Perdón por gritar. Ha sido una semana rara."	{n} pareceu aliviado. "Tá bom. Desculpa por gritar. Foi uma semana estranha."
+38876	{n} se rió nervioso. "Supongo que solo soy paranoico. Olvídalo."	{n} riu nervoso. "Acho que sou só paranoico. Esquece."
+38877	{n} no se creyó ni una palabra. "Aléjate de mí."	{n} não acreditou em nada. "Fique longe de mim."
+38878	{n} negó con la cabeza. "No te creo, y les voy a contar a mis amigos sobre ti."	{n} balançou a cabeça. "Não acredito em você e vou contar para meus amigos."
+38879	{n} se alejó despacio sin dejar de mirarte.	{n} recuou devagar sem tirar os olhos de você.
+38880	{n} fue directo a la policía y presentó una denuncia en tu contra.	{n} foi direto na polícia e fez uma denúncia contra você.
+38881	{n} consiguió una orden de restricción. Legalmente ya no puedes acercarte a esa persona.	{n} conseguiu uma medida protetiva. Legalmente você não pode mais chegar perto dessa pessoa.
+38882	{n} les dio a la policía tu descripción y el número de placa de tu auto.	{n} deu à polícia sua descrição e o número da placa do seu carro.
+38883	Dijiste que era un pueblo pequeño y que solo se cruzaban por casualidad. {n} se lo creyó.	Você disse que é uma cidade pequena e que vocês só se encontram por acaso. {n} acreditou.
+38884	Actuaste totalmente confundido. {n} se disculpó por acusarte.	Você agiu totalmente confuso. {n} pediu desculpas por te acusar.
+38885	Dijiste que nunca en tu vida habías visto a esa persona. {n} empezó a dudar de sí mismo.	Você disse que nunca viu essa pessoa na vida. {n} começou a duvidar de si mesmo.
+38886	{n} sacó fotos tuyas afuera de su casa. Tu historia se desarmó.	{n} tirou fotos suas na frente de casa. Sua história desabou.
+38887	{n} se rió en tu cara. "Eres un pésimo mentiroso."	{n} riu na sua cara. "Você é um péssimo mentiroso."
+38888	{n} grabó toda tu excusa y dijo que la va a mandar a la policía.	{n} gravou toda a sua desculpa e disse que vai mandar para a polícia.
+38889	Le dijiste a {n} que te gustaba desde hacía meses. Se sonrojó y te dio su número.	Você confessou a {n} que gostava há meses. Corou e te deu o número.
+38890	{n} se sintió halagado. "¿Por qué no dijiste hola nomás?"	{n} ficou lisonjeado. "Por que não falou oi logo?"
+38891	Usaste todo tu encanto. {n} aceptó tomar un café contigo algún día.	Você ligou o charme. {n} topou tomar um café com você qualquer dia.
+38892	{n} te dio una bofetada. "¡Eso es aún más perturbador!"	{n} te deu um tapa na cara. "Isso é ainda mais esquisito!"
+38893	{n} te miró con asco. "Ni hablar. Aléjate de mí."	{n} olhou com nojo. "Nem pensar. Fique longe de mim."
+38894	{n} te lanzó la bebida a la cara y se fue furioso.	{n} jogou a bebida na sua cara e saiu furioso.
+38895	{n} se puso pálido y asintió. No le va a contar a nadie.	{n} ficou pálido e acenou. Não vai contar para ninguém.
+38896	{n} empezó a temblar. "Está bien. Está bien. No diré nada."	{n} começou a tremer. "Tá. Tá. Não vou dizer nada."
+38897	{n} corrió adentro y cerró la puerta con llave. No le ha contado a nadie. Todavía.	{n} correu para dentro e trancou a porta. Não contou para ninguém. Ainda.
+38898	{n} te empujó contra la pared y empezó a golpearte!	{n} te empurrou contra a parede e começou a bater!
+38899	{n} sacó un aerosol de pimienta y te vació el frasco entero encima.	{n} tirou o spray de pimenta e esvaziou o frasco inteiro em você.
+38900	{n} te golpeó con su bolsa y salió corriendo.	{n} bateu em você com a bolsa e saiu correndo.
+38901	Te fuiste sin decir una palabra. {n} te miró todo el camino.	Você foi embora sem dizer nada. {n} te olhou o caminho todo.
+38902	Te diste vuelta y te fuiste. {n} te gritó, pero no miraste atrás.	Você virou e foi embora. {n} gritou atrás, mas você não olhou para trás.
+38903	{n} subió un video tuyo a internet. Está teniendo muchas visitas.	{n} postou um vídeo seu online. Está fazendo muitos views.
+38904	{n} advirtió a todos en el chat del barrio sobre ti.	{n} avisou todo mundo no grupo do bairro sobre você.
+38905	Disculparse y alejarse	Pedir desculpas e recuar
+38906	Me disculpé con {1} por seguir a {2}.	Pedí desculpas a {1} por seguir {2}.
+38907	calma	calma
+38908	Me disculpé con {1}, pero {2} no me creyó.	Pedí desculpas a {1}, mas {2} não acreditou em mim.
+38909	No convencido	Não convenceu
+38910	Convencí a {1} de que no seguía a {2}.	Convinci {1} de que não estava seguindo {2}.
+38911	{1} no creyó mi negación.	{1} não acreditou na minha negação.
+38912	Me libré de que {1} me llamara acosador ligándosela.	Me safei de {1} me chamar de stalker dando em cima.
+38913	Intenté ligar con {1} después de que {2} me pillara siguiendo a {3}. Salió mal.	Tente dar em cima de {1} depois que {2} me pegou seguindo {3}. Deu ruim.
+38914	Amenacé a {1} para que callara.	Ameacei {1} para ficar quieto.
+38915	{1} llamó a la policía después de que amenacé a {2}.	{1} chamou a polícia depois que ameacei {2}.
+38916	{n} llamó a la policía y te arrestaron por acoso!	{n} chamou a polícia e você foi preso por stalking!
+38917	acoso	stalking
+38918	{1} se defendió cuando amenacé a {2}.	{1} revirou quando ameacei {2}.
+38919	Me alejé de {1} sin decir una palabra.	Fui embora de {1} sem dizer nada.
+38920	publicado	postado
+38921	Necesitas mantenerte agachado hasta el próximo año	Precisa ficar quieto até o próximo ano
+38922	No estás listo. Aprende más sobre ellos primero	Ainda não. Aprenda mais sobre eles primeiro
+38923	Sigue a esa persona y espera una oportunidad	Siga essa pessoa e espere uma chance
+38924	Seguiste a {n} durante horas hasta que por fin dobló en una calle vacía.	Você seguiu {n} por horas até que finalmente entrou numa rua vazia.
+38925	Te sabías la rutina de {n} de memoria. Estabas esperando justo donde iba a estar.	Você sabia a rotina de {n} de cor. Estava esperando exatamente onde iria estar.
+38926	{n} no dejaba de mirar por encima del hombro. Te vio.	{n} ficou olhando por cima do ombro. Te viu.
+38927	Había demasiada gente en todos los lugares adonde iba {n}.	Tinha gente demais em todo lugar que {n} ia.
+38928	Donde puedas encontrar a esa persona a solas	Onde você conseguir pegar essa pessoa sozinha
+38929	Encontraste a {n} a solas al final de un día larguísimo.	Você pegou {n} sozinho no fim de um dia longo.
+38930	Un estacionamiento vacío. Nadie más alrededor. Tu oportunidad.	Um estacionamento vazio. Ninguém por perto. Sua chance.
+38931	{n} nunca estaba a solas más de un minuto.	{n} nunca ficava sozinho por mais de um minuto.
+38932	Elegiste el momento equivocado y {n} te vio venir.	Você escolheu o momento errado e {n} te viu chegando.
+38933	Aquí mismo, ahora mismo	Aqui mesmo, agora mesmo
+38934	No había plan. Solo te abalanzaste, y funcionó.	Não tinha plano. Você só partiu para cima, e deu certo.
+38935	El puro instinto tomó el control.	O instinto puro tomou conta.
+38936	Sin plan, dudaste un segundo de más.	Sem plano, você hesitou um segundo a mais.
+38937	Te abalanzaste sin pensar y perdiste la oportunidad.	Você partiu para cima sem pensar e perdeu a chance.
+38938	Planear el ataque	Planejar o ataque
+38939	Ahora sabes mucho sobre {n}. Úsalo.	Você sabe muito sobre {n} agora. Use isso.
+38940	Llevas un rato vigilando a {n}.	Você vem observando {n} há um tempo.
+38941	¿Dónde y cuándo darás el golpe?	Onde e quando você vai agir?
+38943	El plan: {1}.	O plano: {1}.
+38944	¿Cómo lo harás?	Como você vai fazer?
+38945	{n} se soltó y corrió gritando hacia la calle.	{n} se soltou e correu gritando para a rua.
+38946	{n} te pateó fuerte y corrió hacia la casa más cercana.	{n} te chutou forte e correu para a casa mais próxima.
+38947	{n} escapó y se encerró en el baño de una gasolinera.	{n} escapou e se trancou no banheiro de um posto de gasolina.
+38948	{n} fue más rápido de lo que esperabas. Mucho más.	{n} foi mais rápido do que você esperava. Muito mais.
+38949	{n} se liberó y detuvo un auto que pasaba.	{n} se soltou e parou um carro que passava.
+38950	{n} se quitó la chaqueta y te dejó sosteniéndola.	{n} tirou a jaqueta e deixou você segurando.
+38951	{n} se tiró detrás de un auto estacionado y luego corrió.	{n} se jogou atrás de um carro estacionado e correu.
+38952	{n} corrió y no paró hasta llegar a una calle llena de gente.	{n} correu e não parou até chegar numa rua cheia de gente.
+38953	{n} se defendió como un animal salvaje y te dejó sangrando.	{n} revirou como animal selvagem e deixou você sangrando.
+38954	{n} te rompió una botella en la cabeza y corrió.	{n} quebrou uma garrafa na sua cabeça e correu.
+38955	{n} sabía defensa personal. Tú no.	{n} sabia defesa pessoal. Você não.
+38956	{n} agarró lo primero que encontró y te lo tiró a la cara.	{n} pegou a primeira coisa que achou e jogou na sua cara.
+38957	{n} te mordió la mano hasta el hueso y escapó.	{n} mordeu sua mão até o osso e escapou.
+38958	{n} te pegó tan fuerte que viste estrellas, y luego corrió.	{n} bateu tão forte que você viu estrelas, e correu.
+38959	{n} te roció con aerosol de pimienta a quemarropa y te pateó mientras estabas en el suelo.	{n} jogou spray de pimenta de perto e te chutou enquanto estava caído.
+38960	{n} te arrebató el arma y la tiró a la oscuridad.	{n} tirou a arma de você e jogou na escuridão.
+38961	Unos faros te iluminaron justo cuando ibas a actuar. Tuviste que parar.	Os faróis iluminaram você justo quando ia agir. Teve que parar.
+38962	Un perro empezó a ladrar y se encendieron todas las luces de la calle.	Um cachorro começou a latir e todas as luzes da rua acenderam.
+38963	Alguien gritó "¡HEY!" desde una ventana. Corriste.	Alguém gritou "EI!" da janela. Você correu.
+38964	Una sirena de policía aulló cerca. Entraste en pánico y soltaste.	Uma sirene da polícia tocou perto. Você entrou em pânico e soltou.
+38965	Sonó el teléfono de {n}, y contestó gritando tu nombre.	O celular de {n} tocou, e atendeu gritando seu nome.
+38966	Un grupo de adolescentes dobló la esquina.	Um grupo de adolescentes virou a esquina.
+38967	compañero de trabajo	colega de trabalho
+38968	La policía está interrogando a todos los que conocían a {1}, incluyéndome.	A polícia está interrogando todos que conheciam {1}, incluindo eu.
+38969	Era mi firma.	Era a minha assinatura.
+38970	Comete tu primer asesinato como asesino en serie	Cometa seu primeiro assassinato como serial killer
+38971	Mata a 10 víctimas como asesino en serie	Mate 10 vítimas como serial killer
+38972	Tu firma.	Sua assinatura.
+38973	¡Pero un testigo lo vio todo y llamó a la policía!	Mas uma testemunha viu tudo e chamou a polícia!
+38974	{1} está muerto.	{1} está morto.
+38975	¿Qué harás con el cuerpo?	O que você vai fazer com o corpo?
+38976	Extraer los órganos primero	Retirar os órgãos primeiro
+38977	Comerse una parte	Comer uma parte
+38978	Esconderlo en casa	Esconder em casa
+38979	Disecarlo como trofeo	Empalhar como troféu
+38980	Dissequé a {1} y añadí {2} a mi colección de trofeos.	Empalhei {1} e adicionei {2} à minha coleção de troféus.
+38981	Disecaste a {1} y añadiste {2} a tu colección.	Você empalhou {1} e adicionou {2} à sua coleção.
+38982	Ojalá nadie venga nunca a visitarte.	Tomara que ninguém apareça por aqui.
+38983	fallido	falhou
+38984	{n} vio tu cara. Ahora sabe que eres tú.	{n} viu seu rosto. Agora sabe que é você.
+38985	{n} se escapó.	{n} escapou.
+38986	Intenté matar a {1}, pero {2} escapó. {3} sabe que fui yo.	Tente matar {1}, mas {2} escapou. {3} sabe que fui eu.
+38987	Fue directo a la policía con tu nombre.	Foi direto na polícia com seu nome.
+38988	Presentó una denuncia, pero no tiene pruebas. Todavía.	Fez uma denúncia, mas não tem provas. Ainda.
+38989	Intenté matar a {1}, pero {2} se defendió y me mató.	Tente matar {1}, mas {2} revirou e me matou.
+38990	No te levantaste.	Você não se levantou.
+38991	defendiéndote de {1}	revindo contra {1}
+38992	Intenté matar a {1}, pero {2} se defendió y me hirió gravemente. {3} sabe que fui yo.	Tente matar {1}, mas {2} revirou e me feriu feio. {3} sabe que fui eu.
+38993	Intenté matar a {1}, pero alguien me interrumpió. {2} sabe que fui yo.	Tente matar {1}, mas alguém me interrompeu. {2} sabe que fui eu.
+38994	¡Un testigo llamó a la policía!	Uma testemunha chamou a polícia!
+38995	{1} se mudó lejos para alejarse de mí.	{1} se mudou para longe para fugir de mim.
+38996	{n} hizo las maletas y se mudó al otro lado del país en plena noche.	{n} fez as malas e se mudou para o outro lado do país no meio da noite.
+38997	{n} cambió de nombre y desapareció.	{n} mudou de nome e desapareceu.
+38998	{n} se fue a vivir con familiares a tres estados de distancia.	{n} foi morar com parentes a três estados daqui.
+38999	{1} fue a la policía por mi causa.	{1} foi na polícia por causa de mim.
+39000	{n} le dio a la policía suficiente para arrestarte por intento de asesinato!	{n} deu à polícia material suficiente para te prender por tentativa de homicídio!
+39001	{n} les contó todo a la policía. Aún no tienen suficiente para arrestarte.	{n} contou tudo à polícia. Ainda não têm o suficiente para te prender.
+39002	{n} presentó una denuncia con tu nombre. Un detective está investigando.	{n} fez uma denúncia com seu nome. Um detetive está investigando.
+39003	{1} compró un arma.	{1} comprou uma arma.
+39004	{n} compró un arma y ahora la lleva a todas partes.	{n} comprou uma arma e agora carrega ela para todo lado.
+39005	{n} va al polígono de tiro todos los días desde esa noche.	{n} vai ao stand de tiro todos os dias desde aquela noite.
+39006	{1} instaló un sistema de seguridad.	{1} instalou um sistema de segurança.
+39007	{n} instaló cámaras, luces con sensor de movimiento y tres cerraduras nuevas.	{n} instalou câmeras, luzes com sensor e três fechaduras novas.
+39008	{n} consiguió un perro guardián enorme y cerraduras nuevas en cada puerta.	{n} arranjou um cão de guarda enorme e fechaduras novas em toda porta.
+39009	{1} publicó mi foto en internet como advertencia.	{1} postou minha foto online como aviso.
+39010	{n} publicó tu foto en internet: "Si ves a esta persona, llama a la policía."	{n} postou sua foto online: "Se ver essa pessoa, chame a polícia."
+39011	{n} puso carteles con tu cara por todo el barrio.	{n} espalhou cartazes com seu rosto pelo bairro todo.
+39012	{n} está esperando afuera de tu casa con un bate de béisbol.	{n} está esperando na frente da sua casa com um taco de beisebol.
+39013	{n} te siguió a casa. Ahora es quien te caza.	{n} te seguiu até em casa. Agora é quem está te caçando.
+39014	{n} te acorraló en un estacionamiento. "¿Pensaste que lo dejaría pasar?"	{n} te encurralou na garagem. "Achou que eu ia deixar pra lá?"
+39015	Me defendí de {1} cuando {2} vino a por mí.	Me defendi de {1} quando {2} veio atrás de mim.
+39016	Defendido	Se defendeu
+39017	Dominaste a {n}. Salió corriendo, pero volverá.	Você dominou {n}. Correu, mas vai voltar.
+39018	venganza de {1}	vingança de {1}
+39019	{1} me golpeó feo.	{1} me bateu feio.
+39020	{n} te golpeó feo y se fue.	{n} te bateu feio e foi embora.
+39021	Corrí de {1}.	Corri de {1}.
+39022	Corriste. {n} te vio irte.	Você correu. {n} te viu ir embora.
+39023	Termina lo que empezaste	Termine o que começou
+39024	{n} te mandó un mensaje: "Por favor. No le diré a nadie. Solo déjame en paz."	{n} te mandou uma mensagem: "Por favor. Não vou contar para ninguém. Só me deixa em paz."
+39025	{n} dejó una nota en tu auto: "Te lo suplico. Para."	{n} deixou um bilhete no seu carro: "Eu te imploro. Para."
+39026	Déjalos en paz para siempre	Deixe em paz de uma vez
+39027	Decidí dejar a {1} en paz para siempre.	Decidi deixar {1} em paz para sempre.
+39028	Dejaste ir a {n}. Nunca sabrá lo cerca que estuviste dos veces.	Você deixou {n} ir. Nunca vai saber o perto que você chegou duas vezes.
+39029	Mentir y decir que terminó	Mentir e dizer que acabou
+39030	Convenciste a {n} de que todo fue un malentendido terrible. Quiere creerte.	Você convenceu {n} de que tudo foi um mal-entendido terrível. Quer acreditar em você.
+39031	No respondiste.	Você não respondeu.
+39032	Lleva lo que puedas vender primero	Pegue o que puder vender primeiro
+39033	Esconderlo en casa	Esconder em casa
+39034	Mantenlo fuera de la vista. Por ahora.	Mantenha fora de vista. Por enquanto.
+39035	No tienes casa propia	Você não tem casa própria
+39036	Deshacerte de él	Se livrar dele
+39037	Abandoné el cuerpo de {1} ({2}). Lo encontraron.	Descartei o corpo de {1} ({2}). Ele foi encontrado.
+39038	El asesinato está en todos los noticieros.	O assassinato está em todos os noticiários.
+39039	Me deshice del cuerpo de {1} ({2}).	Me livrei do corpo de {1} ({2}).
+39040	Las llamas se avivaron y te quemaron en el proceso.	As chamas se avivaram e queimaram você no processo.
+39041	Quizás nunca encuentren a {1}.	Talvez {1} nunca seja encontrado.
+39042	enfermedad de Creutzfeldt-Jakob	doença de Creutzfeldt-Jakob
+39043	No puedes dejar de temblar, pierdes el equilibrio y te pones a reír sin motivo. Los locales de Papúa Nueva Guinea le tenían un nombre: la "enfermedad de la risa".	Suas mãos não param de tremer, você perde o equilíbrio e cai na risada sem motivo. Os moradores de Papua Nova Guinea tinham um nome para isso: a "doença do riso".
+39044	Sigues olvidando dónde estás. Tus músculos se sacuden solos y tu visión se borra.	Você continua esquecendo onde está. Seus músculos tremem sozinhos e sua visão está embaçando.
+39045	Te duelen los músculos, tienes la cara hinchada y fiebre alta.	Seus músculos doem, seu rosto está inchado e você está com febre alta.
+39046	Llevas días con cólicos terribles.	Você está com cólicas terríveis há dias.
+39047	Has estado vomitando y con fiebre desde la cena.	Você vem vomitando e com febre desde o jantar.
+39048	Estuviste vomitando toda la noche. Esa carne definitivamente estaba podrida.	Você vomitou a noite toda. Essa carne estava estragada, com certeza.
+39049	Siempre tienes hambre, pero sigues perdiendo peso.	Você está sempre com fome, mas continua emagrecendo.
+39050	No puedes dejar de toser.	Você não consegue parar de tossir.
+39051	No sientes nada diferente. Todavía.	Você não sente nada diferente. Ainda.
+39052	Comerlo crudo	Comer cru
+39053	Te comiste el {o} crudo, parado sobre el fregadero de la cocina.	Você comeu o {o} cru, em pé sobre a pia da cozinha.
+39054	No te molestaste en cocinar el {o}. No podías esperar.	Você nem se deu ao trabalho de cozinhar o {o}. Não podia esperar.
+39055	Cocinarlo bien hecho	Cozinhar bem passado
+39056	Cocinaste el {o} hasta que estuvo bien hecho y lo comiste en la mesa de la cocina.	Você cozinhou o {o} até ficar bem passado e comeu à mesa da cozinha.
+39057	Asaste el {o} a la parrilla con sal y pimienta. Sabía a nada que hubieras probado antes.	Você grelhou o {o} com sal e pimenta. Tinha um gosto que você nunca tinha provado.
+39058	Preparar una cena elegante	Fazer um jantar sofisticado
+39059	Pusiste la mesa con velas y vino fino, y sirviste el {o} con habas.	Você arrumou a mesa com velas e vinho fino, e serviu o {o} com fava.
+39060	Preparaste el {o} como un chef de cinco estrellas y comiste solo a la luz de las velas.	Você preparou o {o} como um chef cinco estrelas e comeu sozinho à luz de velas.
+39061	Ahora solo es un esqueleto	Agora é só um esqueleto
+39062	Todavía fresco	Ainda fresco
+39063	No queda nada más que huesos.	Não sobrou nada além de ossos.
+39064	Está empezando a pudrirse.	Está começando a apodrecer.
+39065	Todavía fresco.	Ainda fresco.
+39066	Lo que queda	O que sobrou
+39067	Podrido. Te vas a enfermar	Apodrecido. Você vai ficar doente
+39068	Solo un esqueleto	Só um esqueleto
+39069	No queda nada	Não sobrou nada
+39070	El tiempo se llevó el resto. No queda nada para comer	O tempo levou o resto. Não sobrou nada para comer
+39071	No queda nada en este cuerpo para comer	Não sobrou nada nesse corpo para comer
+39072	Algunas cosas pueden enfermarte gravemente. Cocinar ayuda con algunas. No con todas.	Algumas coisas podem deixar você muito doente. Cozinhar ajuda em algumas. Não em todas.
+39073	El cuerpo que acabas de matar	O corpo que você acabou de matar
+39074	Escondido en casa · {1}	Escondido em casa · {1}
+39075	· quedan {1} parte{2}	· restam {1} parte{2}
+39076	Tus víctimas siguen vivas. Mata a una primero.	Suas vítimas ainda estão vivas. Mate uma primeiro.
+39077	Mata a alguien primero y vuelve después.	Mate alguém primeiro e volte depois.
+39078	Nada para comer	Nada para comer
+39079	, y lleva un rato pudriéndose	, e está apodrecendo há um tempo
+39080	Estás por comerte el {2}{3} de {1}.	Você está prestes a comer o {2}{3} de {1}.
+39081	, pero ya se pudrió	, mas já apodreceu
+39082	Tienes {1} {2} de {3} guardado en hielo{4}.	Você tem {1} {2} de {3} no gelo{4}.
+39083	Por más que cocines, esto no tiene salvación.	Por mais que cozinhe, isso não tem salvação.
+39084	{1}¿Cómo lo prepararás?	{1}Como você vai preparar?
+39085	No te alcanza para el vino y los ingredientes de una cena elegante.	Você não tem dinheiro para o vinho e os ingredientes de um jantar sofisticado.
+39086	Me comí {1} {2} de {3}.	Comi {1} {2} de {3}.
+39087	Comer una parte de una de tus víctimas	Comer uma parte de uma de suas vítimas
+39088	Conseguí {1} por comer órganos humanos.	Ganhei {1} por comer órgãos humanos.
+39089	Te sientes fatal.	Você se sente péssimo.
+39090	Me diagnosticaron {1} años después de empezar a comer gente.	Fui diagnosticado com {1} anos depois de começar a comer gente.
+39092	Casi no hay cura. Ve al médico de inmediato.	Quase não há cura. Vá ao médico agora mesmo.
+39093	El Caníbal {1}	O Canibal {1}
+39094	El Asesino Caníbal	O Assassino Canibal
+39095	El Asesino Hambriento	O Assassino Faminto
+39096	El Asesino de la Cena	O Assassino do Jantar
+39097	Los medios empezaron a llamarme "{1}".	A mídia começou a me chamar de "{1}".
+39098	arresto	prisão
+39099	Tras tu arresto, los investigadores encontraron pruebas de que te comiste partes de tus víctimas.	Após sua prisão, os investigadores acharam provas de que você comeu partes de suas vítimas.
+39100	allanamento	operação policial
+39101	La policía encontró más que cuerpos en tu casa. Encontraron pruebas de que te los habías estado comiendo.	A polícia achou mais do que corpos na sua casa. Achou provas de que você vinha comendo eles.
+39102	Los investigadores encontraron órganos faltantes en el cuerpo de {1} y pruebas de que el asesino se los comió.	Os investigadores acharam órgãos faltando no corpo de {1} e provas de que o assassino os comeu.
+39103	El "{1}" tiene un nuevo nombre.	O "{1}" tem um novo nome.
+39104	{1}Los medios te están llamando "{2}".	{1}A mídia está te chamando de "{2}".
+39105	tu {1} en {2}	seu {1} em {2}
+39106	No hay dónde esconderlo	Não há onde esconder
+39107	Tu casa está en otro país. No es que puedas mandar un cuerpo cruzando la frontera.	Sua casa fica em outro país. Não dá para mandar um corpo atravessando a fronteira.
+39108	No tienes un lugar propio. No hay dónde guardar un cuerpo.	Você não tem um lugar próprio. Não há onde guardar um corpo.
+39109	No tienes casa. No es que puedas guardar un cuerpo en tu auto.	Você não tem casa. Não dá para guardar um corpo no carro.
+39110	Sin casa propia, no hay dónde esconderlo.	Sem casa própria, não há onde esconder.
+39111	No te queda otro remedio que tirarlo en cualquier lado.	Você não tem escolha a não ser jogar em algum lugar.
+39112	Escondí el cuerpo de {1} en {2}.	Escondi o corpo de {1} em {2}.
+39113	Escondido en casa	Escondido em casa
+39114	Envolviste a {n} en plástico y lo escondiste en el sótano.	Você embrulhou {n} em plástico e escondeu no porão.
+39115	Metiste a {n} en el congelador del garaje.	Você enfiou {n} no freezer da garagem.
+39116	{n} está debajo del entarimado ahora.	{n} está embaixo do assoalho agora.
+39117	Sellaste a {n} dentro del espacio de rastreo y cubriste la entrada con cajas.	Você lacrou {n} dentro do vão sanitário e cobriu a entrada com caixas.
+39118	Escondiste a {n} detrás de una pared falsa en el armario.	Você escondeu {n} atrás de uma parede falsa no armário.
+39119	Con tal de que nadie venga a buscar.	Contanto que ninguém venha procurar.
+39120	Cada año que un cuerpo sigue en {1}, existe la posibilidad de que la policía lo allane.	Todo ano que um corpo fica em {1}, há chance de a polícia fazer uma operação lá.
+39121	{1} a la vista. La policía también contaría estos.	{1} em exibição. A polícia também contaria esses.
+39122	Uno a la vez	Um de cada vez
+39123	Ocúpate de {1} primero.	Cuide de {1} primeiro.
+39124	{1} está escondido en tu casa vieja en {2}. Tendrías que volver allí para desenterrarlo.	{1} está escondido na sua casa antiga em {2}. Você teria que voltar lá para desenterrar.
+39125	Desenterré el cuerpo de {1} para deshacerme de él.	Desenterrei o corpo de {1} para me livrar dele.
+39126	Un vecino reportó un disturbio de ruido a las 3 AM.	Um vizinho ligou por causa de barulho às 3 da manhã.
+39127	Los vecinos de al lado reportaron un olor horrible que salía de tu casa.	Os vizinhos do lado relataram um cheiro horrível vindo da sua casa.
+39128	Tu vecino le dijo a la policía que te vio arrastrar algo pesado al garaje.	Seu vizinho disse à polícia que te viu arrastando algo pesado para a garagem.
+39129	Un cartero reportó moscas en enjambre en tus ventanas.	Um carteiro relatou moscas em enxame nas suas janelas.
+39130	Un niño de la calle les dijo a sus padres que hay "una persona dormida" en la ventana del sótano.	Um moleque da rua contou aos pais que tem "uma pessoa dormindo" na janela do porão.
+39131	La compañía de gas reportó una posible fuga y los bomberos llamaron a la policía.	A companhia de gás relatou um vazamento suspeito e os bombeiros chamaram a polícia.
+39132	Una llamada anónima a la línea de denuncias les dio tu dirección a la policía.	Uma ligação anônima para a linha de denúncias deu seu endereço à polícia.
+39133	El perro de tu vecino no deja de cavar en tu cerca y lo reportaron.	O cachorro do seu vizinho não para de cavar na sua cerca, e ele ligou.
+39134	Pidieron una revisión de bienestar porque nadie te vio en semanas.	Pediram uma verificação de bem-estar porque ninguém te viu por semanas.
+39135	La policía consiguió una orden de allanamiento después de que un detective vinculara tu auto con una persona desaparecida.	A polícia conseguiu um mandado de busca depois que um detetive ligou seu carro a uma pessoa desaparecida.
+39136	Tus vecinos reportaron gritos que venían de tu casa.	Seus vizinhos relataram gritos vindos da sua casa.
+39137	Un repartidor olfateó algo horrible y llamó al 911.	Um entregador sentiu um cheiro horrível e ligou 911.
+39138	Un inspector municipal notó algo extraño en el espacio de rastreo de tu casa.	Um inspector da prefeitura notou algo estranho no vão sanitário da sua casa.
+39139	Tu ex llamó a la policía y les dijo que revisaran el sótano.	Seu ex ligou para a polícia e mandou verificar o porão.
+39140	Los agentes encontraron todo lo que escondías.	Os policiais acharam tudo o que você escondia.
+39141	Un perro cadáver fue directo al sótano.	Um cão farejador foi direto ao porão.
+39142	Un agente levantó el entarimado. Ahí estaba.	Um policial levantou o assoalho. Era ali.
+39143	Abrieron el congelador del garaje.	Abriram o freezer da garagem.
+39144	Uno de los agentes vomitó en tu patio trasero.	Um dos policiais vomitou no seu quintal.
+39145	La policía allanó mi casa y encontró {1}.	A polícia invadiu minha casa e achou {1}.
+39146	Encontraron {1} en {2}.	Acharam {1} em {2}.
+39147	{1} agentes están en tu puerta con una orden para registrar {2}.	{1} policiais estão na sua porta com um mandado para revistar {2}.
+39148	Cuerpos en casa	Corpos em casa
+39149	Dejar que registren	Deixar revistar
+39150	La policía registró mi casa de arriba abajo y, de algún modo, no encontró nada.	A polícia revistou minha casa de cima a baixo e, de algum jeito, não achou nada.
+39151	Entretenerlos en la puerta	Segurar eles na porta
+39152	Entretuve a la policía lo suficiente para sacar un cuerpo por detrás. No encontraron nada.	Segurei a polícia tempo suficiente para tirar um corpo pelos fundos. Não acharam nada.
+39153	Intenté entretener a la policía, pero me empujaron y pasaron.	Tente segurar a polícia, mas eles me empurraram e passaram.
+39154	Empujado y superado	Empurraram e passaram
+39155	Los agentes te apartaron de un empujón y entraron a la fuerza.	Os policiais te empurraram para o lado e entraram arrebentando.
+39156	La policía buscó en todas partes pero no encontró nada.	A polícia procurou em todo lugar, mas não achou nada.
+39157	Salir por detrás	Sair pelos fundos
+39158	Salí por la puerta de atrás mientras la policía registraba mi casa.	Saí pela porta dos fundos enquanto a polícia revistava minha casa.
+39159	Corriste hacia la puerta de atrás y saltaste la cerca.	Você correu para a porta dos fundos e pulou a cerca.
+39160	La policía encontró lo que había en tu casa. Ahora eres un fugitivo buscado.	A polícia achou o que estava na sua casa. Agora você é um fugitivo procurado.
+39161	Intenté huir de un allanamiento policial y me derribaron en mi patio.	Tente fugir de uma operação policial e fui derrubado no meu quintal.
+39162	Un agente te derribó antes de que llegaras a la cerca.	Um policial te derrubou antes de você chegar na cerca.
+39163	De algún modo, la policía no encontró nada.	De algum jeito, a polícia não achou nada.
+39164	Le prendí fuego al sótano antes de que entrara la policía. Lo que buscaran ahora es ceniza.	Coloquei fogo no porão antes da polícia entrar. O que quer que procurassem agora é cinza.
+39165	Intenté quemar las pruebas durante un allanamiento. Los bomberos lo apagaron.	Tente queimar as provas durante uma operação policial. Os bombeiros apagaram.
+39166	Apagado	Apagaram
+39167	Los bomberos apagaron tu fuego en minutos. La policía encontró todo.	Os bombeiros apagaram seu fogo em minutos. A polícia achou tudo.
+39168	Los bomberos no vieron nada.	Os bombeiros não viram nada.
+39169	Soñaste con tu primer asesinato.	Você sonhou com seu primeiro assassinato.
+39170	Soñaste que alguien estaba de pie junto a tu cama. No había nadie cuando despertaste.	Você sonhou que alguém estava em pé sobre sua cama. Não tinha ninguém quando acordou.
+39171	Soñaste que la policía llamaba a la puerta. Era solo el viento.	Você sonhou que a polícia batia na porta. Era só o vento.
+39172	Dormiste como un bebé.	Você dormiu como um bebê.
+39173	Soñaste con todas las personas que estás vigilando.	Você sonhou com todas as pessoas que está observando.
+39174	Despertaste con sudor frío y un nombre en los labios.	Você acordou em suor frio com um nome nos lábios.
+39175	Soñaste que, por una vez, te cazaban a ti.	Você sonhou que, dessa vez, estava sendo caçado.
+39176	No soñaste nada.	Você não sonhou nada.
+39177	Soñaste con el sonido de una pala golpeando la tierra.	Você sonhou com o som de uma pá batendo na terra.
+39178	Despertaste sintiéndote descansado y listo.	Você acordou se sentindo descansado e pronto.
+39179	Bien despierto	Bem acordado
+39180	Ya dormiste {1} días este año. No puedes dormir más.	Você já dormiu {1} dias este ano. Não pode dormir mais.
+39181	Dormí todo el día.	Dormi o dia inteiro.
+39182	Dormiste todo el día.	Você dormiu o dia inteiro.
+39183	Es un día nuevo. Puedes volver a trabajar en tus víctimas.	É um novo dia. Você pode voltar a trabalhar em suas vítimas.
+39184	Días que quedan este año	Dias restantes este ano
+39185	La policía publicó un retrato mío después de que tres de mis víctimas sobrevivieran y fueran a los medios.	A polícia divulgou um retrato meu depois que três das minhas vítimas sobreviveram e foram à mídia.
+39186	Tus víctimas	Suas vítimas
+39187	Tres de tus víctimas	Três das suas vítimas
+39188	{1}{2} sobrevivieron, y todos fueron a los medios con la misma historia.	{1}{2} sobreviveram, e todos foram à mídia com a mesma história.
+39189	La policía armó un retrato tuyo con sus descripciones. Está en todos los canales.	A polícia montou um retrato seu com as descrições deles. Está em todos os canais.
+39190	Sobrevivientes que hablaron	Sobreviventes que falaram
+39191	Después de {1} asesinatos, el FBI me añadió a su lista de los diez más buscados.	Depois de {1} assassinatos, o FBI me colocou na lista dos dez mais procurados.
+39192	Los diez más buscados	Os dez mais procurados
+39193	{1}Después de {2} asesinatos, el FBI te ha puesto en su lista de los diez más buscados.	{1}Depois de {2} assassinatos, o FBI te colocou na lista dos dez mais procurados.
+39194	Tu retrato está en todos los canales de noticias del país, y hay una recompensa por información.	Seu retrato está em todos os canais de notícias do país, e há uma recompensa por informações.
+39195	{1} cargos de asesinato	{1} acusações de homicídio
+39196	¡De algún modo, me declararon inocente de {1}!	De algum jeito, fui considerado inocente de {1}!
+39197	Contra todo pronóstico, el jurado te declaró inocente de {1}!	Contra todas as probabilidades, o júri te considerou inocente de {1}!
+39198	Todo el país está indignado. Eres libre de irte.	O país todo está indignado. Você está livre para ir.
+39199	El juez aceptó mi declaración de culpabilidad.	O juiz aceitou minha confissão de culpa.
+39200	El jurado me declaró culpable de {1}.	O júri me considerou culpado de {1}.
+39201	Prisión de máxima seguridad {1}	Prisão de segurança máxima {1}
+39202	cadena perpetua sin libertad condicional	prisão perpétua sem liberdade condicional
+39203	¡Me han condenado a {1}!	Fui condenado a {1}!
+39204	En treinta años en el banquillo, nunca he visto crímenes tan depravados. Lo que les hiciste a estas víctimas, después de matarlas, supera toda comprensión.	Em trinta anos de carreira, nunca vi crimes tão depravados. O que você fez com essas vítimas, depois de matá-las, está além da compreensão.
+39205	Has demostrado a este tribunal, y a estas familias, nada más que crueldad.	Você mostrou a este tribunal, e a estas famílias, apenas crueldade.
+39206	Tu conducta en esta sala hoy me dijo todo lo que necesitaba saber sobre ti.	Seu comportamento nesta sala hoje me disse tudo que precisava saber sobre você.
+39207	Tomé nota de tu disculpa. No cambia lo que hiciste.	Notei seu pedido de desculpas. Isso não muda o que você fez.
+39208	Te quedaste sentado ahí mientras estas familias abrían su corazón.	Você ficou sentado ali enquanto essas famílias abriam o coração.
+39209	El Estado ejecutará la sentencia de muerte.	O Estado executará a sentença de morte.
+39210	Morirás en prisión.	Você vai morrer na prisão.
+39211	Estoy atado a la ley en esta sentencia. Si no lo estuviera, nunca volverías a ver la luz del día.	Estou limitado pela lei nesta sentença. Se não estivesse, você nunca mais veria a luz do dia.
+39212	El juez te condenó a {1}.	O juiz te condenou a {1}.
+39213	Descubierto. Todo el mundo lo sabe.	Descoberto. O mundo todo sabe.
+39214	Nunca se enteraron	Nunca descobriram
+39215	Cadena perpetua sin libertad condicional	Prisão perpétua sem liberdade condicional
+39216	Cuerpos nunca encontrados	Corpos nunca encontrados
+39217	"{1}" (la policía lo encontró)	"{1}" (a polícia achou)
+39218	Nunca descubierto	Nunca descoberto
+39219	Los investigadores descubrieron que te llamabas "{1}".	Os investigadores descobriram que você se chamava "{1}".
+39220	La policía nunca supo que te llamabas "{1}".	A polícia nunca soube que você se chamava "{1}".
+39221	¡Has sido declarado culpable de {1} y condenado a {2}!	Você foi considerado culpado de {1} e condenado a {2}!
+39222	{1}El público te conoce como "{2}".	{1}O público te conhece como "{2}".
+39223	Todos los presos de {1} saben quién soy.	Todo preso em {1} sabe quem eu sou.
+39224	El juez aceptó tu declaración de culpabilidad.	O juiz aceitou sua confissão de culpa.
+39225	El portavoz del jurado se levantó y leyó el veredicto: culpable de todos los cargos.	O porta-voz do júri se levantou e leu o veredito: culpado de todas as acusações.
+39227	La sala se queda en silencio mientras el juez se prepara para dictar sentencia.	A sala fica em silêncio enquanto o juiz se prepara para dar a sentença.
+39228	Mi juicio empezó con las declaraciones de las familias de mis víctimas.	Meu julgamento começou com os depoimentos das famílias das minhas vítimas.
+39229	El juicio está en sesión	O julgamento está em sessão
+39230	La sala está llena. Los reporteros ocupan las filas de atrás.	A sala está lotada. Os repórteres ocupam as fileiras de trás.
+39231	Antes de declararte, las familias de tus víctimas pidieron hablar ante el tribunal.	Antes de você se declarar, as famílias de suas vítimas pediram para falar ao tribunal.
+39232	Llevé a {n} en el vientre nueve meses. Lo tuve en brazos el día que nació. Y tuve que identificar su cuerpo por tu culpa.	Carreguei {n} por nove meses. Segurei no dia em que nasceu. E identifiquei o corpo por sua causa.
+39233	Soy la madre de {n}. Todavía le pongo un plato en la mesa. No sé cómo dejar de hacerlo.	Sou a mãe de {n}. Ainda deixo um lugar na mesa. Não sei como parar.
+39234	Enseñé a {n} a andar en bicicleta, a conducir, a defenderse. Nunca le enseñé a sobrevivir a alguien como tú.	Enseinei {n} a andar de bicicleta, a dirigir, a se defender. Nunca ensinei a sobreviver a alguém como você.
+39235	Soy el padre de {n}. Antes creía que podía proteger a mi familia de cualquier cosa.	Sou o pai de {n}. Antes eu achava que podia proteger minha família de qualquer coisa.
+39236	{n} era mi {sib} menor. Compartíamos habitación hasta los dieciséis. Ahora duermo con las luces encendidas.	{n} era meu {sib} caçula. Dividíamos o quarto até os dezesseis. Agora durmo com as luzes acesas.
+39237	{n} era la primera persona a la que llamaba para todo. Todavía agarro el teléfono para llamar.	{n} era a primeira pessoa que eu ligava para tudo. Ainda pego o celular para ligar.
+39239	Soy el hermano de {n}. Sigo repitiendo en mi cabeza la última vez que lo vi. Ni siquiera me despedí.	Sou o irmão de {n}. Fico revivendo a última vez que vi. Nem me despedi.
+39240	{n} era mi esposa. Teníamos planes. Una casa, hijos, un perro. Lo quitaste todo en una noche.	{n} era minha esposa. Tínhamos planos. Uma casa, filhos, um cachorro. Você tirou tudo em uma noite.
+39241	Me despierto cada mañana y busco a {n} a tientas. Cada mañana, la cama está vacía.	Acordo toda manhã e procuro {n} no escuro. Toda manhã, a cama está vazia.
+39242	{n} era mi marido. Nuestros hijos preguntan cuándo vuelve papá. ¿Qué les digo?	{n} era meu marido. Nossos filhos perguntam quando o papai volta. O que eu digo?
+39243	Estuvimos casados once años. Me diste once años más de pesadillas.	Ficamos casados onze anos. Você me deu mais onze anos de pesadelos.
+39244	{n} era mi {par}. Debería haberme acompañado al altar.	{n} era meu {par}. Deveria ter me levado ao altar.
+39245	Mi {par} nunca conoció a mis hijos. Solo lo conocen por fotos.	Meu {par} nunca conheceu meus filhos. Só conhecem por fotos.
+39246	{n} era mi {par}. Tenía doce años cuando te lo llevaste. Hoy soy adulto y sigo sin entender por qué.	{n} era meu {par}. Eu tinha doze anos quando você levou. Hoje sou adulto e ainda não entendo por quê.
+39247	Cada hito de mi vida tiene una silla vacía, por tu culpa.	Cada marco da minha vida tem uma cadeira vazia, por causa de você.
+39248	{n} era mi mejor amigo desde segundo grado. Hay un vacío en mi vida que nunca se cerrará.	{n} era meu melhor amigo desde a segunda série. Há um buraco na minha vida que nunca vai fechar.
+39249	Iba a ver a {n} esa noche. Lo cancelé. Llevaré eso conmigo para siempre.	Iria encontrar {n} aquela noite. Canceli. Vou carregar isso para sempre.
+39250	Lo estrangulaste con tus propias manos. Debió de tener mucho miedo.	Você estrangulou com as próprias mãos. Deve ter tido muito medo.
+39251	Lo apuñalaste y lo dejaste solo.	Você esfaqueou e deixou sozinho.
+39252	Lo envenenaste. Confiaba lo suficiente en ti para comer lo que le diste.	Você envenenou. Confiava em você a ponto de comer o que deu.
+39253	Lo golpeaste tan feo que necesitamos los registros dentales para confirmar quién era.	Você bateu tanto que precisamos dos registros dentários para confirmar quem era.
+39254	Lo ahogaste. Tenía miedo al agua toda su vida.	Você afogou. Tinha medo d'água a vida inteira.
+39255	Le prendiste fuego. No quedó suficiente para un ataúd abierto.	Você colocou fogo. Não sobrou o suficiente para um caixão aberto.
+39256	Lo atropellaste con un auto y seguiste conduciendo.	Você atropelou com um carro e continuou dirigindo.
+39257	Lo atrapaste en una trampa como a un animal.	Você pegou numa armadilha como um animal.
+39258	Lo electrocutaste. El forense dijo que no fue rápido.	Você eletrocutou. O legista disse que não foi rápido.
+39259	Lo empujaste por las escaleras y miraste.	Você empurrou escada abaixo e olhou.
+39260	Lo tiraste a un lago como basura. Los buceadores buscaron nueve días.	Você jogou num lago como lixo. Os mergulhadores procuraram por nove dias.
+39261	Lo dejaste pudrirse en una casa abandonada. Unos niños lo encontraron.	Você deixou apodrecer numa casa abandonada. Umas crianças acharam.
+39262	Quemaste su cuerpo para que no nos quedara nada que enterrar.	Você queimou o corpo para não sobrar nada para enterrar.
+39263	Lo enterraste en un hoyo en medio de la nada y nos dejaste buscar durante meses.	Você enterrou num buraco no meio do nada e deixou a gente procurar por meses.
+39264	Lo dejaste a la orilla del camino para que lo encontraran desconocidos.	Você deixou na beira da estrada para estranhos encontrarem.
+39265	Lo tiraste con la basura. Mi {sp} acabó en un vertedero.	Você jogou no lixo. Meu {sp} acabou num aterro sanitário.
+39266	Todavía no sabemos dónde está. Tú sí lo sabes. Siempre lo has sabido. Por favor. Dinos dónde está.	Ainda não sabemos onde está. Você sabe. Sempre soube. Por favor. Nos diga onde está.
+39267	Lo tuviste en tu casa. Durante meses viviste con esa persona como si fuera un mueble.	Você manteve em casa. Por meses, viveu com essa pessoa como se fosse um móvel.
+39268	Lo disecaste. Convertiste a mi {sp} en un trofeo. Ni siquiera puedo decir la palabra en voz alta.	Você empalhou. Transformou meu {sp} num troféu. Nem consigo dizer a palavra em voz alta.
+39269	Lo abriste y vendiste pedazos a desconocidos en internet. Su {organ} está dentro de otra persona ahora mismo.	Você abriu e vendeu pedaços para estranhos na internet. O {organ} está dentro de outra pessoa agora.
+39270	Y te lo comiste. Te comiste a mi {sp}. He intentado encontrar otra palabra, y no existe.	E você comeu. Comeu meu {sp}. Tentei achar outra palavra, e não existe.
+39271	Y te quería. Confiaba en ti. Te sentaste a nuestra mesa en Acción de Gracias.	E amava você. Confiava em você. Você sentou à nossa mesa no Dia de Ação de Graças.
+39272	Era policía. Pasó su vida protegiendo a personas como tú de personas como tú.	Era policial. Passou a vida protegendo pessoas como você de pessoas como você.
+39273	Espero que pases cada segundo del resto de tu vida pensando en {n}.	Espero que passe cada segundo do resto da sua vida pensando em {n}.
+39274	Nunca te perdonaré. Ni quiero. Ese enojo es lo único que me saca de la cama.	Nunca vou te perdoar. Nem quero. Essa raiva é a única coisa que me tira da cama.
+39275	Te perdono. No por ti. Por mí. Para poder soltar a {n} de una vez.	Eu te perdoo. Não por você. Por mim. Para conseguir deixar {n} ir de uma vez.
+39276	Quiero que me mires. Mírame. Eso es lo que hiciste.	Quero que olhe para mim. Olhe para mim. Foi isso que você fez.
+39277	Su Señoría, pido la sentencia máxima que permite la ley.	Meritíssimo, peço a sentença máxima que a lei permite.
+39278	Espero que nunca, nunca vuelvas a ser libre.	Espero que nunca, nunca mais seja livre.
+39279	Te olvidarán. A {n} no.	Você será esquecido. {n} não.
+39280	Rezo por ti. No sé por qué. Pero lo hago.	Oro por você. Não sei por quê. Mas oro.
+39281	No hay sentencia lo bastante larga. No hay castigo lo bastante grande. Pero aceptaré lo que podamos conseguir.	Não há sentença longa o suficiente. Não há punição grande o suficiente. Mas vou aceitar o que der.
+39282	No tengo nada más que decirte. Solo quería que vieras su cara una vez más.	Não tenho mais nada para te dizer. Só queria que visse esse rosto mais uma vez.
+39283	corazón	coração
+39284	Declaración de impacto de la víctima	Declaração de impacto da vítima
+39285	¿Cómo reaccionas?	Como você reage?
+39286	Cómo murieron	Como morreram
+39287	Mirar la mesa	Olhar para a mesa
+39288	Miré al suelo mientras el {2} de {1} hablaba en el juicio.	Olhei para baixo enquanto o {2} de {1} falava no julgamento.
+39289	No mostrar ninguna emoción	Não mostrar emoção
+39290	No mostré ninguna emoción mientras el {2} de {1} hablaba en el juicio.	Não mostrei emoção enquanto o {2} de {1} falava no julgamento.
+39291	Me disculpé con la familia de {1} en el juicio.	Pedí desculpas à família de {1} no julgamento.
+39292	Tu víctima	Sua vítima
+39293	Espero que lo digas en serio.	Espero que fale sério.
+39294	No los devuelve.	Não traz eles de volta.
+39295	Gracias. Necesitaba oír eso.	Obrigado. Preciso ouvir isso.
+39296	El {2} de {1} te miró fijamente un buen rato. "{3}"	O {2} de {1} olhou para você por um longo momento. "{3}"
+39297	Mi disculpa a la familia de {1} fue rechazada.	Meu pedido de desculpas à família de {1} foi rejeitado.
+39298	"No te ATREVAS a disculparte conmigo," gritó {1}. La sala estalló.	"Não ouse se desculpar comigo," gritou {1}. A sala explodiu.
+39299	Sonríeles con burla	Dê um sorriso de escárnio
+39300	Me reí con burla de la familia de {1} mientras hablaban en el juicio.	Fi com escárnio da família de {1} enquanto falavam no julgamento.
+39301	La sala estalló. Un alguacil tuvo que contener a un familiar.	A sala explodiu. Um oficial de justiça teve que conter um familiar.
+39302	Alguien en el público te gritó. El juez golpeó el martillo pidiendo orden.	Alguém na plateia gritou com você. O juiz bateu o martelo pedindo ordem.
+39303	Un reportero de la primera fila jadeó. La foto de tu sonrisa burlona estará en todas las portadas mañana.	Um repórter da primeira fileira arquejou. A foto do seu sorriso de escárnio vai estar em todas as capas amanhã.
+39304	Interrumpirlos	Interromper
+39305	Me sacaron de la sala por interrumpir a la familia de una víctima.	Fui retirado da sala por interromper a família de uma vítima.
+39306	El juez mandó sacarte de la sala. Escucharás el resto de las declaraciones desde una celda.	O juiz mandou tirar você da sala. Você vai ouvir o resto dos depoimentos de uma cela.
+39307	Interrumpí a la familia de {1} en el juicio.	Interrompi a família de {1} no julgamento.
+39308	"Un altercado más y te sacan de esta sala," advirtió el juez.	"Mais um surto e você sai desta sala," avisou o juiz.
+39309	{n} estrelló tu bandeja de almuerzo contra el suelo. "Estás loco. ¿Sabes eso? Loco."	{n} jogou sua bandeja no chão. "Você é doente. Sabia? Doente."
+39310	{n} no deja de gritarte "{media}" desde el otro lado del pasillo.	{n} fica gritando "{media}" para você do outro lado do corredor.
+39311	{n} te escupió en la fila de las duchas. "Gente como tú no merece respirar."	{n} cuspiu em você na fila do chuveiro. "Gente como você não merece respirar."
+39312	Alguien escribió MONSTRUO en la puerta de tu celda. {n} te sonríe con burla desde el otro lado.	Alguém escreveu MONSTRO na porta da sua cela. {n} está sorrindo para você do outro lado.
+39313	{n} le contó a todo el patio lo que les hiciste a tus víctimas, y añadió unas cuantas cosas que no.	{n} contou para todo o pátio o que você fez com suas vítimas, e acrescentou umas coisas que não fez.
+39314	{n} dice que quiere ser quien derribe a "{media}".	{n} diz que quer ser quem derruba "{media}".
+39315	{n} te empujó contra la pared. "Mi primo era una de tus víctimas."	{n} te empurrou contra a parede. "Meu primo era uma de suas vítimas."
+39316	{n} no deja de mirarte a través de los barrotes por la noche.	{n} não para de olhar para você através das grades à noite.
+39317	{n} te acorraló en la biblioteca. "¿Sientes algo de remordimiento? ¿Aunque sea un poco?"	{n} te encurralou na biblioteca. "Você sente algum remorso? Nem que seja um pouco?"
+39318	{n} puso una rata muerta en tu litera con una nota que dice "un bocadillo para ti."	{n} colocou um rato morto na sua cama com um bilhete dizendo "um lanche para você".
+39319	{n} te pidió un autógrafo y luego lo rompió en tu cara.	{n} pediu seu autógrafo e rasgou na sua cara.
+39320	{n} empezó un cántico en la cafetería: "¡LOCO! ¡LOCO! ¡LOCO!"	{n} começou um canto na cantina: "DOENTE! DOENTE! DOENTE!"
+39321	{n} te deslizó una hamburguesa cruda y toda la mesa se echó a reír. "¿Hambre?"	{n} deslizou um hambúrguer cru até você e a mesa toda caiu na risa. "Com fome?"
+39322	{n} preguntó si querías "dar un bocado" y señaló su brazo.	{n} perguntou se você queria "dar uma mordida" e apontou para o braço.
+39323	{n} escondió todos los tenedores de la cafetería. "Por si acaso."	{n} escondeu todos os garfos da cantina. "Só por precaução."
+39324	{n} no deja de preguntar qué sabor tienen las personas.	{n} fica perguntando qual é o gosto das pessoas.
+39325	Ignoraste a {1}, así que {2} te atacó por la espalda.	Você ignorou {1}, então {2} te atacou pelas costas.
+39326	{1} me atacó después de que ignoré a {2}.	{1} me atacou depois que ignorei {2}.
+39327	Ignoraste a {1}. {2} se aburrió y se fue.	Você ignorou {1}. {2} entediou e foi embora.
+39328	Mirarlos fijamente	Encara eles com o olhar
+39329	Se echó atrás	Recuou
+39330	Miraste fijamente a {1} hasta que {2} desvió la mirada y se fue. Nadie quiere ponerte a prueba.	Você olhou fixo para {1} até {2} desviar o olhar e ir embora. Ninguém quer te testar.
+39331	Encaré a {1} con la mirada.	Encarei {1} com o olhar.
+39332	{1} no te tenía miedo. {2} golpeó primero.	{1} não tinha medo de você. {2} bateu primeiro.
+39333	{1} me peleó después de que intentara mirar fijamente a {2}.	{1} brigou comigo depois que tentei encarar {2}.
+39334	Pelear con ellos	Brigar com eles
+39335	Golpeaste a {1} tan feo que los guardias tuvieron que arrastrar a {2} a la enfermería.	Você bateu em {1} tão feio que os guardas tiveram que arrastar {2} para a enfermaria.
+39336	Le di una paliza a {1} en prisión.	Dei uma surra em {1} na prisão.
+39337	{1} me mató en una pelea en prisión.	{1} me matou numa briga na prisão.
+39338	{1} consiguió {2} venganza.	{1} conseguiu {2} vingança.
+39339	una pelea en prisión con {1}	uma briga na prisão com {1}
+39340	{1} te golpeó feo. Los guardias se tomaron su tiempo en separarlos.	{1} te bateu feio. Os guardas demoraram para separar.
+39341	{1} me dio una paliza en prisión.	{1} me deu uma surra na prisão.
+39342	Contarles exactamente lo que hiciste	Contar exatamente o que você fez
+39343	Le describiste uno de tus asesinatos a {1} con voz calmada y baja. {2} no te ha vuelto a mirar.	Você descreveu um dos seus assassinatos para {1} com voz calma e baixa. {2} não olhou para você desde então.
+39344	Le conté a {1} uno de mis asesinatos. {2} me dejó en paz después de eso.	Contei a {1} sobre um dos meus assassinatos. {2} deixou eu em paz depois disso.
+39345	Un guardia te escuchó describir un asesinato. Eso va a tu expediente.	Um guarda ouviu você descrever um assassinato. Isso vai para seu prontuário.
+39346	Un guardia me escuchó describir uno de mis asesinatos.	Um guarda me ouviu descrever um dos meus assassinatos.
+39347	He seguido tu caso desde el primer titular. Sé lo que dicen de ti, pero creo que eres la persona más fascinante del mundo.	Acompanho seu caso desde a primeira manchete. Sei o que dizem de você, mas acho que é a pessoa mais fascinante do mundo.
+39348	Estimado {me}: tengo todos los artículos de periódico sobre ti en una carpeta. ¿Es cierto lo del {detail}? Puedes decírmelo. No le diré a nadie.	Caro {me}: tenho todos os artigos de jornal sobre você numa pasta. É verdade sobre o {detail}? Pode me contar. Não vou contar para ninguém.
+39349	Le puse tu nombre a mi gato. Espero que no sea raro. Por favor, responde, aunque sea una línea.	Dei seu nome ao meu gato. Espero que não seja estranho. Por favor, responda, mesmo que seja uma linha.
+39350	Todos en el trabajo creen que estoy loco por escribirte. Me da igual. Eres la persona más auténtica sobre la que he leído.	Todo mundo no trabalho acha que sou louco por escrever para você. Não me importo. Você é a pessoa mais real que já li.
+39351	Vi el documental sobre ti tres veces. Se equivocaron en demasiadas cosas. Quiero escucharlo de ti.	Assisti ao documentário sobre você três vezes. Eles erraram muita coisa. Quero ouvir de você.
+39352	¡Hola, {me}! Tengo una página de fans sobre ti con 40.000 seguidores. ¿Responderías unas preguntas para nosotros?	Oi, {me}! Administro uma página de fãs sobre você com 40.000 seguidores. Você responderia algumas perguntas pra gente?
+39353	Conduje seis horas solo para parar frente a la prisión donde te tienen. Saludé con la mano. No sé si me viste.	Dirigi seis horas só para ficar na frente da prisão onde você está. Acenei. Não sei se você me viu.
+39354	Eres mi favorito. Perdón si suena mal. No "favorito" como bueno, sino... el más interesante.	Você é meu favorito. Desculpa se soa errado. Não "favorito" como bom, só... o mais interessante.
+39355	Me hice un tatuaje con el apodo que te pusieron en las noticias. Mi mamá dejó de hablarme. Valió la pena.	Fiz uma tatuagem com o apelido que a mídia deu para você. Minha mãe parou de falar comigo. Valeu a pena.
+39356	No apruebo lo que hiciste. Pero no puedo dejar de pensar en cómo te saliste con la tuya tanto tiempo.	Não concordo com o que você fez. Mas não consigo parar de pensar em como você escapou por tanto tempo.
+39357	¿Puedes firmar la foto que puse en este sobre? La enmarcaré junto a mi cama.	Você pode assinar a foto que coloquei neste envelope? Vou emoldurar ao lado da minha cama.
+39358	Estoy escribiendo una canción sobre ti. ¿Puedo enviarte la letra? Quiero asegurarme de que salió bien.	Estou escrevendo uma música sobre você. Posso te mandar a letra? Quero ter certeza de que acertei.
+39359	¿Te dejan ver televisión ahí dentro? Sales todas las noches.	Deixam você ver TV aí dentro? Você aparece toda noite.
+39360	Te mandé un libro de crucigramas. Espero que los guardias te lo dejen tener. Debes de estar muy aburrido.	Te enviei um livro de palavras cruzadas. Espero que os guardas deixem você ficar com ele. Você deve estar tão entediado.
+39361	Sé que esto es una locura, pero creo que me enamoré de ti. Veo algo en tus ojos en esas fotos del juicio.	Sei que isso é loucura, mas acho que estou apaixonado por você. Vejo algo nos seus olhos nas fotos do julgamento.
+39362	¿Te casarías conmigo? La gente lo hace en prisión todo el tiempo. Ya elegí el vestido.	Você vai se casar comigo? As pessoas fazem isso na prisão o tempo todo. Já escolhi o vestido.
+39363	No puedo dejar de pensar en ti. Duermo con tu foto policial bajo la almohada.	Não consigo parar de pensar em você. Durmo com sua foto de prisão debaixo do travesseiro.
+39364	Creo que somos almas gemelas. Nadie me entiende tampoco. Respóndeme y te lo demuestro.	Acho que somos almas gêmeas. Ninguém me entende também. Responda e eu provo.
+39365	Puse dinero en tu cuenta de la cantina. No tienes que agradecérmelo. Solo responde.	Coloquei dinheiro na sua conta do kantina. Não precisa agradecer. Só responda.
+39366	Todas las noches rezo para que te dejen salir y podamos estar juntos por fin.	Toda noite oro para que deixem você sair e a gente possa ficar junto finalmente.
+39367	Me mudé al pueblo junto a tu prisión para poder visitarte cada fin de semana. Por favor, ponme en tu lista de visitantes.	Me mudei para a cidade ao lado da sua prisão para poder visitar todo fim de semana. Por favor, me coloque na sua lista de visitantes.
+39368	Te escribí una carta todos los días durante un año. Esta es la primera que me animé a enviar.	Escrevi uma carta para você todo dia por um ano. Esta é a primeira que tive coragem de enviar.
+39369	Te dicen monstruo. Yo digo que te han entendido mal. Déjame ser la única persona de tu lado.	Chamam você de monstro. Eu digo que é incompreendido. Deixe eu ser a única pessoa do seu lado.
+39370	Sé que nunca podrías hacerme daño. Lo siento. Responde pronto, mi amor.	Sei que você nunca poderia me machucar. Eu sinto. Responda logo, meu amor.
+39371	Espero que te pudras ahí dentro. Todos los días.	Espero que você apodreça aí dentro. Todos os dias.
+39372	No eres una leyenda. Eres un cobarde que se aprovechó de gente que confiaba en ti.	Você não é uma lenda. É um covarde que atacou pessoas que confiavam em você.
+39373	Espero que cada preso de ahí sepa exactamente lo que hiciste.	Espero que todo preso aí saiba exatamente o que você fez.
+39374	Gente como tú nunca debió nacer.	Gente como você nunca deveria ter nascido.
+39375	Escribí esta carta solo para decirte que nadie recordará tu nombre en diez años.	Escrevi esta carta só para te dizer que ninguém vai lembrar do seu nome em dez anos.
+39376	Mi hermana menor tiene miedo de volver a casa de noche por gente como tú. Espero que nunca vuelvas a ver el sol.	Minha irmã caçula tem medo de voltar para casa à noite por causa de gente como você. Espero que nunca mais veja o sol.
+39377	Eres patético. La única razón de que duraras tanto es que la policía era floja.	Você é patético. A única razão de ter durado tanto é que a polícia era preguiçosa.
+39378	Espero que los guardias pierdan tu correo. Incluida esta.	Espero que os guardas percam sua correspondência. Inclusive esta.
+39379	Soy autor de crimen real y estoy escribiendo un libro sobre tu caso. Me encantaría escuchar tu versión. Todo queda entre nosotros hasta que se publique.	Sou autor de true crime escrevendo um livro sobre seu caso. Adoraria ouvir sua versão. Tudo fica entre nós até ser publicado.
+39380	Soy periodista de una revista nacional. ¿Aceptarías una entrevista por escrito? Pagaríamos tus honorarios legales.	Sou jornalista de uma revista nacional. Você aceitaria uma entrevista por escrito? Pagaríamos seus honorários advocatícios.
+39381	Estoy produciendo un podcast sobre tu caso. ¿Grabarías un mensaje para nuestros oyentes? Mándalo en papel y lo leemos.	Estou produzindo um podcast sobre seu caso. Você gravaria uma mensagem para nossos ouvintes? Mande no papel e nós lemos.
+39382	Soy guionista. El estudio quiere hacer una película sobre ti, pero quiero hacerlo bien. ¿Qué debería saber la gente?	Sou roteirista. O estúdio quer fazer um filme sobre você, mas quero acertar. O que as pessoas deveriam saber?
+39383	Estoy escribiendo mi tesis de criminología sobre ti. ¿Responderías veinte preguntas? Prometo mantenerlo académico.	Estou escrevendo minha tese de criminologia sobre você. Você responderia vinte perguntas? Prometo manter acadêmico.
+39384	Rezo por tu alma. Nunca es demasiado tarde para pedir perdón.	Oro pela sua alma. Nunca é tarde demais para pedir perdão.
+39385	Dios no se ha rendido contigo, aunque todos los demás sí.	Deus não desistiu de você, mesmo que todos os outros tenham.
+39386	Soy voluntario en un ministerio penitenciario. Me gustaría enviarte una Biblia y hablar de redención.	Sou voluntário num ministério carcerário. Gostaria de te enviar uma Bíblia e falar sobre redenção.
+39387	Te perdono, aunque nunca me hiciste daño. Quizás algún día puedas perdonarte a ti mismo.	Eu te perdoo, mesmo nunca ter me machucado. Talvez um dia você possa se perdoar.
+39388	Aún queda algo bueno en ti. Creo eso. Escríbeme si quieres hablar.	Ainda há algo bom em você. Eu acredito. Me escreva se quiser conversar.
+39389	Me quitaste a mi hermano. Necesito saber por qué. Por favor. Solo dime por qué.	Você tirou meu irmão de mim. Preciso saber por quê. Por favor. Só me diga por quê.
+39390	Pasé años odiándote. Mi terapeuta dice que necesito escribir esta carta para seguir adelante. Ahí está.	Passei anos te odiando. Meu terapeuta disse que preciso escrever esta carta para seguir em frente. Aqui está.
+39391	Soy el primo de una de tus víctimas. Quiero que recuerdes su nombre cada día que estés ahí.	Sou primo de uma de suas vítimas. Quero que você saiba o nome dela todo dia que estiver aí.
+39393	Soy estudiante de psicología y estudio a gente como tú. ¿Puedo preguntarte qué pensabas la primera vez?	Sou estudante de psicologia e estudo pessoas como você. Posso perguntar o que você pensava da primeira vez?
+39394	Mi profesor dice que eres un caso de manual. Creo que eres más complicado que eso. ¿Podemos escribirnos?	Meu professor diz que você é um caso de manual. Acho que é mais complicado que isso. Podemos trocar cartas?
+39395	Quiero ser perfilador del FBI. Creo que aprender de ti me ayudaría a atrapar al próximo. ¿Es raro?	Quero ser perfilador do FBI. Acho que aprender com você me ajudaria a pegar o próximo. É estranho?
+39396	Para mi clase de justicia penal, tengo que entrevistar a un criminal convicto. Fuiste mi primera opción.	Para minha aula de justiça criminal, preciso entrevistar um criminoso condenado. Você foi minha primeira escolha.
+39397	Creo que soy tu hermano reencarnado. Soñé con eso. Escríbeme si me recuerdas.	Acho que sou seu irmão reencarnado. Tive um sonho sobre isso. Me escreva se lembrar de mim.
+39398	¿Puedes enviarme un mechón de tu pelo? Los colecciono. Tengo doce hasta ahora.	Você pode me mandar uma mecha do seu cabelo? Eu coleciono. Já tenho doze.
+39399	Estoy fundando una iglesia en tu honor. Tenemos tres miembros. ¿Serías nuestro profeta?	Estou fundando uma igreja em sua honra. Temos três membros. Você seria nosso profeta?
+39400	Quiero recrear tus crímenes en un videojuego. Puramente artístico. ¿De qué color eran las paredes?	Quero recriar seus crimes num videogame. Puramente artístico. De que cor eram as paredes?
+39401	Compré la casa donde creciste. Todavía huele a ti. ¿Está bien?	Comprei a casa onde você cresceu. Ainda cheira a você. Tudo bem?
+39402	Creo que los alienígenas te obligaron. Cuéntame sobre las luces en el cielo.	Acho que alienígenas fizeram você fazer isso. Me conte sobre as luzes no céu.
+39403	escritor	escritor
+39404	estudiante	estudante
+39405	sótano	porão
+39406	firma	assinatura
+39407	apodo	apelido
+39408	órganos	órgãos
+39409	sus películas favoritas	os filmes favoritos deles
+39410	los libros que has estado leyendo	os livros que você tem lido
+39411	qué harían si se conocieran en persona	o que fariam se se encontrassem pessoalmente
+39412	religión	religião
+39413	la comida en prisión	a comida na prisão
+39414	cómo se siente la libertad	como é sentir a liberdade
+39415	Familia de la víctima	Família da vítima
+39416	Recibí {1} de gente que sabe lo que hice.	Recebi {1} de pessoas que sabem o que fiz.
+39417	Un guardia dejó {1} en tu litera. Todos aquí saben para quién es.	Um guarda deixou {1} na sua cama. Todo mundo aqui sabe para quem é.
+39418	No hay cartas nuevas	Não há cartas novas
+39419	Llegarán más el próximo año	Vão chegar mais no próximo ano
+39420	En prisión contigo	Na prisão com você
+39421	Aún no tienes amigos por correspondencia	Ainda não tem amigos de correspondência
+39422	Responder a alguien	Responder alguém
+39423	Le respondí a {1} {2}, que me escribió una carta en prisión.	Respondi a {1} {2}, que me mandou uma carta na prisão.
+39424	No sabes muy bien por qué.	Você não tem certeza do por quê.
+39425	's va a estar feliz.	's vai ficar encantado.
+39426	Respondiste a {1}. {2}	Você respondeu a {1}. {2}
+39427	Ignoré una carta de {1} {2}.	Ignorei uma carta de {1} {2}.
+39428	Rompí una carta de {1} {2} frente a mi compañero de celda.	Rasguei uma carta de {1} {2} na frente do meu colega de cela.
+39429	Escribirles	Escrever para eles
+39430	Encarcelado	Preso
+39431	{1} está aquí contigo ahora. Encuentra a {2} en el patio de la prisión.	{1} está aqui com você agora. Ache {2} no pátio da prisão.
+39432	Escribir sobre cualquier cosa	Escrever sobre qualquer coisa
+39433	Decir algo bonito	Dizer algo bonito
+39434	Hacer que te necesiten	Fazer eles precisarem de você
+39435	Que te pongan dinero en tu cuenta	Fazer eles colocarem dinheiro na sua conta
+39436	Convencerlos de que te saquen de prisión	Convencer eles a te tirar da prisão
+39437	Primero tienen que confiar en ti por completo	Primeiro eles precisam confiar em você completamente
+39438	Cortar el contacto	Cortar contato
+39439	Te escribió como	Te escreveu como
+39440	Le escribí a {1} sobre {2}.	Escrevi a {1} sobre {2}.
+39441	Le escribiste a {1} una larga carta sobre {2}. {3} respondió en menos de una semana.	Você escreveu uma carta longa para {1} sobre {2}. {3} respondeu em menos de uma semana.
+39442	Felicitée a mi amigo por correspondencia, {1}.	Elogiei meu amigo de correspondência, {1}.
+39443	{n} dijo que nadie les había dicho algo tan bonito.	{n} disse que ninguém nunca falou algo tão bonito para eles.
+39444	{n} enmarcó tu carta.	{n} emoldurou sua carta.
+39445	{n} respondió con tres páginas de elogios para ti.	{n} respondeu com três páginas de elogios para você.
+39446	Mi cumplido a {1} salió perturbador.	Meu elogio a {1} saiu sinistro.
+39447	{1} dijo que tu cumplido era "un poco intenso."	{1} disse que seu elogio foi "um pouco intenso".
+39448	Manipulé a mi amigo por correspondencia, {1}.	Manipulei meu amigo de correspondência, {1}.
+39449	En la palma de tu mano	Na palma da sua mão
+39450	Le dijiste a {n} que es la única persona que de verdad te entiende. Se lo creyó.	Você disse a {n} que é a única pessoa que realmente entende você. Acreditou.
+39451	Hiciste que {n} se sintiera culpable por no escribir más. Ahora escribe todos los días.	Você fez {n} se sentir culpado por não escrever mais. Agora escreve todo dia.
+39452	Insideraste que quizás eras inocente. {n} está organizando una campaña para liberarte.	Você insinuou que talvez fosse inocente. {n} está organizando uma campanha para te libertar.
+39453	Le dijiste a {n} que los otros amigos por correspondencia no te importan. Lloró al leerlo.	Você disse a {n} que os outros amigos de correspondência não significam nada. Chorou ao ler.
+39454	{1} me vio claro y dejó de escribir.	{1} viu através de mim e parou de escrever.
+39455	Se dio cuenta	Percebeu
+39456	{1} te vio claro y dejó de escribir. {2} mandó tus cartas a un periódico.	{1} viu através de você e parou de escrever. {2} mandou suas cartas para um jornal.
+39457	Mi intento de manipular a {1} fracasó.	Minha tentativa de manipular {1} fracassou.
+39458	Fracasado	Fracassou
+39459	{1} no mordió el anzuelo.	{1} não mordeu a isca.
+39460	Mi amigo por correspondencia, {1}, puso {2} en mi cuenta de la cantina.	Meu amigo de correspondência, {1}, colocou {2} na minha conta do kantina.
+39461	{1} puso {2} en tu cuenta de la cantina.	{1} colocou {2} na sua conta do kantina.
+39462	{1} se negó a mandarme dinero.	{1} se recusou a me mandar dinheiro.
+39463	{1} haría cualquier cosa por ti. Estás pensando en pedirle a {2} que te ayude a escapar.	{1} faria qualquer coisa por você. Você está pensando em pedir para {2} te ajudar a fugir.
+39464	Si esto sale mal, te darán muchos más años, y {1} también acabará en prisión.	Se isso der errado, você vai pegar muito mais tempo, e {1} também vai acabar na prisão.
+39465	Pedirles que te saquen de prisión	Pedir para eles te tirarem da prisão
+39466	¡Mi amigo por correspondencia, {1} {2}, me sacó de {3}!	Meu amigo de correspondência, {1} {2}, me tirou de {3}!
+39467	Fugado	Fugiu
+39468	Eres libre, y todos los policías del país te buscan.	Você está livre, e todo policial do país está te procurando.
+39469	Me escapé de {1} con ayuda de mi amigo por correspondencia, {2}.	Escapei de {1} com ajuda do meu amigo de correspondência, {2}.
+39470	Ayudar en una fuga de prisión	Ajudar numa fuga da prisão
+39471	devuelto al corredor de la muerte	mandado de volta para o corredor da morte
+39472	{1} años más	mais {1} anos
+39473	Mi plan de fuga con {1} {2} fracasó. Nos atraparon a los dos y me dieron {3}.	Meu plano de fuga com {1} {2} falhou. Fomos pegos os dois e eu levei {3}.
+39474	Te arrastraron de vuelta al corredor de la muerte.	Você foi arrastado de volta ao corredor da morte.
+39475	Le añadieron {1} años a tu condena.	Adicionaram {1} anos à sua sentença.
+39476	{1} {2} fue arrestado por ayudarte y ahora está encerrado en la misma prisión.	{1} {2} foi preso por ajudar você e agora está trancado na mesma prisão.
+39477	Dejé de escribir a {1} {2}.	Parei de escrever para {1} {2}.
+39478	Dejó de escribir	Parou de escrever
+39479	Dejaste de responder las cartas de {1}.	Você parou de responder as cartas de {1}.
+39480	{n} intentó colar una sierra en un pastel de cumpleaños. El guardia que cortó el pastel la encontró.	{n} tentou esconder uma serra num bolo de aniversário. O guarda que cortou o bolo achou.
+39481	{n} alquiló un helicóptero, pero el piloto reconoció tu nombre y llamó al FBI.	{n} alugou um helicóptero, mas o piloto reconheceu seu nome e ligou para o FBI.
+39482	{n} sobornó a un guardia que al final llevaba un micrófono oculto.	{n} subornou um guarda que estava com um microfone escondido.
+39483	Te metiste por el conducto de aire que {n} te indicó y caíste directo en la oficina del director.	Você passou pelo duto de ar que {n} indicou e caiu direto na sala do diretor.
+39484	{n} esperaba en el auto de fuga, estacionado en zona de grúa justo afuera de la prisión.	{n} esperava no carro da fuga, estacionado em área de reboque na frente da prisão.
+39485	El túnel que {n} te ayudó a cavar durante meses se derrumbó a mitad de camino.	O túnel que {n} ajudou você a cavar por meses desabou no meio do caminho.
+39486	{n} publicó el plan en redes sociales. La policía lo leyó antes de que recibieras el mensaje.	{n} postou o plano nas redes sociais. A polícia leu antes de você receber a mensagem.
+39487	{n} metió clandestinamente un uniforme de lavandería, pero te olvidaste de quitarte la credencial de preso.	{n} conseguiu entrar com um uniforme de lavanderia, mas você esqueceu de tirar o crachá de preso.
+39488	Lograste pasar el muro, pero {n} metió el auto de fuga directo en un puesto policial.	Você conseguiu passar o muro, mas {n} dirigiu o carro da fuga direto para um bloqueio policial.
+39490	Te metiste en un carro de lavandería y {n} sacó el camión directo por la puerta principal.	Você entrou num carrinho de lavanderia e {n} dirigiu o caminhão direto pelo portão principal.
+39491	{n} cortó la cerca a las 3 AM y tenía un auto esperando del otro lado.	{n} cortou a cerca às 3 da manhã e tinha um carro ligado do outro lado.
+39492	{n} consiguió trabajo en la cocina de la prisión y te sacó en un camión de comida.	{n} arranjou um emprego na cozinha da prisão e te tirou num caminhão de comida.
+39493	Un retrato a lápiz tuyo, mirando al frente.	Um retrato a lápis seu, olhando para frente.
+39494	víctima	vítima
+39495	Retrato de una víctima	Retrato de uma vítima
+39496	Un dibujo suave y detallado de alguien que mataste.	Um desenho suave e detalhado de alguém que você matou.
+39497	payaso	palhaço
+39498	Un payaso sonriente. Algo va mal con sus ojos.	Um palhaço sorridente. Algo está errado com os olhos dele.
+39499	Las cuatro paredes que miras todos los días.	As quatro paredes que você olha todo dia.
+39500	Una calavera sombreada con un lápiz de contrabando.	Um crânio sombreado com um lápis contrabandeado.
+39501	La silla eléctrica	A cadeira elétrica
+39502	La silla, dibujada de memoria.	A cadeira, desenhada de memória.
+39503	flor	flor
+39504	Una sola rosa. Nadie espera esto de ti.	Uma única rosa. Ninguém espera isso de você.
+39505	arma	arma
+39506	Tu arma característica, dibujada con cariño y detalle.	Sua arma característica, desenhada com carinho e detalhe.
+39507	Retrato de un fan	Retrato de um fã
+39508	Uno de tus amigos por correspondencia, dibujado con la foto que enviaron.	Um dos seus amigos de correspondência, desenhado com a foto que mandaram.
+39509	Un mapa dibujado a mano con una X. La gente se preguntará qué hay enterrado ahí.	Um mapa desenhado à mão com um X. As pessoas vão se perguntar o que está enterrado ali.
+39510	escena	cena
+39511	Croquis de la escena del crimen	Croqui da cena do crime
+39512	Una habitación tranquila. Nadie sabe cuál.	Um quarto silencioso. Ninguém sabe qual.
+39513	abstracto	abstrato
+39514	Garabatos rojos. Muchos garabatos rojos.	Rabiscos vermelhos. Muitos rabiscos vermelhos.
+39515	Un coleccionista privado	Um colecionador particular
+39516	Un superfan de crímenes reales	Um super fã de true crime
+39517	El Museo de la Muerte	O Museu da Morte
+39518	Un comprador anónimo	Um comprador anônimo
+39519	Un dueño de galería de arte	Um dono de galeria de arte
+39520	Un presentador de podcast	Um apresentador de podcast
+39521	Un director de películas de terror	Um diretor de filmes de terror
+39522	Los coleccionistas pagan una fortuna por cualquier cosa que dibujes.	Colecionadores pagam uma fortuna por qualquer coisa que você desenhe.
+39523	La gente pagará un buen dinero por tu arte.	As pessoas vão pagar um bom dinheiro pela sua arte.
+39524	Casi nadie conoce tu nombre. Tu arte no se venderá por mucho.	Quase ninguém conhece seu nome. Sua arte não vai vender por muito.
+39525	{1} Puedes dibujar {2} más este año.	{1} Você pode desenhar mais {2} este ano.
+39526	Te quedaste sin papel este año	Você ficou sem papel este ano
+39527	Dibujé {1} {2} en mi celda.	Desenhei {1} {2} na minha cela.
+39528	burdo, pero tiene algo	rústico, mas tem algo
+39529	Pasaste días en tu {1}. Es {2}.	Você passou dias no seu {1}. É {2}.
+39530	Dos compradores quieren tu {1}.	Dois compradores querem seu {1}.
+39531	¿A quién se lo venderás?	Para quem você vai vender?
+39532	Vender a {1}	Vender para {1}
+39533	Vendí mi {1} desde prisión a {2} por {3}.	Vendi meu {1} da prisão para {2} por {3}.
+39534	{1} compró tu {2} por {3}.	{1} comprou seu {2} por {3}.
+39535	{1} carta{2} nueva de gente que sabe lo que hiciste	{1} carta{2} nova de pessoas que sabem o que você fez
+39536	{1} amigo{2} por correspondencia	{1} amigo{2} de correspondência
+39537	Dibuja y vende tu arte	Desenhe e venda sua arte
+39538	Ya confían en ti y conoces sus rutinas. Pero la policía siempre mira primero a los más cercanos a la víctima.	Eles já confiam em você e você conhece a rotina deles. Mas a polícia sempre olha primeiro para os mais próximos da vítima.
+39539	Nadie a quien acechar	Ninguém para perseguir
+39540	No conoces a nadie que no estés vigilando ya	Você não conhece ninguém que já não esteja observando
+39541	Ya estás acechando a 5 personas. Ocúpate de ellas antes de añadir más.	Você já está perseguindo 5 pessoas. Cuide delas antes de adicionar mais.
+39542	Nunca sospecharían de ti.	Nunca desconfiariam de você.
+39543	Ya sabes dónde viven, adónde van y cuándo están solos.	Você já sabe onde moram, onde vão e quando estão sozinhos.
+39544	Confían en ti por completo. Eso lo hace fácil.	Eles confiam em você completamente. É isso que facilita.
+39545	Estás pensando en añadir a tu {1}, {2}, a tu lista.	Você está pensando em adicionar seu {1}, {2}, à sua lista.
+39546	conocido	conhecido
+39547	Empecé a acechar en secreto a mi {1}, {2}.	Comecei a perseguir secretamente meu {1}, {2}.
+39548	No tienen ni idea.	Eles não têm ideia.
+39549	No son muy cercanos, así que tendrás que tener cuidado.	Vocês não são tão próximos, então vai ter que tomar cuidado.
+39550	Empezaste a vigilar a tu {1}, {2}.	Você começou a observar seu {1}, {2}.
+39551	{n} se alejó de ti temblando. "Aléjate de mí. Llamo a la policía."	{n} recuou tremendo. "Fique longe de mim. Vou ligar para a polícia."
+39552	{n} agarró el teléfono en cuanto te vio. "No te acerques. Te juro que llamo al 911."	{n} pegou o celular assim que viu você. "Não chegue mais perto. Juro que ligo 911."
+39553	{n} te cerró la puerta en la cara. A través de la puerta oyes que marca el número. "¿Sí, policía? Está aquí."	{n} bateu a porta na sua cara. Através da porta você ouve discando. "Alô, polícia? Está aqui."
+39554	"Sé lo que hiciste," susurró {n}. "Sé lo que eres. Llamo a la policía ahora mismo."	"Eu sei o que você fez," sussurrou {n}. "Eu sei o que você é. Vou ligar para a polícia agora."
+39555	{n} empezó a gritar en cuanto entraste. "¡Alguien llame a la policía!"	{n} começou a gritar assim que você entrou. "Alguém chame a polícia!"
+39556	{n} sacó el teléfono y mostró la pantalla. El 9-1-1 ya está marcado. "Vete. Ahora."	{n} tirou o celular e mostrou a tela. O 9-1-1 já está digitado. "Saia. Agora."
+39557	Está aquí	Está aqui
+39558	Llamar a la policía	Ligar para a polícia
+39559	{1} llamó a la policía después de que apareciera.	{1} chamou a polícia depois que eu apareci.
+39560	{1} llamó a la policía y te arrestaron por intento de asesinato!	{1} chamou a polícia e você foi preso por tentativa de homicídio!
+39561	Te fuiste, pero {1} llamó a la policía de todos modos. Los detectives ya tienen tu nombre.	Você foi embora, mas {1} chamou a polícia mesmo assim. Os detetives já têm seu nome.
+39562	Me fui antes de que {1} pudiera llamar a la policía.	Fui embora antes de {1} poder chamar a polícia.
+39563	Te fuiste antes de que {1} terminara de marcar.	Você foi embora antes de {1} terminar de discar.
+39564	Matalos	Matar eles
+39565	{1} se fue.	{1} foi embora.
+39566	Sacar a relucir su historia favorita de tu infancia	Lembrar a história favorita da infância sobre você
+39567	Le pediste a {n} que contara otra vez la historia de cuando eras bebé. La contó dos veces y te abrazó al final.	Você pediu para {n} contar de novo a história de quando você era bebê. Contou duas vezes e te abraçou no final.
+39568	{n} te miró con los ojos entrecerrados. "¿Desde cuándo quieres oír esa historia?" Y la contó igual.	{n} olhou para você de olho apertado. "Desde quando você quer ouvir essa história?" E contou mesmo assim.
+39569	Ayudar con las tareas de su casa	Ajudar com as tarefas da casa
+39570	Arreglaste el grifo que goteaba y limpiaste los canalones. {n} les contó a todos sus amigos qué buen hijo había criado.	Você consertou a torneira vazando e limpou as calhas. {n} contou para todo mundo que criou um filho ótimo.
+39571	{n} te vio limpiar los canalones con cara de confusión. "¿Te estás muriendo o qué?"	{n} olhou você limpando as calhas com cara de confusão. "Você está morrendo ou é o quê?"
+39572	Pedir su receta famosa	Pedir a receita famosa
+39573	{n} pasó la tarde enseñándote su receta. Dijo que era el mejor día que tenía en años.	{n} passou a tarde te ensinando a receita. Disse que era o melhor dia que tinha em anos.
+39574	{n} se rió. "Nunca cocinaste un día en tu vida." Pero te la escribió de todos modos.	{n} riu. "Você nunca cozinhou um dia na vida." Mas anotou para você mesmo assim.
+39575	Agradecerle todo lo que hizo por ti	Agradecer tudo o que fez por você
+39576	{n} se le lloraron los ojos. "Siempre esperé que algún día lo entenderías."	{n} se emocionou. "Sempre esperei que um dia você entendesse."
+39577	{n} te miró mucho rato. "¿Estás en algún tipo de problema?" Te lo tomaste a risa.	{n} olhou para você por muito tempo. "Você está em alguma encrenca?" Você riu disso.
+39578	Ver juntos álbumes de fotos antiguos de la familia	Olhar juntos álbuns de fotos antigas da família
+39579	Tú y {n} pasaron horas riendo con fotos antiguas. Ahora tiene una tuya en el refrigerador.	Você e {n} passaram horas rindo de fotos antigas. Agora tem uma sua na geladeira.
+39580	{n} notó que te detenías demasiado en una foto, pero lo dejó pasar.	{n} notou que você parou demais numa foto, mas deixou pra lá.
+39581	Llevarlo a su restaurante favorito	Levar ao restaurante favorito
+39582	Llevaste a {n} al restaurante que le encanta. Le dijo al mesero que eras su hijo favorito.	Você levou {n} ao restaurante que ele ama. Disse ao garçom que você era o filho favorito.
+39583	"¿Qué rompiste?" preguntó {n}. Los dos se rieron y pidió postre.	"O que você quebrou?" perguntou {n}. Vocês riram, e pediu sobremesa.
+39584	Preguntar por su salud	Perguntar sobre a saúde
+39585	{n} te contó todo sobre sus citas médicas. Le encanta que te importes.	{n} te contou tudo sobre as consultas. Adora que você se importe.
+39586	{n} arqueó una ceja. "Nunca preguntas por eso." Pero respondió a cada pregunta.	{n} levantou uma sobrancelha. "Você nunca pergunta isso." Mas respondeu a cada pergunta.
+39587	Prometer visitar más a menudo	Prometer visitar mais vezes
+39588	{n} te abrazó en la puerta. "Me encantaría."	{n} te abraçou na porta. "Eu adoraria."
+39589	"Siempre dices eso," dijo {n}, pero estaba sonriendo.	"Você sempre diz isso," disse {n}, mas estava sorrindo.
+39590	Sacar a relucir un chiste privado de cuando eran niños	Lembrar uma piada interna de quando eram crianças
+39591	Tú y {n} se rieron hasta llorar. Como en los viejos tiempos.	Você e {n} riram até chorar. Como nos velhos tempos.
+39592	{n} te miró raro, pero se rió igual. "Ya me olvidaba de eso."	{n} olhou estranho, mas riu mesmo assim. "Eu tinha esquecido disso."
+39593	Cubrir con mamá y papá	Cobrir com mamãe e papai
+39594	Cubriste a {n} con tus padres. Dijo que te debe una grande.	Você cobriu {n} com seus pais. Disse que te deve uma grande.
+39595	"¿Por qué estás siendo tan amable?" preguntó {n}, pero aceptó la ayuda.	"Por que você está sendo tão legal?" perguntou {n}, mas aceitou a ajuda.
+39596	Pasaste todo el fin de semana ayudando a {n} a mudarse. Te dio una llave de repuesto del nuevo lugar.	Você passou o fim de semana todo ajudando {n} a se mudar. Te deu uma chave extra do lugar novo.
+39597	{n} desconfió de que te ofrecieras, pero te dejó cargar el sofá.	{n} desconfiou de você ter se oferecido, mas deixou você carregar o sofá.
+39598	Arreglar una vieja pelea	Resolver uma briga antiga
+39599	Te disculpaste por eso de hace años. {n} te abrazó por primera vez en años.	Você pediu desculpas por aquilo de anos atrás. {n} te abraçou pela primeira vez em anos.
+39600	"¿Te acuerdas de eso?" dijo {n}, confundido. Pero aceptó la disculpa.	"Você lembra disso?" disse {n}, confuso. Mas aceitou o pedido de desculpas.
+39601	Ponerse de su lado contra la familia	Ficar do lado contra a família
+39602	Respaldaste a {n} en la cena familiar. Te mandó un mensaje: "gracias" con diez corazones.	Você apoiou {n} no jantar em família. Mandou uma mensagem: "obrigado" com dez corações.
+39603	{n} se sorprendió de que tomaras su parte, pero no se queja.	{n} se surpreendeu com você ter ficado do lado, mas não está reclamando.
+39604	Planear un viaje entre hermanos	Planejar uma viagem entre irmãos
+39605	A {n} le encantó la idea. Van de acampada, solo los dos.	{n} adorou a ideia. Vocês vão acampar, só os dois.
+39606	"¿Desde cuándo quieres pasar tiempo conmigo?" preguntó {n}, pero dijo que sí.	"Desde quando você quer sair comigo?" perguntou {n}, mas disse que sim.
+39607	Le prestaste dinero a {n} y le dijiste que no se preocupara por devolverlo. Ahora confía en ti por completo.	Você emprestou dinheiro para {n} e disse para não se preocupar em devolver. Agora confia em você completamente.
+39608	{n} miró el dinero y luego a ti. "¿Cuál es la trampa?" No había ninguna. Lo tomó.	{n} olhou o dinheiro e depois você. "Qual é a pegadinha?" Não tinha nenhuma. Pegou.
+39609	{n} tuvo una noche libre por primera vez en meses. Piensa que eres el mejor.	{n} conseguiu uma noite de folga pela primeira vez em meses. Acha que você é o melhor.
+39610	{n} llamó dos veces para preguntar por los niños. Después se relajó.	{n} ligou duas vezes para perguntar sobre as crianças. Depois relaxou.
+39611	Sacar a relucir su recuerdo favorito contigo	Lembrar a memória favorita com você
+39612	{n} sonrió y te abrazó. "Te quiero."	{n} sorriu e te abraçou. "Eu te amo."
+39613	{n} te miró raro. "¿Por qué estás tan sentimental?" Y te abrazó igual.	{n} olhou estranho. "Por que você está tão sentimental?" E te abraçou mesmo assim.
+39614	Darle dinero para algo que quiera	Dar dinheiro para algo que queira
+39615	{n} no dejaba de agradecértelo.	{n} não parava de agradecer.
+39616	"¿Es esto un soborno?" preguntó {n}. Te reíste. Se quedó con el dinero.	"Isso é um suborno?" perguntou {n}. Você riu. Ficou com o dinheiro.
+39617	Llevarlo de viaje	Levar de viagem
+39618	Tú y {n} pasaron la mejor semana juntos.	Você e {n} tiveram a melhor semana juntos.
+39619	{n} se preguntó por qué de pronto querías pasar tiempo juntos, pero se divirtió igual.	{n} se perguntou por que de repente você queria passar tempo junto, mas se divertiu mesmo assim.
+39620	Decirle cuánto te enorgullece	Dizer o quanto você tem orgulho
+39621	{n} se quedó callado y luego dijo: "Gracias. Eso significa mucho."	{n} ficou quieto e depois disse: "Valeu. Isso significa muito."
+39622	{n} te miró raro. "¿Estás bien?" Dijiste que sí.	{n} olhou estranho. "Você está bem?" Você disse que estava.
+39623	Escuchaste a {n} durante horas. Dijo que eres el único que lo entiende.	Você ouviu {n} por horas. Disse que você é o único que entende.
+39624	{n} se sorprendió de que estuvieras prestando atención, pero se abrió.	{n} se surpreendeu com você prestando atenção, mas abriu o coração.
+39625	Enseñarle algo que sepas	Ensinar algo que você saiba
+39626	Pasaste el fin de semana enseñándole una habilidad a {n}. Le encantó.	Você passou o fim de semana ensinando uma habilidade para {n}. Adorou.
+39627	{n} puso los ojos en blanco al principio, pero al final se estaba divirtiendo.	{n} revirou os olhos no começo, mas no final estava se divertindo.
+39628	Sacar a relucir una vieja celebración familiar	Lembrar uma comemoração antiga da família
+39629	Tú y {n} hablaron de esa celebración durante horas. Te invitó a la próxima.	Você e {n} falaram daquela comemoração por horas. Te convidou para a próxima.
+39630	{n} no lo recordaba como tú, pero se rió igual.	{n} não lembrava como você, mas riu junto.
+39631	Preguntar por el árbol genealógico	Perguntar sobre a árvore genealógica
+39632	{n} sacó fotos antiguas y te contó cada historia. Le encantó.	{n} tirou fotos antigas e te contou cada história. Adorou.
+39633	{n} se preguntó por qué de pronto te importaba, pero siguió hablando.	{n} se perguntou por que de repente você se importava, mas continuou falando.
+39634	Enviarle una tarjeta de cumpleaños	Mandar um cartão de aniversário
+39635	{n} llamó para agradecértelo. "Nadie más se acordó."	{n} ligou para agradecer. "Ninguém mais lembrou."
+39636	{n} se sorprendió de que conocieras su cumpleaños, pero le hizo feliz.	{n} se surpreendeu com você saber o aniversário, mas ficou feliz.
+39637	Ayudarle con algo en la casa	Ajudar com algo na casa
+39638	Pasaste el día ayudando a {n}. Le contó a toda la familia.	Você passou o dia ajudando {n}. Contou para a família toda.
+39639	"No tenías que hacer eso," dijo {n}, un poco confundido pero agradecido.	"Você não precisava fazer isso," disse {n}, meio confuso, mas grato.
+39640	Chismear sobre el resto de la familia	Fofocar sobre o resto da família

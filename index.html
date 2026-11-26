@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>NaBlooLife</title>
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background: #1d3a6b;
+        color: #fff;
+        font:
+          800 16px/1.4 system-ui,
+          sans-serif;
+      }
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 24px;
+        box-sizing: border-box;
+      }
+      a {
+        display: inline-block;
+        margin-top: 14px;
+        padding: 12px 20px;
+        border-radius: 12px;
+        background: #33b249;
+        color: #fff;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="msg">Loading NaBlooLife...</div>
+    <script>
+      const fail = () => {
+        document.getElementById("msg").innerHTML =
+          'Your browser blocked the game in this frame.<br><a href="' +
+          location.href +
+          '" target="_blank" rel="noopener">Open the game in a new tab</a>';
+      };
+      const go = () => location.replace("game.html");
+      // [fix] the service worker only speeds things up: never leave the player waiting on it
+      const framed = (() => {
+        try {
+          return window.top !== window.self;
+        } catch {
+          return true;
+        }
+      })();
+      const giveUp = () => (framed ? fail() : go());
+      if (!("serviceWorker" in navigator)) giveUp();
+      else
+        navigator.serviceWorker
+          .register("sw.js")
+          .then(() => Promise.race([navigator.serviceWorker.ready, new Promise((r) => setTimeout(() => r("timeout"), 4000))]))
+          .then((r) => {
+            if (r === "timeout" || navigator.serviceWorker.controller) return go();
+            navigator.serviceWorker.addEventListener("controllerchange", go);
+            setTimeout(go, 3000);
+          })
+          .catch(giveUp);
+    </script>
+  </body>
+</html>
+<script defer src="https://static.itch.io/htmlgame.js" type="text/javascript"></script>

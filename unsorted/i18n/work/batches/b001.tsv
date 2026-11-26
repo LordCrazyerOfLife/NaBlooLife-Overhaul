@@ -1,0 +1,800 @@
+1	Orange Baseball Cap
+2	Teal Baseball Cap
+3	Blue Baseball Cap
+4	Navy Baseball Cap
+5	Navy Baseball Cap II
+6	Pink Baseball Cap
+7	Pink Baseball Cap II
+8	Lavender Baseball Cap
+9	Sky Blue Baseball Cap
+10	Sky Blue Baseball Cap II
+11	Silver Baseball Cap
+12	Red Baseball Cap
+13	Olive Baseball Cap
+14	Navy Beanie II
+15	Navy Beanie III
+16	Navy Beanie IV
+17	Navy Beanie V
+19	Silver Beanie II
+20	Silver Beanie III
+21	Gray Beanie II
+22	Gray Beanie III
+23	Maroon Beanie II
+24	Brown Beanie II
+25	Navy Beanie VII
+26	Navy Beanie VIII
+27	Navy Beanie IX
+28	Navy Beanie X
+29	Gray Beanie IV
+30	Maroon Beanie III
+31	Pink Beanie II
+32	Pink Beanie III
+33	Sky Blue Beanie
+34	Teal Beanie II
+35	Gray Beanie V
+36	Gray Beanie VI
+37	Teal Beanie III
+38	Silver Beanie IV
+39	Maroon Beanie IV
+40	Purple Beanie II
+41	Teal Beanie IV
+42	Silver Beanie V
+43	Brown Beanie III
+44	Maroon Newsboy Cap
+45	Olive Newsboy Cap
+46	Navy Newsboy Cap
+47	Navy Newsboy Cap II
+48	Red Newsboy Cap
+49	Purple Newsboy Cap
+50	Teal Newsboy Cap
+51	Green Newsboy Cap
+52	Brown Newsboy Cap
+53	Red Newsboy Cap II
+54	Gray Newsboy Cap
+55	Navy Newsboy Cap III
+56	Olive Newsboy Cap II
+57	Silver Newsboy Cap
+58	Pink Newsboy Cap
+59	Lavender Newsboy Cap
+60	Navy Newsboy Cap IV
+61	Navy Newsboy Cap V
+62	Maroon Newsboy Cap II
+63	Navy Newsboy Cap VI
+64	Teal Newsboy Cap II
+65	Brown Newsboy Cap II
+66	Green Newsboy Cap II
+67	Gray Newsboy Cap II
+68	Tan Bucket Hat
+69	Gray Bucket Hat
+70	Gray Bucket Hat II
+71	Gray Bucket Hat III
+72	Gray Bucket Hat IV
+73	Pink Bucket Hat
+74	Lavender Bucket Hat
+75	Silver Bucket Hat
+76	Pink Bucket Hat II
+77	Sky Blue Bucket Hat
+78	Red Bucket Hat
+79	Purple Bucket Hat
+80	Purple Bucket Hat II
+81	Gray Bucket Hat V
+82	Gray Bucket Hat VI
+83	Red Bucket Hat II
+84	Purple Bucket Hat III
+85	Gray Bucket Hat VII
+86	Gray Bucket Hat VIII
+87	Gray Bucket Hat IX
+88	Gray Bucket Hat X
+89	Red Fedora II
+90	Gray Fedora II
+91	Gray Fedora III
+92	Lavender Fedora II
+93	Black Fedora II
+94	Gray Fedora IV
+95	Tan Fedora II
+96	Tan Fedora III
+97	Tan Fedora IV
+98	Pink Fedora II
+99	Lavender Fedora III
+100	Green Fedora II
+101	Black Fedora III
+102	Navy Fedora II
+103	Navy Fedora III
+104	Navy Fedora IV
+105	Green Fedora III
+106	Silver Fedora II
+107	Maroon Fedora II
+108	Tan Fedora V
+109	Olive Fedora II
+110	Gray Fedora V
+111	Tan Fedora VI
+112	Tan Fedora VII
+113	Tan Fedora VIII
+114	Tan Fedora IX
+115	Gray Fedora VI
+116	Gray Fedora VII
+117	Black Fedora IV
+118	Brown Fedora II
+119	Black Turban II
+120	Black Turban III
+121	Black Turban IV
+122	Maroon Turban II
+123	Black Novelty Hat
+124	Brown Novelty Hat
+125	Brown Novelty Hat II
+126	Brown Novelty Hat III
+127	Yellow Novelty Hat
+128	Gray Novelty Hat
+129	Purple Novelty Hat
+130	Gray Novelty Hat II
+131	Teal Novelty Hat
+132	Olive Novelty Hat
+133	Navy Novelty Hat
+134	Green Novelty Hat
+135	Red Novelty Hat
+136	Teal Novelty Hat II
+137	Red Novelty Hat II
+138	Brown Novelty Hat IV
+139	Navy Novelty Hat II
+140	Brown Novelty Hat V
+141	Olive Novelty Hat II
+142	Maroon Novelty Hat
+143	Black Novelty Hat II
+144	White Novelty Hat
+145	Gray Novelty Hat III
+146	Brown Novelty Hat VI
+147	Gray Novelty Hat IV
+148	Tan Novelty Hat
+149	Tan Novelty Hat II
+150	Black Novelty Hat III
+151	Black Novelty Hat IV
+152	Tan Novelty Hat III
+153	Maroon Novelty Hat II
+154	Green Novelty Hat II
+155	Olive Novelty Hat III
+156	Olive Novelty Hat IV
+157	Olive Novelty Hat V
+158	Brown Novelty Hat VII
+159	Gray Novelty Hat V
+160	Tan Novelty Hat IV
+161	Gold Novelty Hat
+162	Black Novelty Hat V
+163	Gray Novelty Hat VI
+164	Brown Novelty Hat VIII
+165	Gray Novelty Hat VII
+166	Brown Novelty Hat IX
+167	Olive Novelty Hat VI
+168	Black Novelty Hat VI
+169	Navy Novelty Hat III
+170	Brown Novelty Hat X
+171	Gray Novelty Hat VIII
+172	Gray Novelty Hat IX
+173	Tan Novelty Hat V
+174	Navy Novelty Hat IV
+175	Silver Novelty Hat
+176	Gray Novelty Hat X
+177	Gray Novelty Hat 11
+178	Brown Novelty Hat 11
+179	Maroon Novelty Hat III
+180	Navy Novelty Hat V
+181	Navy Novelty Hat VI
+182	Tan Novelty Hat VI
+183	Tan Novelty Hat VII
+184	Orange Novelty Hat
+185	Orange Novelty Hat II
+186	Olive Novelty Hat VII
+187	Maroon Novelty Hat IV
+188	Sky Blue Novelty Hat
+189	Brown Novelty Hat 12
+190	Gray Novelty Hat 12
+191	Brown Novelty Hat 13
+192	Tan Novelty Hat VIII
+193	Tan Novelty Hat IX
+194	Red Novelty Hat III
+195	Gray Novelty Hat 13
+196	Olive Novelty Hat VIII
+197	Green Novelty Hat III
+198	Tan Novelty Hat X
+199	Pink Novelty Hat
+200	Tan Novelty Hat 11
+201	Orange Novelty Hat III
+202	Black Novelty Hat VII
+203	Black Novelty Hat VIII
+204	Black Novelty Hat IX
+205	Orange Novelty Hat IV
+206	Tan Novelty Hat 12
+207	King's Crown
+208	Judge's Wig
+209	Prince's Crown
+210	Silver Prince Crown
+211	Barrister's Wig
+212	Brown Round Glasses
+213	Gray Round Glasses
+214	Gray Round Glasses II
+215	Gray Round Glasses III
+216	Gray Round Glasses IV
+217	Gray Round Glasses V
+218	Gray Round Glasses VI
+219	Gray Round Glasses VII
+220	Gray Round Glasses VIII
+221	Pink Round Glasses
+222	Sky Blue Round Glasses
+223	Sky Blue Round Glasses II
+224	Brown Round Glasses II
+225	Silver Round Glasses
+226	Gray Round Glasses IX
+227	Gray Round Glasses X
+228	Tan Round Glasses
+229	Pink Round Glasses II
+230	Teal Round Glasses
+231	Silver Round Glasses II
+232	Silver Round Glasses III
+233	Red Round Glasses
+234	Pink Round Glasses III
+235	Blue Aviators II
+236	Tan Aviators II
+237	Sky Blue Aviators
+238	Blue Aviators III
+239	Purple Aviators II
+240	Purple Aviators III
+241	Tan Aviators III
+242	Gray Aviators II
+243	Gray Aviators III
+244	Gray Aviators IV
+245	Olive Aviators II
+246	Olive Aviators III
+247	Purple Aviators IV
+248	Teal Aviators II
+249	Gray Aviators V
+250	Green Aviators II
+251	Brown Aviators II
+252	Maroon Aviators II
+253	Brown Aviators III
+254	Navy Aviators II
+255	Olive Aviators IV
+256	Olive Aviators V
+257	Navy Aviators III
+258	Brown Aviators IV
+259	Maroon Aviators III
+260	Black Aviators II
+261	Brown Aviators V
+262	Navy Aviators IV
+263	Navy Aviators V
+264	Navy Aviators VI
+265	Olive Aviators VI
+266	Brown Aviators VI
+267	Navy Aviators VII
+268	Black Aviators III
+269	Navy Aviators VIII
+270	Brown Aviators VII
+271	Navy Aviators IX
+272	Brown Aviators VIII
+273	Brown Aviators IX
+274	Navy Aviators X
+275	Brown Aviators X
+276	Navy Aviators 11
+277	Gray Aviators VI
+278	Brown Aviators 11
+279	Navy Aviators 12
+280	Navy Aviators 13
+281	Maroon Aviators IV
+282	Gray Aviators VII
+283	Brown Aviators 12
+284	Olive Aviators VII
+285	Gray Oversized Shades
+286	Teal Oversized Shades
+287	Purple Oversized Shades
+288	Red Oversized Shades
+289	Teal Oversized Shades II
+290	Teal Oversized Shades III
+291	Navy Oversized Shades
+292	Brown Oversized Shades
+293	Navy Oversized Shades II
+294	Navy Oversized Shades III
+295	Gray Oversized Shades II
+296	Gray Oversized Shades III
+297	Olive Oversized Shades
+298	Navy Oversized Shades IV
+299	Gray Oversized Shades IV
+300	Brown Oversized Shades II
+301	Navy Oversized Shades V
+302	Gray Oversized Shades V
+303	Gray Oversized Shades VI
+304	Orange Oversized Shades
+305	Teal Oversized Shades IV
+306	Navy Oversized Shades VI
+307	Gray Oversized Shades VII
+308	Purple Oversized Shades II
+309	Navy Oversized Shades VII
+310	Purple Oversized Shades III
+311	Navy Wayfarers II
+312	Gray Wayfarers II
+313	Navy Wayfarers III
+314	Brown Wayfarers II
+315	Gray Wayfarers III
+316	Gray Wayfarers IV
+317	Navy Cat-Eye Glasses
+318	Brown Cat-Eye Glasses
+319	Navy Cat-Eye Glasses II
+320	Maroon Cat-Eye Glasses
+321	Navy Cat-Eye Glasses III
+322	Maroon Cat-Eye Glasses II
+323	Navy Cat-Eye Glasses IV
+324	Navy Cat-Eye Glasses V
+325	Brown Cat-Eye Glasses II
+326	Navy Cat-Eye Glasses VI
+327	Pink Cat-Eye Glasses
+328	Lavender Cat-Eye Glasses
+329	Gray Cat-Eye Glasses
+330	Navy Cat-Eye Glasses VII
+331	Olive Cat-Eye Glasses
+332	Red Cat-Eye Glasses
+333	Gray Cat-Eye Glasses II
+334	Purple Cat-Eye Glasses
+335	Green Cat-Eye Glasses
+336	Gray Cat-Eye Glasses III
+337	Gray Cat-Eye Glasses IV
+338	Gray Cat-Eye Glasses V
+339	Teal Cat-Eye Glasses
+340	Brown Cat-Eye Glasses III
+341	Purple Cat-Eye Glasses II
+342	Black Cat-Eye Glasses
+343	Black Cat-Eye Glasses II
+344	Gray Cat-Eye Glasses VI
+345	Gray Cat-Eye Glasses VII
+346	Black Cat-Eye Glasses III
+347	Black Cat-Eye Glasses IV
+348	Black Cat-Eye Glasses V
+349	Teal Novelty Glasses
+350	Gray Novelty Glasses
+351	Pink Novelty Glasses
+352	Maroon Novelty Glasses
+353	Teal Novelty Glasses II
+354	Green Novelty Glasses
+355	Gray Novelty Glasses II
+356	Gray Novelty Glasses III
+357	Gray Novelty Glasses IV
+358	Pink Novelty Glasses II
+359	Gray Novelty Glasses V
+360	Red Novelty Glasses
+361	Purple Novelty Glasses
+362	Tan Novelty Glasses
+363	Teal Novelty Glasses III
+364	Sky Blue Novelty Glasses
+365	Purple Novelty Glasses II
+366	Gray Novelty Glasses VI
+367	Green Novelty Glasses II
+368	Teal Novelty Glasses IV
+369	Gold Novelty Glasses
+370	Teal Novelty Glasses V
+371	Teal Novelty Glasses VI
+372	Gold Novelty Glasses II
+373	Red Novelty Glasses II
+374	Pink Novelty Glasses III
+375	Gold Novelty Glasses III
+376	Gold Novelty Glasses IV
+377	Teal Novelty Glasses VII
+378	Tan Novelty Glasses II
+379	Red Novelty Glasses III
+380	Purple Novelty Glasses III
+381	Gold Novelty Glasses V
+382	Orange Novelty Glasses
+383	Gray Novelty Glasses VII
+384	Gray Novelty Glasses VIII
+385	Gold Novelty Glasses VI
+386	Gray Novelty Glasses IX
+387	Navy Novelty Glasses
+388	Gold Novelty Glasses VII
+389	Navy Novelty Glasses II
+390	Gray Novelty Glasses X
+391	Brown Novelty Glasses
+392	Brown Novelty Glasses II
+393	Gray Novelty Glasses 11
+394	Orange Novelty Glasses II
+395	Olive Novelty Glasses
+396	Brown Novelty Glasses III
+397	Tan Novelty Glasses III
+398	Gray Novelty Glasses 12
+399	Silver Novelty Glasses
+400	Purple Novelty Glasses IV
+401	Pink Novelty Glasses IV
+402	Pink Novelty Glasses V
+403	Green Novelty Glasses III
+404	Maroon Novelty Glasses II
+405	Gray Novelty Glasses 13
+406	Brown Novelty Glasses IV
+407	Olive Novelty Glasses II
+408	Gold Novelty Glasses VIII
+409	Orange Novelty Glasses III
+410	Orange Novelty Glasses IV
+411	Black Novelty Glasses
+412	Olive Novelty Glasses III
+413	Sky Blue Novelty Glasses II
+414	Gold Novelty Glasses IX
+415	Gray Novelty Glasses 14
+416	Gold Novelty Glasses X
+417	Gray Novelty Glasses 15
+418	Red Novelty Glasses IV
+419	Red Novelty Glasses V
+420	Olive Novelty Glasses IV
+421	Green Novelty Glasses IV
+422	Gold Novelty Glasses 11
+423	Silver Novelty Glasses II
+424	Tan Novelty Glasses IV
+425	Gold Novelty Glasses 12
+426	Red Novelty Glasses VI
+427	Black Novelty Glasses II
+428	Orange Novelty Glasses V
+429	Black Novelty Glasses III
+430	Tan Novelty Glasses V
+431	Gray Novelty Glasses 16
+432	Tan Halloween Mask
+433	Gray Halloween Mask
+434	Brown Halloween Mask
+435	Brown Halloween Mask II
+436	Gray Halloween Mask II
+437	Tan Halloween Mask II
+438	Red Halloween Mask
+439	Tan Halloween Mask III
+440	Red Halloween Mask II
+441	Olive Halloween Mask
+442	Gray Halloween Mask III
+443	Olive Halloween Mask II
+444	Brown Halloween Mask III
+445	Silver Halloween Mask
+446	Tan Halloween Mask IV
+447	Brown Halloween Mask IV
+448	Brown Halloween Mask V
+449	Gray Halloween Mask IV
+450	Gray Halloween Mask V
+451	Olive Halloween Mask III
+452	Silver Halloween Mask II
+453	Orange Halloween Mask
+454	The Ninth Element
+455	30 Going On 13
+456	Fear of Clothing in Las Vegas
+457	Were We There?
+458	Mermaid of the Light
+459	A Doozy in Djibouti
+460	The Norwegian Candidate
+461	The Dark Night Shift
+462	Saving Private Brian
+463	The Silence of the Clams
+464	Gone with the Windbreaker
+465	Back to the Futon
+466	Titanic Two: The Iceberg Returns
+467	Planet of the Grapes
+468	Raiders of the Lost Bark
+469	Good Will Bunting
+470	The Wizard of Ozzie
+471	No Country for Young Men
+472	The Fast and the Curious
+473	Kung Fu Pandemonium
+474	The Grand Budapest Motel
+475	Mad Max: Furry Road
+476	Lord of the Kings
+477	Harry Potter and the Missing Sock
+478	The Social Notwork
+479	Avatar: The Way of Wetness
+480	Get Outta Here
+481	La La Landlord
+482	The Revenant Returns
+483	Bird Box Office
+484	A Quiet Place to Nap
+485	Top Gun: Maverick's Mom
+486	Do You Know the Way?
+487	Romeo & Juliet
+488	Night at the Mausoleum
+489	Bridesmaids of Honor
+490	The Notebook Pro
+491	Pirates of the Carry-On
+492	Men in Beige
+493	The Matrix Revolts
+494	The Incredible Sulk
+495	Paw Patrol: The Reckoning
+496	The Golden Pearls
+497	Seamstresses Who Thread
+498	Game of Phones
+499	The Office Party
+500	Friends with Benefits Package
+501	Grey's Autonomy
+502	The Walking Bread
+503	Better Call Paul
+504	Parks and Regulation
+505	How I Met Your Brother
+506	Two and a Half Mean Men
+507	Law & Ordering Takeout
+508	The Big Bang Thesis
+509	Sons of Anarchy Junior
+510	Squid Games Night
+511	The Crown Jewels
+512	Silver Lake Studios
+513	Harbor Light Pictures
+514	Golden Gate Films
+515	Summit Peak Films
+516	Channel Nine Network
+517	Liberty Broadcasting Company
+518	A Flight Attendant
+520	A Security Guard
+521	not worth watching past the title screen
+522	a crime against cinema
+523	two hours they will never get back
+524	a masterclass in what not to do
+525	perfectly fine popcorn fun
+526	forgettable, but harmless
+527	better than it had any right to be
+528	a decent way to spend a Friday night
+529	the cinematic equivalent of a warm hug
+530	an instant classic
+531	a career-defining triumph
+532	the best film of the year
+533	guild
+534	Stage Guild Award
+535	the Stage Guild
+536	reel
+537	Silver Reel Award
+538	the Film Critics Circle
+539	statue
+540	the Motion Picture Academy
+541	crystal
+542	Crystal Star Award
+543	the Television Academy
+544	laurel
+545	the Hall of Fame
+546	claims he discovered three Golden Statuette winners
+547	says he has the private number of every casting director in town
+548	promises to get you on a red carpet within a year
+549	used to be a child star himself
+550	acting
+551	function
+552	I became famous as {1} {2}.
+553	You are officially a famous {1}!
+554	Take acting classes
+555	Enroll in acting classes! You were born with a talent for this.
+556	Enroll in acting classes and learn the craft!
+557	Take an acting class
+558	I asked my parents for acting classes, but they said no.
+559	Your parents won't pay for acting classes right now.
+560	My parents signed me up for acting classes.
+561	Break a leg
+562	And... action!
+563	Method acting
+564	Scene study
+565	You practiced monologues and worked on your stage presence.
+566	You learned how to cry on command.
+567	You did improv games with your class.
+568	You studied script analysis and character work.
+569	Your teacher says you're a natural.
+570	I took an acting class.
+571	choice
+572	You're too young to act. Try acting classes when you're 5.
+573	none
+574	fame
+575	agent
+576	Find someone to represent you
+577	No more auditions this year
+578	{1} audition{2} left this year
+579	film
+580	Nothing filming right now
+581	practice
+582	You already practiced this year
+583	Rehearse on your own
+584	classes
+585	Improve your skill
+586	{1} people you've worked with
+587	awards
+588	No awards yet
+589	quit
+590	Walk away from the business
+591	open
+592	Directors call you one of the finest actors of your generation.
+593	You're a seriously skilled performer.
+594	You're getting good. Keep training.
+595	You're still learning the basics.
+596	You were born with a talent for acting.
+597	I practiced my lines.
+598	To be or not to be
+599	Running lines
+600	Mirror work
+601	You spent hours running monologues in front of a mirror.
+602	happy
+603	{1} has represented you since you were {2}.
+604	Fire them
+605	I fired my agent, {1} {2}.
+606	You fired {1}.
+607	Keep them
+608	No callbacks
+609	No agents are returning your calls this year.
+610	woman
+611	herself
+612	himself
+613	{1} {2} named {3} {4} has offered to represent you as your agent.
+614	{1} {2} if you hire {3}.
+615	Years of Experience
+616	I hired {1} {2} as my agent.
+617	{1} is your agent now. Expect better auditions.
+618	Turn {1} down
+619	I turned down a talent agent named {1} {2}.
+620	Casting this year
+621	a bit part
+622	the {1} role
+623	movie
+624	{1} is casting {2} of {3} in the {4} {5} '{6}'.
+625	Episodes per Season
+626	Too many auditions
+627	You've auditioned three times this year. Casting directors are getting tired of your face.
+628	I auditioned for the {1} role of {2} in '{3}'.
+629	Nailed it
+630	Standing ovation
+632	Fingers crossed
+633	Decent read
+634	Forgot your lines
+635	Rough day
+636	You auditioned for the role of {1} in '{2}'.
+637	I didn't get the part in '{1}'.
+638	Didn't get the part
+639	The casting director went with someone else.
+640	They said you weren't right for the part.
+641	They decided to go with a bigger name.
+642	You never heard back.
+644	They came to you. No audition needed.
+645	{1} has offered you a contract to play {2} in the {3} '{4}'.{5}
+646	Paid Up Front
+648	I was cast as {1} in the {2} '{3}' and got paid {4} up front.
+649	You got the part!
+650	(after your agent's {1} cut)
+651	You'll be playing {1} in '{2}'. Filming starts right away.
+652	{1} was paid up front{2}.
+653	First Day on Set
+654	, who you definitely recognize from TV
+655	You meet your co-star {1} {2}{3}.
+656	Your director, {1} {2}, walks you around set.{3}
+657	{1} cast and crew members were added to your Co-workers.
+658	Introduce yourself to everyone
+659	Good first impression
+660	Everyone on set seems to like you.
+661	Go straight to your trailer
+662	People are already whispering that you think you're too good for them.
+663	Taking this role means quitting your job as {1}. Continue?
+664	I quit my job as {1} to act.
+666	I turned down a role in '{1}'.
+667	Your performance as {1} in '{2}' made you a household name.
+668	Your performance as {1} in '{2}' made you a household name. Everyone knows your face now.
+669	a smash hit
+670	a commercial success
+671	a modest performer
+672	a box office flop
+673	Season {1} of my TV show '{2}' aired.
+674	My movie '{1}' came out and was {2}.
+675	Season {1} of your TV show
+676	Your movie
+677	a hit with viewers
+678	You earned a {1} box office bonus!
+679	Critics called it {1}.{2}
+680	'{1}' ended its run.
+681	My TV show '{1}' was cancelled.
+682	'{1}' was renewed for season {2}! {3} wants you back as {4}.
+683	Sign on for another season
+684	I signed on for season {1} of '{2}' for {3}.
+685	Back to work
+686	You signed on for season {1} and got {2} up front.
+687	Leave the show
+688	I left the TV show '{1}'.
+689	Written off
+690	The writers killed off {1} in a dramatic season finale.
+691	Best Supporting Actress
+692	Best Supporting Actor
+693	I won the {1} for {2} for '{3}'.
+694	The Hall of Fame honored you with the Lifetime Laurel for an extraordinary career.
+695	You won the {1} for {2} for your portrayal of {3} in '{4}'!
+697	'{1}' came out {2}.
+698	'{1}' is still filming.
+699	Years Since Release
+700	Box Office Success
+701	Filming now · comes out next year
+702	No awards
+703	Your trophy shelf is empty.
+704	Collectors will pay a nice price for it.
+705	Film collectors would pay good money for it.
+706	This one is worth a lot to the right collector.
+707	This is the most valuable award in show business. Collectors would pay a fortune.
+708	There are only a handful of these in the world. It's priceless... almost.
+709	You won this for {1}{2} when you were {3}.
+710	Sell it to a collector
+711	Sell your {1} for {2}? You can't get it back.
+712	I sold my {1} for {2} to a collector for {3}.
+713	Some fans think it's tacky that you sold it.
+714	A collector bought your {1} for {2}.{3}
+715	Keep it on the shelf
+716	face
+717	{1}'s pretty famous.
+718	You worked with {1} on '{2}'.{3}
+719	Hang out
+720	{1} is busy. Maybe next year.
+721	I hung out with {1} {2}, who I worked with on '{3}'.
+722	Hung out
+723	You grabbed drinks with {1} and swapped set stories.
+724	You and {1} went to a premiere together.
+725	{1} showed you around {2} favorite restaurant.
+726	Ask for acting advice
+728	{1} already gave you advice this year.
+729	Good advice
+730	{1} gave you some great notes on your craft.
+731	Become friends
+733	{1} doesn't seem that into hanging out with you.
+734	I became friends with {1} {2}, who I met on set.
+735	New friend
+736	You and {1} are friends now. {2}'s in your Relationships.
+737	Are you sure you want to walk away from acting?
+738	I quit acting.
+739	You walked away from acting. You can always come back through Special Careers.
+740	{1} movie{2} and shows
+741	{1} trophies on your shelf
+742	New Kid at School
+743	Spelling Bee Contestant
+744	Kid in the Cafeteria
+745	Talent Show Kid
+746	Pizza Delivery Kid
+747	Science Fair Rival
+748	Kid at the Mall
+749	Kid in the Crowd
+750	Kid on the Bus
+751	Kid at the Party
+752	Kid Running Away
+753	style
+756	20th Century Studios
+757	{1} Goes Viral
+759	{1} in Charge
+760	{1} and the {2}
+761	The Last Summer at {1}
+762	Return to {1}
+763	{1} {2}: The Movie
+764	Escape from {1}
+765	Also starring
+766	New cast member
+767	Casting Calls · {1} · {2} audition{3} left
+768	{1} shows casting kids right now
+769	No kids' shows are casting this year
+770	movies
+771	{1} movie{2} casting kids right now
+772	No kids' movies are casting this year
+773	roles
+774	You're not working on anything
+775	You're working on this
+776	Already auditioned this year
+777	Nothing casting
+778	No {1} shows are on the air in {2}.
+779	Everyone is talking about this show right now.
+780	{1}'s {2} '{3}' is filming season {4} and the casting office is looking for kids.{5}
+781	On the Air Since
+782	{1} #{2} highest paying
+783	Guest star in an episode
+784	guest
+785	Try out for a recurring role
+786	Try out for a series regular
+787	main
+788	Casting now
+789	Everyone in Hollywood is talking about this one.
+790	{1} is casting kids for the {2} movie '{3}', coming to theaters in {4}.{5}
+791	Be a background extra
+792	background
+793	Try out for a supporting role
+794	supporting
+795	Try out for the lead
+796	lead
+797	No more auditions
+798	Your parents say three auditions a year is plenty with school.
+799	I asked to audition for {1} {2} in '{3}'.
+800	The casting office for '{1}' never called me back.
+801	No callback
+802	The casting office for '{1}' never called you back.
+803	They said they already saw hundreds of kids for that part.
+804	Your headshot ended up at the bottom of a very tall pile.
+805	They're looking for someone with more experience.
+806	You got an audition!
+807	the part of
+808	the role of
+809	The casting office for '{1}' called you in to read for {2} {3} ({4}).
+810	You walk into a small room. The casting director hands you the script and says, "Whenever you're ready, sweetie."
+811	Read it exactly as written
+812	Throw in a funny ad-lib

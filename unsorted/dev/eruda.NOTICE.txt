@@ -1,0 +1,2 @@
+Eruda 3.4.1 (MIT license), https://github.com/liriliri/eruda
+In-page DevTools, loaded only when you press Ctrl+Shift+S (see devtools.js). Not shipped in the mobile build (dev/ is skipped).

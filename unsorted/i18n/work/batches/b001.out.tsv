@@ -1,0 +1,800 @@
+1	Gorra de béisbol naranja	Boné de beisebol laranja
+2	Gorra de béisbol verde azulado	Boné de beisebol verde-azulado
+3	Gorra de béisbol azul	Boné de beisebol azul
+4	Gorra de béisbol azul marino	Boné de beisebol azul-marinho
+5	Gorra de béisbol azul marino II	Boné de beisebol azul-marinho II
+6	Gorra de béisbol rosa	Boné de beisebol rosa
+7	Gorra de béisbol rosa II	Boné de beisebol rosa II
+8	Gorra de béisbol lavanda	Boné de beisebol lavanda
+9	Gorra de béisbol celeste	Boné de beisebol azul-celeste
+10	Gorra de béisbol celeste II	Boné de beisebol azul-celeste II
+11	Gorra de béisbol plateada	Boné de beisebol prateado
+12	Gorra de béisbol roja	Boné de beisebol vermelho
+13	Gorra de béisbol verde oliva	Boné de beisebol verde-oliva
+14	Gorro azul marino II	Gorro azul-marinho II
+15	Gorro azul marino III	Gorro azul-marinho III
+16	Gorro azul marino IV	Gorro azul-marinho IV
+17	Gorro azul marino V	Gorro azul-marinho V
+19	Gorro plateado II	Gorro prateado II
+20	Gorro plateado III	Gorro prateado III
+21	Gorro gris II	Gorro cinza II
+22	Gorro gris III	Gorro cinza III
+23	Gorro granate II	Gorro bordô II
+24	Gorro marrón II	Gorro marrom II
+25	Gorro azul marino VII	Gorro azul-marinho VII
+26	Gorro azul marino VIII	Gorro azul-marinho VIII
+27	Gorro azul marino IX	Gorro azul-marinho IX
+28	Gorro azul marino X	Gorro azul-marinho X
+29	Gorro gris IV	Gorro cinza IV
+30	Gorro granate III	Gorro bordô III
+31	Gorro rosa II	Gorro rosa II
+32	Gorro rosa III	Gorro rosa III
+33	Gorro celeste	Gorro azul-celeste
+34	Gorro verde azulado II	Gorro verde-azulado II
+35	Gorro gris V	Gorro cinza V
+36	Gorro gris VI	Gorro cinza VI
+37	Gorro verde azulado III	Gorro verde-azulado III
+38	Gorro plateado IV	Gorro prateado IV
+39	Gorro granate IV	Gorro bordô IV
+40	Gorro morado II	Gorro roxo II
+41	Gorro verde azulado IV	Gorro verde-azulado IV
+42	Gorro plateado V	Gorro prateado V
+43	Gorro marrón III	Gorro marrom III
+44	Gorra tipo periodista granate	Boina de jornaleiro bordô
+45	Gorra tipo periodista verde oliva	Boina de jornaleiro verde-oliva
+46	Gorra tipo periodista azul marino	Boina de jornaleiro azul-marinho
+47	Gorra tipo periodista azul marino II	Boina de jornaleiro azul-marinho II
+48	Gorra tipo periodista roja	Boina de jornaleiro vermelha
+49	Gorra tipo periodista morada	Boina de jornaleiro roxa
+50	Gorra tipo periodista verde azulada	Boina de jornaleiro verde-azulada
+51	Gorra tipo periodista verde	Boina de jornaleiro verde
+52	Gorra tipo periodista marrón	Boina de jornaleiro marrom
+53	Gorra tipo periodista roja II	Boina de jornaleiro vermelha II
+54	Gorra tipo periodista gris	Boina de jornaleiro cinza
+55	Gorra tipo periodista azul marino III	Boina de jornaleiro azul-marinho III
+56	Gorra tipo periodista verde oliva II	Boina de jornaleiro verde-oliva II
+57	Gorra tipo periodista plateada	Boina de jornaleiro prateada
+58	Gorra tipo periodista rosa	Boina de jornaleiro rosa
+59	Gorra tipo periodista lavanda	Boina de jornaleiro lavanda
+60	Gorra tipo periodista azul marino IV	Boina de jornaleiro azul-marinho IV
+61	Gorra tipo periodista azul marino V	Boina de jornaleiro azul-marinho V
+62	Gorra tipo periodista granate II	Boina de jornaleiro bordô II
+63	Gorra tipo periodista azul marino VI	Boina de jornaleiro azul-marinho VI
+64	Gorra tipo periodista verde azulada II	Boina de jornaleiro verde-azulada II
+65	Gorra tipo periodista marrón II	Boina de jornaleiro marrom II
+66	Gorra tipo periodista verde II	Boina de jornaleiro verde II
+67	Gorra tipo periodista gris II	Boina de jornaleiro cinza II
+68	Sombrero de pescador beige	Chapéu de pescador bege
+69	Sombrero de pescador gris	Chapéu de pescador cinza
+70	Sombrero de pescador gris II	Chapéu de pescador cinza II
+71	Sombrero de pescador gris III	Chapéu de pescador cinza III
+72	Sombrero de pescador gris IV	Chapéu de pescador cinza IV
+73	Sombrero de pescador rosa	Chapéu de pescador rosa
+74	Sombrero de pescador lavanda	Chapéu de pescador lavanda
+75	Sombrero de pescador plateado	Chapéu de pescador prateado
+76	Sombrero de pescador rosa II	Chapéu de pescador rosa II
+77	Sombrero de pescador celeste	Chapéu de pescador azul-celeste
+78	Sombrero de pescador rojo	Chapéu de pescador vermelho
+79	Sombrero de pescador morado	Chapéu de pescador roxo
+80	Sombrero de pescador morado II	Chapéu de pescador roxo II
+81	Sombrero de pescador gris V	Chapéu de pescador cinza V
+82	Sombrero de pescador gris VI	Chapéu de pescador cinza VI
+83	Sombrero de pescador rojo II	Chapéu de pescador vermelho II
+84	Sombrero de pescador morado III	Chapéu de pescador roxo III
+85	Sombrero de pescador gris VII	Chapéu de pescador cinza VII
+86	Sombrero de pescador gris VIII	Chapéu de pescador cinza VIII
+87	Sombrero de pescador gris IX	Chapéu de pescador cinza IX
+88	Sombrero de pescador gris X	Chapéu de pescador cinza X
+89	Sombrero fedora rojo II	Chapéu fedora vermelho II
+90	Sombrero fedora gris II	Chapéu fedora cinza II
+91	Sombrero fedora gris III	Chapéu fedora cinza III
+92	Sombrero fedora lavanda II	Chapéu fedora lavanda II
+93	Sombrero fedora negro II	Chapéu fedora preto II
+94	Sombrero fedora gris IV	Chapéu fedora cinza IV
+95	Sombrero fedora beige II	Chapéu fedora bege II
+96	Sombrero fedora beige III	Chapéu fedora bege III
+97	Sombrero fedora beige IV	Chapéu fedora bege IV
+98	Sombrero fedora rosa II	Chapéu fedora rosa II
+99	Sombrero fedora lavanda III	Chapéu fedora lavanda III
+100	Sombrero fedora verde II	Chapéu fedora verde II
+101	Sombrero fedora negro III	Chapéu fedora preto III
+102	Sombrero fedora azul marino II	Chapéu fedora azul-marinho II
+103	Sombrero fedora azul marino III	Chapéu fedora azul-marinho III
+104	Sombrero fedora azul marino IV	Chapéu fedora azul-marinho IV
+105	Sombrero fedora verde III	Chapéu fedora verde III
+106	Sombrero fedora plateado II	Chapéu fedora prateado II
+107	Sombrero fedora granate II	Chapéu fedora bordô II
+108	Sombrero fedora beige V	Chapéu fedora bege V
+109	Sombrero fedora verde oliva II	Chapéu fedora verde-oliva II
+110	Sombrero fedora gris V	Chapéu fedora cinza V
+111	Sombrero fedora beige VI	Chapéu fedora bege VI
+112	Sombrero fedora beige VII	Chapéu fedora bege VII
+113	Sombrero fedora beige VIII	Chapéu fedora bege VIII
+114	Sombrero fedora beige IX	Chapéu fedora bege IX
+115	Sombrero fedora gris VI	Chapéu fedora cinza VI
+116	Sombrero fedora gris VII	Chapéu fedora cinza VII
+117	Sombrero fedora negro IV	Chapéu fedora preto IV
+118	Sombrero fedora marrón II	Chapéu fedora marrom II
+119	Turbante negro II	Turbante preto II
+120	Turbante negro III	Turbante preto III
+121	Turbante negro IV	Turbante preto IV
+122	Turbante granate II	Turbante bordô II
+123	Sombrero de fantasía negro	Chapéu de fantasia preto
+124	Sombrero de fantasía marrón	Chapéu de fantasia marrom
+125	Sombrero de fantasía marrón II	Chapéu de fantasia marrom II
+126	Sombrero de fantasía marrón III	Chapéu de fantasia marrom III
+127	Sombrero de fantasía amarillo	Chapéu de fantasia amarelo
+128	Sombrero de fantasía gris	Chapéu de fantasia cinza
+129	Sombrero de fantasía morado	Chapéu de fantasia roxo
+130	Sombrero de fantasía gris II	Chapéu de fantasia cinza II
+131	Sombrero de fantasía verde azulado	Chapéu de fantasia verde-azulado
+132	Sombrero de fantasía verde oliva	Chapéu de fantasia verde-oliva
+133	Sombrero de fantasía azul marino	Chapéu de fantasia azul-marinho
+134	Sombrero de fantasía verde	Chapéu de fantasia verde
+135	Sombrero de fantasía rojo	Chapéu de fantasia vermelho
+136	Sombrero de fantasía verde azulado II	Chapéu de fantasia verde-azulado II
+137	Sombrero de fantasía rojo II	Chapéu de fantasia vermelho II
+138	Sombrero de fantasía marrón IV	Chapéu de fantasia marrom IV
+139	Sombrero de fantasía azul marino II	Chapéu de fantasia azul-marinho II
+140	Sombrero de fantasía marrón V	Chapéu de fantasia marrom V
+141	Sombrero de fantasía verde oliva II	Chapéu de fantasia verde-oliva II
+142	Sombrero de fantasía granate	Chapéu de fantasia bordô
+143	Sombrero de fantasía negro II	Chapéu de fantasia preto II
+144	Sombrero de fantasía blanco	Chapéu de fantasia branco
+145	Sombrero de fantasía gris III	Chapéu de fantasia cinza III
+146	Sombrero de fantasía marrón VI	Chapéu de fantasia marrom VI
+147	Sombrero de fantasía gris IV	Chapéu de fantasia cinza IV
+148	Sombrero de fantasía beige	Chapéu de fantasia bege
+149	Sombrero de fantasía beige II	Chapéu de fantasia bege II
+150	Sombrero de fantasía negro III	Chapéu de fantasia preto III
+151	Sombrero de fantasía negro IV	Chapéu de fantasia preto IV
+152	Sombrero de fantasía beige III	Chapéu de fantasia bege III
+153	Sombrero de fantasía granate II	Chapéu de fantasia bordô II
+154	Sombrero de fantasía verde II	Chapéu de fantasia verde II
+155	Sombrero de fantasía verde oliva III	Chapéu de fantasia verde-oliva III
+156	Sombrero de fantasía verde oliva IV	Chapéu de fantasia verde-oliva IV
+157	Sombrero de fantasía verde oliva V	Chapéu de fantasia verde-oliva V
+158	Sombrero de fantasía marrón VII	Chapéu de fantasia marrom VII
+159	Sombrero de fantasía gris V	Chapéu de fantasia cinza V
+160	Sombrero de fantasía beige IV	Chapéu de fantasia bege IV
+161	Sombrero de fantasía dorado	Chapéu de fantasia dourado
+162	Sombrero de fantasía negro V	Chapéu de fantasia preto V
+163	Sombrero de fantasía gris VI	Chapéu de fantasia cinza VI
+164	Sombrero de fantasía marrón VIII	Chapéu de fantasia marrom VIII
+165	Sombrero de fantasía gris VII	Chapéu de fantasia cinza VII
+166	Sombrero de fantasía marrón IX	Chapéu de fantasia marrom IX
+167	Sombrero de fantasía verde oliva VI	Chapéu de fantasia verde-oliva VI
+168	Sombrero de fantasía negro VI	Chapéu de fantasia preto VI
+169	Sombrero de fantasía azul marino III	Chapéu de fantasia azul-marinho III
+170	Sombrero de fantasía marrón X	Chapéu de fantasia marrom X
+171	Sombrero de fantasía gris VIII	Chapéu de fantasia cinza VIII
+172	Sombrero de fantasía gris IX	Chapéu de fantasia cinza IX
+173	Sombrero de fantasía beige V	Chapéu de fantasia bege V
+174	Sombrero de fantasía azul marino IV	Chapéu de fantasia azul-marinho IV
+175	Sombrero de fantasía plateado	Chapéu de fantasia prateado
+176	Sombrero de fantasía gris X	Chapéu de fantasia cinza X
+177	Sombrero de fantasía gris 11	Chapéu de fantasia cinza 11
+178	Sombrero de fantasía marrón 11	Chapéu de fantasia marrom 11
+179	Sombrero de fantasía granate III	Chapéu de fantasia bordô III
+180	Sombrero de fantasía azul marino V	Chapéu de fantasia azul-marinho V
+181	Sombrero de fantasía azul marino VI	Chapéu de fantasia azul-marinho VI
+182	Sombrero de fantasía beige VI	Chapéu de fantasia bege VI
+183	Sombrero de fantasía beige VII	Chapéu de fantasia bege VII
+184	Sombrero de fantasía naranja	Chapéu de fantasia laranja
+185	Sombrero de fantasía naranja II	Chapéu de fantasia laranja II
+186	Sombrero de fantasía verde oliva VII	Chapéu de fantasia verde-oliva VII
+187	Sombrero de fantasía granate IV	Chapéu de fantasia bordô IV
+188	Sombrero de fantasía celeste	Chapéu de fantasia azul-celeste
+189	Sombrero de fantasía marrón 12	Chapéu de fantasia marrom 12
+190	Sombrero de fantasía gris 12	Chapéu de fantasia cinza 12
+191	Sombrero de fantasía marrón 13	Chapéu de fantasia marrom 13
+192	Sombrero de fantasía beige VIII	Chapéu de fantasia bege VIII
+193	Sombrero de fantasía beige IX	Chapéu de fantasia bege IX
+194	Sombrero de fantasía rojo III	Chapéu de fantasia vermelho III
+195	Sombrero de fantasía gris 13	Chapéu de fantasia cinza 13
+196	Sombrero de fantasía verde oliva VIII	Chapéu de fantasia verde-oliva VIII
+197	Sombrero de fantasía verde III	Chapéu de fantasia verde III
+198	Sombrero de fantasía beige X	Chapéu de fantasia bege X
+199	Sombrero de fantasía rosa	Chapéu de fantasia rosa
+200	Sombrero de fantasía beige 11	Chapéu de fantasia bege 11
+201	Sombrero de fantasía naranja III	Chapéu de fantasia laranja III
+202	Sombrero de fantasía negro VII	Chapéu de fantasia preto VII
+203	Sombrero de fantasía negro VIII	Chapéu de fantasia preto VIII
+204	Sombrero de fantasía negro IX	Chapéu de fantasia preto IX
+205	Sombrero de fantasía naranja IV	Chapéu de fantasia laranja IV
+206	Sombrero de fantasía beige 12	Chapéu de fantasia bege 12
+207	Corona del rey	Coroa do rei
+208	Peluca de juez	Peruca de juiz
+209	Corona del príncipe	Coroa do príncipe
+210	Corona de príncipe plateada	Coroa de príncipe prateada
+211	Peluca de abogado	Peruca de advogado
+212	Lentes redondos marrones	Óculos redondos marrons
+213	Lentes redondos grises	Óculos redondos cinza
+214	Lentes redondos grises II	Óculos redondos cinza II
+215	Lentes redondos grises III	Óculos redondos cinza III
+216	Lentes redondos grises IV	Óculos redondos cinza IV
+217	Lentes redondos grises V	Óculos redondos cinza V
+218	Lentes redondos grises VI	Óculos redondos cinza VI
+219	Lentes redondos grises VII	Óculos redondos cinza VII
+220	Lentes redondos grises VIII	Óculos redondos cinza VIII
+221	Lentes redondos rosas	Óculos redondos rosa
+222	Lentes redondos celestes	Óculos redondos azul-celeste
+223	Lentes redondos celestes II	Óculos redondos azul-celeste II
+224	Lentes redondos marrones II	Óculos redondos marrons II
+225	Lentes redondos plateados	Óculos redondos prateados
+226	Lentes redondos grises IX	Óculos redondos cinza IX
+227	Lentes redondos grises X	Óculos redondos cinza X
+228	Lentes redondos beige	Óculos redondos bege
+229	Lentes redondos rosas II	Óculos redondos rosa II
+230	Lentes redondos verde azulados	Óculos redondos verde-azulados
+231	Lentes redondos plateados II	Óculos redondos prateados II
+232	Lentes redondos plateados III	Óculos redondos prateados III
+233	Lentes redondos rojos	Óculos redondos vermelhos
+234	Lentes redondos rosas III	Óculos redondos rosa III
+235	Lentes aviador azules II	Óculos aviador azuis II
+236	Lentes aviador beige II	Óculos aviador bege II
+237	Lentes aviador celestes	Óculos aviador azul-celeste
+238	Lentes aviador azules III	Óculos aviador azuis III
+239	Lentes aviador morados II	Óculos aviador roxos II
+240	Lentes aviador morados III	Óculos aviador roxos III
+241	Lentes aviador beige III	Óculos aviador bege III
+242	Lentes aviador grises II	Óculos aviador cinza II
+243	Lentes aviador grises III	Óculos aviador cinza III
+244	Lentes aviador grises IV	Óculos aviador cinza IV
+245	Lentes aviador verde oliva II	Óculos aviador verde-oliva II
+246	Lentes aviador verde oliva III	Óculos aviador verde-oliva III
+247	Lentes aviador morados IV	Óculos aviador roxos IV
+248	Lentes aviador verde azulados II	Óculos aviador verde-azulados II
+249	Lentes aviador grises V	Óculos aviador cinza V
+250	Lentes aviador verdes II	Óculos aviador verdes II
+251	Lentes aviador marrones II	Óculos aviador marrons II
+252	Lentes aviador granates II	Óculos aviador bordô II
+253	Lentes aviador marrones III	Óculos aviador marrons III
+254	Lentes aviador azul marino II	Óculos aviador azul-marinho II
+255	Lentes aviador verde oliva IV	Óculos aviador verde-oliva IV
+256	Lentes aviador verde oliva V	Óculos aviador verde-oliva V
+257	Lentes aviador azul marino III	Óculos aviador azul-marinho III
+258	Lentes aviador marrones IV	Óculos aviador marrons IV
+259	Lentes aviador granates III	Óculos aviador bordô III
+260	Lentes aviador negros II	Óculos aviador pretos II
+261	Lentes aviador marrones V	Óculos aviador marrons V
+262	Lentes aviador azul marino IV	Óculos aviador azul-marinho IV
+263	Lentes aviador azul marino V	Óculos aviador azul-marinho V
+264	Lentes aviador azul marino VI	Óculos aviador azul-marinho VI
+265	Lentes aviador verde oliva VI	Óculos aviador verde-oliva VI
+266	Lentes aviador marrones VI	Óculos aviador marrons VI
+267	Lentes aviador azul marino VII	Óculos aviador azul-marinho VII
+268	Lentes aviador negros III	Óculos aviador pretos III
+269	Lentes aviador azul marino VIII	Óculos aviador azul-marinho VIII
+270	Lentes aviador marrones VII	Óculos aviador marrons VII
+271	Lentes aviador azul marino IX	Óculos aviador azul-marinho IX
+272	Lentes aviador marrones VIII	Óculos aviador marrons VIII
+273	Lentes aviador marrones IX	Óculos aviador marrons IX
+274	Lentes aviador azul marino X	Óculos aviador azul-marinho X
+275	Lentes aviador marrones X	Óculos aviador marrons X
+276	Lentes aviador azul marino 11	Óculos aviador azul-marinho 11
+277	Lentes aviador grises VI	Óculos aviador cinza VI
+278	Lentes aviador marrones 11	Óculos aviador marrons 11
+279	Lentes aviador azul marino 12	Óculos aviador azul-marinho 12
+280	Lentes aviador azul marino 13	Óculos aviador azul-marinho 13
+281	Lentes aviador granates IV	Óculos aviador bordô IV
+282	Lentes aviador grises VII	Óculos aviador cinza VII
+283	Lentes aviador marrones 12	Óculos aviador marrons 12
+284	Lentes aviador verde oliva VII	Óculos aviador verde-oliva VII
+285	Lentes de sol oversize grises	Óculos de sol oversized cinza
+286	Lentes de sol oversize verde azulados	Óculos de sol oversized verde-azulados
+287	Lentes de sol oversize morados	Óculos de sol oversized roxos
+288	Lentes de sol oversize rojos	Óculos de sol oversized vermelhos
+289	Lentes de sol oversize verde azulados II	Óculos de sol oversized verde-azulados II
+290	Lentes de sol oversize verde azulados III	Óculos de sol oversized verde-azulados III
+291	Lentes de sol oversize azul marino	Óculos de sol oversized azul-marinho
+292	Lentes de sol oversize marrones	Óculos de sol oversized marrons
+293	Lentes de sol oversize azul marino II	Óculos de sol oversized azul-marinho II
+294	Lentes de sol oversize azul marino III	Óculos de sol oversized azul-marinho III
+295	Lentes de sol oversize grises II	Óculos de sol oversized cinza II
+296	Lentes de sol oversize grises III	Óculos de sol oversized cinza III
+297	Lentes de sol oversize verde oliva	Óculos de sol oversized verde-oliva
+298	Lentes de sol oversize azul marino IV	Óculos de sol oversized azul-marinho IV
+299	Lentes de sol oversize grises IV	Óculos de sol oversized cinza IV
+300	Lentes de sol oversize marrones II	Óculos de sol oversized marrons II
+301	Lentes de sol oversize azul marino V	Óculos de sol oversized azul-marinho V
+302	Lentes de sol oversize grises V	Óculos de sol oversized cinza V
+303	Lentes de sol oversize grises VI	Óculos de sol oversized cinza VI
+304	Lentes de sol oversize naranjas	Óculos de sol oversized laranja
+305	Lentes de sol oversize verde azulados IV	Óculos de sol oversized verde-azulados IV
+306	Lentes de sol oversize azul marino VI	Óculos de sol oversized azul-marinho VI
+307	Lentes de sol oversize grises VII	Óculos de sol oversized cinza VII
+308	Lentes de sol oversize morados II	Óculos de sol oversized roxos II
+309	Lentes de sol oversize azul marino VII	Óculos de sol oversized azul-marinho VII
+310	Lentes de sol oversize morados III	Óculos de sol oversized roxos III
+311	Lentes Wayfarer azul marino II	Óculos Wayfarer azul-marinho II
+312	Lentes Wayfarer grises II	Óculos Wayfarer cinza II
+313	Lentes Wayfarer azul marino III	Óculos Wayfarer azul-marinho III
+314	Lentes Wayfarer marrones II	Óculos Wayfarer marrom II
+315	Lentes Wayfarer grises III	Óculos Wayfarer cinza III
+316	Lentes Wayfarer grises IV	Óculos Wayfarer cinza IV
+317	Lentes de ojo de gato azul marino	Óculos cat-eye azul-marinho
+318	Lentes de ojo de gato marrones	Óculos cat-eye marrom
+319	Lentes de ojo de gato azul marino II	Óculos cat-eye azul-marinho II
+320	Lentes de ojo de gato granates	Óculos cat-eye bordô
+321	Lentes de ojo de gato azul marino III	Óculos cat-eye azul-marinho III
+322	Lentes de ojo de gato granates II	Óculos cat-eye bordô II
+323	Lentes de ojo de gato azul marino IV	Óculos cat-eye azul-marinho IV
+324	Lentes de ojo de gato azul marino V	Óculos cat-eye azul-marinho V
+325	Lentes de ojo de gato marrones II	Óculos cat-eye marrom II
+326	Lentes de ojo de gato azul marino VI	Óculos cat-eye azul-marinho VI
+327	Lentes de ojo de gato rosas	Óculos cat-eye rosa
+328	Lentes de ojo de gato lavanda	Óculos cat-eye lavanda
+329	Lentes de ojo de gato grises	Óculos cat-eye cinza
+330	Lentes de ojo de gato azul marino VII	Óculos cat-eye azul-marinho VII
+331	Lentes de ojo de gato verde oliva	Óculos cat-eye verde-oliva
+332	Lentes de ojo de gato rojos	Óculos cat-eye vermelhos
+333	Lentes de ojo de gato grises II	Óculos cat-eye cinza II
+334	Lentes de ojo de gato morados	Óculos cat-eye roxos
+335	Lentes de ojo de gato verdes	Óculos cat-eye verdes
+336	Lentes de ojo de gato grises III	Óculos cat-eye cinza III
+337	Lentes de ojo de gato grises IV	Óculos cat-eye cinza IV
+338	Lentes de ojo de gato grises V	Óculos cat-eye cinza V
+339	Lentes de ojo de gato verde azulados	Óculos cat-eye verde-azulados
+340	Lentes de ojo de gato marrones III	Óculos cat-eye marrom III
+341	Lentes de ojo de gato morados II	Óculos cat-eye roxos II
+342	Lentes de ojo de gato negros	Óculos cat-eye pretos
+343	Lentes de ojo de gato negros II	Óculos cat-eye pretos II
+344	Lentes de ojo de gato grises VI	Óculos cat-eye cinza VI
+345	Lentes de ojo de gato grises VII	Óculos cat-eye cinza VII
+346	Lentes de ojo de gato negros III	Óculos cat-eye pretos III
+347	Lentes de ojo de gato negros IV	Óculos cat-eye pretos IV
+348	Lentes de ojo de gato negros V	Óculos cat-eye pretos V
+349	Lentes de fantasía verde azulados	Óculos de fantasia verde-azulados
+350	Lentes de fantasía grises	Óculos de fantasia cinza
+351	Lentes de fantasía rosas	Óculos de fantasia rosa
+352	Lentes de fantasía granates	Óculos de fantasia bordô
+353	Lentes de fantasía verde azulados II	Óculos de fantasia verde-azulados II
+354	Lentes de fantasía verdes	Óculos de fantasia verdes
+355	Lentes de fantasía grises II	Óculos de fantasia cinza II
+356	Lentes de fantasía grises III	Óculos de fantasia cinza III
+357	Lentes de fantasía grises IV	Óculos de fantasia cinza IV
+358	Lentes de fantasía rosas II	Óculos de fantasia rosa II
+359	Lentes de fantasía grises V	Óculos de fantasia cinza V
+360	Lentes de fantasía rojos	Óculos de fantasia vermelhos
+361	Lentes de fantasía morados	Óculos de fantasia roxos
+362	Lentes de fantasía beige	Óculos de fantasia bege
+363	Lentes de fantasía verde azulados III	Óculos de fantasia verde-azulados III
+364	Lentes de fantasía celestes	Óculos de fantasia azul-celeste
+365	Lentes de fantasía morados II	Óculos de fantasia roxos II
+366	Lentes de fantasía grises VI	Óculos de fantasia cinza VI
+367	Lentes de fantasía verdes II	Óculos de fantasia verdes II
+368	Lentes de fantasía verde azulados IV	Óculos de fantasia verde-azulados IV
+369	Lentes de fantasía dorados	Óculos de fantasia dourados
+370	Lentes de fantasía verde azulados V	Óculos de fantasia verde-azulados V
+371	Lentes de fantasía verde azulados VI	Óculos de fantasia verde-azulados VI
+372	Lentes de fantasía dorados II	Óculos de fantasia dourados II
+373	Lentes de fantasía rojos II	Óculos de fantasia vermelhos II
+374	Lentes de fantasía rosas III	Óculos de fantasia rosa III
+375	Lentes de fantasía dorados III	Óculos de fantasia dourados III
+376	Lentes de fantasía dorados IV	Óculos de fantasia dourados IV
+377	Lentes de fantasía verde azulados VII	Óculos de fantasia verde-azulados VII
+378	Lentes de fantasía beige II	Óculos de fantasia bege II
+379	Lentes de fantasía rojos III	Óculos de fantasia vermelhos III
+380	Lentes de fantasía morados III	Óculos de fantasia roxos III
+381	Lentes de fantasía dorados V	Óculos de fantasia dourados V
+382	Lentes de fantasía naranjas	Óculos de fantasia laranja
+383	Lentes de fantasía grises VII	Óculos de fantasia cinza VII
+384	Lentes de fantasía grises VIII	Óculos de fantasia cinza VIII
+385	Lentes de fantasía dorados VI	Óculos de fantasia dourados VI
+386	Lentes de fantasía grises IX	Óculos de fantasia cinza IX
+387	Lentes de fantasía azul marino	Óculos de fantasia azul-marinho
+388	Lentes de fantasía dorados VII	Óculos de fantasia dourados VII
+389	Lentes de fantasía azul marino II	Óculos de fantasia azul-marinho II
+390	Lentes de fantasía grises X	Óculos de fantasia cinza X
+391	Lentes de fantasía marrones	Óculos de fantasia marrons
+392	Lentes de fantasía marrones II	Óculos de fantasia marrons II
+393	Lentes de fantasía grises 11	Óculos de fantasia cinza 11
+394	Lentes de fantasía naranjas II	Óculos de fantasia laranja II
+395	Lentes de fantasía verde oliva	Óculos de fantasia verde-oliva
+396	Lentes de fantasía marrones III	Óculos de fantasia marrons III
+397	Lentes de fantasía beige III	Óculos de fantasia bege III
+398	Lentes de fantasía grises 12	Óculos de fantasia cinza 12
+399	Lentes de fantasía plateados	Óculos de fantasia prateados
+400	Lentes de fantasía morados IV	Óculos de fantasia roxos IV
+401	Lentes de fantasía rosas IV	Óculos de fantasia rosa IV
+402	Lentes de fantasía rosas V	Óculos de fantasia rosa V
+403	Lentes de fantasía verdes III	Óculos de fantasia verdes III
+404	Lentes de fantasía granates II	Óculos de fantasia bordô II
+405	Lentes de fantasía grises 13	Óculos de fantasia cinza 13
+406	Lentes de fantasía marrones IV	Óculos de fantasia marrons IV
+407	Lentes de fantasía verde oliva II	Óculos de fantasia verde-oliva II
+408	Lentes de fantasía dorados VIII	Óculos de fantasia dourados VIII
+409	Lentes de fantasía naranjas III	Óculos de fantasia laranja III
+410	Lentes de fantasía naranjas IV	Óculos de fantasia laranja IV
+411	Lentes de fantasía negros	Óculos de fantasia pretos
+412	Lentes de fantasía verde oliva III	Óculos de fantasia verde-oliva III
+413	Lentes de fantasía celestes II	Óculos de fantasia azul-celeste II
+414	Lentes de fantasía dorados IX	Óculos de fantasia dourados IX
+415	Lentes de fantasía grises 14	Óculos de fantasia cinza 14
+416	Lentes de fantasía dorados X	Óculos de fantasia dourados X
+417	Lentes de fantasía grises 15	Óculos de fantasia cinza 15
+418	Lentes de fantasía rojos IV	Óculos de fantasia vermelhos IV
+419	Lentes de fantasía rojos V	Óculos de fantasia vermelhos V
+420	Lentes de fantasía verde oliva IV	Óculos de fantasia verde-oliva IV
+421	Lentes de fantasía verdes IV	Óculos de fantasia verdes IV
+422	Lentes de fantasía dorados 11	Óculos de fantasia dourados 11
+423	Lentes de fantasía plateados II	Óculos de fantasia prateados II
+424	Lentes de fantasía beige IV	Óculos de fantasia bege IV
+425	Lentes de fantasía dorados 12	Óculos de fantasia dourados 12
+426	Lentes de fantasía rojos VI	Óculos de fantasia vermelhos VI
+427	Lentes de fantasía negros II	Óculos de fantasia pretos II
+428	Lentes de fantasía naranjas V	Óculos de fantasia laranja V
+429	Lentes de fantasía negros III	Óculos de fantasia pretos III
+430	Lentes de fantasía beige V	Óculos de fantasia bege V
+431	Lentes de fantasía grises 16	Óculos de fantasia cinza 16
+432	Máscara de Halloween beige	Máscara de Halloween bege
+433	Máscara de Halloween gris	Máscara de Halloween cinza
+434	Máscara de Halloween marrón	Máscara de Halloween marrom
+435	Máscara de Halloween marrón II	Máscara de Halloween marrom II
+436	Máscara de Halloween gris II	Máscara de Halloween cinza II
+437	Máscara de Halloween beige II	Máscara de Halloween bege II
+438	Máscara de Halloween roja	Máscara de Halloween vermelha
+439	Máscara de Halloween beige III	Máscara de Halloween bege III
+440	Máscara de Halloween roja II	Máscara de Halloween vermelha II
+441	Máscara de Halloween verde oliva	Máscara de Halloween verde-oliva
+442	Máscara de Halloween gris III	Máscara de Halloween cinza III
+443	Máscara de Halloween verde oliva II	Máscara de Halloween verde-oliva II
+444	Máscara de Halloween marrón III	Máscara de Halloween marrom III
+445	Máscara de Halloween plateada	Máscara de Halloween prateada
+446	Máscara de Halloween beige IV	Máscara de Halloween bege IV
+447	Máscara de Halloween marrón IV	Máscara de Halloween marrom IV
+448	Máscara de Halloween marrón V	Máscara de Halloween marrom V
+449	Máscara de Halloween gris IV	Máscara de Halloween cinza IV
+450	Máscara de Halloween gris V	Máscara de Halloween cinza V
+451	Máscara de Halloween verde oliva III	Máscara de Halloween verde-oliva III
+452	Máscara de Halloween plateada II	Máscara de Halloween prateada II
+453	Máscara de Halloween naranja	Máscara de Halloween laranja
+454	El Noveno Elemento	O Nono Elemento
+455	30 Pero Con Cabeza de 13	30 Com Cabeça de 13
+456	Miedo a la ropa en Las Vegas	Medo de roupa em Las Vegas
+457	¿Ya Estábamos Ahí?	Já Estávamos Lá?
+458	Sirena de la luz	Sereia da luz
+459	Un lío en Yibuti	Uma roubada em Djibuti
+460	El candidato noruego	O candidato norueguês
+461	El turno oscuro de noche	O turno noturno sombrio
+462	Rescatando al soldado Brian	Resgatando o soldado Brian
+463	El silencio de las almejas	O silêncio dos mariscos
+464	Lo que se llevó el rompevientos	E o corta-vento levou
+465	Regreso al futón	De volta para o futon
+466	Titanic 2: El iceberg regresa	Titanic 2: O iceberg volta
+467	El planeta de las uvas	O planeta das uvas
+468	En busca del ladrido perdido	Em busca do latido perdido
+469	El indomable Will Bunting	Gênio Indomável Will Bunting
+470	El mago de Ozzie	O mago de Ozzie
+471	No es país para jóvenes	Não é país para jovens
+472	Los rápidos y curiosos	Os rápidos e curiosos
+473	Kung Fu Pandemonio	Kung Fu Pandemônio
+474	El gran motel Budapest	O grande motel Budapeste
+475	Mad Max: Camino peludo	Mad Max: Estrada peluda
+476	El señor de los reyes	O senhor dos reis
+477	Harry Potter y el calcetín perdido	Harry Potter e a meia perdida
+478	La no-red social	A não-rede social
+479	Avatar: El camino de lo mojado	Avatar: O caminho do molhado
+480	Lárgate de aquí	Vai embora daqui
+481	La La Casero	Lá Lá Senhorio
+482	El renacido regresa	O renascido volta
+483	Taquilla de pájaros	Bilheteria de pássaros
+484	Un lugar tranquilo para dormir	Um lugar silencioso para cochilar
+485	Top Gun: La mamá de Maverick	Top Gun: A mãe do Maverick
+486	¿Sabes el camino?	Você sabe o caminho?
+487	Romeo y Julieta	Romeu e Julieta
+488	Una noche en el mausoleo	Uma noite no mausoléu
+489	Damas de honor	Madrinhas de honra
+490	El cuaderno Pro	O caderno Pro
+491	Piratas del equipaje de mano	Piratas da bagagem de mão
+492	Hombres de beige	Homens de bege
+493	Matrix se rebela	Matrix se revolta
+494	El increíble malhumorado	O incrível emburrado
+495	Paw Patrol: El ajuste de cuentas	Paw Patrol: O acerto de contas
+496	Las perlas doradas	As pérolas douradas
+497	Las costureras que enhebran	As costureiras que enfiam
+498	Juego de celulares	Jogo de celulares
+499	La fiesta de la oficina	A festa do escritório
+500	Amigos con beneficios incluidos	Amigos com benefícios inclusos
+501	Autonomía de Grey	Autonomia de Grey
+502	El pan caminante	O pão caminhante
+503	Better Call Paul	Better Call Paul
+504	Parques y regulación	Parques e regulamentação
+505	Cómo conocí a tu hermano	Como conheci seu irmão
+506	Dos hombres y medio malvados	Dois homens e meio malvados
+507	Ley y orden: comida para llevar	Lei e ordem: comida para viagem
+508	La tesis del Big Bang	A tese do Big Bang
+509	Sons of Anarchy Junior	Sons of Anarchy Junior
+510	Noche de juegos del calamar	Noite de jogos da lula
+511	Las joyas de la corona	As joias da coroa
+512	Silver Lake Studios	Silver Lake Studios
+513	Harbor Light Pictures	Harbor Light Pictures
+514	Golden Gate Films	Golden Gate Films
+515	Summit Peak Films	Summit Peak Films
+516	Channel Nine Network	Channel Nine Network
+517	Liberty Broadcasting Company	Liberty Broadcasting Company
+518	Un auxiliar de vuelo	Um comissário de bordo
+520	Un guardia de seguridad	Um segurança
+521	no vale la pena ver más allá de la pantalla de título	não vale a pena passar da tela de título
+522	un crimen contra el cine	um crime contra o cinema
+523	dos horas que nunca vas a recuperar	duas horas que você nunca vai recuperar
+524	una clase magistral de lo que no hay que hacer	uma aula magistral sobre o que não fazer
+525	diversión de palomitas perfectamente aceptable	diversão de pipoca perfeitamente aceitável
+526	olvidable, pero inofensiva	esquecível, mas inofensivo
+527	mejor de lo que tenía derecho a ser	melhor do que tinha direito de ser
+528	una buena forma de pasar un viernes por la noche	um jeito legal de passar uma sexta à noite
+529	el equivalente cinematográfico de un abrazo cálido	o equivalente cinematográfico de um abraço quentinho
+530	un clásico instantáneo	um clássico instantâneo
+531	un triunfo que define una carrera	um triunfo que define uma carreira
+532	la mejor película del año	o melhor filme do ano
+533	gremio	guilda
+534	Premio del Gremio Escénico	Prêmio da Guilda do Palco
+535	el Gremio Escénico	a Guilda do Palco
+536	carrete	bobina
+537	Premio Carrete de Plata	Prêmio Bobina de Prata
+538	el Círculo de Críticos de Cine	o Círculo de Críticos de Cinema
+539	estatuilla	estatueta
+540	la Academia del Cine	a Academia do Cinema
+541	cristal	cristal
+542	Premio Estrella de Cristal	Prêmio Estrela de Cristal
+543	la Academia de Televisión	a Academia de Televisão
+544	laurel	louro
+545	el Salón de la Fama	o Salão da Fama
+546	dice que descubrió a tres ganadores de la Estatuilla Dorada	diz que descobriu três vencedores da Estatueta Dourada
+547	dice que tiene el número privado de todos los directores de casting de la ciudad	diz que tem o número particular de todo diretor de elenco da cidade
+548	promete ponerte en la alfombra roja en menos de un año	promete colocar você no tapete vermelho em menos de um ano
+549	fue una estrella infantil en su momento	já foi uma estrela mirim
+550	actuación	atuação
+551	función	função
+552	Me volví famoso como {1} {2}.	Fiquei famoso como {1} {2}.
+553	¡Oficialmente eres un {1} famoso!	Oficialmente você é um {1} famoso!
+554	Toma clases de actuación	Faça aulas de atuação
+555	¡Inscríbete en clases de actuación! Naciste con talento para esto.	Matricule-se em aulas de atuação! Você nasceu com talento pra isso.
+556	¡Inscríbete en clases de actuación y aprende el oficio!	Matricule-se em aulas de atuação e aprenda o ofício!
+557	Toma una clase de actuación	Faça uma aula de atuação
+558	Les pedí a mis papás clases de actuación, pero dijeron que no.	Pedi aos meus pais aulas de atuação, mas eles disseram não.
+559	Tus papás no pagarán las clases de actuación por ahora.	Seus pais não vão pagar aulas de atuação agora.
+560	Mis papás me inscribieron en clases de actuación.	Meus pais me matricularam em aulas de atuação.
+561	¡Mucha mierda!	Quebre uma perna!
+562	¡Y... acción!	E... ação!
+563	Actuación de método	Atuação de método
+564	Estudio de escenas	Estudo de cenas
+565	Practicaste monólogos y trabajaste tu presencia escénica.	Você praticou monólogos e trabalhou sua presença de palco.
+566	Aprendiste a llorar cuando te lo pedían.	Você aprendeu a chorar quando mandavam.
+567	Hiciste juegos de improvisación con tu clase.	Você fez jogos de improviso com a turma.
+568	Estudiaste análisis de guion y trabajo de personaje.	Você estudou análise de roteiro e trabalho de personagem.
+569	Tu profe dice que naciste para esto.	Seu professor diz que você tem talento nato.
+570	Tomé una clase de actuación.	Fiz uma aula de atuação.
+571	elección	escolha
+572	Eres muy chico para actuar. Prueba clases de actuación cuando tengas 5.	Você é novo demais pra atuar. Tente aulas de atuação quando tiver 5.
+573	ninguno	nenhum
+574	fama	fama
+575	agente	agente
+576	Busca a alguien que te represente	Encontre alguém que te represente
+577	No más audiciones este año	Sem mais audições este ano
+578	Quedan {1} audición{2} este año	Restam {1} audição{2} este ano
+579	película	filme
+580	No hay nada rodando ahora	Nada sendo filmado agora
+581	práctica	prática
+582	Ya practicaste este año	Você já praticou este ano
+583	Ensaya por tu cuenta	Ensaie por conta própria
+584	clases	aulas
+585	Mejora tu habilidad	Melhore sua habilidade
+586	{1} personas con las que has trabajado	{1} pessoas com quem você trabalhou
+587	premios	prêmios
+588	Aún no hay premios	Ainda sem prêmios
+589	renunciar	largar
+590	Aléjate del negocio	Afaste-se do ramo
+591	abierto	aberto
+592	Los directores te llaman uno de los mejores actores de tu generación.	Os diretores dizem que você é um dos melhores atores da sua geração.
+593	Eres un intérprete muy talentoso.	Você é um intérprete muito talentoso.
+594	Vas mejorando. Sigue entrenando.	Você está melhorando. Continue treinando.
+595	Todavía estás aprendiendo lo básico.	Você ainda está aprendendo o básico.
+596	Naciste con talento para actuar.	Você nasceu com talento para atuar.
+597	Practiqué mis líneas.	Pratiquei minhas falas.
+598	Ser o no ser	Ser ou não ser
+599	Repasar líneas	Ensaiar falas
+600	Trabajo frente al espejo	Trabalho diante do espelho
+601	Pasaste horas ensayando monólogos frente al espejo.	Você passou horas ensaiando monólogos na frente do espelho.
+602	feliz	feliz
+603	{1} te representa desde que tenías {2}.	{1} representa você desde que você tinha {2}.
+604	Despídelo	Demita-o
+605	Despedí a mi agente, {1} {2}.	Demiti meu agente, {1} {2}.
+606	Despediste a {1}.	Você demitiu {1}.
+607	Quédatelo	Fique com ele
+608	Nadie te devuelve la llamada	Ninguém retorna suas ligações
+609	Ningún agente te devuelve las llamadas este año.	Nenhum agente retorna suas ligações este ano.
+610	mujer	mulher
+611	ella misma	ela mesma
+612	él mismo	ele mesmo
+613	{1} {2} llamado {3} {4} te ofreció ser tu agente.	{1} {2} chamado {3} {4} ofereceu te representar como agente.
+614	{1} {2} si contratas a {3}.	{1} {2} se você contratar {3}.
+615	Años de experiencia	Anos de experiência
+616	Contraté a {1} {2} como mi agente.	Contratei {1} {2} como meu agente.
+617	{1} ya es tu agente. Espera mejores audiciones.	{1} agora é seu agente. Espere audições melhores.
+618	Rechaza a {1}	Recuse {1}
+619	Rechacé a un agente llamado {1} {2}.	Recusei um agente chamado {1} {2}.
+620	Castings este año	Castings deste ano
+621	un papel pequeño	um papel pequeno
+622	el papel de {1}	o papel de {1}
+623	película	filme
+624	{1} busca {2} de {3} para {4} {5} '{6}'.	{1} está procurando {2} de {3} para {4} {5} '{6}'.
+625	Episodios por temporada	Episódios por temporada
+626	Demasiadas audiciones	Audições demais
+627	Ya hiciste tres audiciones este año. Los directores de casting ya se cansaron de tu cara.	Você já fez três audições este ano. Os diretores de elenco já estão cansados da sua cara.
+628	Hice audición para el papel {1} de {2} en '{3}'.	Fiz audição para o papel {1} de {2} em '{3}'.
+629	Lo clavé	Arrasei
+630	Ovación de pie	Aplausos de pé
+632	Dedos cruzados	Dedos cruzados
+633	Lectura aceptable	Leitura razoável
+634	Olvidaste tus líneas	Esqueceste tuas falas
+635	Día difícil	Dia difícil
+636	Hiciste audición para el papel de {1} en '{2}'.	Você fez audição para o papel de {1} em '{2}'.
+637	No conseguí el papel en '{1}'.	Não consegui o papel em '{1}'.
+638	No te dieron el papel	Não ficou com o papel
+639	El director de casting eligió a otra persona.	O diretor de elenco escolheu outra pessoa.
+640	Dijeron que no eras el indicado para el papel.	Disseram que você não era o certo para o papel.
+641	Decidieron ir con un nombre más grande.	Decidiram apostar em um nome maior.
+642	Nunca te respondieron.	Nunca te responderam.
+644	Ellos vinieron a ti. No necesitas audición.	Eles vieram até você. Não precisa de audição.
+645	{1} te ofreció un contrato para interpretar a {2} en {3} '{4}'.{5}	{1} te ofereceu um contrato para interpretar {2} em {3} '{4}'.{5}
+646	Pago por adelantado	Pago adiantado
+648	Me eligieron como {1} en {2} '{3}' y me pagaron {4} por adelantado.	Me escalaram como {1} em {2} '{3}' e recebi {4} adiantado.
+649	¡Conseguiste el papel!	Você conseguiu o papel!
+650	(después de la comisión de tu agente, {1})	(depois da comissão do seu agente, {1})
+651	Vas a interpretar a {1} en '{2}'. El rodaje empieza ya mismo.	Você vai interpretar {1} em '{2}'. As filmagens começam agora.
+652	{1} fue pagado por adelantado{2}.	{1} foi pago adiantado{2}.
+653	Primer día en el set	Primeiro dia no set
+654	, a quien seguro reconoces de la tele	, que você com certeza reconhece da TV
+655	Conoces a {1} {2}, con quien vas a compartir escena{3}.	Você conhece {1} {2}, com quem vai contracenar{3}.
+656	Tu director, {1} {2}, te muestra el set.{3}	Seu diretor, {1} {2}, mostra o set para você.{3}
+657	{1} miembros del elenco y del equipo se sumaron a tus compañeros.	{1} integrantes do elenco e da equipe foram adicionados aos seus colegas.
+658	Preséntate con todos	Apresente-se a todos
+659	Buena primera impresión	Boa primeira impressão
+660	Parece que todos en el set te quieren.	Parece que todo mundo no set gosta de você.
+661	Ve directo a tu tráiler	Vá direto para o seu trailer
+662	Ya murmuran que te crees demasiado bueno para ellos.	Já cochicham que você acha que é bom demais pra eles.
+663	Aceptar este papel significa dejar tu trabajo como {1}. ¿Continuar?	Aceitar esse papel significa largar seu trabalho como {1}. Continuar?
+664	Dejé mi trabajo como {1} para actuar.	Larguei meu trabalho como {1} pra atuar.
+666	Rechacé un papel en '{1}'.	Recusei um papel em '{1}'.
+667	Tu actuación como {1} en '{2}' te hizo conocido en todas partes.	Sua atuação como {1} em '{2}' te tornou um nome conhecido.
+668	Tu actuación como {1} en '{2}' te hizo conocido en todas partes. Ahora todos conocen tu cara.	Sua atuação como {1} em '{2}' te tornou um nome conhecido. Agora todo mundo conhece sua cara.
+669	un éxito arrollador	um sucesso estrondoso
+670	un éxito comercial	um sucesso comercial
+671	un desempeño modesto	um desempenho modesto
+672	un fracaso en taquilla	um fracasso de bilheteria
+673	La temporada {1} de mi serie '{2}' salió al aire.	A temporada {1} do meu programa '{2}' foi ao ar.
+674	Mi película '{1}' se estrenó y fue {2}.	Meu filme '{1}' saiu e foi {2}.
+675	Temporada {1} de tu serie	Temporada {1} da sua série
+676	Tu película	Seu filme
+677	un éxito con el público	um sucesso com o público
+678	¡Ganaste un bono de taquilla de {1}!	Você ganhou um bônus de bilheteria de {1}!
+679	Los críticos lo llamaron {1}.{2}	A crítica chamou de {1}.{2}
+680	'{1}' terminó su ciclo.	'{1}' chegou ao fim.
+681	Mi serie '{1}' fue cancelada.	Meu programa '{1}' foi cancelado.
+682	¡'{1}' fue renovada para la temporada {2}! {3} te quiere de vuelta como {4}.	'{1}' foi renovada para a temporada {2}! {3} quer você de volta como {4}.
+683	Firma para otra temporada	Assine mais uma temporada
+684	Firmé para la temporada {1} de '{2}' por {3}.	Assinei a temporada {1} de '{2}' por {3}.
+685	De vuelta al trabajo	De volta ao trabalho
+686	Firmaste para la temporada {1} y recibiste {2} por adelantado.	Você assinou a temporada {1} e recebeu {2} adiantado.
+687	Deja la serie	Deixe a série
+688	Dejé la serie '{1}'.	Deixei a série '{1}'.
+689	Eliminado del guion	Tirado do roteiro
+690	Los guionistas mataron a {1} en un final de temporada dramático.	Os roteiristas mataram {1} em um final de temporada dramático.
+691	Mejor actriz de reparto	Melhor atriz coadjuvante
+692	Mejor actor de reparto	Melhor ator coadjuvante
+693	Gané el {1} a {2} por '{3}'.	Ganhei o {1} de {2} por '{3}'.
+694	El Salón de la Fama te premió con el Laurel Vitalicio por una carrera extraordinaria.	O Salão da Fama te homenageou com o Louro Vitalício por uma carreira extraordinária.
+695	¡Ganaste el {1} a {2} por tu interpretación de {3} en '{4}'!	Você ganhou o {1} de {2} pela sua interpretação de {3} em '{4}'!
+697	'{1}' se estrenó {2}.	'{1}' saiu {2}.
+698	'{1}' todavía se está rodando.	'{1}' ainda está sendo filmado.
+699	Años desde el estreno	Anos desde o lançamento
+700	Éxito de taquilla	Sucesso de bilheteria
+701	Rodando ahora · se estrena el próximo año	Filmando agora · estreia no ano que vem
+702	Sin premios	Sem prêmios
+703	Tu estante de trofeos está vacío.	Sua estante de troféus está vazia.
+704	Los coleccionistas pagarán buen dinero por él.	Colecionadores vão pagar um bom preço por ele.
+705	Los coleccionistas de cine pagarían buen dinero por él.	Colecionadores de cinema pagariam bom dinheiro por ele.
+706	Este vale mucho para el coleccionista adecuado.	Esse vale muito para o colecionador certo.
+707	Este es el premio más valioso del espectáculo. Los coleccionistas pagarían una fortuna.	Este é o prêmio mais valioso do showbiz. Colecionadores pagariam uma fortuna.
+708	Hay muy pocos en el mundo. Es invaluable... casi.	Existem pouquíssimos no mundo. É impagável... quase.
+709	Ganaste esto por {1}{2} cuando tenías {3}.	Você ganhou isso por {1}{2} quando tinha {3}.
+710	Véndelo a un coleccionista	Venda para um colecionador
+711	¿Vender tu {1} por {2}? No lo recuperas.	Vender seu {1} por {2}? Não dá pra recuperar.
+712	Vendí mi {1} por {2} a un coleccionista por {3}.	Vendi meu {1} por {2} para um colecionador por {3}.
+713	Algunos fans piensan que es de mal gusto que lo hayas vendido.	Alguns fãs acham de mau gosto você ter vendido.
+714	Un coleccionista compró tu {1} por {2}.{3}	Um colecionador comprou seu {1} por {2}.{3}
+715	Déjalo en la repisa	Deixe na estante
+716	cara	cara
+717	{1} es bastante famoso.	{1} é bem famoso.
+718	Trabajaste con {1} en '{2}'.{3}	Você trabalhou com {1} em '{2}'.{3}
+719	Salir juntos	Sair junto
+720	{1} está ocupado. Quizás el próximo año.	{1} está ocupado. Talvez ano que vem.
+721	Salí con {1} {2}, con quien trabajé en '{3}'.	Saí com {1} {2}, com quem trabalhei em '{3}'.
+722	Salieron juntos	Saíram juntos
+723	Tomaste algo con {1} e intercambiaron anécdotas del set.	Você tomou um drinque com {1} e trocaram histórias de set.
+724	Tú y {1} fueron juntos a un estreno.	Você e {1} foram juntos a uma estreia.
+725	{1} te enseñó {2} restaurante favorito.	{1} te mostrou {2} restaurante favorito.
+726	Pide consejos de actuación	Peça conselhos de atuação
+728	{1} ya te dio consejos este año.	{1} já te deu conselhos este ano.
+729	Buen consejo	Bom conselho
+730	{1} te dio grandes consejos sobre tu oficio.	{1} te deu ótimas dicas sobre seu ofício.
+731	Hazte amigo	Torne-se amigo
+733	{1} no parece muy interesado en salir contigo.	{1} não parece muito interessado em sair com você.
+734	Conseguí una amistad con {1} {2}, a quien conocí en el set.	Fiz amizade com {1} {2}, que conheci no set.
+735	Nueva amistad	Nova amizade
+736	Tú y {1} ya son amigos. {2} está en tus Relaciones.	Você e {1} agora são amigos. {2} já está nas suas Relações.
+737	¿Seguro que quieres dejar la actuación?	Tem certeza que quer deixar a atuação?
+738	Dejé la actuación.	Deixei a atuação.
+739	Dejaste la actuación. Siempre puedes volver por Carreras Especiales.	Você deixou a atuação. Sempre pode voltar pelas Carreiras Especiais.
+740	{1} película{2} y series	{1} filme{2} e séries
+741	{1} trofeos en tu estante	{1} troféus na sua estante
+742	Nuevo en la escuela	Novato na escola
+743	Participante del concurso de ortografía	Participante do concurso de soletração
+744	Niño de la cafetería	Criança na cantina
+745	Niño del show de talentos	Criança do show de talentos
+746	Niño repartidor de pizza	Criança entregadora de pizza
+747	Rival de la feria de ciencias	Rival da feira de ciências
+748	Niño en el centro comercial	Criança no shopping
+749	Niño entre la multitud	Criança na multidão
+750	Niño en el autobús	Criança no ônibus
+751	Niño en la fiesta	Criança na festa
+752	Niño que se escapa	Criança fugindo
+753	estilo	estilo
+756	20th Century Studios	20th Century Studios
+757	{1} se vuelve viral	{1} viraliza
+759	{1} al mando	{1} no comando
+760	{1} y los {2}	{1} e os {2}
+761	El último verano en {1}	O último verão em {1}
+762	Regreso a {1}	De volta a {1}
+763	{1} {2}: La película	{1} {2}: O filme
+764	Escape de {1}	Fuga de {1}
+765	También protagonizan	Também estrelam
+766	Nuevo integrante del elenco	Novo membro do elenco
+767	Castings · {1} · Quedan {2} audición{3}	Castings · {1} · Restam {2} audição{3}
+768	{1} tiene series buscando niños ahora	{1} tem séries buscando crianças agora
+769	Ninguna serie infantil busca elenco este año	Nenhuma série infantil está em casting este ano
+770	películas	filmes
+771	{1} película{2} buscando niños ahora	{1} filme{2} buscando crianças agora
+772	Ninguna película infantil busca elenco este año	Nenhum filme infantil está em casting este ano
+773	papeles	papéis
+774	No estás trabajando en nada	Você não está trabalhando em nada
+775	Estás trabajando en esto	Você está trabalhando nisso
+776	Ya hiciste audición este año	Já fez audição este ano
+777	Nada en casting	Nada em casting
+778	No hay series de {1} en el aire en {2}.	Nenhum programa de {1} está no ar em {2}.
+779	Todo el mundo habla de esta serie ahora.	Todo mundo está falando desta série agora.
+780	{2} '{3}' de {1} está rodando la temporada {4} y la oficina de casting busca niños.{5}	{2} '{3}' de {1} está filmando a temporada {4} e o escritório de elenco procura crianças.{5}
+781	En el aire desde	No ar desde
+782	{1} n.º {2} con mejor pago	{1} nº {2} com melhor pagamento
+783	Estrella invitada en un episodio	Participação especial em um episódio
+784	invitado	convidado
+785	Haz audición para un papel recurrente	Faça audição para um papel recorrente
+786	Haz audición para un papel fijo	Faça audição para um papel fixo
+787	principal	principal
+788	Casting abierto	Casting aberto
+789	Todo Hollywood habla de esta.	Todo mundo em Hollywood está falando dessa.
+790	{1} busca niños para la película {2} '{3}', que llega a los cines en {4}.{5}	{1} está procurando crianças para o filme {2} '{3}', que chega aos cinemas em {4}.{5}
+791	Sé extra de fondo	Seja figurante
+792	de fondo	de fundo
+793	Haz audición para un papel secundario	Faça audição para um papel coadjuvante
+794	secundario	coadjuvante
+795	Haz audición para el protagonista	Faça audição para o protagonista
+796	protagonista	protagonista
+797	Sin más audiciones	Sem mais audições
+798	Tus papás dicen que tres audiciones al año ya son suficientes con la escuela.	Seus pais dizem que três audições por ano já bastam com a escola.
+799	Pedí audicionar para {1} {2} en '{3}'.	Pedi para fazer audição para {1} {2} em '{3}'.
+800	La oficina de casting de '{1}' nunca me devolvió la llamada.	O escritório de elenco de '{1}' nunca me retornou.
+801	Sin devolución de llamada	Sem retorno
+802	La oficina de casting de '{1}' nunca te devolvió la llamada.	O escritório de elenco de '{1}' nunca te retornou.
+803	Dijeron que ya habían visto a cientos de niños para ese papel.	Disseram que já tinham visto centenas de crianças para aquele papel.
+804	Tu foto terminó en el fondo de una pila enorme.	Sua foto acabou no fundo de uma pilha enorme.
+805	Buscan a alguien con más experiencia.	Estão procurando alguém com mais experiência.
+806	¡Conseguiste una audición!	Você conseguiu uma audição!
+807	el papel de	o papel de
+808	el papel de	o papel de
+809	La oficina de casting de '{1}' te llamó para leer para {2} {3} ({4}).	O escritório de elenco de '{1}' te chamou para uma leitura para {2} {3} ({4}).
+810	Entras a un cuartito. El director de casting te da el guion y dice: "Cuando estés listo, cariño."	Você entra numa salinha. O diretor de elenco te entrega o roteiro e diz: "Quando estiver pronto, querido."
+811	Léelo exactamente como está escrito	Leia exatamente como está escrito
+812	Mete una improvisación graciosa	Solte uma improvisação engraçada

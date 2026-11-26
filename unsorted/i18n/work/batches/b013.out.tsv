@@ -1,0 +1,800 @@
+9784	Novato (Pesca)	Novato (Pesca)
+9785	Marinero (Pesca)	Marinheiro (Pesca)
+9786	Capataz de cubierta (Pesca)	Contramestre (Pesca)
+9787	Ingeniero (Pesca)	Engenheiro (Pesca)
+9788	Capitán (Pesca)	Capitão (Pesca)
+9789	Empleado (Comida rápida)	Atendente (Fast food)
+9790	Encargado de turno (Comida rápida)	Gerente de turno (Fast food)
+9791	Gerente de restaurante (Comida rápida)	Gerente de restaurante (Fast food)
+9792	Gerente general (Comida rápida)	Gerente geral (Fast food)
+9793	Rango {1} de {2}	Nível {1} de {2}
+9794	Postúlate a este puesto	Candidate-se a esta vaga
+9795	No calificas	Não qualificado
+9796	Se requiere título universitario	Exige diploma universitário
+9797	{1} solo contrata a gente con título universitario.	{1} só contrata gente com diploma universitário.
+9798	Hice un trabajo de {1} horas como {2} y gané {3}.	Fiz um bico de {1} horas como {2} e ganhei {3}.
+9799	Trabajaste {1} horas como {2} y ganaste {3}.	Você trabalhou {1} horas como {2} e ganhou {3}.
+9800	{1} decidió no contratarme.	{1} decidiu não me contratar.
+9801	Heladería	Sorveteria
+9802	El ejército no acepta reclutas con antecedentes penales por delitos graves.	O exército não aceita recrutas com condenação por crime grave.
+9803	Las agencias de seguridad no contratan a exconvictos por delitos graves.	Órgãos de segurança pública não contratam condenados por crimes graves.
+9804	Los bomberos exigen antecedentes penales limpios.	Corpos de bombeiros exigem ficha criminal limpa.
+9805	Los guardias de seguridad necesitan licencia estatal, y los exconvictos no pueden obtenerla.	Seguranças precisam de licença estadual, que condenados por crime grave não conseguem.
+9806	Trabajar en casinos requiere licencia de juego, que los exconvictos no pueden obtener.	Trabalhar em cassino exige licença de jogo, que condenados não conseguem.
+9807	Los empleos del gobierno exigen una verificación de antecedentes que los exconvictos no pasan.	Empregos públicos exigem checagem de antecedentes que condenados não passam.
+9808	Las escuelas no contratan exconvictos para trabajar con niños.	Escolas não contratam condenados para trabalhar com crianças.
+9809	Los exconvictos no pueden obtener licencia para ejercer la abogacía.	Condenados não podem obter licença para advogar.
+9810	El colegio médico no le da licencia a un exconvicto.	O conselho médico não emite licença para condenados.
+9811	El colegio de enfermería no le da licencia a un exconvicto.	O conselho de enfermagem não licencia condenados.
+9812	El colegio de farmacia no le da licencia a un exconvicto.	O conselho de farmácia não licencia condenados.
+9813	El colegio de odontología no le da licencia a un exconvicto.	O conselho de odontologia não licencia condenados.
+9814	El colegio de veterinaria no le da licencia a un exconvicto.	O conselho de veterinária não licencia condenados.
+9815	No contratan exconvictos para trabajar con niños.	Não contratam condenados para trabalhar com crianças.
+9816	La ley federal (Sección 19 de la FDIC) prohíbe trabajar ahí a quien tenga condenas por delitos de deshonestidad.	A lei federal (Seção 19 da FDIC) proíbe trabalhar ali quem tenha condenação por crime de desonestidade.
+9817	Su seguro no cubre a nadie con un delito grave en los últimos 7 años. (El tuyo fue hace {1}.)	O seguro deles não cobre quem tenha crime grave nos últimos 7 anos. (O seu foi há {1}.)
+9818	No confían en alguien condenado por {1} cerca de efectivo y mercancía.	Não confiam em alguém condenado por {1} perto de dinheiro e mercadoria.
+9819	No contratan a personas condenadas por delitos violentos para trabajar con pacientes.	Não contratam pessoas condenadas por crimes violentos para trabalhar com pacientes.
+9820	{1} me rechazó por mi historial criminal.	{1} me rejeitou por causa da minha ficha criminal.
+9821	{1} no contrata exconvictos.	{1} não contrata condenados.
+9822	{1} hizo una verificación de antecedentes y decidió no contratarte por tu condena por delito grave.	{1} fez checagem de antecedentes e decidiu não te contratar por causa da sua condenação por crime grave.
+9823	El ejército descalifica a reclutas con tatuajes de pandillas, y los tatuajes en la cara violan el reglamento de uniforme.	O exército desclassifica recrutas com tatuagens de gangue, e tatuagem no rosto quebra o regulamento de uniforme.
+9824	La policía descalifica a aspirantes con tatuajes de pandillas, sin importar dónde estén.	A polícia desclassifica candidatos com tatuagens de gangue, não importa onde estejam.
+9825	Los bomberos siguen las mismas reglas de tatuajes que la policía, y los tatuajes de pandillas descalifican.	Os bombeiros seguem as mesmas regras de tatuagem da polícia, e tatuagem de gangue desclassifica.
+9826	Los empleos del gobierno exigen verificación de antecedentes, y los tatuajes de pandillas te marcan como miembro de una.	Empregos públicos exigem checagem de antecedentes, e tatuagens de gangue te marcam como membro.
+9827	Los tribunales y despachos de abogados no ponen a alguien con tatuajes de pandillas en la cara frente a un juez o cliente.	Tribunais e escritórios de advocacia não colocam alguém com tatuagem de gangue no rosto na frente de juiz ou cliente.
+9828	Las escuelas no contratan a alguien con tatuajes de pandillas para trabajar con niños.	Escolas não contratam quem tem tatuagem de gangue para trabalhar com crianças.
+9829	Las aerolíneas prohíben tatuajes visibles en la cara a la tripulación, incluso donde otros tatuajes están permitidos.	Companhias aéreas proíbem tatuagem visível no rosto para tripulação, mesmo onde outras são permitidas.
+9830	Los bancos no le confían el dinero de los clientes a alguien con tatuajes de pandillas.	Bancos não confiam dinheiro de clientes a quem tem tatuagem de gangue.
+9831	Trabajar en casinos requiere licencia de juego, y los vínculos sospechosos con pandillas hacen que te la nieguen.	Trabalhar em cassino exige licença de jogo, e suspeita de ligação com gangue faz ela ser negada.
+9832	Los hospitales no contratan a alguien con tatuajes de pandillas en la cara para trabajar con pacientes.	Hospitais não contratam quem tem tatuagem de gangue no rosto para trabalhar com pacientes.
+9833	La iglesia no ordena a alguien con tatuajes de pandillas en la cara.	A igreja não ordena quem tem tatuagem de gangue no rosto.
+9834	Estudio de cine para adultos	Estúdio de filmes adultos
+9835	App de viajes compartidos	Aplicativo de caronas
+9836	Los padres no confían en alguien con tatuajes de pandillas en la cara cerca de sus hijos.	Pais não confiam em quem tem tatuagem de gangue no rosto perto dos filhos.
+9837	Nadie confía en alguien con tatuajes de pandillas en la cara para un cargo público.	Ninguém confia em quem tem tatuagem de gangue no rosto para cargo público.
+9838	{1} me rechazó por mis tatuajes de pandilla.	{1} me rejeitou por causa das minhas tatuagens de gangue.
+9839	{1} no contrata a alguien con tatuajes de pandillas en la cara.	{1} não contrata quem tem tatuagem de gangue no rosto.
+9840	El gerente de contratación de {1} vio los tatuajes de pandilla en tu cara y terminó la entrevista.	O gerente de contratação de {1} olhou as tatuagens de gangue no seu rosto e encerrou a entrevista.
+9841	{1} no me contrataría porque estoy sin hogar.	{1} não me contrataria por eu estar em situação de rua.
+9842	Sin dirección fija	Sem endereço fixo
+9843	{1} no me contrataría por mi consumo de drogas.	{1} não me contrataria por causa do meu uso de drogas.
+9844	Reprobaste el test de drogas	Reprovou no teste de drogas
+9845	El entrevistador notó que estabas drogado	O entrevistador percebeu que você estava chapado
+9846	Tus referencias mencionaron tu consumo de drogas	Suas referências mencionaram seu uso de drogas
+9847	, además de mi trabajo como {1} {2}	, além do meu emprego como {1} {2}
+9848	Conseguí un trabajo de medio tiempo como {1} {2} en {3}{4}.	Consegui um emprego de meio período como {1} {2} em {3}{4}.
+9849	Chamba extra	Bico
+9850	Mantienes tu trabajo como {1} {2}.	Você está mantendo seu emprego como {1} {2}.
+9851	Dejaste tu viejo trabajo de medio tiempo como {1} {2}.	Você largou seu antigo emprego de meio período como {1} {2}.
+9852	¡Conseguiste un trabajo de medio tiempo como {1} {2} en {3}!{4}{5}	Você conseguiu um emprego de meio período como {1} {2} em {3}!{4}{5}
+9853	Conseguí trabajo como {1} en {2}.	Consegui um emprego como {1} em {2}.
+9854	Bienvenido a bordo	Bem-vindo a bordo
+9855	¡Bienvenido al {1}!	Bem-vindo ao {1}!
+9856	¿Cuándo puedes empezar?	Quando você pode começar?
+9857	¡Bienvenido a {1}!	Bem-vindo a {1}!
+9858	contador	contador
+9859	enfermero	enfermeiro
+9860	casero	proprietário
+9861	chef	chef
+9862	empresario	empresário
+9863	maestro	professor
+9864	florista	florista
+9865	bombero	bombeiro
+9866	dentista	dentista
+9867	abogado	advogado
+9868	plomero	encanador
+9869	abuela	avó
+9870	piloto	piloto
+9871	fotógrafo	fotógrafo
+9872	granjero	fazendeiro
+9873	Debes tener al menos {1} años para trabajar como {2}.	Você precisa ter pelo menos {1} anos para trabalhar como {2}.
+9874	¡Ofrece tus servicios como {1} hoy!	Ofereça seus serviços como {1} hoje!
+9875	Elige tu tarifa:	Escolha seu valor:
+9876	Publica un anuncio	Publique um anúncio
+9877	Este año no encontré más clientes para trabajos de {1}.	Este ano não achei mais clientes para trabalhos de {1}.
+9878	Agenda llena	Agenda lotada
+9879	Has hecho {1} {2} trabajos este año y nadie más necesita uno. Intenta el próximo año.	Você fez {1} {2} bicos este ano e ninguém mais precisa. Tente de novo ano que vem.
+9880	Publiqué un anuncio ofreciendo mis servicios como {1}, pero nadie quiso contratar a un exconvicto.	Publiquei um anúncio oferecendo meus serviços como {1}, mas ninguém quis contratar um condenado.
+9881	Nadie quiere contratar a un exconvicto como {1}.	Ninguém quer contratar um condenado como {1}.
+9882	Los dueños de casa hacen verificación de antecedentes antes de entregar sus llaves.	Proprietários fazem checagem de antecedentes antes de entregar as chaves.
+9883	Las familias hacen verificación de antecedentes antes de dejar a alguien cerca de sus {1}.	Famílias fazem checagem de antecedentes antes de deixar alguém perto dos seus {1}.
+9884	Publiqué un anuncio ofreciendo mis servicios como {1}, pero nadie quiso contratar a alguien tan joven.	Publiquei um anúncio oferecendo meus serviços como {1}, mas ninguém quis contratar alguém tão novo.
+9885	Nadie quiso contratar a un {2} de {1} años. La gente suele querer a alguien con más experiencia.	Ninguém quis contratar um {2} de {1} anos. Geralmente querem alguém com mais experiência.
+9886	Publiqué un anuncio ofreciendo mis servicios como {1} por {2}/hora, pero nadie me contrató.	Publiquei um anúncio oferecendo meus serviços como {1} por {2}/hora, mas ninguém me contratou.
+9887	Nadie quiso pagar {1}/hora por un {2}. Prueba con una tarifa más baja.	Ninguém quis pagar {1}/hora por um {2}. Tente um valor mais baixo.
+9888	La gente quiere a alguien mayor o con más experiencia para trabajos de {1}.	As pessoas querem alguém mais velho ou mais experiente para trabalhos de {1}.
+9889	Nadie respondió a tu anuncio para un {1}.	Ninguém respondeu ao seu anúncio de {1}.
+9890	Un {1} llamado {2} me contrató como {3} por {4} horas. Gané {5}.	Um {1} chamado {2} me contratou como {3} por {4} horas. Ganhei {5}.
+9891	Fajos y más fajos	Montes de grana
+9893	Tarifa por hora:	Valor por hora:
+9894	Tu {1} tiene un amigo que trabaja en {2} y puede conseguirte un trabajo ahí como {3} {4}.	Seu {1} tem um amigo que trabalha em {2} e pode te arrumar um emprego lá como {3} {4}.
+9895	Mi {1} me consiguió un trabajo como {2} {3} en {4}.	Meu {1} me arranjou um emprego como {2} {3} em {4}.
+9896	Eso no es para mí	Isso não é pra mim
+9897	Rechacé la oferta de mi {1} de conseguirme un trabajo en {2}.	Recusei a oferta do meu {1} de me arranjar um emprego em {2}.
+9898	Debes tener al menos 18 años para usar un reclutador de empleo.	Você precisa ter pelo menos 18 anos para usar um recrutador.
+9899	¡Deja que el reclutador encuentre hoy la mejor posición de tiempo completo para tu perfil!	Deixe o recrutador achar hoje a melhor vaga em tempo integral para o seu perfil!
+9900	Probemos	Vamos tentar
+9901	Necesitas {1} para contratar a un reclutador.	Você precisa de {1} para contratar um recrutador.
+9902	Te faltan {1}.	Você está faltando {1}.
+9903	Le pagué {1} a un reclutador.	Paguei {1} para um recrutador.
+9904	Grupo {1}	Grupo {1}
+9905	El reclutador encontró que el puesto de {1} en {2} encaja bien con tu perfil y ya te consiguió una entrevista.	O recrutador achou que a vaga de {1} em {2} combina com o seu perfil e já marcou uma entrevista pra você.
+9906	Ve a la entrevista	Vá à entrevista
+9907	Fui a una entrevista de trabajo para {1} en {2}.	Fui a uma entrevista de emprego para {1} em {2}.
+9908	{1} decidió no contratarte después de la entrevista.	{1} decidiu não te contratar depois da entrevista.
+9909	Fui a una entrevista para {1} en {2}, pero no me contrataron.	Fui a uma entrevista para {1} em {2}, mas não me contrataram.
+9910	Rechacé la entrevista para {1} en {2}.	Recusei a entrevista para {1} em {2}.
+9911	Soldado de segunda clase	Soldado de segunda classe
+9912	Soldado de primera clase	Soldado de primeira classe
+9913	Sargento primera clase	Sargento de primeira classe
+9914	Aviador de primera clase	Aviador de primeira classe
+9915	Sargento mayor superior	Sargento-mor sênior
+9916	Sargento mayor jefe	Sargento-mor-chefe
+9917	Cabo de tercera clase	Cabo de terceira classe
+9918	Cabo de segunda clase	Cabo de segunda classe
+9919	Cabo de primera clase	Cabo de primeira classe
+9921	Suboficial mayor	Suboficial-mor
+9922	Suboficial mayor jefe	Suboficial-mor-chefe
+9923	Teniente de navío	Tenente de navio
+9924	Defender la tierra	Defender a terra
+9925	Defender el aire	Defender o ar
+9926	ancla	âncora
+9927	Defender el mar	Defender o mar
+9928	Atacar la playa	Atacar a praia
+9929	Defender la patria	Defender a pátria
+9930	Ejército de los Estados Confederados	Exército dos Estados Confederados
+9931	Servir en el ejército confederado	Servir no exército confederado
+9932	Armada de los Estados Confederados	Marinha dos Estados Confederados
+9933	Romper el bloqueo de la Unión en el mar	Furar o bloqueio da União no mar
+9934	Contramaestre	Contramestre
+9935	ejército	exército
+9936	Ejército de los Estados Unidos	Exército dos Estados Unidos
+9937	Unirse a un regimiento de voluntarios y luchar por la Unión	Juntar-se a um regimento de voluntários e lutar pela União
+9938	Guarnecer la frontera oeste	Guarnecer a fronteira oeste
+9939	Defender la nación	Defender a nação
+9940	servicio naval	serviço naval
+9941	Armada de los Estados Unidos	Marinha dos Estados Unidos
+9942	Servir a bordo de buques de vapor y de vela	Servir a bordo de navios de guerra a vapor e à vela
+9943	Navegar a bordo de los buques de guerra de la nación	Navegar a bordo dos navios de guerra da nação
+9944	Sala de máquinas	Casa de máquinas
+9945	Contramaestre jefe	Contramestre-chefe
+9946	Fogonero de segunda clase	Foguista de segunda classe
+9947	Fogonero de primera clase	Foguista de primeira classe
+9948	cuerpo de marines	corpo de fuzileiros
+9949	Cuerpo de Infantería de Marina de los Estados Unidos	Corpo de Fuzileiros Navais dos Estados Unidos
+9950	Servir en tierra y en el mar	Servir em terra e no mar
+9951	Destacamento de buque	Destacamento de navio
+9952	Guardia del astillero naval	Guarda do estaleiro naval
+9953	fisco	fisco
+9954	Servicio de Guardacostas Aduaneros	Serviço de Guarda-Costas da Receita
+9955	Perseguir contrabandistas y hacer cumplir las leyes aduaneras en el mar	Perseguir contrabandistas e fazer cumprir as leis aduaneiras no mar
+9956	Tripulación del guardacostas	Tripulação do cúter
+9957	Cuartel de infantería de marina, astillero naval {1}	Quartel de fuzileiros, estaleiro naval {1}
+9958	Destacamento de infantería de marina, USS {1}	Destacamento de fuzileiros, USS {1}
+9959	Guardacostas {1}	Cúter {1}
+9960	fui reclutado para	fui convocado para
+9961	juré lealtad y me alisté en	jurei bandeira e me alistei para
+9962	{1} el {2} como {3} {4} por {5} al mes. Mi enlistamiento dura {6} años.	{1} o {2} como {3} {4} por {5} por mês. Meu alistamento dura {6} anos.
+9963	Unirte al {1} significa dejar tu trabajo como {2}. ¿Continuar?	Entrar no {1} significa largar seu emprego como {2}. Continuar?
+9964	Tuve que dejar mi trabajo como {1}.	Tive que largar meu emprego como {1}.
+9965	pueblo	cidade
+9966	Rechazado	Recusado
+9967	El {1} solo recluta hombres de {2}.	O {1} só alista homens de {2}.
+9968	El {1} no acepta reclutas menores de {2}.	O {1} não aceita recrutas mais novos que {2}.
+9969	Demasiado mayor	Velho demais
+9970	El {1} no recluta hombres mayores de {2}.	O {1} não alista homens mais velhos que {2}.
+9971	Sin nombramiento	Sem patente
+9972	Los nombramientos son para egresados de {1}, hombres universitarios o caballeros con amigos poderosos. Necesitas título universitario o buena posición social.	As patentes vão para formados em {1}, universitários ou cavalheiros com amigos poderosos. Você precisa de diploma universitário ou alta posição social.
+9973	Fui a una oficina de reclutamiento en {1} para unirme al {2}.	Fui a um posto de recrutamento em {1} para entrar no {2}.
+9974	El médico militar me examinó y me declaró no apto para el servicio.	O médico do exército me examinou e me considerou inapto para o serviço.
+9975	Reprobaste el examen físico	Reprovou no exame físico
+9976	El médico te examinó y te declaró no apto para el servicio.	O médico te examinou e te considerou inapto para o serviço.
+9977	El {1} me rechazó por mi historial criminal.	O {1} me recusou por causa da minha ficha criminal.
+9978	El oficial de reclutamiento se negó a alistar a un hombre con historial criminal.	O oficial de recrutamento se recusou a alistar um homem com ficha criminal.
+9979	El reclutador había oído sobre mi reputación y me rechazó.	O recrutador tinha ouvido falar da minha reputação e me recusou.
+9980	El reclutador había oído sobre tu reputación y te despidió.	O recrutador tinha ouvido falar da sua reputação e te mandou embora.
+9981	Apto para el servicio	Apto para o serviço
+9982	Tu nombramiento en el {1} fue aprobado. Levanta la mano derecha y jura el juramento de oficial.	Sua patente no {1} foi aprovada. Levante a mão direita e jure o juramento de oficial.
+9983	y entrenará como aprendiz naval	e vai treinar como aprendiz naval
+9984	Aprobaste el examen físico{1}. Levanta la mano derecha y jura el juramento de alistamiento. Servirás por {2} años.	Você passou no exame físico{1}. Levante a mão direita e jure o juramento de alistamento. Você vai servir por {2} anos.
+9985	Jura la bandera	Preste juramento
+9986	¿Dónde te gustaría servir?	Onde você gostaria de servir?
+9987	{1} (al ser mayor)	{1} (quando for mais velho)
+9988	Salí de la oficina de reclutamiento antes de jurar.	Saí do posto de recrutamento antes de fazer o juramento.
+9989	Visitas una oficina de reclutamiento en {1} para alistarte en el {2}. El sargento pregunta si estás listo para hacerte el examen físico.	Você visita um posto de recrutamento em {1} para se alistar no {2}. O sargento de recrutamento pergunta se você está pronto para fazer o exame físico.
+9990	Haz el examen	Faça o exame
+9992	Sueldo mensual, más comida, ropa y alojamiento. El equipo y otros descuentos salen de tu sueldo.	Salário mensal, mais comida, roupa e alojamento. Equipamento e outros descontos saem do seu salário.
+9993	Solicita un nombramiento	Peça uma patente
+9994	Cambiar de opinión	Mudar de ideia
+9995	Cambié de opinión sobre unirme al {1}.	Mudei de ideia sobre entrar no {1}.
+9996	{1} · desde {2} al mes	{1} · a partir de {2} por mês
+9997	Ya estás en servicio	Já está em serviço
+9998	Ya estás sirviendo en el {1}.	Você já está servindo no {1}.
+9999	Me dieron de baja honorable del {1}.	Recebi baixa honrosa do {1}.
+10000	Te dieron de baja honorable del {1}.	Você recebeu baixa honrosa do {1}.
+10001	Te quedan {1} año{2} de servicio. Irte ahora es deserción, y los desertores pueden ser azotados, marcados o encerrados en el calabozo.	Faltam {1} ano{2} do seu alistamento. Ir embora agora é deserção, e desertores podem ser açoitados, marcados a ferro ou jogados na prisão do quartel.
+10002	Intenté desertar del {1}, pero me atraparon y me castigaron en el calabozo.	Tentei desertar do {1}, mas me pegaram e me castigaram na prisão do quartel.
+10003	Te atraparon desertando y te castigaron. El {1} te expulsó con deshonra.	Você foi pego desertando e punido. O {1} te expulsou em desgraça.
+10004	Deserté del {1} y me escabullí en la noche.	Desertei do {1} e sumi na noite.
+10005	Desertaste del {1}. Mantén un perfil bajo.	Você desertou do {1}. Fique na moita.
+10006	Terminar mi servicio	Terminar meu serviço
+10007	¡Únete al {1} hoy!	Entre no {1} hoje!
+10008	Alístate en el {1}	Aliste-se no {1}
+10009	Debes tener al menos 18 años para unirte al {1}.	Você precisa ter pelo menos 18 anos para entrar no {1}.
+10010	Postúlate como oficial	Candidate-se a oficial
+10011	Tu solicitud para unirte al {1} como oficial fue rechazada.	Sua candidatura para entrar no {1} como oficial foi recusada.
+10012	Sin título universitario	Sem diploma universitário
+10013	Empecé a esforzarme más en {1}.	Comecei a me esforçar mais em {1}.
+10014	Trabajador	Trabalhador
+10015	Empezaste a esforzarte más en {1}.	Você começou a se esforçar mais em {1}.
+10016	Tu alistamiento de {1} años en el {2} terminó. ¿Te vuelves a alistar?	Seu alistamento de {1} anos no {2} chegou ao fim. Quer se realistar?
+10017	Me volví a alistar en el {1} por otros {2} años.	Me realistei no {1} por mais {2} anos.
+10018	Pedir la baja	Pedir baixa
+10019	Tu regimiento zarpa hacia Cuba para pelear contra los españoles.	Seu regimento embarca para Cuba para lutar contra os espanhóis.
+10020	Carga contra las alturas de San Juan	Atacar as alturas de San Juan
+10021	Custodiar las líneas de suministro	Guardar as linhas de suprimento
+10022	Tu barco entra en la bahía de Manila para atacar a la flota española.	Seu navio entra na baía de Manila para atacar a frota espanhola.
+10023	Ocupa los cañones	Assuma os canhões
+10024	Mantén los motores encendidos	Mantenha os motores funcionando
+10025	Tu batallón desembarca en la bahía de Guantánamo bajo fuego español.	Seu batalhão desembarca na baía de Guantánamo sob fogo espanhol.
+10026	Toma las alturas	Tome as alturas
+10027	Mantén la playa	Segure a praia
+10028	Tu guardacostas está asignado al servicio naval que bloquea Cuba.	Seu cúter está destacado para a força naval que bloqueia Cuba.
+10029	Remolca un torpedero averiado bajo fuego	Rebocar um torpedeiro avariado sob fogo
+10030	Patrulla el bloqueo	Patrulhe o bloqueio
+10031	¡Guerra con España!	Guerra contra a Espanha!
+10032	Estados Unidos le declaró la guerra a España. {1}	Os Estados Unidos declararam guerra à Espanha. {1}
+10033	Guerra con España	Guerra contra a Espanha
+10034	Fui herido durante la guerra con España.	Fui ferido durante a guerra contra a Espanha.
+10035	Me felicitaron por valentía en la guerra con España.	Fui elogiado por bravura na guerra contra a Espanha.
+10036	Me contagié de fiebre amarilla durante la guerra con España.	Peguei febre amarela durante a guerra contra a Espanha.
+10037	Serví con constancia durante la guerra con España.	Servi com firmeza durante a guerra contra a Espanha.
+10038	La ley de reclutamiento confederada te alcanzó. Tienes orden de presentarte para servir en el {1}.	A lei de recrutamento confederada chegou até você. Você recebeu ordem de se apresentar para servir no {1}.
+10039	Tu nombre salió en el sorteo federal. Tienes orden de presentarte para servir en el {1}.	Seu nome saiu no sorteio federal. Você recebeu ordem de se apresentar para servir no {1}.
+10040	Paga la tarifa de conmutación de {1}	Pague a taxa de comutação de {1}
+10043	Pagué la tarifa de conmutación de {1} para evitar el reclutamiento.	Paguei a taxa de comutação de {1} para evitar o recrutamento.
+10045	Me eximieron del reclutamiento porque el ejército me necesita como {1} {2}.	Fui isento do recrutamento porque o exército precisa de mim como {1} {2}.
+10046	Contrata a un sustituto ({1})	Contrate um substituto ({1})
+10047	Un sustituto quiere {1}.	Um substituto quer {1}.
+10048	Pagué {1} para que un sustituto sirviera en mi lugar.	Paguei {1} para um substituto servir no meu lugar.
+10049	Escóndete de los oficiales de reclutamiento	Esconda-se dos oficiais de recrutamento
+10050	Evita el reclutamiento	Fuja do recrutamento
+10051	Me atraparon evadiendo el reclutamiento y me llevaron al ejército.	Me pegaram fugindo do recrutamento e me levaram para o exército.
+10052	Evadí el reclutamiento y me mantuve escondido.	Fugi do recrutamento e fiquei escondido.
+10053	Me ascendieron a {1} en el {2}.	Fui promovido a {1} no {2}.
+10054	Tu oficial al mando te ascendió a {1}. Ahora ganas {2} al mes.	Seu oficial comandante te promoveu a {1}. Agora você ganha {2} por mês.
+10055	Me dieron un nombramiento en campaña como {1} {2} por mi valor bajo fuego.	Recebi uma patente de campo como {1} {2} pela minha coragem sob fogo.
+10056	Por tu valor bajo fuego, fuiste nombrado {1} {2}. Ahora ganas {3} al mes.	Por sua coragem sob fogo, você foi nomeado {1} {2}. Agora você ganha {3} por mês.
+10057	Este año	Este ano
+10058	Fin del alistamiento:	Fim do alistamento:
+10059	¡Tope de la escalera!	No topo da carreira!
+10060	Ya lo pediste este año	Já pediu este ano
+10061	Pide un ascenso	Peça uma promoção
+10062	Años en este puesto:	Anos nesse cargo:
+10063	Próximo ascenso:	Próxima promoção:
+10064	Pedí un ascenso y me lo negaron.	Pedi uma promoção e me negaram.
+10065	Tu jefe dice que recién empezaste. Dale más tiempo primero.	Seu chefe diz que você acabou de começar. Trabalhe mais um pouco antes.
+10066	Tu jefe dice que tu desempeño todavía no alcanza. ¡Sigue esforzándote!	Seu chefe diz que seu desempenho ainda não chegou lá. Continue se esforçando!
+10067	Renuncié a mi trabajo como {1}.	Larguei meu emprego como {1}.
+10068	¡Me ascendieron a {1}!	Fui promovido a {1}!
+10069	Mostrar	Mostrar
+10070	logro	conquista
+10071	¡Tu esfuerzo valió la pena! Ahora eres	Seu esforço valeu a pena! Agora você é
+10072	Cargo anterior:	Cargo anterior:
+10073	Nuevo cargo:	Novo cargo:
+10074	Herido en combate	Ferido em combate
+10075	Servicio heroico en zona de combate	Serviço heroico em zona de combate
+10076	Valentía en combate	Bravura em combate
+10077	Valentía destacada más allá del deber	Bravura destacada além do dever
+10078	La condecoración estatal al valor	A condecoração estadual por coragem
+10079	Heroísmo extraordinario en combate	Heroísmo extraordinário em combate
+10080	Servicio meritorio sostenido o actos de valor	Serviço meritório contínuo ou atos de coragem
+10081	Logro sobresaliente o servicio meritorio	Conquista excepcional ou serviço meritório
+10082	Conducta ejemplar y eficiencia	Comportamento exemplar e eficiência
+10083	Sirvió seis años o más y salió de las fuerzas armadas con honor	Serviu seis anos ou mais e deixou os militares com honra
+10084	Gané mi insignia de veterano tras {1} años de servicio en el {2}.	Ganhei minha insígnia de veterano após {1} anos de serviço no {2}.
+10085	Serviste {1} años en el {2} y te fuiste con honor.	Você serviu {1} anos no {2} e saiu com honra.
+10086	Ganaste la insignia de veterano. La encuentras con tus medallas en Activos.	Você ganhou a insígnia de veterano. Você encontra ela com suas medalhas em Bens.
+10087	¡Despeja los cuadros sin minas y marca los que sí tienen! El número en un cuadro indica cuántas minas toca ese cuadro, incluidas las esquinas.	Limpe os quadrados sem minas e marque os que têm! O número em um quadrado indica quantas minas esse quadrado toca, incluindo os cantos.
+10088	Minas marcadas:	Minas marcadas:
+10089	Mantén presionado un cuadro para marcarlo	Pressione e segure um quadrado para marcá-lo
+10090	Usa un detector de metales	Use um detector de metais
+10091	Abandonar mi puesto	Abandonar meu posto
+10092	despejado	limpo
+10093	explosión	explosão
+10094	desertar	desertar
+10095	un campamento rebelde mortal en	um acampamento rebelde mortal em
+10096	un puesto devastado por la guerra dentro de	um posto devastado pela guerra dentro de
+10097	un sector militante peligroso de	um setor militante perigoso de
+10098	zona salvaje controlada por terroristas en	área selvagem controlada por terroristas em
+10099	una zona de guerra inestable en	uma zona de guerra instável em
+10100	una región inestable controlada por guerrilleros en	uma região instável controlada por guerrilheiros em
+10101	las aguas frente a	as águas ao largo de
+10102	canales oceánicos traicioneros frente a	canais oceânicos traiçoeiros ao largo de
+10103	una ruta marítima disputada frente a	uma rota marítima disputada ao largo de
+10104	sounds/marching-boots.mp3	sounds/marching-boots.mp3
+10105	Tu oficial al mando te ordenó desplegarte en {1} {2} para despejar un campo minado.	Seu oficial comandante ordenou que você fosse para {1} {2} limpar um campo minado.
+10106	¿Cómo vas a reaccionar?	Como você vai reagir?
+10107	Sí, señor	Sim, senhor
+10108	Acepté con entusiasmo un despliegue en {1} {2}.	Aceitei com entusiasmo ser enviado para {1} {2}.
+10110	Me negué a desplegarme en {1}.	Me recusei a ser enviado para {1}.
+10111	Te juzgaron en consejo de guerra por desobedecer órdenes y te dieron de baja deshonrosa del {1}.	Você foi julgado em corte marcial por recusar ordens e expulso com desonra do {1}.
+10112	Tu oficial al mando te reportó por negarte a cumplir órdenes. Tu desempeño sufrió mucho.	Seu oficial comandante te registrou por recusar ordens. Seu desempenho levou um baque grande.
+10113	Abandoné mi puesto en {1}.	Abandonei meu posto em {1}.
+10114	¡Abandonaste tu puesto en {1} y te dieron de baja deshonrosa del {2}!	Você abandonou seu posto em {1} e foi expulso com desonra do {2}!
+10115	deserción	deserção
+10116	Abandonaste tu puesto en {1} y te dieron de baja deshonrosa del {2}.	Você abandonou seu posto em {1} e foi expulso com desonra do {2}.
+10117	Pisé una mina en {1} y quedé hecho pedazos.	Pisei numa mina em {1} e fui pelos ares em pedacinhos.
+10118	pisar una mina en {1}	pisar numa mina em {1}
+10119	una oreja chamuscada, labios partidos y una fosa nasal carbonizada	uma orelha queimada, lábios rachados e uma narina carbonizada
+10120	un párpado frito, una mejilla incinerada y un brazo perdido	uma pálpebra frita, uma bochecha incinerada e um braço perdido
+10121	una rótula chamuscada y un pecho mutilado	uma patela queimada e um peito mutilado
+10122	un puño cercenado y una mandíbula destrozada	um punho decepado e uma mandíbula estilhaçada
+10123	Pisé una mina en {1}. Sufrí {2}.	Pisei numa mina em {1}. Sofri {2}.
+10124	¡Pisaste una mina en {1} y apenas sobreviviste!	Você pisou numa mina em {1} e mal sobreviveu!
+10125	valor	valor
+10126	heroísmo	heroísmo
+10127	valentía	bravura
+10128	agallas	coragem
+10129	Serví a mi país completando con éxito un despliegue en {1}.	Servi meu país completando com sucesso uma missão em {1}.
+10130	Líder de equipo de fuego	Líder de equipe de fogo
+10131	francotirador	franco-atirador
+10132	Candidato a francotirador (PIG)	Candidato a franco-atirador (PIG)
+10133	Líder de equipo de francotiradores	Líder de equipe de franco-atiradores
+10134	Líder de sección de francotiradores	Líder de seção de franco-atiradores
+10135	Líder de equipo de zapadores	Líder de equipe de zapadores
+10136	Líder de escuadra de zapadores	Líder de pelotão de zapadores
+10137	Operador de radio (RTO)	Operador de rádio (RTO)
+10138	Líder de equipo de comunicaciones	Líder de equipe de comunicações
+10139	Jefe de sección de señales	Chefe de seção de sinalização
+10140	Sargento mayor de señales	Sargento-mor de sinalização
+10141	tanquista	tanquista
+10142	Sargento de pelotón de tanques	Sargento de pelotão de tanques
+10144	Sargento mayor de la prebostía	Sargento-mor da polícia militar
+10145	paramédico	paramédico
+10146	Paramédico principal de línea	Paramédico sênior de linha
+10147	Encargado de puesto de primeros auxilios	Encarregado do posto de primeiros socorros
+10148	Sargento de pelotón médico	Sargento de pelotão médico
+10149	Suboficial médico principal	Suboficial médico sênior
+10150	Encargado de la sección de inteligencia	Encarregado da seção de inteligência
+10151	Jefe de fusión de todas las fuentes	Chefe de fusão de todas as fontes
+10152	Sargento mayor de inteligencia	Sargento-mor de inteligência
+10153	Aprendiz de operador cibernético	Aprendiz de operador cibernético
+10154	Líder de elemento de misión	Líder de elemento de missão
+10155	Encargado del equipo de protección cibernética	Encarregado da equipe de proteção cibernética
+10156	Puedes pedir reentrenarte en una nueva MOS.	Você pode pedir para treinar para uma nova MOS.
+10157	Tu MOS actual es {1} ({2}).	Sua MOS atual é {1} ({2}).
+10158	¡Tienes la oportunidad de elegir tu MOS!	Você tem a chance de escolher sua MOS!
+10159	Pedir reentrenamiento	Pedir retreinamento
+10160	Elegir mi MOS	Escolher minha MOS
+10161	Elige tu tipo de carrera:	Escolha seu tipo de carreira:
+10162	Ya eres {1} {2}.	Você já é {1} {2}.
+10163	Mi solicitud para reentrenar como {1} {2} fue denegada.	Meu pedido para treinar como {1} {2} foi negado.
+10164	Tu oficial al mando negó tu solicitud para cambiar de MOS.	Seu oficial comandante negou seu pedido para mudar de MOS.
+10165	Eliminado	Eliminado
+10166	Te eliminaron de {1}. Por ahora conservarás tu trabajo actual.	Você foi eliminado de {1}. Por enquanto você mantém seu trabalho atual.
+10167	¡Ahora eres {1} {2}!	Agora você é {1} {2}!
+10168	Evaluación y selección de Fuerzas Especiales	Avaliação e seleção das Forças Especiais
+10169	75.º Regimiento Ranger	75.º Regimento Ranger
+10170	Programa de evaluación y selección Ranger	Programa de avaliação e seleção Ranger
+10171	Evaluación y selección Delta	Avaliação e seleção Delta
+10172	Navegación terrestre	Navegação terrestre
+10173	La Larga Caminata	A Longa Caminhada
+10174	Curso de entrenamiento de operadores	Curso de treinamento de operadores
+10175	Evaluación y selección	Avaliação e seleção
+10176	Curso de entrenamiento individual	Curso de treinamento individual
+10177	Rango: {1} o superior	Patente: {1} ou superior
+10178	{1}+ año{2} de servicio	{1}+ ano{2} de serviço
+10179	tienes {1}	você tem {1}
+10180	condición física {1}%, necesitas {2}%	condicionamento físico {1}%, precisa de {2}%
+10181	Puntaje de aptitud	Pontuação de aptidão
+10183	Vienes de {1}	Vir de {1}
+10184	estás en el {1}	você está no {1}
+10185	eres militar regular	você é militar regular
+10186	No te has presentado este año	Não fez a seleção este ano
+10187	ya lo intentaste este año	você já tentou este ano
+10188	Todavía no cumples todos los requisitos.	Você ainda não atende a todos os requisitos.
+10189	Aproximadamente el {1}% de los candidatos lo logra.{2}	Cerca de {1}% dos candidatos passam.{2}
+10190	Ofrécete para la selección	Voluntarie-se para a seleção
+10191	Me ofrecí para {1} y probar suerte en el {2}.	Me voluntariei para {1} para tentar entrar no {2}.
+10192	Morí durante {1} en {2}.	Morri durante {1} em {2}.
+10193	ahogamiento durante el entrenamiento de {1}	afogamento durante o treinamento de {1}
+10194	golpe de calor durante la selección de {1}	insolação durante a seleção de {1}
+10195	Me lesioné durante {1} y me sacaron de {2} por razones médicas.	Me machuquei durante {1} e fui retirado de {2} por motivos médicos.
+10196	Baja médica	Baixa médica
+10197	Una fractura por estrés en la espinilla	Uma fratura por estresse na canela
+10198	Un ligamento roto en la rodilla	Um ligamento rompido no joelho
+10199	Agotamiento por calor severo	Exaustão pelo calor severa
+10200	{1} terminó tu selección durante {2}.	{1} encerrou sua seleção durante {2}.
+10201	No es tu culpa. Puedes intentarlo otra vez el próximo año.	Não foi culpa sua. Você pode tentar de novo no ano que vem.
+10202	Todavía dentro	Ainda dentro
+10203	Logré pasar {1} y me uní al {2}.	Consegui passar por {1} e entrei no {2}.
+10204	Bienvenido al equipo	Bem-vindo ao time
+10205	Me eliminaron de la selección de {1} durante {2}.	Fui eliminado da seleção de {1} durante {2}.
+10206	Te sacaron de {1}. Puedes intentarlo otra vez el próximo año.	Você foi tirado de {1}. Pode tentar de novo no ano que vem.
+10207	Dejé la selección de {1} durante {2}.	Desisti da seleção de {1} durante {2}.
+10208	Tres toques de campana y se acabó.	Três toques de sino e acabou.
+10209	Tu selección terminó.	Sua seleção acabou.
+10210	Elegiste {1} durante {2}. {3}	Você escolheu {1} durante {2}. {3}
+10211	Puedes intentarlo otra vez el próximo año.	Você pode tentar de novo no ano que vem.
+10212	Tu unidad	Sua unidade
+10213	Ya eres miembro del {1}.	Você já é membro do {1}.
+10214	¡Preséntate para el {1}! Solo los más duros pasan por {2}.	Inscreva-se no {1}! Só os mais durões passam por {2}.
+10216	No elegible	Não elegível
+10217	Debes tener al menos {1} {2} para presentarte al {3}.	Você precisa ter pelo menos {1} {2} para tentar entrar no {3}.
+10218	Ya te presentaste este año.	Você já tentou este ano.
+10219	Tu cuerpo te está gritando que pares.	Seu corpo está gritando para você parar.
+10220	La mitad de tu clase ya abandonó.	Metade da sua turma já desistiu.
+10221	Los instructores intentan quebrarte.	Os instrutores estão tentando te quebrar.
+10222	No has dormido en días.	Você não dorme há dias.
+10224	¡Logré pasar por {1} y me uní al {2}!	Consegui passar por {1} e entrei no {2}!
+10225	¡Pasaste por {1}! Ahora eres miembro del {2}.	Você passou por {1}! Agora é membro do {2}!
+10226	No lograste pasar por {1} y te sacaron de {2}.	Você não conseguiu passar por {1} e foi tirado de {2}.
+10227	Toca la campana	Toque o sino
+10228	tocaste la campana	você tocou o sino
+10229	Tú {1} durante {2}.	Você {1} durante {2}.
+10230	Operación Libertad Duradera	Operação Liberdade Duradoura
+10231	Operación Libertad Iraquí	Operação Liberdade do Iraque
+10232	Operación Resolución Inherente	Operação Resolução Inerente
+10233	Centinela de la Libertad	Sentinela da Liberdade
+10234	Operación Tormenta del Desierto	Operação Tempestade no Deserto
+10235	Operación Serpiente Gótica	Operação Serpente Gótica
+10236	Operación Vigilia de Hierro	Operação Vigília de Ferro
+10237	Operación Linterna del Desierto	Operação Lanterna do Deserto
+10238	Operación Tridente del Pacífico	Operação Tridente do Pacífico
+10239	Un comandante enemigo está a 900 metros y el viento sopla en ráfagas.	Um comandante inimigo está a 900 metros e o vento está rajando.
+10240	Dispara	Atire
+10241	Espera a que el viento se calme	Espere o vento acalmar
+10242	Repórtalo al mando	Reporte ao comando
+10243	¡Hombre caído!	Homem caído!
+10244	Un soldado de tu escuadra está caído a campo abierto y sangra mucho.	Um soldado do seu pelotão está caído a céu aberto e sangrando muito.
+10245	Corre hacia él bajo fuego	Corra até ele sob fogo
+10246	Espera el fuego de cobertura	Espere o fogo de cobertura
+10247	Pide una evacuación médica	Peça evacuação médica
+10248	Tu convoy se detuvo. Hay un posible IED enterrado en el camino de adelante.	Seu comboio parou. Há um possível IED enterrado na estrada à frente.
+10249	Desármalo tú mismo	Desarme-o você mesmo
+10250	Hazlo explotar en el lugar	Exploda no lugar
+10251	Busca otra ruta	Procure outra rota
+10252	Emboscada blindada	Emboscada blindada
+10253	Equipos enemigos antitanque están atrincherados a lo largo de una cresta.	Equipes antitanque inimigas estão entrincheiradas ao longo de uma crista.
+10254	Carga contra la cresta	Atacar a crista
+10255	Dispara desde la cobertura	Atire da cobertura
+10256	Retrocede y pide artillería	Recue e chame artilharia
+10257	Peligro cercano	Perigo próximo
+10258	Tu pelotón está inmovilizado. Puedes pedir un bombardeo aéreo, pero quedaría muy cerca.	Seu pelotão está encurralado. Você pode pedir um ataque aéreo, mas seria muito perto.
+10259	Pídelo, peligro cercano	Peça, perigo próximo
+10260	Pide artillería más lejos	Peça artilharia mais longe
+10261	Transmite la orden de retirada	Transmita a ordem de retirada
+10262	Estás custodiando un complejo lleno de detenidos cuando estalla un motín.	Você está guardando um complexo cheio de detidos quando estoura um motim.
+10263	Restablece el orden por la fuerza	Restaure a ordem à força
+10264	Cierra todo y espera	Tranque tudo e espere
+10265	Interceptaste comunicaciones sobre una emboscada a una patrulla amiga.	Você interceptou comunicações sobre uma emboscada a uma patrulha amiga.
+10266	Advierte a la patrulla	Avise a patrulha
+10267	Rastrea el origen	Rastreie a origem
+10268	Repórtalo a la cadena de mando	Reporte à cadeia de comando
+10269	Ataque a la red	Ataque à rede
+10270	El enemigo está interfiriendo las comunicaciones de tu unidad.	O inimigo está interferindo nas comunicações da sua unidade.
+10271	Contraataca	Contra-ataque
+10272	Redirige la red	Redirecione a rede
+10273	Apágalo todo	Desligue tudo
+10274	Apoyo aéreo cercano	Apoio aéreo aproximado
+10275	Tropas en contacto piden apoyo aéreo bajo fuerte fuego antiaéreo.	Tropas em combate pedem apoio aéreo sob forte fogo antiaéreo.
+10277	Lanzamiento desde gran altura	Lançamento de grande altitude
+10278	Tu patrulla cae de lleno en una emboscada en un valle estrecho.	Sua patrulha cai direto numa emboscada em um vale estreito.
+10279	Responde al fuego y avanza	Responda ao fogo e avance
+10280	Ponte a cubierto y aguanta	Abrigue-se e aguente
+10281	Retrocede	Recue
+10282	Morteros empiezan a caer dentro del perímetro a las 03:00. El búnker está a 40 metros.	Morteiros começam a cair dentro do perímetro às 03:00. O bunker está a 40 metros.
+10283	Corre hacia el búnker	Corra para o bunker
+10284	Te lanzaste al búnker justo cuando una granada cayó donde estabas parado.	Você se jogou no bunker bem quando um projétil caiu onde você estava.
+10285	Tropezaste con una estaca de carpa y comiste tierra mientras la metralla silbaba sobre tu cabeza.	Você tropeçou numa estaca de barraca e comeu poeira enquanto estilhaços zuniam sobre a cabeça.
+10286	Llévate al novato contigo	Leve o novato com você
+10287	Arrastraste al soldado congelado hasta el búnker. Te debe la vida.	Você arrastou o soldado congelado até o bunker. Ele te deve a vida.
+10288	Los dos quedaron atrapados a campo abierto y tuvieron que arrastrarse los últimos 20 metros.	Os dois ficaram presos a céu aberto e tiveram que rastejar os últimos 20 metros.
+10289	Quédate tendido en tu catre	Fique deitado no seu catre
+10290	Te mantuviste bajo y la barrera pasó de largo frente a tu carpa.	Você ficou baixo e a barragem passou ao lado da sua barraca.
+10291	Una granada cayó lo bastante cerca como para destrozar tu carpa y tus nervios.	Um projétil caiu perto o suficiente para despedaçar sua barraca e seus nervos.
+10292	Francotirador en el Minarete	Franco-atirador no Minarete
+10293	Un francotirador tiene a tu escuadra inmovilizada detrás de un muro bajo. Las balas siguen astillando la piedra sobre tu cabeza.	Um franco-atirador tem seu pelotão encurralado atrás de um muro baixo. Os tiros continuam lascando a pedra acima da sua cabeça.
+10294	Lanza humo y cárgale encima	Jogue fumaça e avance nele
+10295	Limpiaste la escalera y los disparos pararon para siempre.	Você limpou a escada e os tiros pararam de vez.
+10296	El humo se fue para el lado equivocado y tuviste que volver a esconderte detrás del muro.	A fumaça foi pro lado errado e você teve que se jogar de volta atrás do muro.
+10297	Pide una unidad de ametralladora	Peça uma equipe de metralhadora
+10298	La ametralladora mantuvo la ventana bajo fuego el tiempo suficiente para pedir apoyo.	A metralhadora manteve a janela sob fogo tempo suficiente para pedir apoio.
+10299	La unidad de ametralladora también quedó inmovilizada. Tardaron horas en salir.	A equipe de metralhadora também ficou encurralada. Demorou horas para sair.
+10300	Espera a que oscurezca	Espere escurecer
+10301	Te escabulliste después del atardecer. Todos lograron salir.	Você escapou depois do pôr do sol. Todo mundo conseguiu.
+10302	La noche llegó lenta. El francotirador mantuvo a todos inmovilizados hasta el amanecer.	A noite chegou devagar. O franco-atirador manteve todo mundo encurralado até o amanhecer.
+10303	Emboscada en el puente	Emboscada na ponte
+10304	Tu convoy quedó detenido en un puente estrecho cuando un RPG impacta el camión de cabeza.	Seu comboio parou numa ponte estreita quando um RPG atinge o caminhão da frente.
+10305	Atraviesa la zona de muerte	Atravesse a zona de morte
+10306	Tu conductor pisó el acelerador y el convoy atravesó la emboscada.	Seu motorista acelerou e o comboio atravessou.
+10307	El camión en llamas bloqueó el camino y el convoy tuvo que pelear para salir.	O caminhão em chamas bloqueou a estrada e o comboio teve que lutar para sair.
+10308	Tu escuadra flanqueó la emboscada y el enemigo se dispersó.	Seu pelotão flanqueou a emboscada e o inimigo se dispersou.
+10309	El enemigo tenía la posición alta. Intercambiaron disparos durante una hora.	O inimigo tinha a posição alta. Vocês trocaram tiros por uma hora.
+10310	Retrocede fuera del puente	Dê ré e saia da ponte
+10311	Saliste de reversa antes de la segunda ráfaga.	Você deu ré antes da segunda rajada.
+10312	El camión de atrás se paró y te quedaste expuesto.	O caminhão de trás parou e você ficou exposto.
+10313	Una tormenta de arena se acerca durante una patrulla a pie. La visibilidad baja a metro y medio y la radio hace ruido.	Uma tempestade de areia chega durante uma patrulha a pé. A visibilidade cai para um metro e meio e o rádio chia.
+10314	Sigue avanzando hacia el objetivo	Continue avançando até o objetivo
+10315	Te guiaste con la brújula y llegaste al objetivo a tiempo.	Você se guiou pela bússola e chegou ao objetivo na hora certa.
+10316	Te desorientaste y caminaste directo hacia territorio enemigo.	Você se perdeu e andou direto para território inimigo.
+10317	Agrúpate y espera a que pase	Agrupe-se e espere passar
+10318	La escuadra se juntó hasta que pasó. Nadie se perdió.	O pelotão se juntou até passar. Ninguém se perdeu.
+10319	Dos soldados se alejaron y toda la escuadra tuvo que buscarlos.	Dois soldados se afastaram e o pelotão inteiro teve que procurar por eles.
+10320	Regresa a los vehículos	Volte para os veículos
+10321	Encontraste los camiones por el sonido de sus motores en marcha.	Você achou os caminhões pelo barulho dos motores ligados.
+10322	Los vehículos se habían movido. Pasaste la noche en una zanja.	Os veículos tinham se mexido. Você passou a noite numa vala.
+10323	Hombres armados bloquean el camino hacia aldea. Dicen que son milicianos locales, no el enemigo.	Homens armados bloqueiam a estrada para um vilarejo. Dizem que são milícia local, não o inimigo.
+10324	Habla con su líder	Converse com o líder deles
+10325	Compartiste té y averiguaste dónde se escondía el enemigo.	Vocês tomaram chá juntos e você descobriu onde o inimigo se escondia.
+10326	Las negociaciones se rompieron y alguien disparó un tiro de advertencia.	As negociações fracassaram e alguém disparou um tiro de aviso.
+10327	Exige que se desarmen	Exija que se desarmem
+10328	Bajaron sus armas y dejaron pasar a tu patrulla.	Eles abaixaram as armas e deixaram sua patrulha passar.
+10329	Se negaron, y el enfrentamiento tenso duró horas.	Eles recusaram, e o impasse tenso durou horas.
+10330	Rodea la aldea	Contorne o vilarejo
+10331	Evitaste el enfrentamiento por completo.	Você evitou o confronto por completo.
+10332	El desvío te llevó directo a un marcador de campo minado. Retrocediste despacio.	O desvio te levou direto a uma placa de campo minado. Você voltou devagar.
+10333	Un helicóptero cayó a dos kilómetros. La tripulación está viva y los combatientes enemigos se acercan.	Um helicóptero caiu a dois quilômetros. A tripulação está viva e os combatentes inimigos estão se aproximando.
+10334	Lidera el equipo de rescate	Lidere a equipe de resgate
+10335	Llegaste primero al lugar del accidente y lo mantuviste hasta que aterrizó el helicóptero de extracción.	Você chegou primeiro ao local da queda e o segurou até o helicóptero de extração pousar.
+10336	El fuego enemigo obligó a tu equipo a refugiarse en un edificio a mitad de camino.	O fogo inimigo obrigou sua equipe a se abrigar num prédio no meio do caminho.
+10337	Establece una posición de bloqueo	Estabeleça uma posição de bloqueio
+10338	Tu escuadra mantuvo la carretera y evitó que el enemigo llegara al accidente.	Seu pelotão segurou a estrada e impediu que o inimigo chegasse ao acidente.
+10339	El enemigo encontró otra ruta. La pelea se volvió cerrada.	O inimigo achou outra rota. A luta ficou de perto.
+10340	Guía el dron desde arriba	Guie o drone lá do alto
+10341	Dirigiste el dron hacia los combatientes enemigos antes de que se acercaran.	Você guiou o drone até os combatentes inimigos antes que chegassem perto.
+10342	El dron perdió el enlace en el peor momento posible.	O drone perdeu o link no pior momento possível.
+10343	IED en la carretera principal	IED na estrada principal
+10344	Tu vehículo líder detecta un montículo de tierra sospechoso y un cable que entra en la maleza.	Seu veículo líder vê um monte de terra suspeito e um fio que entra no mato.
+10345	Sigue el cable	Siga o fio
+10346	Encontraste al que detonaba y se rindió sin pelear.	Você encontrou o homem do detonador e ele se rendeu sem lutar.
+10347	El cable llevaba a una trampa explosiva. Te congelaste justo a tiempo.	O fio levava a uma armadilha explosiva. Você congelou a tempo.
+10348	Llama a EOD y espera	Chame o EOD e espere
+10349	EOD lo hizo explotar en el lugar. La carretera estaba libre al mediodía.	O EOD explodiu no lugar. A estrada estava livre ao meio-dia.
+10350	La espera tomó seis horas bajo el sol y el convoy recibió fuego de francotirador.	A espera levou seis horas no sol e o comboio levou tiros de franco-atirador.
+10351	Desvíate por el campo	Desvie pelo campo
+10352	El desvío fue limpio. Llegaste al puesto a tiempo.	O desvio foi tranquilo. Você chegou ao posto na hora.
+10353	Un camión se atascó en el lodo y tuviste que desatascarlo bajo fuego.	Um caminhão atolou na lama e você teve que desatolar sob fogo.
+10354	La inteligencia dice que un objetivo de alto valor duerme esta noche en un complejo. Tu equipo está apilado en la puerta.	A inteligência diz que um alvo de alto valor dorme num complexo esta noite. Sua equipe está posicionada na porta.
+10355	Sé el primero en entrar	Seja o primeiro a entrar
+10356	Limpiaste la primera habitación en segundos. El objetivo fue capturado vivo.	Você limpou o primeiro cômodo em segundos. O alvo foi capturado vivo.
+10357	La puerta estaba bloqueada y perdiste el factor sorpresa.	A porta estava barricada e você perdeu o fator surpresa.
+10358	Cubre las ventanas	Cubra as janelas
+10359	Dos combatientes intentaron huir por atrás. Los detuviste.	Dois combatentes tentaram fugir pelos fundos. Você os deteve.
+10360	Alguien se escapó por una ventana lateral que no pudiste ver.	Alguém escapou por uma janela lateral que você não conseguiu ver.
+10361	Mantén el perímetro	Mantenha o perímetro
+10362	El perímetro se mantuvo tranquilo. La redada salió limpia.	O perímetro ficou quieto. A incursão saiu limpa.
+10363	Llegó un camión lleno de combatientes y tu perímetro quedó bajo fuego.	Chegou um caminhão cheio de combatentes e seu perímetro foi atingido em cheio.
+10364	Una unidad amiga cercana confunde tu patrulla con el enemigo y abre fuego.	Uma unidade amiga próxima confunde sua patrulha com o inimigo e abre fogo.
+10365	Dispara una bengala de reconocimiento	Dispare um sinalizador de reconhecimento
+10366	El fuego se detuvo al instante. Un teniente muy avergonzado se disculpó.	O fogo parou na hora. Um tenente bem constrangido pediu desculpas.
+10367	La bengala no funcionó. Tuviste que arrastrarte hasta cubrirte.	O sinalizador falhou. Você teve que rastejar até a cobertura.
+10368	Grita por la radio	Grite no rádio
+10369	Tu llamado llegó y los cañones se callaron.	Seu chamado chegou e os canhões se calaram.
+10370	Todos estaban en frecuencias distintas. Tardó muchísimo en parar.	Todos estavam em frequências diferentes. Levou tempo demais para parar.
+10371	Corre hacia ellos agitando los brazos	Corra até eles acenando
+10372	Reconocieron tu uniforme. Puede que hayas salvado varias vidas.	Reconheceram seu uniforme. Você pode ter salvado várias vidas.
+10373	Una bala pasó rozando tu oreja antes de que se dieran cuenta.	Uma bala passou raspando na sua orelha antes que percebessem.
+10374	Decenas de combatientes están derribando los muros de tu puesto remoto.	Dezenas de combatentes estão derrubando os muros do seu posto remoto.
+10375	Maneja la ametralladora pesada	Opere a metralhadora pesada
+10376	Mantuviste la brecha solo hasta que llegaron refuerzos.	Você segurou a brecha sozinho até chegarem reforços.
+10377	La ametralladora se trabó en el peor momento y retrocediste hasta el muro interior.	A metralhadora travou no pior momento e você recuou para o muro interno.
+10378	Pide artillería de peligro cercano	Peça artilharia de perigo próximo
+10379	Las granadas cayeron justo sobre el muro. El ataque se desmoronó.	As granadas caíram bem em cima do muro. O ataque desmoronou.
+10380	La artillería tardó demasiado. La pelea se volvió cuerpo a cuerpo.	A artilharia demorou demais. A luta virou corpo a corpo.
+10381	Retrocede hacia la torre	Recue para a torre
+10382	Te reagrupaste en el edificio más fuerte y resististe.	Você se reagrupou no prédio mais forte e aguentou.
+10383	El repliegue se volvió un caos y dos soldados se separaron.	O recuo virou caos e dois soldados se separaram.
+10384	Se acaba el agua	Acabando a água
+10385	El reabastecimiento llega con tres días de retraso. Tu pelotón tiene un día de agua con 115 grados Fahrenheit.	O reabastecimento está três dias atrasado. Seu pelotão tem um dia de água restante, com 115 graus Fahrenheit.
+10386	Asalta el pozo enemigo	Ataque o poço inimigo
+10387	Tomaste el pozo y llenaste todas las cantimploras.	Você tomou o poço e encheu todos os cantis.
+10388	El pozo estaba mejor custodiado de lo que pensabas.	O poço estava mais bem guardado do que você imaginava.
+10389	Racionalo con fuerza	Racione com rigor
+10390	Todos se mantuvieron hidratados hasta que llegó el helicóptero.	Todos se mantiveram hidratados até o helicóptero chegar.
+10391	Dos soldados se desmayaron por golpe de calor antes de que llegara el reabastecimiento.	Dois soldados desmaiaram por insolação antes que o reabastecimento chegasse.
+10392	Negocia con los locales	Negocie com os locais
+10393	Un campesino te dio agua a cambio de cigarrillos y raciones MRE.	Um fazendeiro te deu água em troca de cigarros e rações MRE.
+10394	El agua estaba contaminada. La mitad del pelotón se enfermó.	A água estava contaminada. Metade do pelotão ficou doente.
+10395	Rehenes en la escuela	Reféns na escola
+10396	Insurgentes tomaron una escuela llena de niños. El mando quiere un plan de asalto en una hora.	Insurgentes tomaram uma escola cheia de crianças. O comando quer um plano de assalto em uma hora.
+10397	Ofrécete para la entrada	Voluntarie-se para a invasão
+10398	Entraste por el techo. Todos los niños salieron con vida.	Você entrou pelo teto. Todas as crianças saíram vivas.
+10399	La entrada hizo mucho ruido temprano. El rescate tardó bastante más de lo previsto.	A entrada fez barulho cedo demais. O resgate demorou bem mais do que o previsto.
+10400	Dispara desde la torre de agua	Atire da torre de água
+10401	Derribaste al guardia de la puerta en el momento exacto.	Você derrubou o guarda da porta no momento exato.
+10402	El ángulo estaba mal. No pudiste tener un disparo limpio.	O ângulo estava errado. Você não conseguiu um tiro limpo.
+10403	Ayuda a negociar	Ajude a negociar
+10404	El negociador logró liberar a la mitad de los niños antes del asalto.	O negociador conseguiu liberar metade das crianças antes do assalto.
+10405	Los insurgentes dejaron de contestar el teléfono.	Os insurgentes pararam de atender o telefone.
+10406	La alarma química suena. Alguien grita ¡GAS, GAS, GAS! Tu máscara está en la mochila.	O alarme químico soa. Alguém grita GÁS, GÁS, GÁS! Sua máscara está na mochila.
+10407	Ponte la máscara en 9 segundos	Ponha a máscara em 9 segundos
+10408	Sellaste tu máscara en tiempo récord. Era falsa alarma.	Você vedou sua máscara em tempo recorde. Era alarme falso.
+10409	Tu máscara se empañó y entraste en pánico por unos segundos eternos.	Sua máscara embaçou e você entrou em pânico por uns segundos eternos.
+10410	Pon primero la máscara a un compañero	Coloque primeiro a máscara num companheiro
+10411	Pusiste la máscara a tu compañero antes que a ti. Nadie resultó herido.	Você pôs a máscara no seu parceiro antes da sua. Ninguém se feriu.
+10412	Aspiraste algo horrible antes de sellarte.	Você inalou algo horrível antes de vedar a máscara.
+10413	Aguanta la respiración y corre	Prenda a respiração e corra
+10414	Llegaste a contracorriente de la nube. Buena decisión.	Você chegou contra o vento da nuvem. Boa decisão.
+10415	Corriste directo hacia la nube.	Você correu direto para dentro da nuvem.
+10416	Incendio en el depósito de munición	Incêndio no depósito de munição
+10417	Un incendio estalla en el depósito de munición. Las granadas explotan como palomitas.	Um incêndio começa no depósito de munição. As munições estão estourando como pipoca.
+10418	Combate el fuego	Combata o incêndio
+10419	Controlaste el fuego antes de que el arsenal principal explotara.	Você controlou o fogo antes que o estoque principal explodisse.
+10420	Una caja explotó cerca y te tiró al suelo.	Uma caixa explodiu perto e te jogou no chão.
+10421	Evacúa la zona	Evacue a área
+10422	Sacaste a todos antes de la gran explosión.	Você tirou todo mundo antes da grande explosão.
+10423	La evacuación fue lenta y la explosión destrozó todas las ventanas de la base.	A evacuação foi lenta e a explosão estilhaçou todas as janelas da base.
+10424	Mueve el camión de combustible	Mova o caminhão de combustível
+10425	Sacaste el camión de combustible del fuego justo a tiempo.	Você tirou o caminhão de combustível do fogo bem a tempo.
+10426	El camión se apagó a mitad de camino. Corriste por tu vida.	O caminhão morreu no meio do caminho. Você correu pela sua vida.
+10427	Otra escuadra dejó de responder hace seis horas. Su última posición estaba cerca de una red de cuevas.	Outro pelotão parou de responder há seis horas. Sua última posição era perto de uma rede de cavernas.
+10428	Busca en las cuevas	Procure nas cavernas
+10429	Los encontraste atrapados por un derrumbe y los sacaste cavando.	Você os encontrou presos por um desabamento e os tirou cavando.
+10430	Las cuevas eran un laberinto. Apenas encontraste la salida.	As cavernas eram um labirinto. Você mal achou o caminho de volta.
+10431	Busca desde el aire	Busque do ar
+10432	El helicóptero vio su espejo de señales.	O helicóptero viu o espelho de sinalização deles.
+10433	Las nubes llegaron y la búsqueda se canceló por la noche.	As nuvens chegaram e a busca foi cancelada pela noite.
+10434	Interroga a un combatiente capturado	Interrogue um combatente capturado
+10435	Te dijo dónde estaban. Todos volvieron a casa.	Ele te disse onde eles estavam. Todos voltaram pra casa.
+10436	Mintió. Perdiste un día en el valle equivocado.	Ele mentiu. Você perdeu um dia no vale errado.
+10437	Un auto se acerca a toda velocidad al puesto de control e ignora todas las señales.	Um carro se aproxima a toda velocidade do posto de controle e ignora todos os sinais.
+10438	Dispara al motor	Atire no motor
+10439	El auto se detuvo a 50 metros. Estaba cargado de explosivos.	O carro parou a 50 metros. Estava carregado de explosivos.
+10440	Tus disparos fallaron el motor. Todos se tiraron al suelo.	Seus tiros erraram o motor. Todos se jogaram no chão.
+10441	Baja los pinchos de la barrera	Abaixe os espinhos da barreira
+10442	Los pinchos destrozaron sus llantas. El conductor saltó del auto.	Os espinhos destruíram os pneus. O motorista pulou do carro.
+10443	Los pinchos se trabaron a medio subir.	Os espinhos travaram no meio do caminho.
+10444	Aleja a los civiles	Afaste os civis
+10445	Empujaste a la multitud hacia atrás segundos antes de que el auto explotara.	Você empurrou a multidão para trás segundos antes de o carro explodir.
+10446	La explosión te lanzó contra una pared.	A explosão te jogou contra uma parede.
+10447	Tres detenidos sometieron a un guardia y corren hacia la cerca perimetral.	Três detidos dominaram um guarda e correm para a cerca do perímetro.
+10448	Derriba al líder	Derrube o líder
+10449	Lo derribaste antes de que llegara a la cerca.	Você o derrubou antes que chegasse à cerca.
+10450	Era más grande de lo que pensabas. Te dio un codazo en la cara.	Ele era maior do que você imaginava. Ele te deu uma cotovelada no rosto.
+10451	Dispara tiros de advertencia	Dê tiros de advertência
+10452	Se congelaron y levantaron las manos.	Eles congelaram e levantaram as mãos.
+10453	Siguieron corriendo. Uno escapó en la noche.	Eles continuaram correndo. Um escapou na noite.
+10454	Activa la alarma	Acione o alarme
+10455	La fuerza de reacción rápida los atrapó en minutos.	A força de reação rápida os recolheu em minutos.
+10456	La alarma estaba rota. Se desató el caos.	O alarme estava quebrado. O caos começou.
+10457	Una crecida repentina ruge por el lecho seco donde están estacionados tus vehículos.	Uma enchente repentina ruge pelo leito seco onde seus veículos estão estacionados.
+10458	Sácalos de ahí	Tire-os daí
+10459	Subiste cada camión por la orilla justo cuando llegó el agua.	Você levou cada caminhão para a margem justo quando a água chegou.
+10460	Un camión fue arrastrado río abajo con todo tu equipo.	Um caminhão foi arrastado rio abaixo com todo o seu equipamento.
+10461	Sube a terreno alto	Suba para o terreno alto
+10462	Todos llegaron a salvo a lo alto del acantilado.	Todos chegaram em segurança ao topo do penhasco.
+10463	La subida fue brutal y alguien se rompió un tobillo.	A subida foi brutal e alguém quebrou o tornozelo.
+10464	Salva el equipo de radio	Salve o equipamento de rádio
+10465	Agarraste las radios justo antes de que llegara el agua.	Você pegou os rádios bem antes de a água chegar.
+10466	La corriente te tumbó y perdiste tu fusil.	A correnteza te derrubou e você perdeu seu fuzil.
+10467	Solicitud de ataque con dron	Pedido de ataque com drone
+10468	Ves combatientes cargando armas en un camión, pero hay una casa llena de gente justo al lado.	Você vê combatentes carregando armas num caminhão, mas tem uma casa cheia de gente bem do lado.
+10469	Pide el ataque de todos modos	Peça o ataque mesmo assim
+10470	El ataque de precisión golpeó solo el camión. La casa se salvó.	O ataque de precisão atingiu só o caminhão. A casa foi poupada.
+10471	El ataque dañó la casa. Habrá una investigación.	O ataque danificou a casa. Haverá uma investigação.
+10472	Espera a que el camión se mueva	Espere o caminhão se mover
+10473	El camión salió a campo abierto y el ataque fue limpio.	O caminhão saiu para campo aberto e o ataque foi limpo.
+10474	El camión desapareció en la ciudad.	O caminhão sumiu na cidade.
+10475	Envía un equipo terrestre en su lugar	Envie uma equipe terrestre no lugar
+10476	Confiscaste las armas sin disparar contra la casa.	Você apreendeu as armas sem atirar contra a casa.
+10477	Los combatientes te vieron llegar y abrieron fuego.	Os combatentes te viram chegando e abriram fogo.
+10478	Un combatiente enemigo yace herido en el camino, suplicando ayuda. Sus amigos podrían estar mirando.	Um combatente inimigo jaz ferido na estrada, implorando por ajuda. Os amigos dele podem estar observando.
+10479	Atiéndelo	Trate dele
+10480	Le salvaste la vida. Después entregó a toda su célula.	Você salvou a vida dele. Depois ele entregou a célula inteira.
+10481	Sus amigos abrieron fuego mientras lo atendías.	Os amigos dele abriram fogo enquanto você o tratava.
+10482	Llama al médico	Chame o médico
+10483	El médico lo estabilizó y lo tomaron prisionero.	O médico o estabilizou e ele foi feito prisioneiro.
+10484	Tardó demasiado. No sobrevivió.	Demorou demais. Ele não sobreviveu.
+10485	Déjalo y sigue adelante	Deixe-o e siga em frente
+10486	Mantuviste la patrulla en movimiento. Nadie más salió herido.	Você manteve a patrulha em movimento. Ninguém mais se feriu.
+10487	Era una carnada. La emboscada llegó de todos modos.	Era uma isca. A emboscada veio mesmo assim.
+10488	Tu escuadra está en un techo cuando los combatientes disparan desde tres direcciones a la vez.	Seu pelotão está num telhado quando os combatentes começam a atirar de três direções ao mesmo tempo.
+10489	Lanza granadas por el borde	Jogue granadas pela borda
+10490	Las granadas silenciaron dos posiciones.	As granadas silenciaram duas posições.
+10491	Una granada rebotó. Todos se tiraron al suelo.	Uma granada ricocheteou. Todos se jogaram no chão.
+10492	Salta al siguiente techo	Pule para o próximo telhado
+10493	Saltaste el espacio y flanqueaste la tercera posición.	Você pulou o vão e flanqueou a terceira posição.
+10494	Te quedaste corto y colgaste del borde.	Você ficou curto e pendurou na borda.
+10495	Quédate abajo y pide apoyo aéreo	Fique abaixado e chame apoio aéreo
+10496	Los helicópteros llegaron y terminaron la pelea.	Os helicópteros chegaram e encerraram a luta.
+10497	El apoyo aéreo estaba ocupado en otro lado.	O apoio aéreo estava ocupado em outro lugar.
+10498	Media tropa se intoxicó con carne de cabra local la noche antes de una gran operación.	Metade do seu pelotão pegou intoxicação alimentar com carne de cabra local na noite antes de uma grande operação.
+10499	Sal de todos modos	Vá mesmo assim
+10500	Aguantaste y completaste la misión. Legendario.	Você aguentou firme e completou a missão. Lendário.
+10501	Vomitaste en tus propias botas durante la reunión informativa.	Você vomitou nas próprias botas durante o briefing.
+10502	Pide posponer	Peça para adiar
+10503	El mando aceptó. Todos se recuperaron por la mañana.	O comando aceitou. Todos se recuperaram até de manhã.
+10504	El mando dijo que no. Fue una noche miserable.	O comando disse não. Foi uma noite miserável.
+10505	Culpa al cocinero	Culpe o cozinheiro
+10506	El cocinero fue reasignado. La comida mejoró.	O cozinheiro foi realocado. A comida melhorou.
+10507	En realidad fue tu culpa. Tú compraste la cabra.	Na verdade foi culpa sua. Você comprou a cabra.
+10508	Una columna de tanques enemigos avanza hacia tu posición. Te quedan dos misiles antitanque.	Uma coluna de tanques inimigos avança para a sua posição. Você tem dois mísseis antitanque restantes.
+10509	Dispara contra el tanque de cabeza	Atire no tanque da frente
+10510	Destruiste el tanque de cabeza y la columna se detuvo.	Você destruiu o tanque da frente e a coluna parou.
+10511	El misil dio en un señuelo. La columna siguió avanzando.	O míssil acertou um chamariz. A coluna continuou avançando.
+10512	Pide los aviones	Chame os aviões
+10513	Llegaron los aviones y convirtieron la columna en chatarra.	Os aviões chegaram e transformaram a coluna em sucata.
+10514	Los aviones estaban a veinte minutos.	Os aviões estavam a vinte minutos de distância.
+10515	Vuela el puente	Explode a ponte
+10516	El puente colapsó y los tanques quedaron atrapados al otro lado.	A ponte desabou e os tanques ficaram presos do outro lado.
+10517	La carga solo agrietó el puente.	A carga só rachou a ponte.
+10518	En medio de una pausa en el tiroteo, un helicóptero deja el correo. Hay una carta de casa.	No meio de uma pausa no tiroteio, um helicóptero deixa o correio. Há uma carta de casa.
+10519	Léela ahora mismo	Leia agora mesmo
+10520	Eran buenas noticias de casa. Te dieron fuerzas para el resto de la gira.	Eram boas notícias de casa. Isso te deu forças para o resto da missão.
+10521	Malas noticias. Tuviste que seguir peleando con el corazón pesado.	Notícia ruim. Você teve que continuar lutando com o coração pesado.
+10522	La leíste esa noche. Momento perfecto.	Você leu naquela noite. Momento perfeito.
+10523	Se empapó con la lluvia antes de que pudieras leerla.	Ela ficou encharcada na chuva antes que você pudesse lê-la.
+10524	Léela para la escuadra	Leia para o pelotão
+10525	La receta de galletas de tu mamá hizo reír a todos.	A receita de biscoitos da sua mãe fez todo mundo rir.
+10526	Era una carta de ruptura. Todos la escucharon.	Era uma carta de término. Todo mundo ouviu.
+10527	Último día de gira	Último dia da missão
+10528	Es tu último día antes de volver a casa. Hay una patrulla final programada por lo peor de {country}.	É seu último dia antes de voltar para casa. Há uma patrulha final programada pelo pior trecho de {country}.
+10529	Lidera la patrulla	Lidere a patrulha
+10530	Lideraste una última patrulla y trajiste a cada soldado a casa.	Você liderou uma última patrulha e trouxe todos os soldados para casa.
+10531	Se convirtió en un tiroteo el último día. Claro que sí.	Virou um tiroteio no seu último dia. Claro, né.
+10532	Ofrécete para la base	Voluntarie-se para ficar na base
+10533	Pasaste el día empacando. Nadie te culpó.	Você passou o dia arrumando as coisas. Ninguém te culpou.
+10534	La base fue atacada con cohetes de todos modos.	A base foi atingida por foguetes mesmo assim.
+10535	Manda a los nuevos	Mande os novatos
+10536	Los nuevos se las arreglaron bien.	Os novatos se saíram bem.
+10537	Se perdieron. Tuviste que ir a buscarlos.	Eles se perderam. Você teve que ir buscá-los.
+10538	Muy bajo	Muito baixo
+10539	Ya cumpliste una gira de combate este año.	Você já cumpriu uma missão de combate este ano.
+10540	Sin guerras activas	Sem guerras ativas
+10541	{1} no está en guerra ni envía tropas a ningún lugar de {2}.	{1} não está em guerra nem enviando tropas para nenhum lugar de {2}.
+10542	Vuelve a revisar en otro año. Las cosas pueden cambiar rápido.	Volte a conferir no ano que vem. As coisas podem mudar rápido.
+10543	Conflictos activos · {1}	Conflitos ativos · {1}
+10544	Estos son los conflictos en los que {1} participa ahora mismo. ¿En cuál te ofrecerás como voluntario?	Estes são os conflitos em que {1} está envolvido agora. Em qual você vai se voluntariar?
+10545	Este conflicto empezó este año.	Este conflito começou este ano.
+10546	Esto lleva {1} año{2} en marcha.	Isso já está rolando há {1} ano{2}.
+10547	Tu rol	Seu papel
+10548	en curso	em andamento
+10549	Despliégate como pacificador	Seja enviado como pacificador
+10550	Ofrécete para pelear	Voluntarie-se para lutar
+10551	genérico	genérico
+10552	Me ofrecí para una gira de combate en {1} por {2}.	Me voluntariei para uma missão de combate em {1} por {2}.
+10553	Tu acción cambió la pelea.	Sua ação virou o combate.
+10554	El enemigo se retiró.	O inimigo recuou.
+10555	Completaste el objetivo.	Você completou o objetivo.
+10556	El enemigo mantuvo su posición.	O inimigo manteve sua posição.
+10557	Tu unidad tuvo que retirarse.	Sua unidade teve que recuar.
+10558	La misión fracasó.	A missão fracassou.
+10560	Morí en combate en {1}.	Morri em combate em {1}.
+10561	morir en combate en {1}	morrer em combate em {1}
+10562	Fui herido en combate en {1}.	Fui ferido em combate em {1}.
+10563	Resultaste herido en los combates.	Você foi ferido nos combates.
+10566	heridas recibidas en combate	ferimentos recebidos em combate
+10567	valor en combate	valor em combate
+10568	Volví de {1}{2}.	Voltei de {1}{2}.
+10569	Por heridas recibidas en combate en {1}	Por ferimentos recebidos em combate em {1}
+10570	valor destacado más allá del deber	bravura destacada além do dever
+10571	Por {1} durante {2}	Por {1} durante {2}
+10572	{1}, te han concedido la {2}.	{1}, você recebeu a {2}.
+10573	Tu gira en {1} por {2} terminó. ¡Bienvenido a casa!	Sua missão em {1} por {2} acabou. Bem-vindo de volta!
+10574	superior	sênior
+10575	oficial	oficial
+10576	subalterno	subalterno
+10578	Medalla de Logro de la Fuerza Aérea	Medalha de Conquista da Força Aérea
+10580	tu oficial al mando	seu oficial comandante
+10581	Te concedieron el Corazón Púrpura.	Você recebeu o Coração Púrpura.
+10582	Te concedieron la {1}.	Você recebeu a {1}.
+10583	Recibiste un Artículo 15 y perdiste medio mes de sueldo.	Você recebeu uma punição do Artigo 15 e perdeu meio mês de salário.
+10584	honorable	honrosa
+10585	Me sacaron del {1}.	Fui removido do {1}.
+10586	Ya no formas parte del {1}. Te enviaron de vuelta al {2} regular.	Você não faz mais parte do {1}. Foi mandado de volta para o {2} regular.
+10587	deshonrosa	desonrosa
+10588	Recibiste una baja {1} {2} del {3}.	Você recebeu uma baixa {1} {2} do {3}.
+10589	Me degradaron a {1}.	Fui rebaixado a {1}.
+10590	Te bajaron de rango a {1}.	Você foi rebaixado a {1}.
+10591	Saliste bien.	Você se saiu bem.
+10592	Salió mal.	Deu ruim.
+10593	Serviste a tu país en el {1} y te fuiste con honor en {2}. Gracias por tu servicio.	Você serviu seu país no {1} e saiu com honra em {2}. Obrigado pelo seu serviço.
+10594	Úsala con orgullo	Use com orgulho
+10595	Obtuviste la mayor condecoración militar de la nación en {1}{2}. Es un delito federal vender o comprar una Medalla de Honor.	Você recebeu a maior condecoração militar da nação em {1}{2}. É crime federal vender ou comprar uma Medalha de Honra.
+10596	{1} (venta ilegal)	{1} (venda ilegal)
+10597	Véndela en el mercado negro	Venda no mercado negro
+10598	Intenté vender mi Medalla de Honor en el mercado negro.	Tentei vender minha Medalha de Honra no mercado negro.
+10599	vender una Medalla de Honor	vender uma Medalha de Honra
+10600	Vendí mi Medalla de Honor a un coleccionista sospechoso por {1}.	Vendi minha Medalha de Honra para um colecionador suspeito por {1}.
