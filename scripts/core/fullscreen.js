@@ -1,13 +1,12 @@
-// Full screen: the top-bar button turns it on and off. The game also goes full screen on the first
-// tap or key press (browsers don't allow it without one). That happens only once per page load,
-// so leaving full screen is respected.
+// Full screen: the top-bar button turns it on and off. Nothing goes full screen on its own.
 (() => {
   const root = document.documentElement;
   const request = root.requestFullscreen || root.webkitRequestFullscreen;
   const exit = document.exitFullscreen || document.webkitExitFullscreen;
   const button = document.getElementById("fsBtn");
+  if (!button) return;
   if (!request) {
-    if (button) button.hidden = true;
+    button.hidden = true;
     return;
   }
   const active = () => !!(document.fullscreenElement || document.webkitFullscreenElement);
@@ -17,20 +16,8 @@
       if (p) p.catch(() => {});
     } catch {}
   };
-  const enter = () => quietly(() => request.call(root, { navigationUI: "hide" }));
-
-  const events = ["click", "keydown"];
-  const first = (e) => {
-    if (e.key === "Escape") return;
-    events.forEach((t) => document.removeEventListener(t, first, true));
-    if (button && button.contains(e.target)) return; // the button handles its own tap
-    if (!active()) enter();
-  };
-  events.forEach((t) => document.addEventListener(t, first, true));
-
-  if (!button) return;
   button.addEventListener("click", () => {
-    if (!active()) enter();
+    if (!active()) quietly(() => request.call(root, { navigationUI: "hide" }));
     else if (exit) quietly(() => exit.call(document));
   });
   const label = () => {

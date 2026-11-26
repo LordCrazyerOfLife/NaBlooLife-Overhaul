@@ -670,6 +670,8 @@
     E =
       '<svg viewBox="0 0 32 32" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3" width="14" height="26" rx="3"/><path d="M14 25.5h4"/></svg>';
   function F(e) {
+    // [mod] the "How are you playing?" PC / Mobile picker is disabled: keep the current mode, no reload
+    return Promise.resolve(!1);
     return new Promise((t) => {
       const a = !!(window.SETTINGS_UI
           ? SETTINGS_UI.settings.pcMode
