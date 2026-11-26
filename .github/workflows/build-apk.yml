@@ -1,7 +1,7 @@
 name: Build APK
 
 # Packs the game into an Android APK with Capacitor.
-# Download it from the run's "Artifacts" section. It is a debug build, signed with a temporary key.
+# Download it from the run's "Artifacts" section. It is signed with the permanent key held in repository secrets.
 on:
   push:
     branches: [main]
@@ -57,16 +57,35 @@ jobs:
           echo "org.gradle.jvmargs=-Xmx4g -Dfile.encoding=UTF-8" >> android/gradle.properties
           sed -i "s/versionCode 1/versionCode ${{ github.run_number }}/; s/versionName \"1.0\"/versionName \"1.0.${{ github.run_number }}\"/" android/app/build.gradle
 
-      - name: Build the APK
+      - name: Build the release APK (unsigned)
         working-directory: mobile/android
         run: |
           chmod +x gradlew
-          ./gradlew assembleDebug --no-daemon --stacktrace
+          ./gradlew assembleRelease --no-daemon --stacktrace
 
-      - name: Name the APK
+      # the permanent key comes from repository secrets and is only given to this step
+      - name: Sign the APK with the permanent key
+        env:
+          KS_B64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          KS_PASS: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          # public fingerprint of the key (safe to share): stops a build signed with any other key
+          CERT_SHA256: "89e28c767e545d8e6b91f310255c557bf789f8fa6fc785f1774b327acad8479a"
         run: |
+          if [ -z "$KS_B64" ] || [ -z "$KS_PASS" ]; then
+            echo "::error::Add the ANDROID_KEYSTORE_BASE64 and ANDROID_KEYSTORE_PASSWORD secrets (Settings, Secrets and variables, Actions)"
+            exit 1
+          fi
+          KS="$RUNNER_TEMP/release.keystore"
+          trap 'rm -f "$KS"' EXIT
+          echo "$KS_B64" | base64 -d > "$KS"
+          BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
           mkdir -p dist
-          cp mobile/android/app/build/outputs/apk/debug/app-debug.apk dist/NaBlooLife.apk
+          "$BT/zipalign" -f -p 4 mobile/android/app/build/outputs/apk/release/app-release-unsigned.apk "$RUNNER_TEMP/aligned.apk"
+          "$BT/apksigner" sign --ks "$KS" --ks-key-alias nabloolife --ks-pass env:KS_PASS --key-pass env:KS_PASS \
+            --out dist/NaBlooLife.apk "$RUNNER_TEMP/aligned.apk"
+          rm -f dist/*.idsig
+          "$BT/apksigner" verify --print-certs dist/NaBlooLife.apk | tee "$RUNNER_TEMP/certs.txt"
+          grep -qi "SHA-256 digest: $CERT_SHA256" "$RUNNER_TEMP/certs.txt" || { echo "::error::The APK was signed with a different key"; exit 1; }
           ls -lh dist
 
       - uses: actions/upload-artifact@v5
