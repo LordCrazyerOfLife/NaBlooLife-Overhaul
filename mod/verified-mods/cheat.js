@@ -87,7 +87,11 @@
         transition: background .12s ease;
       }
       #cheatPanel .cp-btn:hover, #cheatPanel .cp-btn:active { background: #3a4257; }
-      #cheatPanel .cp-btn.wide { grid-column: 1 / -1; text-align: left; }
+      #cheatPanel .cp-btn.wide {
+        grid-column: 1 / -1; text-align: left;
+        margin-bottom: 8px;
+      }
+      #cheatPanel .cp-btn.wide:last-child { margin-bottom: 0; }
       #cheatPanel .cp-note {
         font-size: 11px; color: #8b919c; margin: 2px 0 10px; line-height: 1.4;
       }
